@@ -6,7 +6,7 @@
 
 ```js
 {
-  "npm-stats": "maddhruv"
+  "npm-stats": "willin"
 }
 ```
 
