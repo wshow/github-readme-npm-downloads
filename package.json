@@ -1,0 +1,27 @@
+{
+  "name": "github-readme-npm-downloads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node collect.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wshow/github-readme-npm-downloads.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wshow/github-readme-npm-downloads/issues"
+  },
+  "homepage": "https://github.com/wshow/github-readme-npm-downloads#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "markdown-magic": "^1.0.0",
+    "markdown-table": "^2.0.0",
+    "npmtotal": "^1.4.0"
+  },
+  "npm-stats": "willin"
+}
