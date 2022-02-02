@@ -19,7 +19,7 @@ if (!key) {
   const stats = await npmtotal(key, {
     startDate: "2015-01-01"
   });
-
+  await fs.writeFileSync('./npm.json',JSON.stringify(stats.stats,null,2));
   const sortedStats = stats.stats.map(pkg => {
     const [name, count] = pkg;
     return [`[${name}](https://www.npmjs.com/package/${name})`, count];
