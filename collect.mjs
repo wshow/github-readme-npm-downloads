@@ -25,7 +25,7 @@ if (!key) {
     return [`[${name}](https://www.npmjs.com/package/${name})`, count];
   });
 
-  badgeStats.message = `${stats.sum} Downloads`;
+  badgeStats.message = `${stats.sum}`;
 
   await fs.writeFileSync("./stats.json", JSON.stringify(badgeStats, null, 2));
 
