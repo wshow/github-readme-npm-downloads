@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      209486
+      209899
     ],
     [
       "gitbook-plugin-atoc",
-      145594
+      145599
     ],
     [
       "gitbook-plugin-donate",
-      54972
+      54995
     ],
     [
       "waliyun",
-      18845
+      18857
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "leader.js.cool",
-      6483
+      6494
     ],
     [
       "yunpian-sdk",
@@ -34,19 +34,19 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5689
+      5692
     ],
     [
       "wqcloud",
-      4808
+      4815
     ],
     [
       "@white-matrix/blindbox-sdk",
-      4467
+      4472
     ],
     [
       "@white-matrix/eslint-config",
-      4340
+      4362
     ],
     [
       "v0",
@@ -54,11 +54,11 @@
     ],
     [
       "@white-matrix/prettier-config",
-      3657
+      3679
     ],
     [
       "appkey",
-      3623
+      3624
     ],
     [
       "koa-api-logger",
@@ -78,7 +78,7 @@
     ],
     [
       "wtoys",
-      2890
+      2901
     ],
     [
       "mock-redis",
@@ -90,7 +90,7 @@
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      2660
+      2670
     ],
     [
       "@white-matrix/eslint-config-ts",
@@ -98,7 +98,7 @@
     ],
     [
       "eslint-config-willin",
-      2178
+      2179
     ],
     [
       "vchart",
@@ -106,19 +106,19 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2159
+      2160
     ],
     [
       "auto-deployer",
       1946
     ],
     [
-      "hapi-auth-redis",
-      1905
+      "@white-matrix/chainide-proxy-implements",
+      1909
     ],
     [
-      "@white-matrix/chainide-proxy-implements",
-      1901
+      "hapi-auth-redis",
+      1905
     ],
     [
       "wqcloud-video",
@@ -126,19 +126,19 @@
     ],
     [
       "@white-matrix/extensions",
-      1808
+      1826
     ],
     [
       "@white-matrix/react-split",
-      1785
+      1793
+    ],
+    [
+      "@white-matrix/event-emitter",
+      1787
     ],
     [
       "wrescuetime",
       1785
-    ],
-    [
-      "@white-matrix/event-emitter",
-      1779
     ],
     [
       "hello-dolly",
@@ -146,7 +146,7 @@
     ],
     [
       "atl",
-      1758
+      1770
     ],
     [
       "gitbook-plugin-theme-material",
@@ -166,7 +166,7 @@
     ],
     [
       "@white-matrix/event-util",
-      1580
+      1588
     ],
     [
       "@white-matrix/nft-vspark-sdk",
@@ -174,7 +174,7 @@
     ],
     [
       "@white-matrix/binance-wallet-service",
-      1393
+      1395
     ],
     [
       "wno",
@@ -206,7 +206,7 @@
     ],
     [
       "v0-scf",
-      1139
+      1146
     ],
     [
       "@x12/di",
@@ -334,7 +334,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      550
+      559
     ],
     [
       "@white-matrix/nft-phantaci-sdk",
@@ -346,11 +346,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      508
+      511
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      447
+      450
     ],
     [
       "rxdis",
@@ -362,11 +362,19 @@
     ],
     [
       "sdk0",
-      429
+      435
     ],
     [
       "@willin/eslint-config",
+      423
+    ],
+    [
+      "wechaty-authing",
       421
+    ],
+    [
+      "@white-matrix/web3-solidity-wallet",
+      418
     ],
     [
       "@white-matrix/chainide",
@@ -385,16 +393,8 @@
       410
     ],
     [
-      "@white-matrix/web3-solidity-wallet",
-      410
-    ],
-    [
       "@white-matrix/ethers-execution-manager",
       404
-    ],
-    [
-      "wechaty-authing",
-      386
     ],
     [
       "willin",
@@ -422,23 +422,23 @@
     ],
     [
       "@white-matrix/amethyst-sdk",
-      224
+      225
     ],
     [
       "@x12/mongodb",
-      221
+      222
+    ],
+    [
+      "@white-matrix/amethyst-protocol-v2-sdk",
+      216
     ],
     [
       "whiteq",
-      210
+      211
     ],
     [
       "@x12/promise",
       207
-    ],
-    [
-      "@white-matrix/amethyst-protocol-v2-sdk",
-      204
     ],
     [
       "@white-matrix/extension-sample",
@@ -466,7 +466,7 @@
     ],
     [
       "@white-matrix/bsn-wallet-service",
-      154
+      156
     ],
     [
       "random-target",
@@ -493,11 +493,11 @@
       98
     ],
     [
-      "@white-matrix/chainide-cli",
-      88
+      "@authing/nextjs",
+      89
     ],
     [
-      "@authing/nextjs",
+      "@white-matrix/chainide-cli",
       88
     ],
     [
@@ -505,5 +505,5 @@
       66
     ]
   ],
-  "sum": 595716
+  "sum": 596418
 }
