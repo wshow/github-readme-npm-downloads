@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      212180
+      212492
     ],
     [
       "gitbook-plugin-atoc",
-      145616
+      145618
     ],
     [
       "gitbook-plugin-donate",
-      55128
+      55239
     ],
     [
       "waliyun",
-      18941
+      18972
     ],
     [
       "@uua/icons",
@@ -46,15 +46,15 @@
     ],
     [
       "@white-matrix/eslint-config",
-      4511
+      4520
     ],
     [
       "v0",
-      4047
+      4048
     ],
     [
       "@white-matrix/prettier-config",
-      3820
+      3827
     ],
     [
       "appkey",
@@ -78,11 +78,11 @@
     ],
     [
       "wtoys",
-      2905
+      2906
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      2867
+      2890
     ],
     [
       "mock-redis",
@@ -98,19 +98,19 @@
     ],
     [
       "eslint-config-willin",
-      2207
+      2211
+    ],
+    [
+      "gitbook-plugin-autotheme",
+      2180
     ],
     [
       "vchart",
       2175
     ],
     [
-      "gitbook-plugin-autotheme",
-      2173
-    ],
-    [
       "@white-matrix/chainide-proxy-implements",
-      1967
+      1969
     ],
     [
       "auto-deployer",
@@ -118,7 +118,7 @@
     ],
     [
       "@white-matrix/extensions",
-      1917
+      1920
     ],
     [
       "hapi-auth-redis",
@@ -130,11 +130,11 @@
     ],
     [
       "@white-matrix/react-split",
-      1848
+      1850
     ],
     [
       "@white-matrix/event-emitter",
-      1838
+      1840
     ],
     [
       "wrescuetime",
@@ -154,11 +154,11 @@
     ],
     [
       "nuxtpress",
-      1668
+      1698
     ],
     [
       "@white-matrix/event-util",
-      1638
+      1640
     ],
     [
       "hyperapp.js.cool",
@@ -174,11 +174,11 @@
     ],
     [
       "@white-matrix/binance-wallet-service",
-      1491
+      1495
     ],
     [
       "@white-matrix/matrix-world-voucher-sdk",
-      1418
+      1420
     ],
     [
       "wno",
@@ -190,7 +190,7 @@
     ],
     [
       "@white-matrix/nervos-wallet-service",
-      1313
+      1315
     ],
     [
       "@white-matrix/hyperledger-trustid",
@@ -198,7 +198,7 @@
     ],
     [
       "@white-matrix/matrix-airdrop-sdk",
-      1223
+      1225
     ],
     [
       "@x12/hosts",
@@ -246,7 +246,7 @@
     ],
     [
       "hyperapp-i18n",
-      933
+      938
     ],
     [
       "lslint",
@@ -273,16 +273,16 @@
       796
     ],
     [
+      "@white-matrix/matrix-world-voucher-flow-js-sdk",
+      785
+    ],
+    [
       "awth",
       772
     ],
     [
       "markdown-toc-gitbook",
       770
-    ],
-    [
-      "@white-matrix/matrix-world-voucher-flow-js-sdk",
-      761
     ],
     [
       "@x12/env",
@@ -322,7 +322,7 @@
     ],
     [
       "remix-i18n",
-      627
+      635
     ],
     [
       "z-curve",
@@ -338,7 +338,7 @@
     ],
     [
       "@white-matrix/web3-solidity-wallet",
-      585
+      591
     ],
     [
       "@white-matrix/nft-phantaci-sdk",
@@ -349,24 +349,24 @@
       562
     ],
     [
+      "wechaty-authing",
+      546
+    ],
+    [
       "leancloud-sdk",
       542
     ],
     [
-      "wechaty-authing",
-      540
-    ],
-    [
       "@authing/remix",
-      513
+      516
     ],
     [
       "@dwing/koa-joi-router",
-      511
+      513
     ],
     [
       "@willin/eslint-config",
-      459
+      461
     ],
     [
       "rxdis",
@@ -374,7 +374,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      450
+      452
     ],
     [
       "sdk0",
@@ -401,12 +401,12 @@
       410
     ],
     [
-      "willin",
-      382
+      "@white-matrix/amethyst-protocol-v2-sdk",
+      392
     ],
     [
-      "@white-matrix/amethyst-protocol-v2-sdk",
-      372
+      "willin",
+      382
     ],
     [
       "@xibang/redis",
@@ -450,7 +450,7 @@
     ],
     [
       "npm-badges",
-      188
+      189
     ],
     [
       "ggql",
@@ -482,11 +482,11 @@
     ],
     [
       "afdian",
-      149
+      150
     ],
     [
       "@authing/nextjs",
-      136
+      139
     ],
     [
       "@white-matrix/simple-plugin",
@@ -510,8 +510,8 @@
     ],
     [
       "@white-matrix/request-client-generator",
-      29
+      30
     ]
   ],
-  "sum": 602371
+  "sum": 603014
 }
