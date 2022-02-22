@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      213227
+      213444
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      55321
+      55322
     ],
     [
       "waliyun",
-      19030
+      19094
     ],
     [
       "@uua/icons",
-      6625
+      6632
     ],
     [
       "leader.js.cool",
@@ -42,7 +42,7 @@
     ],
     [
       "@white-matrix/eslint-config",
-      4573
+      4581
     ],
     [
       "@white-matrix/blindbox-sdk",
@@ -54,7 +54,7 @@
     ],
     [
       "@white-matrix/prettier-config",
-      3876
+      3884
     ],
     [
       "appkey",
@@ -66,7 +66,7 @@
     ],
     [
       "coding-sdk",
-      3460
+      3470
     ],
     [
       "@white-matrix/nft-blind-box-model",
@@ -78,7 +78,7 @@
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      2971
+      2982
     ],
     [
       "wtoys",
@@ -98,7 +98,7 @@
     ],
     [
       "eslint-config-willin",
-      2224
+      2225
     ],
     [
       "gitbook-plugin-autotheme",
@@ -106,7 +106,7 @@
     ],
     [
       "vchart",
-      2177
+      2178
     ],
     [
       "@white-matrix/chainide-proxy-implements",
@@ -126,7 +126,7 @@
     ],
     [
       "wqcloud-video",
-      1903
+      1904
     ],
     [
       "@white-matrix/react-split",
@@ -150,7 +150,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1701
+      1702
     ],
     [
       "nuxtpress",
@@ -162,15 +162,15 @@
     ],
     [
       "hyperapp.js.cool",
-      1632
+      1633
     ],
     [
       "coding-net",
-      1600
+      1603
     ],
     [
       "@white-matrix/binance-wallet-service",
-      1538
+      1541
     ],
     [
       "@white-matrix/nft-vspark-sdk",
@@ -182,7 +182,7 @@
     ],
     [
       "@white-matrix/nervos-wallet-service",
-      1394
+      1397
     ],
     [
       "wno",
@@ -210,7 +210,7 @@
     ],
     [
       "v0-scf",
-      1157
+      1158
     ],
     [
       "@x12/di",
@@ -230,7 +230,7 @@
     ],
     [
       "less.js.cool",
-      982
+      983
     ],
     [
       "mmonit",
@@ -258,7 +258,7 @@
     ],
     [
       "@xibang/node-common",
-      902
+      903
     ],
     [
       "@white-matrix/husky-config",
@@ -286,7 +286,7 @@
     ],
     [
       "@x12/env",
-      726
+      727
     ],
     [
       "coding-deploy",
@@ -318,7 +318,7 @@
     ],
     [
       "remix-i18n",
-      648
+      649
     ],
     [
       "@white-matrix/nft-snapshot",
@@ -358,35 +358,35 @@
     ],
     [
       "@authing/remix",
-      517
+      518
     ],
     [
       "@dwing/koa-joi-router",
-      513
+      514
     ],
     [
       "@willin/eslint-config",
-      474
+      475
     ],
     [
       "rxdis",
-      454
+      455
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      452
+      453
     ],
     [
       "sdk0",
-      440
+      441
+    ],
+    [
+      "@uua/ip2c",
+      437
     ],
     [
       "@white-matrix/ethers-execution-manager",
       435
-    ],
-    [
-      "@uua/ip2c",
-      425
     ],
     [
       "@white-matrix/chainide",
@@ -402,7 +402,7 @@
     ],
     [
       "@white-matrix/amethyst-protocol-v2-sdk",
-      404
+      405
     ],
     [
       "willin",
@@ -478,7 +478,7 @@
     ],
     [
       "@x12/rx-pool",
-      151
+      152
     ],
     [
       "afdian",
@@ -486,7 +486,7 @@
     ],
     [
       "@authing/nextjs",
-      140
+      141
     ],
     [
       "@white-matrix/simple-plugin",
@@ -511,7 +511,11 @@
     [
       "@white-matrix/request-client-generator",
       33
+    ],
+    [
+      "@white-matrix/one-sync-sdk",
+      0
     ]
   ],
-  "sum": 604580
+  "sum": 604946
 }
