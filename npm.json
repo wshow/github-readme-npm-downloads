@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      216594
+      216797
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      55504
+      55506
     ],
     [
       "waliyun",
-      19264
+      19279
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      6434
+      6435
     ],
     [
       "koa-swagger-ui",
@@ -70,7 +70,7 @@
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      3458
+      3469
     ],
     [
       "@white-matrix/nft-blind-box-model",
@@ -106,7 +106,7 @@
     ],
     [
       "vchart",
-      2187
+      2188
     ],
     [
       "@white-matrix/chainide-proxy-implements",
@@ -142,7 +142,7 @@
     ],
     [
       "@white-matrix/binance-wallet-service",
-      1807
+      1808
     ],
     [
       "hello-dolly",
@@ -158,7 +158,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1705
+      1707
     ],
     [
       "nuxtpress",
@@ -178,7 +178,7 @@
     ],
     [
       "@white-matrix/nft-vspark-sdk",
-      1552
+      1553
     ],
     [
       "@white-matrix/matrix-world-voucher-sdk",
@@ -189,12 +189,12 @@
       1401
     ],
     [
-      "@white-matrix/chainide-tools",
+      "@white-matrix/web3-solidity-wallet",
       1355
     ],
     [
-      "@white-matrix/web3-solidity-wallet",
-      1354
+      "@white-matrix/chainide-tools",
+      1355
     ],
     [
       "@white-matrix/matrix-airdrop-sdk",
@@ -354,7 +354,7 @@
     ],
     [
       "@authing/remix",
-      552
+      563
     ],
     [
       "leancloud-sdk",
@@ -362,7 +362,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      517
+      518
     ],
     [
       "@willin/eslint-config",
@@ -417,12 +417,12 @@
       338
     ],
     [
-      "@white-matrix/cellevolution-sdk",
-      326
+      "@white-matrix/one-sync-sdk",
+      327
     ],
     [
-      "@white-matrix/one-sync-sdk",
-      323
+      "@white-matrix/cellevolution-sdk",
+      326
     ],
     [
       "@x12/common",
@@ -494,7 +494,7 @@
     ],
     [
       "@authing/nextjs",
-      150
+      153
     ],
     [
       "@white-matrix/simple-plugin",
@@ -518,12 +518,12 @@
     ],
     [
       "passport-authing",
-      44
+      47
     ],
     [
       "@white-matrix/request-client-generator",
       35
     ]
   ],
-  "sum": 613134
+  "sum": 613394
 }
