@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      217367
+      217625
     ],
     [
       "gitbook-plugin-atoc",
-      145680
+      145685
     ],
     [
       "gitbook-plugin-donate",
-      55535
+      55563
     ],
     [
       "waliyun",
-      19309
+      19313
     ],
     [
       "@uua/icons",
-      6672
+      6675
     ],
     [
       "leader.js.cool",
@@ -37,12 +37,12 @@
       5703
     ],
     [
-      "wqcloud",
-      4899
+      "@white-matrix/eslint-config",
+      4913
     ],
     [
-      "@white-matrix/eslint-config",
-      4893
+      "wqcloud",
+      4900
     ],
     [
       "@white-matrix/blindbox-sdk",
@@ -50,15 +50,15 @@
     ],
     [
       "@white-matrix/prettier-config",
-      4185
+      4206
     ],
     [
       "v0",
-      4090
+      4091
     ],
     [
       "appkey",
-      3640
+      3651
     ],
     [
       "koa-api-logger",
@@ -66,11 +66,11 @@
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      3517
+      3540
     ],
     [
       "coding-sdk",
-      3472
+      3490
     ],
     [
       "@white-matrix/nft-blind-box-model",
@@ -90,15 +90,15 @@
     ],
     [
       "tuling",
-      2814
+      2815
     ],
     [
       "@white-matrix/eslint-config-ts",
-      2600
+      2603
     ],
     [
       "eslint-config-willin",
-      2250
+      2268
     ],
     [
       "gitbook-plugin-autotheme",
@@ -106,23 +106,23 @@
     ],
     [
       "vchart",
-      2188
+      2190
     ],
     [
       "@white-matrix/chainide-proxy-implements",
-      2105
+      2118
     ],
     [
       "@white-matrix/extensions",
-      2031
+      2053
     ],
     [
       "@white-matrix/react-split",
-      1985
+      1998
     ],
     [
       "@white-matrix/event-emitter",
-      1973
+      1987
     ],
     [
       "auto-deployer",
@@ -138,11 +138,15 @@
     ],
     [
       "@white-matrix/binance-wallet-service",
-      1822
+      1824
     ],
     [
       "wrescuetime",
-      1818
+      1819
+    ],
+    [
+      "@white-matrix/event-util",
+      1785
     ],
     [
       "hello-dolly",
@@ -153,10 +157,6 @@
       1780
     ],
     [
-      "@white-matrix/event-util",
-      1772
-    ],
-    [
       "gitbook-plugin-theme-material",
       1708
     ],
@@ -165,11 +165,11 @@
       1700
     ],
     [
-      "hyperapp.js.cool",
-      1661
+      "@white-matrix/nervos-wallet-service",
+      1663
     ],
     [
-      "@white-matrix/nervos-wallet-service",
+      "hyperapp.js.cool",
       1661
     ],
     [
@@ -190,7 +190,7 @@
     ],
     [
       "@white-matrix/web3-solidity-wallet",
-      1389
+      1402
     ],
     [
       "@white-matrix/chainide-tools",
@@ -202,7 +202,7 @@
     ],
     [
       "@white-matrix/basic-wallet",
-      1258
+      1259
     ],
     [
       "@white-matrix/hyperledger-trustid",
@@ -214,7 +214,7 @@
     ],
     [
       "v0-scf",
-      1164
+      1166
     ],
     [
       "@x12/di",
@@ -229,16 +229,16 @@
       1092
     ],
     [
+      "@x12/tasker",
+      1009
+    ],
+    [
       "@white-matrix/nft-mirror-sdk",
       1008
     ],
     [
-      "@x12/tasker",
-      995
-    ],
-    [
       "less.js.cool",
-      984
+      986
     ],
     [
       "@white-matrix/chainide-plugin-cli",
@@ -302,7 +302,7 @@
     ],
     [
       "@shiwangme/redis",
-      715
+      720
     ],
     [
       "@white-matrix/nft-snapshot",
@@ -326,7 +326,7 @@
     ],
     [
       "remix-i18n",
-      663
+      664
     ],
     [
       "z-curve",
@@ -338,11 +338,11 @@
     ],
     [
       "uua",
-      599
+      600
     ],
     [
       "@white-matrix/nft-phantaci-sdk",
-      595
+      596
     ],
     [
       "wechaty-authing",
@@ -362,19 +362,19 @@
     ],
     [
       "@dwing/koa-joi-router",
-      520
+      521
+    ],
+    [
+      "@white-matrix/ethers-execution-manager",
+      489
     ],
     [
       "@willin/eslint-config",
       489
     ],
     [
-      "@white-matrix/ethers-execution-manager",
-      487
-    ],
-    [
       "rxdis",
-      465
+      466
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -410,15 +410,15 @@
     ],
     [
       "@xibang/redis",
-      371
+      372
     ],
     [
       "@white-matrix/one-sync-sdk",
-      344
+      347
     ],
     [
       "@xibang/mysql",
-      338
+      339
     ],
     [
       "@white-matrix/cellevolution-sdk",
@@ -482,7 +482,7 @@
     ],
     [
       "random-target",
-      164
+      165
     ],
     [
       "afdian",
@@ -523,7 +523,11 @@
     [
       "@white-matrix/request-client-generator",
       36
+    ],
+    [
+      "@white-matrix/hardhat-kms-signer",
+      0
     ]
   ],
-  "sum": 614617
+  "sum": 615164
 }
