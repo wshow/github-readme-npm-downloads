@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      218602
+      218838
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      55636
+      55645
     ],
     [
       "waliyun",
-      19381
+      19385
     ],
     [
       "@uua/icons",
@@ -54,7 +54,7 @@
     ],
     [
       "v0",
-      4159
+      4160
     ],
     [
       "appkey",
@@ -66,7 +66,7 @@
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      3569
+      3579
     ],
     [
       "coding-sdk",
@@ -82,7 +82,7 @@
     ],
     [
       "wtoys",
-      2960
+      2961
     ],
     [
       "mock-redis",
@@ -90,7 +90,7 @@
     ],
     [
       "tuling",
-      2856
+      2857
     ],
     [
       "@white-matrix/eslint-config-ts",
@@ -106,7 +106,7 @@
     ],
     [
       "vchart",
-      2194
+      2195
     ],
     [
       "@white-matrix/chainide-proxy-implements",
@@ -114,7 +114,7 @@
     ],
     [
       "@white-matrix/extensions",
-      2099
+      2122
     ],
     [
       "@white-matrix/react-split",
@@ -142,7 +142,7 @@
     ],
     [
       "@white-matrix/binance-wallet-service",
-      1832
+      1834
     ],
     [
       "@white-matrix/event-util",
@@ -165,12 +165,12 @@
       1700
     ],
     [
-      "@white-matrix/nervos-wallet-service",
-      1664
+      "hyperapp.js.cool",
+      1665
     ],
     [
-      "hyperapp.js.cool",
-      1662
+      "@white-matrix/nervos-wallet-service",
+      1664
     ],
     [
       "coding-net",
@@ -214,7 +214,7 @@
     ],
     [
       "v0-scf",
-      1167
+      1168
     ],
     [
       "@x12/di",
@@ -270,7 +270,7 @@
     ],
     [
       "@white-matrix/matrix-world-voucher-flow-js-sdk",
-      851
+      852
     ],
     [
       "beian-domain",
@@ -298,7 +298,7 @@
     ],
     [
       "pipefn",
-      722
+      723
     ],
     [
       "@shiwangme/redis",
@@ -342,7 +342,7 @@
     ],
     [
       "uua",
-      601
+      602
     ],
     [
       "@white-matrix/nft-phantaci-sdk",
@@ -362,7 +362,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      525
+      527
     ],
     [
       "@white-matrix/ethers-execution-manager",
@@ -414,11 +414,11 @@
     ],
     [
       "@white-matrix/one-sync-sdk",
-      360
+      364
     ],
     [
       "@xibang/mysql",
-      339
+      345
     ],
     [
       "@white-matrix/cellevolution-sdk",
@@ -442,7 +442,7 @@
     ],
     [
       "@x12/mongodb",
-      228
+      234
     ],
     [
       "whiteq",
@@ -466,7 +466,7 @@
     ],
     [
       "npm-badges",
-      193
+      194
     ],
     [
       "ggql",
@@ -514,7 +514,7 @@
     ],
     [
       "@white-matrix/hardhat-kms-signer",
-      91
+      95
     ],
     [
       "@white-matrix/nft-rct-sdk",
@@ -529,5 +529,5 @@
       37
     ]
   ],
-  "sum": 617034
+  "sum": 617352
 }
