@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      218838
+      219504
     ],
     [
       "gitbook-plugin-atoc",
-      145711
+      145720
     ],
     [
       "gitbook-plugin-donate",
-      55645
+      55692
     ],
     [
       "waliyun",
-      19385
+      19389
     ],
     [
       "@uua/icons",
-      6686
+      6691
     ],
     [
       "leader.js.cool",
@@ -38,7 +38,7 @@
     ],
     [
       "@white-matrix/eslint-config",
-      4943
+      4956
     ],
     [
       "wqcloud",
@@ -46,19 +46,19 @@
     ],
     [
       "@white-matrix/blindbox-sdk",
-      4572
+      4574
     ],
     [
       "@white-matrix/prettier-config",
-      4236
+      4249
     ],
     [
       "v0",
-      4160
+      4164
     ],
     [
       "appkey",
-      3651
+      3664
     ],
     [
       "koa-api-logger",
@@ -66,7 +66,7 @@
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      3579
+      3596
     ],
     [
       "coding-sdk",
@@ -94,35 +94,35 @@
     ],
     [
       "@white-matrix/eslint-config-ts",
-      2616
+      2620
     ],
     [
       "eslint-config-willin",
-      2270
+      2275
     ],
     [
       "gitbook-plugin-autotheme",
-      2202
+      2205
     ],
     [
       "vchart",
-      2195
-    ],
-    [
-      "@white-matrix/chainide-proxy-implements",
-      2135
+      2196
     ],
     [
       "@white-matrix/extensions",
-      2122
+      2145
+    ],
+    [
+      "@white-matrix/chainide-proxy-implements",
+      2138
     ],
     [
       "@white-matrix/react-split",
-      2015
+      2018
     ],
     [
       "@white-matrix/event-emitter",
-      2004
+      2007
     ],
     [
       "auto-deployer",
@@ -137,16 +137,16 @@
       1922
     ],
     [
+      "@white-matrix/binance-wallet-service",
+      1837
+    ],
+    [
       "wrescuetime",
       1834
     ],
     [
-      "@white-matrix/binance-wallet-service",
-      1834
-    ],
-    [
       "@white-matrix/event-util",
-      1803
+      1806
     ],
     [
       "hello-dolly",
@@ -166,7 +166,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1665
+      1666
     ],
     [
       "@white-matrix/nervos-wallet-service",
@@ -186,7 +186,7 @@
     ],
     [
       "@white-matrix/web3-solidity-wallet",
-      1419
+      1423
     ],
     [
       "wno",
@@ -218,7 +218,7 @@
     ],
     [
       "@x12/di",
-      1141
+      1142
     ],
     [
       "wnm",
@@ -230,7 +230,7 @@
     ],
     [
       "@white-matrix/nft-mirror-sdk",
-      1017
+      1018
     ],
     [
       "@x12/tasker",
@@ -254,7 +254,7 @@
     ],
     [
       "lslint",
-      935
+      936
     ],
     [
       "mp-sdk",
@@ -306,7 +306,7 @@
     ],
     [
       "@uua/core",
-      686
+      687
     ],
     [
       "@white-matrix/nft-snapshot",
@@ -366,7 +366,7 @@
     ],
     [
       "@white-matrix/ethers-execution-manager",
-      493
+      495
     ],
     [
       "@willin/eslint-config",
@@ -386,11 +386,11 @@
     ],
     [
       "@uua/ip2c",
-      442
+      443
     ],
     [
       "@white-matrix/amethyst-protocol-v2-sdk",
-      434
+      435
     ],
     [
       "@white-matrix/chainide",
@@ -409,12 +409,12 @@
       387
     ],
     [
-      "@xibang/redis",
-      372
+      "@white-matrix/one-sync-sdk",
+      378
     ],
     [
-      "@white-matrix/one-sync-sdk",
-      364
+      "@xibang/redis",
+      372
     ],
     [
       "@xibang/mysql",
@@ -434,7 +434,7 @@
     ],
     [
       "@white-matrix/nft-micromega-sdk",
-      263
+      267
     ],
     [
       "@white-matrix/amethyst-sdk",
@@ -458,7 +458,7 @@
     ],
     [
       "@white-matrix/bsn-wallet-service",
-      203
+      206
     ],
     [
       "@white-matrix/nft-phancyshiba-sdk",
@@ -485,11 +485,11 @@
       165
     ],
     [
-      "afdian",
-      156
+      "@authing/nextjs",
+      157
     ],
     [
-      "@authing/nextjs",
+      "afdian",
       156
     ],
     [
@@ -514,7 +514,7 @@
     ],
     [
       "@white-matrix/hardhat-kms-signer",
-      95
+      97
     ],
     [
       "@white-matrix/nft-rct-sdk",
@@ -529,5 +529,5 @@
       37
     ]
   ],
-  "sum": 617352
+  "sum": 618233
 }
