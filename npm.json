@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      220238
+      220438
     ],
     [
       "gitbook-plugin-atoc",
-      145747
+      145752
     ],
     [
       "gitbook-plugin-donate",
-      55710
+      55711
     ],
     [
       "waliyun",
-      19440
+      19458
     ],
     [
       "@uua/icons",
-      6697
+      6698
     ],
     [
       "leader.js.cool",
@@ -38,7 +38,7 @@
     ],
     [
       "@white-matrix/eslint-config",
-      5068
+      5095
     ],
     [
       "wqcloud",
@@ -50,7 +50,7 @@
     ],
     [
       "@white-matrix/prettier-config",
-      4360
+      4382
     ],
     [
       "v0",
@@ -58,7 +58,7 @@
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      3685
+      3694
     ],
     [
       "appkey",
@@ -94,19 +94,19 @@
     ],
     [
       "@white-matrix/eslint-config-ts",
-      2645
+      2647
     ],
     [
       "eslint-config-willin",
-      2283
+      2284
     ],
     [
       "@white-matrix/extensions",
-      2221
+      2234
     ],
     [
       "@white-matrix/chainide-proxy-implements",
-      2216
+      2230
     ],
     [
       "gitbook-plugin-autotheme",
@@ -118,11 +118,11 @@
     ],
     [
       "@white-matrix/react-split",
-      2095
+      2109
     ],
     [
       "@white-matrix/event-emitter",
-      2077
+      2091
     ],
     [
       "auto-deployer",
@@ -138,15 +138,15 @@
     ],
     [
       "@white-matrix/event-util",
-      1876
+      1890
     ],
     [
       "@white-matrix/binance-wallet-service",
-      1869
+      1870
     ],
     [
       "wrescuetime",
-      1834
+      1835
     ],
     [
       "hello-dolly",
@@ -181,12 +181,12 @@
       1594
     ],
     [
-      "@white-matrix/matrix-world-voucher-sdk",
-      1504
+      "@white-matrix/web3-solidity-wallet",
+      1516
     ],
     [
-      "@white-matrix/web3-solidity-wallet",
-      1502
+      "@white-matrix/matrix-world-voucher-sdk",
+      1509
     ],
     [
       "wno",
@@ -198,7 +198,7 @@
     ],
     [
       "@white-matrix/matrix-airdrop-sdk",
-      1303
+      1308
     ],
     [
       "@white-matrix/basic-wallet",
@@ -214,7 +214,7 @@
     ],
     [
       "v0-scf",
-      1168
+      1169
     ],
     [
       "@x12/di",
@@ -222,7 +222,7 @@
     ],
     [
       "wnm",
-      1117
+      1118
     ],
     [
       "@white-matrix/fe-lint-generate",
@@ -254,7 +254,7 @@
     ],
     [
       "lslint",
-      941
+      942
     ],
     [
       "mp-sdk",
@@ -270,7 +270,7 @@
     ],
     [
       "@white-matrix/matrix-world-voucher-flow-js-sdk",
-      869
+      874
     ],
     [
       "beian-domain",
@@ -289,16 +289,16 @@
       776
     ],
     [
+      "@shiwangme/redis",
+      736
+    ],
+    [
       "coding-deploy",
       735
     ],
     [
       "@x12/env",
       731
-    ],
-    [
-      "@shiwangme/redis",
-      726
     ],
     [
       "pipefn",
@@ -342,7 +342,7 @@
     ],
     [
       "wechaty-authing",
-      603
+      607
     ],
     [
       "uua",
@@ -373,6 +373,10 @@
       496
     ],
     [
+      "@white-matrix/one-sync-sdk",
+      491
+    ],
+    [
       "rxdis",
       476
     ],
@@ -381,12 +385,8 @@
       459
     ],
     [
-      "@white-matrix/one-sync-sdk",
-      451
-    ],
-    [
       "sdk0",
-      449
+      450
     ],
     [
       "@white-matrix/amethyst-protocol-v2-sdk",
@@ -410,7 +410,7 @@
     ],
     [
       "willin",
-      390
+      391
     ],
     [
       "@xibang/redis",
@@ -453,16 +453,16 @@
       220
     ],
     [
+      "@white-matrix/bsn-wallet-service",
+      219
+    ],
+    [
       "@white-matrix/extension-sample",
       218
     ],
     [
-      "@white-matrix/bsn-wallet-service",
-      218
-    ],
-    [
       "@white-matrix/nft-phancyshiba-sdk",
-      205
+      206
     ],
     [
       "npm-badges",
@@ -514,7 +514,7 @@
     ],
     [
       "@white-matrix/hardhat-kms-signer",
-      98
+      99
     ],
     [
       "@white-matrix/nft-rct-sdk",
@@ -529,5 +529,5 @@
       39
     ]
   ],
-  "sum": 620592
+  "sum": 621040
 }
