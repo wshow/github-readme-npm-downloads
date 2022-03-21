@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      220438
+      220718
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,7 +10,7 @@
     ],
     [
       "gitbook-plugin-donate",
-      55711
+      55763
     ],
     [
       "waliyun",
@@ -18,7 +18,7 @@
     ],
     [
       "@uua/icons",
-      6698
+      6706
     ],
     [
       "leader.js.cool",
@@ -58,7 +58,7 @@
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      3694
+      3705
     ],
     [
       "appkey",
@@ -82,7 +82,7 @@
     ],
     [
       "wtoys",
-      2961
+      2963
     ],
     [
       "mock-redis",
@@ -102,7 +102,7 @@
     ],
     [
       "@white-matrix/extensions",
-      2234
+      2249
     ],
     [
       "@white-matrix/chainide-proxy-implements",
@@ -110,7 +110,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2206
+      2209
     ],
     [
       "vchart",
@@ -142,7 +142,7 @@
     ],
     [
       "@white-matrix/binance-wallet-service",
-      1870
+      1871
     ],
     [
       "wrescuetime",
@@ -150,7 +150,7 @@
     ],
     [
       "hello-dolly",
-      1781
+      1782
     ],
     [
       "atl",
@@ -158,7 +158,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1712
+      1720
     ],
     [
       "nuxtpress",
@@ -170,7 +170,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1668
+      1670
     ],
     [
       "coding-net",
@@ -210,7 +210,7 @@
     ],
     [
       "@x12/hosts",
-      1202
+      1203
     ],
     [
       "v0-scf",
@@ -250,7 +250,7 @@
     ],
     [
       "hyperapp-i18n",
-      946
+      952
     ],
     [
       "lslint",
@@ -278,7 +278,7 @@
     ],
     [
       "nativescript-icam",
-      804
+      805
     ],
     [
       "awth",
@@ -374,7 +374,7 @@
     ],
     [
       "@white-matrix/one-sync-sdk",
-      491
+      494
     ],
     [
       "rxdis",
@@ -386,7 +386,7 @@
     ],
     [
       "sdk0",
-      450
+      451
     ],
     [
       "@white-matrix/amethyst-protocol-v2-sdk",
@@ -514,7 +514,7 @@
     ],
     [
       "@white-matrix/hardhat-kms-signer",
-      99
+      101
     ],
     [
       "@white-matrix/nft-rct-sdk",
@@ -529,5 +529,5 @@
       39
     ]
   ],
-  "sum": 621040
+  "sum": 621437
 }
