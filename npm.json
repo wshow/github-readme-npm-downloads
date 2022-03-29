@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      222881
+      223172
     ],
     [
       "gitbook-plugin-atoc",
-      145843
+      145850
     ],
     [
       "gitbook-plugin-donate",
-      56344
+      56432
     ],
     [
       "waliyun",
-      19514
+      19518
     ],
     [
       "@uua/icons",
-      6724
+      6727
     ],
     [
       "leader.js.cool",
-      6531
+      6532
     ],
     [
       "yunpian-sdk",
@@ -30,11 +30,11 @@
     ],
     [
       "koa-swagger-ui",
-      5886
+      5887
     ],
     [
       "gitbook-plugin-wordcount",
-      5715
+      5716
     ],
     [
       "@white-matrix/eslint-config",
@@ -54,11 +54,11 @@
     ],
     [
       "v0",
-      4173
+      4179
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      3794
+      3802
     ],
     [
       "appkey",
@@ -86,7 +86,7 @@
     ],
     [
       "mock-redis",
-      2864
+      2865
     ],
     [
       "tuling",
@@ -94,23 +94,23 @@
     ],
     [
       "@white-matrix/eslint-config-ts",
-      2658
+      2664
     ],
     [
       "@white-matrix/extensions",
-      2384
+      2395
     ],
     [
       "eslint-config-willin",
-      2301
+      2309
     ],
     [
       "@white-matrix/chainide-proxy-implements",
-      2299
+      2304
     ],
     [
       "gitbook-plugin-autotheme",
-      2223
+      2224
     ],
     [
       "vchart",
@@ -142,7 +142,7 @@
     ],
     [
       "@white-matrix/binance-wallet-service",
-      1903
+      1904
     ],
     [
       "wrescuetime",
@@ -150,7 +150,7 @@
     ],
     [
       "@white-matrix/nervos-wallet-service",
-      1819
+      1824
     ],
     [
       "hello-dolly",
@@ -162,19 +162,19 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1720
+      1721
     ],
     [
       "nuxtpress",
-      1702
+      1703
     ],
     [
       "hyperapp.js.cool",
-      1682
+      1683
     ],
     [
       "@white-matrix/web3-solidity-wallet",
-      1652
+      1654
     ],
     [
       "@white-matrix/nft-vspark-sdk",
@@ -202,11 +202,11 @@
     ],
     [
       "@white-matrix/basic-wallet",
-      1280
+      1286
     ],
     [
       "@white-matrix/hyperledger-trustid",
-      1249
+      1252
     ],
     [
       "@x12/hosts",
@@ -234,7 +234,7 @@
     ],
     [
       "@x12/tasker",
-      1010
+      1018
     ],
     [
       "@white-matrix/chainide-plugin-cli",
@@ -242,23 +242,23 @@
     ],
     [
       "less.js.cool",
-      992
+      993
     ],
     [
       "mmonit",
-      979
+      980
     ],
     [
       "hyperapp-i18n",
-      953
+      954
     ],
     [
       "lslint",
-      944
+      945
     ],
     [
       "mp-sdk",
-      924
+      944
     ],
     [
       "@xibang/node-common",
@@ -286,7 +286,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      777
+      779
     ],
     [
       "@shiwangme/redis",
@@ -306,11 +306,11 @@
     ],
     [
       "@white-matrix/nft-snapshot",
-      699
+      700
     ],
     [
       "@uua/core",
-      696
+      697
     ],
     [
       "@white-matrix/white-matrix-design",
@@ -358,7 +358,7 @@
     ],
     [
       "leancloud-sdk",
-      545
+      546
     ],
     [
       "@white-matrix/one-sync-sdk",
@@ -374,7 +374,7 @@
     ],
     [
       "@willin/eslint-config",
-      499
+      503
     ],
     [
       "rxdis",
@@ -386,7 +386,7 @@
     ],
     [
       "sdk0",
-      453
+      454
     ],
     [
       "@white-matrix/amethyst-protocol-v2-sdk",
@@ -394,7 +394,7 @@
     ],
     [
       "@uua/ip2c",
-      449
+      450
     ],
     [
       "@white-matrix/chainide",
@@ -426,7 +426,7 @@
     ],
     [
       "@white-matrix/rivermen-estate-sdk",
-      299
+      321
     ],
     [
       "@x12/common",
@@ -438,7 +438,7 @@
     ],
     [
       "@white-matrix/nft-micromega-sdk",
-      285
+      286
     ],
     [
       "@white-matrix/amethyst-sdk",
@@ -453,12 +453,12 @@
       227
     ],
     [
-      "@x12/promise",
-      223
+      "@white-matrix/bsn-wallet-service",
+      226
     ],
     [
-      "@white-matrix/bsn-wallet-service",
-      222
+      "@x12/promise",
+      225
     ],
     [
       "@white-matrix/extension-sample",
@@ -466,15 +466,15 @@
     ],
     [
       "@white-matrix/nft-phancyshiba-sdk",
-      209
+      210
     ],
     [
       "npm-badges",
-      198
+      199
     ],
     [
       "ggql",
-      192
+      193
     ],
     [
       "@white-matrix/metamask-wallet",
@@ -482,7 +482,7 @@
     ],
     [
       "@x12/task-types",
-      177
+      178
     ],
     [
       "random-target",
@@ -533,5 +533,5 @@
       41
     ]
   ],
-  "sum": 626338
+  "sum": 626876
 }
