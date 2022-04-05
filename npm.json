@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      225154
+      225529
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      56649
+      56706
     ],
     [
       "waliyun",
-      19562
+      19563
     ],
     [
       "@uua/icons",
-      6740
+      6742
     ],
     [
       "leader.js.cool",
@@ -30,11 +30,11 @@
     ],
     [
       "koa-swagger-ui",
-      5889
+      5891
     ],
     [
       "gitbook-plugin-wordcount",
-      5718
+      5719
     ],
     [
       "@white-matrix/eslint-config",
@@ -58,11 +58,11 @@
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      4023
+      4032
     ],
     [
       "appkey",
-      3668
+      3669
     ],
     [
       "koa-api-logger",
@@ -70,7 +70,7 @@
     ],
     [
       "@white-matrix/nft-blind-box-model",
-      3571
+      3580
     ],
     [
       "coding-sdk",
@@ -98,7 +98,7 @@
     ],
     [
       "@white-matrix/extensions",
-      2529
+      2550
     ],
     [
       "@white-matrix/chainide-proxy-implements",
@@ -106,7 +106,7 @@
     ],
     [
       "eslint-config-willin",
-      2325
+      2326
     ],
     [
       "gitbook-plugin-autotheme",
@@ -126,7 +126,7 @@
     ],
     [
       "@white-matrix/binance-wallet-service",
-      2091
+      2094
     ],
     [
       "@white-matrix/event-util",
@@ -150,7 +150,7 @@
     ],
     [
       "wrescuetime",
-      1837
+      1838
     ],
     [
       "hello-dolly",
@@ -174,7 +174,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1690
+      1691
     ],
     [
       "@white-matrix/nft-vspark-sdk",
@@ -222,11 +222,11 @@
     ],
     [
       "@white-matrix/fe-lint-generate",
-      1128
+      1129
     ],
     [
       "wnm",
-      1122
+      1123
     ],
     [
       "@white-matrix/nft-mirror-sdk",
@@ -258,11 +258,11 @@
     ],
     [
       "lslint",
-      945
+      947
     ],
     [
       "@xibang/node-common",
-      923
+      924
     ],
     [
       "@white-matrix/husky-config",
@@ -277,12 +277,12 @@
       840
     ],
     [
-      "nativescript-icam",
-      808
+      "@white-matrix/matrix-flow-market-sdk",
+      829
     ],
     [
-      "@white-matrix/matrix-flow-market-sdk",
-      807
+      "nativescript-icam",
+      808
     ],
     [
       "awth",
@@ -330,7 +330,7 @@
     ],
     [
       "remix-i18n",
-      677
+      678
     ],
     [
       "wdouban",
@@ -365,12 +365,12 @@
       571
     ],
     [
-      "@white-matrix/ethers-execution-manager",
-      563
+      "@white-matrix/rivermen-estate-sdk",
+      565
     ],
     [
-      "@white-matrix/rivermen-estate-sdk",
-      560
+      "@white-matrix/ethers-execution-manager",
+      563
     ],
     [
       "leancloud-sdk",
@@ -422,11 +422,11 @@
     ],
     [
       "@xibang/redis",
-      380
+      381
     ],
     [
       "@xibang/mysql",
-      353
+      354
     ],
     [
       "@white-matrix/cellevolution-sdk",
@@ -486,11 +486,11 @@
     ],
     [
       "@x12/task-types",
-      179
+      182
     ],
     [
       "random-target",
-      169
+      170
     ],
     [
       "@authing/nextjs",
@@ -537,5 +537,5 @@
       43
     ]
   ],
-  "sum": 632027
+  "sum": 632550
 }
