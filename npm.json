@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      225853
+      226117
     ],
     [
       "gitbook-plugin-atoc",
-      145905
+      145914
     ],
     [
       "gitbook-plugin-donate",
-      56719
+      56762
     ],
     [
       "waliyun",
-      19567
+      19576
     ],
     [
       "@uua/icons",
@@ -22,11 +22,11 @@
     ],
     [
       "leader.js.cool",
-      6565
+      6566
     ],
     [
       "yunpian-sdk",
-      6453
+      6455
     ],
     [
       "koa-swagger-ui",
@@ -34,11 +34,11 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5719
+      5720
     ],
     [
       "@white-matrix/eslint-config",
-      5292
+      5295
     ],
     [
       "wqcloud",
@@ -46,7 +46,7 @@
     ],
     [
       "@white-matrix/blindbox-sdk",
-      4729
+      4738
     ],
     [
       "@white-matrix/prettier-config",
@@ -58,7 +58,7 @@
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      4043
+      4116
     ],
     [
       "appkey",
@@ -70,7 +70,7 @@
     ],
     [
       "@white-matrix/nft-blind-box-model",
-      3584
+      3587
     ],
     [
       "coding-sdk",
@@ -94,11 +94,11 @@
     ],
     [
       "@white-matrix/eslint-config-ts",
-      2698
+      2701
     ],
     [
       "@white-matrix/extensions",
-      2569
+      2589
     ],
     [
       "@white-matrix/chainide-proxy-implements",
@@ -106,7 +106,7 @@
     ],
     [
       "eslint-config-willin",
-      2330
+      2332
     ],
     [
       "gitbook-plugin-autotheme",
@@ -114,11 +114,11 @@
     ],
     [
       "vchart",
-      2219
+      2220
     ],
     [
       "@white-matrix/react-split",
-      2218
+      2219
     ],
     [
       "@white-matrix/event-emitter",
@@ -126,7 +126,7 @@
     ],
     [
       "@white-matrix/binance-wallet-service",
-      2096
+      2098
     ],
     [
       "@white-matrix/event-util",
@@ -137,16 +137,16 @@
       1967
     ],
     [
+      "@white-matrix/nervos-wallet-service",
+      1933
+    ],
+    [
       "wqcloud-video",
-      1925
+      1926
     ],
     [
       "hapi-auth-redis",
       1925
-    ],
-    [
-      "@white-matrix/nervos-wallet-service",
-      1891
     ],
     [
       "wrescuetime",
@@ -154,7 +154,7 @@
     ],
     [
       "hello-dolly",
-      1799
+      1800
     ],
     [
       "atl",
@@ -162,7 +162,7 @@
     ],
     [
       "@white-matrix/web3-solidity-wallet",
-      1740
+      1741
     ],
     [
       "gitbook-plugin-theme-material",
@@ -174,11 +174,11 @@
     ],
     [
       "hyperapp.js.cool",
-      1692
+      1693
     ],
     [
       "@white-matrix/nft-vspark-sdk",
-      1619
+      1621
     ],
     [
       "coding-net",
@@ -186,11 +186,11 @@
     ],
     [
       "@white-matrix/matrix-world-voucher-sdk",
-      1536
+      1538
     ],
     [
       "wno",
-      1409
+      1410
     ],
     [
       "@white-matrix/chainide-tools",
@@ -198,7 +198,7 @@
     ],
     [
       "@white-matrix/matrix-airdrop-sdk",
-      1314
+      1315
     ],
     [
       "@white-matrix/basic-wallet",
@@ -230,15 +230,15 @@
     ],
     [
       "@white-matrix/nft-mirror-sdk",
-      1060
+      1062
     ],
     [
       "@white-matrix/chainide-plugin-cli",
-      1021
+      1022
     ],
     [
       "@x12/tasker",
-      1019
+      1020
     ],
     [
       "less.js.cool",
@@ -254,7 +254,7 @@
     ],
     [
       "mp-sdk",
-      951
+      952
     ],
     [
       "lslint",
@@ -270,7 +270,7 @@
     ],
     [
       "@white-matrix/matrix-world-voucher-flow-js-sdk",
-      901
+      906
     ],
     [
       "beian-domain",
@@ -278,11 +278,11 @@
     ],
     [
       "@white-matrix/matrix-flow-market-sdk",
-      831
+      833
     ],
     [
       "nativescript-icam",
-      808
+      809
     ],
     [
       "awth",
@@ -330,7 +330,7 @@
     ],
     [
       "remix-i18n",
-      678
+      679
     ],
     [
       "wdouban",
@@ -354,11 +354,11 @@
     ],
     [
       "wechaty-authing",
-      613
+      614
     ],
     [
       "@white-matrix/one-sync-sdk",
-      576
+      605
     ],
     [
       "vuepress-theme-asshole",
@@ -370,7 +370,7 @@
     ],
     [
       "@white-matrix/ethers-execution-manager",
-      563
+      565
     ],
     [
       "leancloud-sdk",
@@ -378,11 +378,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      535
+      536
     ],
     [
       "@willin/eslint-config",
-      511
+      513
     ],
     [
       "rxdis",
@@ -394,7 +394,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      462
+      463
     ],
     [
       "sdk0",
@@ -410,7 +410,7 @@
     ],
     [
       "edd",
-      424
+      425
     ],
     [
       "hdd",
@@ -426,11 +426,11 @@
     ],
     [
       "@xibang/mysql",
-      354
+      355
     ],
     [
       "@white-matrix/cellevolution-sdk",
-      348
+      349
     ],
     [
       "@x12/common",
@@ -446,7 +446,7 @@
     ],
     [
       "@white-matrix/amethyst-sdk",
-      275
+      276
     ],
     [
       "@x12/mongodb",
@@ -454,7 +454,7 @@
     ],
     [
       "whiteq",
-      234
+      238
     ],
     [
       "@white-matrix/bsn-wallet-service",
@@ -462,7 +462,7 @@
     ],
     [
       "@x12/promise",
-      226
+      227
     ],
     [
       "@white-matrix/nft-phancyshiba-sdk",
@@ -486,7 +486,7 @@
     ],
     [
       "@x12/task-types",
-      182
+      183
     ],
     [
       "@authing/nextjs",
@@ -494,7 +494,7 @@
     ],
     [
       "random-target",
-      170
+      173
     ],
     [
       "afdian",
@@ -506,7 +506,7 @@
     ],
     [
       "@white-matrix/simple-plugin",
-      127
+      128
     ],
     [
       "@white-matrix/binance-wallet",
@@ -514,7 +514,7 @@
     ],
     [
       "@white-matrix/chainide-cli",
-      110
+      111
     ],
     [
       "@white-matrix/hardhat-kms-signer",
@@ -522,11 +522,11 @@
     ],
     [
       "@white-matrix/vue-books",
-      108
+      109
     ],
     [
       "@white-matrix/nft-rct-sdk",
-      79
+      80
     ],
     [
       "passport-authing",
@@ -534,8 +534,8 @@
     ],
     [
       "@white-matrix/request-client-generator",
-      43
+      44
     ]
   ],
-  "sum": 633030
+  "sum": 633596
 }
