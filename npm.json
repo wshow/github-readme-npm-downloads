@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      226117
+      226367
     ],
     [
       "gitbook-plugin-atoc",
-      145914
+      145921
     ],
     [
       "gitbook-plugin-donate",
-      56762
+      56763
     ],
     [
       "waliyun",
-      19576
+      19579
     ],
     [
       "@uua/icons",
-      6752
+      6754
     ],
     [
       "leader.js.cool",
-      6566
+      6567
     ],
     [
       "yunpian-sdk",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      5891
+      5892
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,19 +38,19 @@
     ],
     [
       "@white-matrix/eslint-config",
-      5295
+      5306
     ],
     [
       "wqcloud",
-      4940
+      4945
     ],
     [
       "@white-matrix/blindbox-sdk",
-      4738
+      4744
     ],
     [
       "@white-matrix/prettier-config",
-      4577
+      4588
     ],
     [
       "v0",
@@ -58,7 +58,7 @@
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      4116
+      4133
     ],
     [
       "appkey",
@@ -74,7 +74,7 @@
     ],
     [
       "coding-sdk",
-      3493
+      3498
     ],
     [
       "@white-matrix/nft-blind-box-river-nft-dao",
@@ -86,7 +86,7 @@
     ],
     [
       "mock-redis",
-      2867
+      2871
     ],
     [
       "tuling",
@@ -94,43 +94,43 @@
     ],
     [
       "@white-matrix/eslint-config-ts",
-      2701
+      2706
     ],
     [
       "@white-matrix/extensions",
-      2589
+      2611
     ],
     [
       "@white-matrix/chainide-proxy-implements",
-      2341
+      2350
     ],
     [
       "eslint-config-willin",
-      2332
+      2337
     ],
     [
       "gitbook-plugin-autotheme",
-      2230
-    ],
-    [
-      "vchart",
-      2220
+      2231
     ],
     [
       "@white-matrix/react-split",
-      2219
+      2229
+    ],
+    [
+      "vchart",
+      2221
     ],
     [
       "@white-matrix/event-emitter",
-      2196
+      2205
     ],
     [
       "@white-matrix/binance-wallet-service",
-      2098
+      2100
     ],
     [
       "@white-matrix/event-util",
-      1996
+      2005
     ],
     [
       "auto-deployer",
@@ -138,7 +138,7 @@
     ],
     [
       "@white-matrix/nervos-wallet-service",
-      1933
+      1936
     ],
     [
       "wqcloud-video",
@@ -162,7 +162,7 @@
     ],
     [
       "@white-matrix/web3-solidity-wallet",
-      1741
+      1751
     ],
     [
       "gitbook-plugin-theme-material",
@@ -234,7 +234,7 @@
     ],
     [
       "@white-matrix/chainide-plugin-cli",
-      1022
+      1023
     ],
     [
       "@x12/tasker",
@@ -273,12 +273,12 @@
       906
     ],
     [
-      "beian-domain",
-      840
+      "@white-matrix/matrix-flow-market-sdk",
+      845
     ],
     [
-      "@white-matrix/matrix-flow-market-sdk",
-      833
+      "beian-domain",
+      840
     ],
     [
       "nativescript-icam",
@@ -298,7 +298,7 @@
     ],
     [
       "@shiwangme/redis",
-      739
+      741
     ],
     [
       "coding-deploy",
@@ -322,7 +322,7 @@
     ],
     [
       "h1de",
-      685
+      686
     ],
     [
       "wulian",
@@ -345,12 +345,12 @@
       637
     ],
     [
-      "uua",
-      623
+      "@authing/remix",
+      634
     ],
     [
-      "@authing/remix",
-      622
+      "uua",
+      623
     ],
     [
       "wechaty-authing",
@@ -358,19 +358,19 @@
     ],
     [
       "@white-matrix/one-sync-sdk",
-      605
+      609
+    ],
+    [
+      "@white-matrix/rivermen-estate-sdk",
+      596
     ],
     [
       "vuepress-theme-asshole",
       574
     ],
     [
-      "@white-matrix/rivermen-estate-sdk",
-      569
-    ],
-    [
       "@white-matrix/ethers-execution-manager",
-      565
+      566
     ],
     [
       "leancloud-sdk",
@@ -442,7 +442,7 @@
     ],
     [
       "@white-matrix/nft-micromega-sdk",
-      292
+      294
     ],
     [
       "@white-matrix/amethyst-sdk",
@@ -478,19 +478,19 @@
     ],
     [
       "ggql",
-      194
+      195
     ],
     [
       "@white-matrix/metamask-wallet",
       183
     ],
     [
-      "@x12/task-types",
+      "@authing/nextjs",
       183
     ],
     [
-      "@authing/nextjs",
-      179
+      "@x12/task-types",
+      183
     ],
     [
       "random-target",
@@ -502,7 +502,7 @@
     ],
     [
       "@x12/rx-pool",
-      156
+      157
     ],
     [
       "@white-matrix/simple-plugin",
@@ -537,5 +537,5 @@
       44
     ]
   ],
-  "sum": 633596
+  "sum": 634074
 }
