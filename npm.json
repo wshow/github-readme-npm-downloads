@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      229162
+      229455
     ],
     [
       "gitbook-plugin-atoc",
-      145978
+      145981
     ],
     [
       "gitbook-plugin-donate",
-      56891
+      56903
     ],
     [
       "waliyun",
-      19680
+      19682
     ],
     [
       "@uua/icons",
-      6777
+      6778
     ],
     [
       "leader.js.cool",
-      6584
+      6595
     ],
     [
       "yunpian-sdk",
@@ -30,31 +30,31 @@
     ],
     [
       "koa-swagger-ui",
-      5910
+      5925
     ],
     [
       "gitbook-plugin-wordcount",
-      5731
+      5734
     ],
     [
       "@white-matrix/eslint-config",
-      5509
+      5567
     ],
     [
       "wqcloud",
-      4962
+      4964
     ],
     [
       "@white-matrix/blindbox-sdk",
-      4939
+      4940
     ],
     [
       "@white-matrix/prettier-config",
-      4812
+      4872
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      4431
+      4441
     ],
     [
       "v0",
@@ -62,7 +62,7 @@
     ],
     [
       "@white-matrix/nft-blind-box-model",
-      3735
+      3737
     ],
     [
       "appkey",
@@ -70,11 +70,11 @@
     ],
     [
       "koa-api-logger",
-      3624
+      3643
     ],
     [
       "coding-sdk",
-      3520
+      3521
     ],
     [
       "@white-matrix/nft-blind-box-river-nft-dao",
@@ -86,7 +86,7 @@
     ],
     [
       "mock-redis",
-      2877
+      2881
     ],
     [
       "tuling",
@@ -94,7 +94,7 @@
     ],
     [
       "@white-matrix/extensions",
-      2834
+      2851
     ],
     [
       "@white-matrix/eslint-config-ts",
@@ -102,23 +102,23 @@
     ],
     [
       "@white-matrix/chainide-proxy-implements",
-      2462
+      2472
     ],
     [
       "eslint-config-willin",
-      2377
+      2379
     ],
     [
       "@white-matrix/react-split",
-      2332
+      2342
     ],
     [
       "@white-matrix/event-emitter",
-      2306
+      2316
     ],
     [
       "gitbook-plugin-autotheme",
-      2236
+      2237
     ],
     [
       "vchart",
@@ -126,19 +126,23 @@
     ],
     [
       "@white-matrix/binance-wallet-service",
-      2216
+      2217
     ],
     [
       "@white-matrix/event-util",
-      2104
+      2115
     ],
     [
       "@white-matrix/nervos-wallet-service",
-      2089
+      2090
     ],
     [
       "auto-deployer",
-      1977
+      1978
+    ],
+    [
+      "@white-matrix/web3-solidity-wallet",
+      1943
     ],
     [
       "wqcloud-video",
@@ -146,11 +150,7 @@
     ],
     [
       "hapi-auth-redis",
-      1934
-    ],
-    [
-      "@white-matrix/web3-solidity-wallet",
-      1931
+      1935
     ],
     [
       "wrescuetime",
@@ -158,11 +158,11 @@
     ],
     [
       "hello-dolly",
-      1807
+      1808
     ],
     [
       "atl",
-      1801
+      1802
     ],
     [
       "gitbook-plugin-theme-material",
@@ -174,7 +174,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1707
+      1708
     ],
     [
       "@white-matrix/nft-vspark-sdk",
@@ -182,7 +182,7 @@
     ],
     [
       "coding-net",
-      1626
+      1627
     ],
     [
       "@white-matrix/matrix-world-voucher-sdk",
@@ -190,7 +190,7 @@
     ],
     [
       "@white-matrix/chainide-tools",
-      1422
+      1423
     ],
     [
       "wno",
@@ -202,7 +202,7 @@
     ],
     [
       "@white-matrix/basic-wallet",
-      1353
+      1354
     ],
     [
       "@white-matrix/hyperledger-trustid",
@@ -213,24 +213,24 @@
       1228
     ],
     [
+      "@white-matrix/fe-lint-generate",
+      1216
+    ],
+    [
       "v0-scf",
-      1207
+      1209
     ],
     [
       "@x12/di",
       1190
     ],
     [
-      "@white-matrix/fe-lint-generate",
-      1182
-    ],
-    [
       "wnm",
-      1130
+      1131
     ],
     [
       "@white-matrix/matrix-flow-market-sdk",
-      1112
+      1118
     ],
     [
       "@white-matrix/nft-mirror-sdk",
@@ -238,7 +238,7 @@
     ],
     [
       "@white-matrix/chainide-plugin-cli",
-      1072
+      1073
     ],
     [
       "@x12/tasker",
@@ -246,35 +246,35 @@
     ],
     [
       "less.js.cool",
-      997
-    ],
-    [
-      "mmonit",
-      983
-    ],
-    [
-      "mp-sdk",
-      963
-    ],
-    [
-      "hyperapp-i18n",
-      960
-    ],
-    [
-      "@white-matrix/matrix-world-voucher-flow-js-sdk",
-      953
-    ],
-    [
-      "lslint",
-      952
+      999
     ],
     [
       "@white-matrix/husky-config",
-      952
+      989
+    ],
+    [
+      "mmonit",
+      986
+    ],
+    [
+      "mp-sdk",
+      969
+    ],
+    [
+      "hyperapp-i18n",
+      962
+    ],
+    [
+      "lslint",
+      954
+    ],
+    [
+      "@white-matrix/matrix-world-voucher-flow-js-sdk",
+      954
     ],
     [
       "@xibang/node-common",
-      943
+      945
     ],
     [
       "beian-domain",
@@ -282,23 +282,23 @@
     ],
     [
       "@white-matrix/rivermen-estate-sdk",
-      846
+      850
     ],
     [
       "nativescript-icam",
-      812
+      814
     ],
     [
       "@white-matrix/nft-snapshot",
-      795
+      796
     ],
     [
       "awth",
-      784
+      785
     ],
     [
       "markdown-toc-gitbook",
-      781
+      783
     ],
     [
       "@shiwangme/redis",
@@ -334,11 +334,11 @@
     ],
     [
       "@white-matrix/nft-phantaci-sdk",
-      697
+      698
     ],
     [
       "@white-matrix/matrix-marketplace-nft-sdk",
-      688
+      696
     ],
     [
       "wulian",
@@ -378,7 +378,7 @@
     ],
     [
       "leancloud-sdk",
-      551
+      553
     ],
     [
       "@dwing/koa-joi-router",
@@ -414,11 +414,11 @@
     ],
     [
       "edd",
-      429
+      430
     ],
     [
       "hdd",
-      424
+      425
     ],
     [
       "willin",
@@ -426,11 +426,11 @@
     ],
     [
       "@xibang/redis",
-      389
+      391
     ],
     [
       "@white-matrix/cellevolution-sdk",
-      369
+      370
     ],
     [
       "@xibang/mysql",
@@ -441,12 +441,12 @@
       325
     ],
     [
-      "@x12/common",
-      312
+      "fetch-pro",
+      313
     ],
     [
-      "fetch-pro",
-      311
+      "@x12/common",
+      312
     ],
     [
       "@white-matrix/amethyst-sdk",
@@ -454,7 +454,7 @@
     ],
     [
       "@white-matrix/bsn-wallet-service",
-      270
+      271
     ],
     [
       "@white-matrix/nft-phancyshiba-sdk",
@@ -466,7 +466,7 @@
     ],
     [
       "@white-matrix/extension-sample",
-      245
+      246
     ],
     [
       "whiteq",
@@ -486,7 +486,7 @@
     ],
     [
       "ggql",
-      199
+      200
     ],
     [
       "@authing/nextjs",
@@ -502,7 +502,7 @@
     ],
     [
       "random-target",
-      177
+      178
     ],
     [
       "@x12/rx-pool",
@@ -517,6 +517,10 @@
       132
     ],
     [
+      "@white-matrix/request-client-generator",
+      131
+    ],
+    [
       "@white-matrix/binance-wallet",
       129
     ],
@@ -526,20 +530,16 @@
     ],
     [
       "@white-matrix/vue-books",
-      120
+      121
     ],
     [
       "@white-matrix/nft-rct-sdk",
       93
     ],
     [
-      "@white-matrix/request-client-generator",
-      91
-    ],
-    [
       "passport-authing",
       58
     ]
   ],
-  "sum": 642777
+  "sum": 643529
 }
