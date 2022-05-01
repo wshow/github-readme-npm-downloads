@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      233073
+      233297
     ],
     [
       "gitbook-plugin-atoc",
-      146041
+      146048
     ],
     [
       "gitbook-plugin-donate",
-      57083
+      57091
     ],
     [
       "waliyun",
-      19872
+      19878
     ],
     [
       "@uua/icons",
-      6826
+      6837
     ],
     [
       "leader.js.cool",
@@ -34,7 +34,7 @@
     ],
     [
       "@white-matrix/eslint-config",
-      5923
+      5950
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,11 +42,11 @@
     ],
     [
       "@white-matrix/prettier-config",
-      5216
+      5243
     ],
     [
       "@white-matrix/blindbox-sdk",
-      5040
+      5045
     ],
     [
       "wqcloud",
@@ -54,19 +54,19 @@
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      4655
+      4668
     ],
     [
       "v0",
-      4273
+      4275
     ],
     [
       "@white-matrix/nft-blind-box-model",
-      3816
+      3820
     ],
     [
       "appkey",
-      3704
+      3705
     ],
     [
       "koa-api-logger",
@@ -78,19 +78,19 @@
     ],
     [
       "coding-sdk",
-      3536
+      3538
     ],
     [
       "@white-matrix/extensions",
-      3140
+      3166
     ],
     [
       "wtoys",
-      3024
+      3026
     ],
     [
       "mock-redis",
-      2897
+      2899
     ],
     [
       "tuling",
@@ -106,15 +106,15 @@
     ],
     [
       "@white-matrix/react-split",
-      2431
+      2432
     ],
     [
       "@white-matrix/event-emitter",
-      2421
+      2424
     ],
     [
       "eslint-config-willin",
-      2416
+      2419
     ],
     [
       "@white-matrix/binance-wallet-service",
@@ -174,7 +174,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1726
+      1727
     ],
     [
       "@white-matrix/nft-vspark-sdk",
@@ -210,7 +210,7 @@
     ],
     [
       "@white-matrix/fe-lint-generate",
-      1242
+      1244
     ],
     [
       "@x12/hosts",
@@ -226,15 +226,15 @@
     ],
     [
       "@white-matrix/matrix-flow-market-sdk",
-      1202
+      1203
     ],
     [
       "wnm",
-      1147
+      1148
     ],
     [
       "@white-matrix/nft-mirror-sdk",
-      1142
+      1145
     ],
     [
       "@white-matrix/chainide-plugin-cli",
@@ -245,8 +245,12 @@
       1062
     ],
     [
+      "@white-matrix/rivermen-estate-sdk",
+      1032
+    ],
+    [
       "@white-matrix/husky-config",
-      1018
+      1020
     ],
     [
       "less.js.cool",
@@ -257,16 +261,12 @@
       991
     ],
     [
-      "@white-matrix/rivermen-estate-sdk",
-      978
-    ],
-    [
       "mp-sdk",
       976
     ],
     [
       "@white-matrix/matrix-world-voucher-flow-js-sdk",
-      967
+      969
     ],
     [
       "hyperapp-i18n",
@@ -314,15 +314,15 @@
     ],
     [
       "coding-deploy",
-      751
+      752
     ],
     [
       "@white-matrix/one-sync-sdk",
-      748
+      749
     ],
     [
       "@white-matrix/nft-phantaci-sdk",
-      742
+      746
     ],
     [
       "pipefn",
@@ -334,15 +334,15 @@
     ],
     [
       "@white-matrix/white-matrix-design",
-      711
+      712
     ],
     [
       "h1de",
-      707
+      709
     ],
     [
       "@authing/remix",
-      701
+      703
     ],
     [
       "remix-i18n",
@@ -386,7 +386,7 @@
     ],
     [
       "@willin/eslint-config",
-      540
+      541
     ],
     [
       "@white-matrix/amethyst-protocol-v2-sdk",
@@ -394,7 +394,7 @@
     ],
     [
       "rxdis",
-      499
+      502
     ],
     [
       "@uua/ip2c",
@@ -402,7 +402,7 @@
     ],
     [
       "sdk0",
-      470
+      471
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -438,7 +438,7 @@
     ],
     [
       "@white-matrix/request-client-generator",
-      345
+      352
     ],
     [
       "@white-matrix/nft-micromega-sdk",
@@ -458,11 +458,11 @@
     ],
     [
       "@white-matrix/bsn-wallet-service",
-      294
+      295
     ],
     [
       "@white-matrix/nft-phancyshiba-sdk",
-      277
+      279
     ],
     [
       "whiteq",
@@ -478,7 +478,7 @@
     ],
     [
       "@x12/promise",
-      244
+      245
     ],
     [
       "@white-matrix/metamask-wallet",
@@ -494,7 +494,7 @@
     ],
     [
       "@authing/nextjs",
-      202
+      203
     ],
     [
       "@x12/task-types",
@@ -541,5 +541,5 @@
       64
     ]
   ],
-  "sum": 651817
+  "sum": 652285
 }
