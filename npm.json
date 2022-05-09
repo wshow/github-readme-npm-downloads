@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      235565
+      235900
     ],
     [
       "gitbook-plugin-atoc",
-      146067
+      146068
     ],
     [
       "gitbook-plugin-donate",
-      57199
+      57211
     ],
     [
       "waliyun",
-      19944
+      19945
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "leader.js.cool",
-      6621
+      6624
     ],
     [
       "yunpian-sdk",
@@ -30,23 +30,23 @@
     ],
     [
       "@white-matrix/eslint-config",
-      5978
+      5993
     ],
     [
       "koa-swagger-ui",
-      5973
+      5978
     ],
     [
       "gitbook-plugin-wordcount",
-      5748
+      5749
     ],
     [
       "@white-matrix/prettier-config",
-      5273
+      5291
     ],
     [
       "@white-matrix/blindbox-sdk",
-      5058
+      5060
     ],
     [
       "wqcloud",
@@ -54,15 +54,15 @@
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      4764
+      4776
     ],
     [
       "v0",
-      4281
+      4282
     ],
     [
       "@white-matrix/nft-blind-box-model",
-      3829
+      3830
     ],
     [
       "appkey",
@@ -70,7 +70,7 @@
     ],
     [
       "koa-api-logger",
-      3671
+      3675
     ],
     [
       "@white-matrix/nft-blind-box-river-nft-dao",
@@ -82,7 +82,7 @@
     ],
     [
       "@white-matrix/extensions",
-      3306
+      3327
     ],
     [
       "wtoys",
@@ -98,31 +98,31 @@
     ],
     [
       "@white-matrix/eslint-config-ts",
-      2804
+      2807
     ],
     [
       "@white-matrix/chainide-proxy-implements",
-      2575
+      2580
     ],
     [
       "eslint-config-willin",
-      2453
-    ],
-    [
-      "@white-matrix/react-split",
-      2436
+      2454
     ],
     [
       "@white-matrix/event-emitter",
-      2435
+      2443
+    ],
+    [
+      "@white-matrix/react-split",
+      2441
     ],
     [
       "@white-matrix/binance-wallet-service",
-      2303
+      2304
     ],
     [
       "vchart",
-      2252
+      2254
     ],
     [
       "gitbook-plugin-autotheme",
@@ -130,15 +130,15 @@
     ],
     [
       "@white-matrix/event-util",
-      2202
+      2207
     ],
     [
       "@white-matrix/nervos-wallet-service",
-      2174
+      2175
     ],
     [
       "@white-matrix/web3-solidity-wallet",
-      2079
+      2084
     ],
     [
       "auto-deployer",
@@ -169,12 +169,12 @@
       1749
     ],
     [
-      "nuxtpress",
-      1745
+      "hyperapp.js.cool",
+      1747
     ],
     [
-      "hyperapp.js.cool",
-      1742
+      "nuxtpress",
+      1745
     ],
     [
       "@white-matrix/nft-vspark-sdk",
@@ -266,7 +266,7 @@
     ],
     [
       "hyperapp-i18n",
-      976
+      977
     ],
     [
       "@white-matrix/matrix-world-voucher-flow-js-sdk",
@@ -274,11 +274,11 @@
     ],
     [
       "lslint",
-      965
+      967
     ],
     [
       "@xibang/node-common",
-      965
+      966
     ],
     [
       "@white-matrix/matrix-marketplace-nft-sdk",
@@ -306,7 +306,7 @@
     ],
     [
       "@shiwangme/redis",
-      778
+      779
     ],
     [
       "@x12/env",
@@ -342,7 +342,7 @@
     ],
     [
       "@authing/remix",
-      705
+      707
     ],
     [
       "remix-i18n",
@@ -378,7 +378,7 @@
     ],
     [
       "leancloud-sdk",
-      558
+      561
     ],
     [
       "@dwing/koa-joi-router",
@@ -402,7 +402,7 @@
     ],
     [
       "sdk0",
-      474
+      475
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -418,7 +418,11 @@
     ],
     [
       "hdd",
-      436
+      437
+    ],
+    [
+      "@white-matrix/request-client-generator",
+      432
     ],
     [
       "willin",
@@ -435,10 +439,6 @@
     [
       "@xibang/mysql",
       375
-    ],
-    [
-      "@white-matrix/request-client-generator",
-      357
     ],
     [
       "fetch-pro",
@@ -482,7 +482,7 @@
     ],
     [
       "ggql",
-      213
+      214
     ],
     [
       "npm-badges",
@@ -494,7 +494,7 @@
     ],
     [
       "@authing/nextjs",
-      204
+      206
     ],
     [
       "@x12/task-types",
@@ -542,8 +542,8 @@
     ],
     [
       "@white-matrix/react-web3-wallet",
-      0
+      29
     ]
   ],
-  "sum": 655821
+  "sum": 656413
 }
