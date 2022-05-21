@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      240286
+      240631
     ],
     [
       "gitbook-plugin-atoc",
-      146160
+      146177
     ],
     [
       "gitbook-plugin-donate",
-      57810
+      57897
     ],
     [
       "waliyun",
-      20090
+      20098
     ],
     [
       "@uua/icons",
-      6884
+      6885
     ],
     [
       "leader.js.cool",
@@ -26,11 +26,11 @@
     ],
     [
       "yunpian-sdk",
-      6570
+      6573
     ],
     [
       "@white-matrix/eslint-config",
-      6353
+      6367
     ],
     [
       "koa-swagger-ui",
@@ -38,23 +38,23 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5759
+      5760
     ],
     [
       "@white-matrix/prettier-config",
-      5494
+      5508
     ],
     [
       "@white-matrix/blindbox-sdk",
       5294
     ],
     [
-      "wqcloud",
-      5059
+      "@white-matrix/metamask-wallet-service",
+      5089
     ],
     [
-      "@white-matrix/metamask-wallet-service",
-      5039
+      "wqcloud",
+      5059
     ],
     [
       "v0",
@@ -66,7 +66,7 @@
     ],
     [
       "appkey",
-      3745
+      3746
     ],
     [
       "@white-matrix/nft-blind-box-river-nft-dao",
@@ -78,7 +78,7 @@
     ],
     [
       "@white-matrix/extensions",
-      3592
+      3611
     ],
     [
       "coding-sdk",
@@ -90,11 +90,11 @@
     ],
     [
       "mock-redis",
-      2959
+      2976
     ],
     [
       "tuling",
-      2915
+      2923
     ],
     [
       "@white-matrix/eslint-config-ts",
@@ -102,43 +102,43 @@
     ],
     [
       "@white-matrix/chainide-proxy-implements",
-      2696
+      2705
     ],
     [
       "@white-matrix/react-split",
-      2551
+      2560
     ],
     [
       "@white-matrix/event-emitter",
-      2549
+      2558
     ],
     [
       "eslint-config-willin",
-      2492
+      2494
     ],
     [
       "@white-matrix/binance-wallet-service",
-      2424
-    ],
-    [
-      "@white-matrix/event-util",
-      2311
+      2457
     ],
     [
       "@white-matrix/nervos-wallet-service",
-      2310
+      2341
     ],
     [
-      "vchart",
-      2272
+      "@white-matrix/event-util",
+      2320
     ],
     [
       "@white-matrix/web3-solidity-wallet",
-      2270
+      2289
+    ],
+    [
+      "vchart",
+      2276
     ],
     [
       "gitbook-plugin-autotheme",
-      2251
+      2253
     ],
     [
       "auto-deployer",
@@ -146,11 +146,11 @@
     ],
     [
       "hapi-auth-redis",
-      1993
+      1997
     ],
     [
       "wqcloud-video",
-      1984
+      1985
     ],
     [
       "wrescuetime",
@@ -158,11 +158,11 @@
     ],
     [
       "atl",
-      1833
+      1834
     ],
     [
       "hello-dolly",
-      1830
+      1833
     ],
     [
       "@white-matrix/nft-vspark-sdk",
@@ -174,11 +174,11 @@
     ],
     [
       "hyperapp.js.cool",
-      1766
+      1769
     ],
     [
       "gitbook-plugin-theme-material",
-      1765
+      1766
     ],
     [
       "@white-matrix/matrix-world-voucher-sdk",
@@ -198,7 +198,7 @@
     ],
     [
       "@white-matrix/basic-wallet",
-      1435
+      1442
     ],
     [
       "wno",
@@ -225,12 +225,12 @@
       1250
     ],
     [
-      "@x12/di",
+      "@white-matrix/nft-mirror-sdk",
       1226
     ],
     [
-      "@white-matrix/nft-mirror-sdk",
-      1217
+      "@x12/di",
+      1226
     ],
     [
       "@white-matrix/rivermen-estate-sdk",
@@ -258,7 +258,7 @@
     ],
     [
       "less.js.cool",
-      1013
+      1014
     ],
     [
       "mp-sdk",
@@ -266,7 +266,7 @@
     ],
     [
       "mmonit",
-      1007
+      1009
     ],
     [
       "hyperapp-i18n",
@@ -294,7 +294,7 @@
     ],
     [
       "nativescript-icam",
-      823
+      824
     ],
     [
       "@shiwangme/redis",
@@ -306,11 +306,11 @@
     ],
     [
       "coding-deploy",
-      792
+      793
     ],
     [
       "markdown-toc-gitbook",
-      791
+      792
     ],
     [
       "@white-matrix/one-sync-sdk",
@@ -326,7 +326,7 @@
     ],
     [
       "pipefn",
-      755
+      756
     ],
     [
       "@uua/core",
@@ -418,7 +418,7 @@
     ],
     [
       "@white-matrix/bsn-wallet-service",
-      470
+      472
     ],
     [
       "edd",
@@ -534,7 +534,7 @@
     ],
     [
       "@white-matrix/web3-wallet-service",
-      125
+      127
     ],
     [
       "@white-matrix/nft-rct-sdk",
@@ -547,7 +547,11 @@
     [
       "@white-matrix/react-web3-wallet",
       50
+    ],
+    [
+      "@white-matrix/connect-wallet-service",
+      0
     ]
   ],
-  "sum": 667285
+  "sum": 668037
 }
