@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      242805
+      243139
     ],
     [
       "gitbook-plugin-atoc",
-      146188
+      146198
     ],
     [
       "gitbook-plugin-donate",
-      58220
+      58302
     ],
     [
       "waliyun",
-      20185
+      20201
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "leader.js.cool",
-      6673
+      6674
     ],
     [
       "yunpian-sdk",
@@ -30,7 +30,7 @@
     ],
     [
       "@white-matrix/eslint-config",
-      6428
+      6445
     ],
     [
       "koa-swagger-ui",
@@ -42,7 +42,7 @@
     ],
     [
       "@white-matrix/prettier-config",
-      5567
+      5584
     ],
     [
       "@white-matrix/blindbox-sdk",
@@ -50,31 +50,31 @@
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      5182
+      5198
     ],
     [
       "wqcloud",
-      5086
+      5087
     ],
     [
       "v0",
-      4358
+      4359
     ],
     [
       "@white-matrix/nft-blind-box-model",
-      3962
+      4023
+    ],
+    [
+      "@white-matrix/extensions",
+      3770
     ],
     [
       "appkey",
-      3749
+      3750
     ],
     [
       "@white-matrix/nft-blind-box-river-nft-dao",
       3747
-    ],
-    [
-      "@white-matrix/extensions",
-      3742
     ],
     [
       "koa-api-logger",
@@ -86,11 +86,11 @@
     ],
     [
       "wtoys",
-      3090
+      3091
     ],
     [
       "mock-redis",
-      3008
+      3028
     ],
     [
       "tuling",
@@ -102,15 +102,15 @@
     ],
     [
       "@white-matrix/chainide-proxy-implements",
-      2734
+      2745
     ],
     [
       "@white-matrix/event-emitter",
-      2600
+      2611
     ],
     [
       "@white-matrix/react-split",
-      2589
+      2600
     ],
     [
       "eslint-config-willin",
@@ -118,19 +118,19 @@
     ],
     [
       "@white-matrix/binance-wallet-service",
-      2478
+      2481
+    ],
+    [
+      "@white-matrix/event-util",
+      2360
     ],
     [
       "@white-matrix/nervos-wallet-service",
       2358
     ],
     [
-      "@white-matrix/event-util",
-      2349
-    ],
-    [
       "@white-matrix/web3-solidity-wallet",
-      2322
+      2333
     ],
     [
       "vchart",
@@ -138,11 +138,11 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2257
+      2258
     ],
     [
       "auto-deployer",
-      2004
+      2005
     ],
     [
       "hapi-auth-redis",
@@ -154,11 +154,11 @@
     ],
     [
       "wrescuetime",
-      1908
+      1909
     ],
     [
       "atl",
-      1836
+      1837
     ],
     [
       "hello-dolly",
@@ -174,7 +174,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1774
+      1775
     ],
     [
       "gitbook-plugin-theme-material",
@@ -193,12 +193,12 @@
       1492
     ],
     [
-      "@white-matrix/chainide-tools",
-      1485
+      "@white-matrix/rivermen-estate-sdk",
+      1487
     ],
     [
-      "@white-matrix/rivermen-estate-sdk",
-      1480
+      "@white-matrix/chainide-tools",
+      1485
     ],
     [
       "@white-matrix/basic-wallet",
@@ -238,7 +238,7 @@
     ],
     [
       "wnm",
-      1175
+      1176
     ],
     [
       "@white-matrix/chainide-plugin-cli",
@@ -333,6 +333,10 @@
       759
     ],
     [
+      "wechaty-authing",
+      739
+    ],
+    [
       "@white-matrix/white-matrix-design",
       738
     ],
@@ -341,16 +345,12 @@
       738
     ],
     [
-      "wechaty-authing",
-      738
-    ],
-    [
       "@authing/remix",
       733
     ],
     [
       "remix-i18n",
-      727
+      728
     ],
     [
       "wulian",
@@ -362,7 +362,7 @@
     ],
     [
       "wdouban",
-      677
+      678
     ],
     [
       "@white-matrix/ethers-execution-manager",
@@ -370,11 +370,11 @@
     ],
     [
       "z-curve",
-      660
+      664
     ],
     [
       "vuepress-theme-asshole",
-      605
+      606
     ],
     [
       "leancloud-sdk",
@@ -410,7 +410,7 @@
     ],
     [
       "@white-matrix/bsn-wallet-service",
-      486
+      487
     ],
     [
       "@white-matrix/chainide",
@@ -422,7 +422,7 @@
     ],
     [
       "edd",
-      461
+      462
     ],
     [
       "hdd",
@@ -430,7 +430,7 @@
     ],
     [
       "willin",
-      414
+      415
     ],
     [
       "@xibang/redis",
@@ -466,7 +466,7 @@
     ],
     [
       "whiteq",
-      278
+      279
     ],
     [
       "@white-matrix/extension-sample",
@@ -546,12 +546,12 @@
     ],
     [
       "@white-matrix/connect-wallet-service",
-      52
+      53
     ],
     [
       "@white-matrix/react-web3-wallet",
       51
     ]
   ],
-  "sum": 672235
+  "sum": 672925
 }
