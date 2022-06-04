@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      245084
+      245352
     ],
     [
       "gitbook-plugin-atoc",
-      146264
+      146282
     ],
     [
       "gitbook-plugin-donate",
-      58857
+      58908
     ],
     [
       "waliyun",
-      20239
+      20245
     ],
     [
       "@uua/icons",
@@ -30,7 +30,7 @@
     ],
     [
       "@white-matrix/eslint-config",
-      6553
+      6573
     ],
     [
       "koa-swagger-ui",
@@ -42,35 +42,35 @@
     ],
     [
       "@white-matrix/prettier-config",
-      5688
+      5703
     ],
     [
       "@white-matrix/blindbox-sdk",
-      5466
+      5496
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      5322
+      5344
     ],
     [
       "wqcloud",
-      5090
-    ],
-    [
-      "v0",
-      4373
+      5092
     ],
     [
       "@white-matrix/nft-blind-box-model",
-      4333
+      4415
+    ],
+    [
+      "v0",
+      4379
     ],
     [
       "@white-matrix/extensions",
-      3914
+      3943
     ],
     [
       "@white-matrix/nft-blind-box-river-nft-dao",
-      3760
+      3766
     ],
     [
       "appkey",
@@ -86,11 +86,11 @@
     ],
     [
       "wtoys",
-      3097
+      3100
     ],
     [
       "mock-redis",
-      3038
+      3046
     ],
     [
       "tuling",
@@ -98,19 +98,19 @@
     ],
     [
       "@white-matrix/eslint-config-ts",
-      2883
+      2905
     ],
     [
       "@white-matrix/chainide-proxy-implements",
-      2806
+      2812
     ],
     [
       "@white-matrix/event-emitter",
-      2678
+      2691
     ],
     [
       "@white-matrix/react-split",
-      2664
+      2666
     ],
     [
       "eslint-config-willin",
@@ -118,23 +118,23 @@
     ],
     [
       "@white-matrix/binance-wallet-service",
-      2499
+      2500
     ],
     [
       "@white-matrix/nervos-wallet-service",
-      2447
+      2496
     ],
     [
       "@white-matrix/web3-solidity-wallet",
-      2429
+      2431
     ],
     [
       "@white-matrix/event-util",
-      2420
+      2422
     ],
     [
       "vchart",
-      2296
+      2297
     ],
     [
       "gitbook-plugin-autotheme",
@@ -154,7 +154,7 @@
     ],
     [
       "wrescuetime",
-      1911
+      1912
     ],
     [
       "hello-dolly",
@@ -174,7 +174,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1781
+      1782
     ],
     [
       "gitbook-plugin-theme-material",
@@ -182,7 +182,7 @@
     ],
     [
       "@white-matrix/matrix-world-voucher-sdk",
-      1733
+      1737
     ],
     [
       "coding-net",
@@ -190,11 +190,11 @@
     ],
     [
       "@white-matrix/rivermen-estate-sdk",
-      1537
+      1580
     ],
     [
       "@white-matrix/matrix-airdrop-sdk",
-      1496
+      1502
     ],
     [
       "@white-matrix/chainide-tools",
@@ -238,11 +238,11 @@
     ],
     [
       "wnm",
-      1178
+      1179
     ],
     [
       "@white-matrix/chainide-plugin-cli",
-      1144
+      1148
     ],
     [
       "@x12/tasker",
@@ -254,7 +254,7 @@
     ],
     [
       "@white-matrix/matrix-world-voucher-flow-js-sdk",
-      1036
+      1040
     ],
     [
       "less.js.cool",
@@ -277,12 +277,12 @@
       992
     ],
     [
-      "@xibang/node-common",
+      "lslint",
       991
     ],
     [
-      "lslint",
-      990
+      "@xibang/node-common",
+      991
     ],
     [
       "beian-domain",
@@ -295,6 +295,10 @@
     [
       "nativescript-icam",
       832
+    ],
+    [
+      "@white-matrix/nft-phantaci-sdk",
+      805
     ],
     [
       "@shiwangme/redis",
@@ -315,10 +319,6 @@
     [
       "markdown-toc-gitbook",
       797
-    ],
-    [
-      "@white-matrix/nft-phantaci-sdk",
-      789
     ],
     [
       "@x12/env",
@@ -370,7 +370,7 @@
     ],
     [
       "z-curve",
-      664
+      665
     ],
     [
       "vuepress-theme-asshole",
@@ -397,11 +397,11 @@
       536
     ],
     [
-      "@white-matrix/request-client-generator",
-      501
+      "@white-matrix/bsn-wallet-service",
+      502
     ],
     [
-      "@white-matrix/bsn-wallet-service",
+      "@white-matrix/request-client-generator",
       501
     ],
     [
@@ -430,7 +430,7 @@
     ],
     [
       "willin",
-      417
+      418
     ],
     [
       "@xibang/redis",
@@ -466,7 +466,7 @@
     ],
     [
       "whiteq",
-      285
+      287
     ],
     [
       "@white-matrix/extension-sample",
@@ -525,16 +525,16 @@
       156
     ],
     [
+      "@white-matrix/connect-wallet-service",
+      156
+    ],
+    [
       "@white-matrix/hardhat-kms-signer",
       153
     ],
     [
       "@white-matrix/binance-wallet",
       148
-    ],
-    [
-      "@white-matrix/connect-wallet-service",
-      143
     ],
     [
       "@white-matrix/vue-books",
@@ -553,5 +553,5 @@
       53
     ]
   ],
-  "sum": 677527
+  "sum": 678290
 }
