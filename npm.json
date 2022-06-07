@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      245823
+      246011
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      58929
+      58943
     ],
     [
       "waliyun",
-      20250
+      20251
     ],
     [
       "@uua/icons",
@@ -34,7 +34,7 @@
     ],
     [
       "koa-swagger-ui",
-      6033
+      6034
     ],
     [
       "gitbook-plugin-wordcount",
@@ -50,7 +50,7 @@
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      5424
+      5434
     ],
     [
       "wqcloud",
@@ -66,7 +66,7 @@
     ],
     [
       "@white-matrix/extensions",
-      3978
+      4003
     ],
     [
       "@white-matrix/nft-blind-box-river-nft-dao",
@@ -90,7 +90,7 @@
     ],
     [
       "mock-redis",
-      3047
+      3048
     ],
     [
       "tuling",
@@ -114,7 +114,7 @@
     ],
     [
       "@white-matrix/binance-wallet-service",
-      2547
+      2549
     ],
     [
       "@white-matrix/nervos-wallet-service",
@@ -134,7 +134,7 @@
     ],
     [
       "vchart",
-      2298
+      2299
     ],
     [
       "gitbook-plugin-autotheme",
@@ -142,7 +142,7 @@
     ],
     [
       "hapi-auth-redis",
-      2007
+      2008
     ],
     [
       "auto-deployer",
@@ -158,7 +158,7 @@
     ],
     [
       "hello-dolly",
-      1842
+      1843
     ],
     [
       "atl",
@@ -170,11 +170,11 @@
     ],
     [
       "nuxtpress",
-      1792
+      1793
     ],
     [
       "hyperapp.js.cool",
-      1782
+      1783
     ],
     [
       "gitbook-plugin-theme-material",
@@ -202,7 +202,7 @@
     ],
     [
       "@white-matrix/basic-wallet",
-      1449
+      1455
     ],
     [
       "wno",
@@ -290,7 +290,7 @@
     ],
     [
       "beian-domain",
-      873
+      874
     ],
     [
       "nativescript-icam",
@@ -394,11 +394,11 @@
     ],
     [
       "rxdis",
-      537
+      538
     ],
     [
       "@white-matrix/bsn-wallet-service",
-      511
+      512
     ],
     [
       "@white-matrix/request-client-generator",
@@ -422,7 +422,7 @@
     ],
     [
       "edd",
-      462
+      463
     ],
     [
       "hdd",
@@ -490,7 +490,7 @@
     ],
     [
       "npm-badges",
-      220
+      221
     ],
     [
       "@authing/nextjs",
@@ -553,5 +553,5 @@
       54
     ]
   ],
-  "sum": 679417
+  "sum": 679675
 }
