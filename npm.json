@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      246011
+      246390
     ],
     [
       "gitbook-plugin-atoc",
-      146307
+      146312
     ],
     [
       "gitbook-plugin-donate",
-      58943
+      59002
     ],
     [
       "waliyun",
-      20251
+      20257
     ],
     [
       "@uua/icons",
-      6918
+      6920
     ],
     [
       "leader.js.cool",
-      6680
+      6681
     ],
     [
       "yunpian-sdk",
@@ -30,11 +30,11 @@
     ],
     [
       "@white-matrix/eslint-config",
-      6591
+      6613
     ],
     [
       "koa-swagger-ui",
-      6034
+      6037
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,15 +42,15 @@
     ],
     [
       "@white-matrix/prettier-config",
-      5716
+      5738
     ],
     [
       "@white-matrix/blindbox-sdk",
-      5552
+      5553
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      5434
+      5447
     ],
     [
       "wqcloud",
@@ -58,7 +58,7 @@
     ],
     [
       "@white-matrix/nft-blind-box-model",
-      4444
+      4445
     ],
     [
       "v0",
@@ -66,7 +66,7 @@
     ],
     [
       "@white-matrix/extensions",
-      4003
+      4030
     ],
     [
       "@white-matrix/nft-blind-box-river-nft-dao",
@@ -74,15 +74,15 @@
     ],
     [
       "appkey",
-      3755
+      3756
     ],
     [
       "koa-api-logger",
-      3739
+      3740
     ],
     [
       "coding-sdk",
-      3603
+      3604
     ],
     [
       "wtoys",
@@ -90,55 +90,55 @@
     ],
     [
       "mock-redis",
-      3048
+      3052
+    ],
+    [
+      "@white-matrix/eslint-config-ts",
+      2937
     ],
     [
       "tuling",
       2926
     ],
     [
-      "@white-matrix/eslint-config-ts",
-      2905
-    ],
-    [
       "@white-matrix/chainide-proxy-implements",
-      2812
+      2833
     ],
     [
       "@white-matrix/event-emitter",
-      2691
+      2713
     ],
     [
       "@white-matrix/react-split",
-      2666
+      2687
     ],
     [
       "@white-matrix/binance-wallet-service",
-      2549
+      2550
+    ],
+    [
+      "eslint-config-willin",
+      2510
     ],
     [
       "@white-matrix/nervos-wallet-service",
       2509
     ],
     [
-      "eslint-config-willin",
-      2508
-    ],
-    [
       "@white-matrix/web3-solidity-wallet",
-      2442
+      2463
     ],
     [
       "@white-matrix/event-util",
-      2423
+      2444
     ],
     [
       "vchart",
-      2299
+      2301
     ],
     [
       "gitbook-plugin-autotheme",
-      2268
+      2270
     ],
     [
       "hapi-auth-redis",
@@ -174,7 +174,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1783
+      1784
     ],
     [
       "gitbook-plugin-theme-material",
@@ -186,11 +186,11 @@
     ],
     [
       "coding-net",
-      1655
+      1656
     ],
     [
       "@white-matrix/rivermen-estate-sdk",
-      1588
+      1589
     ],
     [
       "@white-matrix/matrix-airdrop-sdk",
@@ -258,7 +258,7 @@
     ],
     [
       "less.js.cool",
-      1022
+      1023
     ],
     [
       "@white-matrix/matrix-marketplace-nft-sdk",
@@ -310,7 +310,7 @@
     ],
     [
       "coding-deploy",
-      801
+      802
     ],
     [
       "awth",
@@ -330,7 +330,7 @@
     ],
     [
       "pipefn",
-      760
+      761
     ],
     [
       "wechaty-authing",
@@ -385,12 +385,12 @@
       573
     ],
     [
-      "@white-matrix/amethyst-protocol-v2-sdk",
+      "@dwing/koa-joi-router",
       563
     ],
     [
-      "@dwing/koa-joi-router",
-      561
+      "@white-matrix/amethyst-protocol-v2-sdk",
+      563
     ],
     [
       "rxdis",
@@ -398,7 +398,7 @@
     ],
     [
       "@white-matrix/bsn-wallet-service",
-      512
+      515
     ],
     [
       "@white-matrix/request-client-generator",
@@ -418,7 +418,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      481
+      482
     ],
     [
       "edd",
@@ -426,7 +426,7 @@
     ],
     [
       "hdd",
-      448
+      449
     ],
     [
       "willin",
@@ -526,7 +526,7 @@
     ],
     [
       "@white-matrix/connect-wallet-service",
-      157
+      158
     ],
     [
       "@white-matrix/hardhat-kms-signer",
@@ -546,12 +546,12 @@
     ],
     [
       "passport-authing",
-      80
+      81
     ],
     [
       "@white-matrix/react-web3-wallet",
       54
     ]
   ],
-  "sum": 679675
+  "sum": 680383
 }
