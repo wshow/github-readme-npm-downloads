@@ -2,35 +2,35 @@
   "stats": [
     [
       "hexo-wordcount",
-      246390
+      246716
     ],
     [
       "gitbook-plugin-atoc",
-      146312
+      146314
     ],
     [
       "gitbook-plugin-donate",
-      59002
+      59058
     ],
     [
       "waliyun",
-      20257
+      20263
     ],
     [
       "@uua/icons",
-      6920
+      6921
     ],
     [
       "leader.js.cool",
       6681
     ],
     [
-      "yunpian-sdk",
-      6621
+      "@white-matrix/eslint-config",
+      6631
     ],
     [
-      "@white-matrix/eslint-config",
-      6613
+      "yunpian-sdk",
+      6621
     ],
     [
       "koa-swagger-ui",
@@ -42,15 +42,15 @@
     ],
     [
       "@white-matrix/prettier-config",
-      5738
+      5754
     ],
     [
       "@white-matrix/blindbox-sdk",
-      5553
+      5560
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      5447
+      5465
     ],
     [
       "wqcloud",
@@ -58,7 +58,7 @@
     ],
     [
       "@white-matrix/nft-blind-box-model",
-      4445
+      4459
     ],
     [
       "v0",
@@ -66,7 +66,7 @@
     ],
     [
       "@white-matrix/extensions",
-      4030
+      4061
     ],
     [
       "@white-matrix/nft-blind-box-river-nft-dao",
@@ -74,7 +74,7 @@
     ],
     [
       "appkey",
-      3756
+      3757
     ],
     [
       "koa-api-logger",
@@ -90,7 +90,7 @@
     ],
     [
       "mock-redis",
-      3052
+      3056
     ],
     [
       "@white-matrix/eslint-config-ts",
@@ -98,43 +98,43 @@
     ],
     [
       "tuling",
-      2926
+      2927
     ],
     [
       "@white-matrix/chainide-proxy-implements",
-      2833
+      2836
     ],
     [
       "@white-matrix/event-emitter",
-      2713
+      2723
     ],
     [
       "@white-matrix/react-split",
-      2687
+      2690
     ],
     [
       "@white-matrix/binance-wallet-service",
-      2550
-    ],
-    [
-      "eslint-config-willin",
-      2510
+      2558
     ],
     [
       "@white-matrix/nervos-wallet-service",
-      2509
+      2515
+    ],
+    [
+      "eslint-config-willin",
+      2511
     ],
     [
       "@white-matrix/web3-solidity-wallet",
-      2463
+      2468
     ],
     [
       "@white-matrix/event-util",
-      2444
+      2447
     ],
     [
       "vchart",
-      2301
+      2302
     ],
     [
       "gitbook-plugin-autotheme",
@@ -174,7 +174,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1784
+      1788
     ],
     [
       "gitbook-plugin-theme-material",
@@ -182,7 +182,7 @@
     ],
     [
       "@white-matrix/matrix-world-voucher-sdk",
-      1762
+      1764
     ],
     [
       "coding-net",
@@ -190,11 +190,11 @@
     ],
     [
       "@white-matrix/rivermen-estate-sdk",
-      1589
+      1636
     ],
     [
       "@white-matrix/matrix-airdrop-sdk",
-      1525
+      1527
     ],
     [
       "@white-matrix/chainide-tools",
@@ -210,11 +210,11 @@
     ],
     [
       "@white-matrix/matrix-flow-market-sdk",
-      1382
+      1430
     ],
     [
       "@white-matrix/fe-lint-generate",
-      1313
+      1315
     ],
     [
       "@white-matrix/hyperledger-trustid",
@@ -250,34 +250,34 @@
     ],
     [
       "@white-matrix/husky-config",
-      1082
+      1084
+    ],
+    [
+      "@white-matrix/matrix-marketplace-nft-sdk",
+      1061
     ],
     [
       "@white-matrix/matrix-world-voucher-flow-js-sdk",
-      1053
+      1055
     ],
     [
       "less.js.cool",
       1023
     ],
     [
-      "@white-matrix/matrix-marketplace-nft-sdk",
-      1021
-    ],
-    [
       "mmonit",
-      1015
+      1017
     ],
     [
       "mp-sdk",
       1013
     ],
     [
-      "@xibang/node-common",
-      992
+      "hyperapp-i18n",
+      994
     ],
     [
-      "hyperapp-i18n",
+      "@xibang/node-common",
       992
     ],
     [
@@ -302,7 +302,7 @@
     ],
     [
       "@white-matrix/one-sync-sdk",
-      807
+      809
     ],
     [
       "@shiwangme/redis",
@@ -318,7 +318,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      797
+      798
     ],
     [
       "@x12/env",
@@ -398,11 +398,11 @@
     ],
     [
       "@white-matrix/bsn-wallet-service",
-      515
+      516
     ],
     [
       "@white-matrix/request-client-generator",
-      507
+      513
     ],
     [
       "@uua/ip2c",
@@ -553,5 +553,5 @@
       54
     ]
   ],
-  "sum": 680383
+  "sum": 681087
 }
