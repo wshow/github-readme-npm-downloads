@@ -2,55 +2,55 @@
   "stats": [
     [
       "hexo-wordcount",
-      249116
+      249324
     ],
     [
       "gitbook-plugin-atoc",
-      146360
+      146366
     ],
     [
       "gitbook-plugin-donate",
-      59637
+      59842
     ],
     [
       "waliyun",
-      20338
+      20359
     ],
     [
       "@uua/icons",
-      6942
+      6943
     ],
     [
       "@white-matrix/eslint-config",
-      6858
+      6887
     ],
     [
       "leader.js.cool",
-      6683
+      6684
     ],
     [
       "yunpian-sdk",
-      6638
+      6639
     ],
     [
       "koa-swagger-ui",
-      6038
+      6040
     ],
     [
       "@white-matrix/prettier-config",
-      5848
+      5878
     ],
     [
       "gitbook-plugin-wordcount",
       5772
     ],
     [
-      "@white-matrix/blindbox-sdk",
-      5641
+      "@white-matrix/metamask-wallet-service",
+      5645
     ],
     [
-      "@white-matrix/metamask-wallet-service",
-      5633
+      "@white-matrix/blindbox-sdk",
+      5641
     ],
     [
       "wqcloud",
@@ -58,7 +58,7 @@
     ],
     [
       "@white-matrix/nft-blind-box-model",
-      4512
+      4513
     ],
     [
       "v0",
@@ -66,19 +66,19 @@
     ],
     [
       "@white-matrix/extensions",
-      4236
+      4260
     ],
     [
       "@white-matrix/nft-blind-box-river-nft-dao",
-      3875
+      3876
     ],
     [
       "appkey",
-      3766
+      3768
     ],
     [
       "koa-api-logger",
-      3748
+      3752
     ],
     [
       "coding-sdk",
@@ -86,15 +86,15 @@
     ],
     [
       "wtoys",
-      3104
+      3105
     ],
     [
       "mock-redis",
-      3072
+      3081
     ],
     [
       "@white-matrix/eslint-config-ts",
-      2967
+      2969
     ],
     [
       "tuling",
@@ -102,19 +102,23 @@
     ],
     [
       "@white-matrix/chainide-proxy-implements",
-      2875
+      2899
     ],
     [
       "@white-matrix/event-emitter",
-      2765
+      2789
     ],
     [
       "@white-matrix/react-split",
-      2729
+      2753
     ],
     [
       "@white-matrix/binance-wallet-service",
-      2583
+      2584
+    ],
+    [
+      "@white-matrix/web3-solidity-wallet",
+      2528
     ],
     [
       "@white-matrix/nervos-wallet-service",
@@ -122,30 +126,26 @@
     ],
     [
       "eslint-config-willin",
-      2520
-    ],
-    [
-      "@white-matrix/web3-solidity-wallet",
-      2504
+      2521
     ],
     [
       "@white-matrix/event-util",
-      2483
+      2507
     ],
     [
       "vchart",
-      2318
+      2323
     ],
     [
       "gitbook-plugin-autotheme",
       2276
     ],
     [
-      "hapi-auth-redis",
-      2009
+      "auto-deployer",
+      2010
     ],
     [
-      "auto-deployer",
+      "hapi-auth-redis",
       2009
     ],
     [
@@ -162,7 +162,7 @@
     ],
     [
       "atl",
-      1842
+      1843
     ],
     [
       "@white-matrix/nft-vspark-sdk",
@@ -246,7 +246,7 @@
     ],
     [
       "@x12/tasker",
-      1097
+      1098
     ],
     [
       "@white-matrix/husky-config",
@@ -270,7 +270,7 @@
     ],
     [
       "mmonit",
-      1017
+      1018
     ],
     [
       "hyperapp-i18n",
@@ -314,11 +314,11 @@
     ],
     [
       "awth",
-      803
+      804
     ],
     [
       "markdown-toc-gitbook",
-      798
+      799
     ],
     [
       "@x12/env",
@@ -342,7 +342,7 @@
     ],
     [
       "@authing/remix",
-      748
+      749
     ],
     [
       "h1de",
@@ -386,7 +386,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      571
+      572
     ],
     [
       "@white-matrix/amethyst-protocol-v2-sdk",
@@ -398,11 +398,11 @@
     ],
     [
       "@white-matrix/bsn-wallet-service",
-      525
+      528
     ],
     [
       "@white-matrix/request-client-generator",
-      514
+      515
     ],
     [
       "@uua/ip2c",
@@ -414,11 +414,11 @@
     ],
     [
       "sdk0",
-      491
+      492
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      488
+      489
     ],
     [
       "edd",
@@ -498,11 +498,11 @@
     ],
     [
       "random-target",
-      217
+      218
     ],
     [
       "afdian",
-      208
+      211
     ],
     [
       "@x12/task-types",
@@ -553,5 +553,5 @@
       56
     ]
   ],
-  "sum": 685810
+  "sum": 686515
 }
