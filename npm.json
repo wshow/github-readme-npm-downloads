@@ -2,15 +2,15 @@
   "stats": [
     [
       "hexo-wordcount",
-      249722
+      250070
     ],
     [
       "gitbook-plugin-atoc",
-      146375
+      146376
     ],
     [
       "gitbook-plugin-donate",
-      60210
+      60232
     ],
     [
       "waliyun",
@@ -18,7 +18,7 @@
     ],
     [
       "@uua/icons",
-      6953
+      6962
     ],
     [
       "@white-matrix/eslint-config",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      6684
+      6685
     ],
     [
       "yunpian-sdk",
@@ -34,7 +34,7 @@
     ],
     [
       "koa-swagger-ui",
-      6043
+      6047
     ],
     [
       "@white-matrix/prettier-config",
@@ -42,11 +42,11 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5776
+      5778
     ],
     [
       "@white-matrix/metamask-wallet-service",
-      5663
+      5669
     ],
     [
       "@white-matrix/blindbox-sdk",
@@ -62,11 +62,11 @@
     ],
     [
       "v0",
-      4393
+      4394
     ],
     [
       "@white-matrix/extensions",
-      4292
+      4301
     ],
     [
       "@white-matrix/nft-blind-box-river-nft-dao",
@@ -78,7 +78,7 @@
     ],
     [
       "koa-api-logger",
-      3753
+      3755
     ],
     [
       "coding-sdk",
@@ -118,7 +118,7 @@
     ],
     [
       "@white-matrix/web3-solidity-wallet",
-      2557
+      2558
     ],
     [
       "@white-matrix/nervos-wallet-service",
@@ -134,7 +134,7 @@
     ],
     [
       "vchart",
-      2325
+      2329
     ],
     [
       "gitbook-plugin-autotheme",
@@ -142,11 +142,11 @@
     ],
     [
       "hapi-auth-redis",
-      2012
+      2013
     ],
     [
       "auto-deployer",
-      2011
+      2013
     ],
     [
       "wqcloud-video",
@@ -158,11 +158,11 @@
     ],
     [
       "hello-dolly",
-      1847
+      1848
     ],
     [
       "atl",
-      1843
+      1844
     ],
     [
       "@white-matrix/nft-vspark-sdk",
@@ -178,7 +178,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1787
+      1789
     ],
     [
       "@white-matrix/matrix-world-voucher-sdk",
@@ -230,7 +230,7 @@
     ],
     [
       "@x12/hosts",
-      1261
+      1262
     ],
     [
       "@x12/di",
@@ -262,11 +262,11 @@
     ],
     [
       "less.js.cool",
-      1025
+      1029
     ],
     [
       "mp-sdk",
-      1020
+      1021
     ],
     [
       "mmonit",
@@ -277,12 +277,12 @@
       998
     ],
     [
-      "@xibang/node-common",
+      "lslint",
       997
     ],
     [
-      "lslint",
-      996
+      "@xibang/node-common",
+      997
     ],
     [
       "@white-matrix/nft-snapshot",
@@ -318,11 +318,11 @@
     ],
     [
       "markdown-toc-gitbook",
-      800
+      803
     ],
     [
       "@authing/remix",
-      787
+      790
     ],
     [
       "@uua/core",
@@ -334,7 +334,7 @@
     ],
     [
       "pipefn",
-      762
+      763
     ],
     [
       "wechaty-authing",
@@ -350,7 +350,7 @@
     ],
     [
       "remix-i18n",
-      729
+      731
     ],
     [
       "wulian",
@@ -370,19 +370,19 @@
     ],
     [
       "z-curve",
-      666
+      667
     ],
     [
       "vuepress-theme-asshole",
       610
     ],
     [
-      "@dwing/koa-joi-router",
-      575
+      "@willin/eslint-config",
+      579
     ],
     [
-      "@willin/eslint-config",
-      575
+      "@dwing/koa-joi-router",
+      576
     ],
     [
       "leancloud-sdk",
@@ -394,11 +394,11 @@
     ],
     [
       "rxdis",
-      550
+      551
     ],
     [
       "@white-matrix/bsn-wallet-service",
-      532
+      535
     ],
     [
       "@white-matrix/request-client-generator",
@@ -422,7 +422,7 @@
     ],
     [
       "edd",
-      464
+      465
     ],
     [
       "hdd",
@@ -473,12 +473,12 @@
       279
     ],
     [
-      "@x12/mongodb",
-      272
+      "@authing/nextjs",
+      273
     ],
     [
-      "@authing/nextjs",
-      270
+      "@x12/mongodb",
+      272
     ],
     [
       "@x12/promise",
@@ -506,11 +506,11 @@
     ],
     [
       "@x12/task-types",
-      207
+      208
     ],
     [
       "@x12/rx-pool",
-      180
+      181
     ],
     [
       "@white-matrix/simple-plugin",
@@ -530,7 +530,7 @@
     ],
     [
       "@white-matrix/hardhat-kms-signer",
-      156
+      157
     ],
     [
       "@white-matrix/binance-wallet",
@@ -546,7 +546,7 @@
     ],
     [
       "passport-authing",
-      81
+      82
     ],
     [
       "@white-matrix/react-web3-wallet",
@@ -557,5 +557,5 @@
       0
     ]
   ],
-  "sum": 687685
+  "sum": 688136
 }
