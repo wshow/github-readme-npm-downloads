@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      252549
+      252826
     ],
     [
       "gitbook-plugin-atoc",
-      146475
+      146478
     ],
     [
       "gitbook-plugin-donate",
-      61046
+      61106
     ],
     [
       "waliyun",
-      20435
+      20438
     ],
     [
       "@uua/icons",
@@ -26,11 +26,11 @@
     ],
     [
       "yunpian-sdk",
-      6646
+      6648
     ],
     [
       "koa-swagger-ui",
-      6053
+      6054
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,15 +38,15 @@
     ],
     [
       "wqcloud",
-      5104
+      5106
     ],
     [
       "v0",
-      4402
+      4404
     ],
     [
       "appkey",
-      3775
+      3776
     ],
     [
       "koa-api-logger",
@@ -58,15 +58,15 @@
     ],
     [
       "mock-redis",
-      3113
+      3119
     ],
     [
       "wtoys",
-      3110
+      3111
     ],
     [
       "tuling",
-      2944
+      2945
     ],
     [
       "eslint-config-willin",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2340
+      2341
     ],
     [
       "gitbook-plugin-autotheme",
-      2286
+      2287
     ],
     [
       "auto-deployer",
@@ -90,11 +90,11 @@
     ],
     [
       "wqcloud-video",
-      2001
+      2002
     ],
     [
       "wrescuetime",
-      1931
+      1932
     ],
     [
       "hello-dolly",
@@ -106,15 +106,15 @@
     ],
     [
       "hyperapp.js.cool",
-      1823
+      1824
     ],
     [
       "nuxtpress",
-      1796
+      1797
     ],
     [
       "gitbook-plugin-theme-material",
-      1792
+      1793
     ],
     [
       "coding-net",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1003
+      1004
     ],
     [
       "hyperapp-i18n",
@@ -174,18 +174,18 @@
     ],
     [
       "nativescript-icam",
-      845
+      846
     ],
     [
       "@shiwangme/redis",
       814
     ],
     [
-      "markdown-toc-gitbook",
-      808
+      "coding-deploy",
+      809
     ],
     [
-      "coding-deploy",
+      "markdown-toc-gitbook",
       808
     ],
     [
@@ -202,7 +202,7 @@
     ],
     [
       "@x12/env",
-      770
+      772
     ],
     [
       "pipefn",
@@ -210,7 +210,7 @@
     ],
     [
       "wechaty-authing",
-      758
+      759
     ],
     [
       "h1de",
@@ -218,7 +218,7 @@
     ],
     [
       "remix-i18n",
-      733
+      734
     ],
     [
       "wulian",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      667
+      668
     ],
     [
       "vuepress-theme-asshole",
@@ -254,7 +254,7 @@
     ],
     [
       "rxdis",
-      555
+      556
     ],
     [
       "@uua/ip2c",
@@ -298,7 +298,7 @@
     ],
     [
       "whiteq",
-      290
+      291
     ],
     [
       "@authing/nextjs",
@@ -318,7 +318,7 @@
     ],
     [
       "npm-badges",
-      224
+      225
     ],
     [
       "random-target",
@@ -341,5 +341,5 @@
       84
     ]
   ],
-  "sum": 604792
+  "sum": 605169
 }
