@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      252826
+      253067
     ],
     [
       "gitbook-plugin-atoc",
-      146478
+      146482
     ],
     [
       "gitbook-plugin-donate",
-      61106
+      61175
     ],
     [
       "waliyun",
-      20438
+      20439
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "leader.js.cool",
-      6692
+      6693
     ],
     [
       "yunpian-sdk",
@@ -46,7 +46,7 @@
     ],
     [
       "appkey",
-      3776
+      3777
     ],
     [
       "koa-api-logger",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2341
+      2342
     ],
     [
       "gitbook-plugin-autotheme",
@@ -190,7 +190,7 @@
     ],
     [
       "@authing/remix",
-      806
+      807
     ],
     [
       "awth",
@@ -206,7 +206,7 @@
     ],
     [
       "pipefn",
-      763
+      764
     ],
     [
       "wechaty-authing",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      668
+      671
     ],
     [
       "vuepress-theme-asshole",
@@ -302,7 +302,7 @@
     ],
     [
       "@authing/nextjs",
-      285
+      286
     ],
     [
       "@x12/mongodb",
@@ -326,7 +326,7 @@
     ],
     [
       "afdian",
-      213
+      214
     ],
     [
       "@x12/task-types",
@@ -338,8 +338,8 @@
     ],
     [
       "passport-authing",
-      84
+      85
     ]
   ],
-  "sum": 605169
+  "sum": 605495
 }
