@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      253067
+      253227
     ],
     [
       "gitbook-plugin-atoc",
-      146482
+      146483
     ],
     [
       "gitbook-plugin-donate",
-      61175
+      61184
     ],
     [
       "waliyun",
-      20439
+      20475
     ],
     [
       "@uua/icons",
-      6984
+      6985
     ],
     [
       "leader.js.cool",
-      6693
+      6694
     ],
     [
       "yunpian-sdk",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2342
+      2344
     ],
     [
       "gitbook-plugin-autotheme",
@@ -106,7 +106,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1824
+      1827
     ],
     [
       "nuxtpress",
@@ -181,12 +181,12 @@
       814
     ],
     [
-      "coding-deploy",
+      "markdown-toc-gitbook",
       809
     ],
     [
-      "markdown-toc-gitbook",
-      808
+      "coding-deploy",
+      809
     ],
     [
       "@authing/remix",
@@ -198,7 +198,7 @@
     ],
     [
       "@uua/core",
-      774
+      775
     ],
     [
       "@x12/env",
@@ -258,7 +258,7 @@
     ],
     [
       "@uua/ip2c",
-      498
+      502
     ],
     [
       "sdk0",
@@ -314,7 +314,7 @@
     ],
     [
       "ggql",
-      231
+      232
     ],
     [
       "npm-badges",
@@ -341,5 +341,5 @@
       85
     ]
   ],
-  "sum": 605495
+  "sum": 605715
 }
