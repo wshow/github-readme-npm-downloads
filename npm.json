@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      253227
+      253502
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,7 +10,7 @@
     ],
     [
       "gitbook-plugin-donate",
-      61184
+      61192
     ],
     [
       "waliyun",
@@ -26,11 +26,11 @@
     ],
     [
       "yunpian-sdk",
-      6648
+      6649
     ],
     [
       "koa-swagger-ui",
-      6054
+      6055
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5106
+      5107
     ],
     [
       "v0",
@@ -46,11 +46,11 @@
     ],
     [
       "appkey",
-      3777
+      3778
     ],
     [
       "koa-api-logger",
-      3758
+      3759
     ],
     [
       "coding-sdk",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2344
+      2347
     ],
     [
       "gitbook-plugin-autotheme",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2023
+      2024
     ],
     [
       "hapi-auth-redis",
@@ -102,7 +102,7 @@
     ],
     [
       "atl",
-      1850
+      1851
     ],
     [
       "hyperapp.js.cool",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1667
+      1668
     ],
     [
       "wno",
@@ -138,11 +138,11 @@
     ],
     [
       "wnm",
-      1183
+      1184
     ],
     [
       "@x12/tasker",
-      1100
+      1103
     ],
     [
       "less.js.cool",
@@ -158,7 +158,7 @@
     ],
     [
       "@xibang/node-common",
-      1014
+      1015
     ],
     [
       "lslint",
@@ -178,7 +178,7 @@
     ],
     [
       "@shiwangme/redis",
-      814
+      815
     ],
     [
       "markdown-toc-gitbook",
@@ -194,11 +194,11 @@
     ],
     [
       "awth",
-      806
+      807
     ],
     [
       "@uua/core",
-      775
+      776
     ],
     [
       "@x12/env",
@@ -322,7 +322,7 @@
     ],
     [
       "random-target",
-      219
+      220
     ],
     [
       "afdian",
@@ -330,7 +330,7 @@
     ],
     [
       "@x12/task-types",
-      210
+      211
     ],
     [
       "@x12/rx-pool",
@@ -341,5 +341,5 @@
       85
     ]
   ],
-  "sum": 605715
+  "sum": 606019
 }
