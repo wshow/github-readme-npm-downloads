@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      254252
+      254589
     ],
     [
       "gitbook-plugin-atoc",
-      146485
+      146487
     ],
     [
       "gitbook-plugin-donate",
-      61344
+      61395
     ],
     [
       "waliyun",
-      20485
+      20488
     ],
     [
       "@uua/icons",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6056
+      6060
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4407
+      4410
     ],
     [
       "appkey",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      2541
+      2542
     ],
     [
       "vchart",
-      2350
+      2351
     ],
     [
       "gitbook-plugin-autotheme",
@@ -106,7 +106,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1829
+      1830
     ],
     [
       "nuxtpress",
@@ -126,7 +126,7 @@
     ],
     [
       "@x12/hosts",
-      1266
+      1272
     ],
     [
       "v0-scf",
@@ -134,7 +134,7 @@
     ],
     [
       "@x12/di",
-      1235
+      1238
     ],
     [
       "wnm",
@@ -174,7 +174,7 @@
     ],
     [
       "nativescript-icam",
-      846
+      847
     ],
     [
       "@shiwangme/redis",
@@ -202,7 +202,7 @@
     ],
     [
       "@x12/env",
-      773
+      776
     ],
     [
       "pipefn",
@@ -218,7 +218,7 @@
     ],
     [
       "remix-i18n",
-      737
+      738
     ],
     [
       "wulian",
@@ -242,7 +242,7 @@
     ],
     [
       "@willin/eslint-config",
-      584
+      587
     ],
     [
       "leancloud-sdk",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      493
+      494
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -326,7 +326,7 @@
     ],
     [
       "afdian",
-      214
+      216
     ],
     [
       "@x12/task-types",
@@ -341,5 +341,5 @@
       85
     ]
   ],
-  "sum": 606982
+  "sum": 607405
 }
