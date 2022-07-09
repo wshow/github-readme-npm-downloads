@@ -10,12 +10,12 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                         | Downloads  |
 | -------------------------------------------------------------------------------------------- | ---------- |
-| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                               | 254589     |
-| [gitbook-plugin-atoc](https://www.npmjs.com/package/gitbook-plugin-atoc)                     | 146487     |
-| [gitbook-plugin-donate](https://www.npmjs.com/package/gitbook-plugin-donate)                 | 61395      |
+| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                               | 254909     |
+| [gitbook-plugin-atoc](https://www.npmjs.com/package/gitbook-plugin-atoc)                     | 146495     |
+| [gitbook-plugin-donate](https://www.npmjs.com/package/gitbook-plugin-donate)                 | 61444      |
 | [waliyun](https://www.npmjs.com/package/waliyun)                                             | 20488      |
 | [@uua/icons](https://www.npmjs.com/package/@uua/icons)                                       | 6991       |
-| [leader.js.cool](https://www.npmjs.com/package/leader.js.cool)                               | 6695       |
+| [leader.js.cool](https://www.npmjs.com/package/leader.js.cool)                               | 6696       |
 | [yunpian-sdk](https://www.npmjs.com/package/yunpian-sdk)                                     | 6656       |
 | [koa-swagger-ui](https://www.npmjs.com/package/koa-swagger-ui)                               | 6060       |
 | [gitbook-plugin-wordcount](https://www.npmjs.com/package/gitbook-plugin-wordcount)           | 5780       |
@@ -28,7 +28,7 @@ All of my npm packages and their downloads
 | [wtoys](https://www.npmjs.com/package/wtoys)                                                 | 3113       |
 | [tuling](https://www.npmjs.com/package/tuling)                                               | 2945       |
 | [eslint-config-willin](https://www.npmjs.com/package/eslint-config-willin)                   | 2542       |
-| [vchart](https://www.npmjs.com/package/vchart)                                               | 2351       |
+| [vchart](https://www.npmjs.com/package/vchart)                                               | 2352       |
 | [gitbook-plugin-autotheme](https://www.npmjs.com/package/gitbook-plugin-autotheme)           | 2287       |
 | [auto-deployer](https://www.npmjs.com/package/auto-deployer)                                 | 2024       |
 | [hapi-auth-redis](https://www.npmjs.com/package/hapi-auth-redis)                             | 2022       |
@@ -36,7 +36,7 @@ All of my npm packages and their downloads
 | [wrescuetime](https://www.npmjs.com/package/wrescuetime)                                     | 1933       |
 | [hello-dolly](https://www.npmjs.com/package/hello-dolly)                                     | 1852       |
 | [atl](https://www.npmjs.com/package/atl)                                                     | 1851       |
-| [hyperapp.js.cool](https://www.npmjs.com/package/hyperapp.js.cool)                           | 1830       |
+| [hyperapp.js.cool](https://www.npmjs.com/package/hyperapp.js.cool)                           | 1831       |
 | [nuxtpress](https://www.npmjs.com/package/nuxtpress)                                         | 1797       |
 | [gitbook-plugin-theme-material](https://www.npmjs.com/package/gitbook-plugin-theme-material) | 1793       |
 | [coding-net](https://www.npmjs.com/package/coding-net)                                       | 1668       |
@@ -65,18 +65,18 @@ All of my npm packages and their downloads
 | [wechaty-authing](https://www.npmjs.com/package/wechaty-authing)                             | 759        |
 | [h1de](https://www.npmjs.com/package/h1de)                                                   | 745        |
 | [remix-i18n](https://www.npmjs.com/package/remix-i18n)                                       | 738        |
-| [wulian](https://www.npmjs.com/package/wulian)                                               | 707        |
+| [wulian](https://www.npmjs.com/package/wulian)                                               | 708        |
 | [uua](https://www.npmjs.com/package/uua)                                                     | 687        |
 | [wdouban](https://www.npmjs.com/package/wdouban)                                             | 682        |
 | [z-curve](https://www.npmjs.com/package/z-curve)                                             | 671        |
 | [vuepress-theme-asshole](https://www.npmjs.com/package/vuepress-theme-asshole)               | 611        |
 | [@willin/eslint-config](https://www.npmjs.com/package/@willin/eslint-config)                 | 587        |
 | [leancloud-sdk](https://www.npmjs.com/package/leancloud-sdk)                                 | 578        |
-| [@dwing/koa-joi-router](https://www.npmjs.com/package/@dwing/koa-joi-router)                 | 577        |
+| [@dwing/koa-joi-router](https://www.npmjs.com/package/@dwing/koa-joi-router)                 | 578        |
 | [rxdis](https://www.npmjs.com/package/rxdis)                                                 | 557        |
 | [@uua/ip2c](https://www.npmjs.com/package/@uua/ip2c)                                         | 502        |
 | [sdk0](https://www.npmjs.com/package/sdk0)                                                   | 494        |
-| [@dwing/azure-iot-device-mqtt](https://www.npmjs.com/package/@dwing/azure-iot-device-mqtt)   | 489        |
+| [@dwing/azure-iot-device-mqtt](https://www.npmjs.com/package/@dwing/azure-iot-device-mqtt)   | 490        |
 | [edd](https://www.npmjs.com/package/edd)                                                     | 467        |
 | [hdd](https://www.npmjs.com/package/hdd)                                                     | 453        |
 | [willin](https://www.npmjs.com/package/willin)                                               | 422        |
@@ -91,9 +91,9 @@ All of my npm packages and their downloads
 | [ggql](https://www.npmjs.com/package/ggql)                                                   | 232        |
 | [npm-badges](https://www.npmjs.com/package/npm-badges)                                       | 225        |
 | [random-target](https://www.npmjs.com/package/random-target)                                 | 220        |
-| [afdian](https://www.npmjs.com/package/afdian)                                               | 216        |
+| [afdian](https://www.npmjs.com/package/afdian)                                               | 217        |
 | [@x12/task-types](https://www.npmjs.com/package/@x12/task-types)                             | 211        |
 | [@x12/rx-pool](https://www.npmjs.com/package/@x12/rx-pool)                                   | 183        |
 | [passport-authing](https://www.npmjs.com/package/passport-authing)                           | 85         |
-| **Sum**                                                                                      | **607405** |
+| **Sum**                                                                                      | **607789** |
 <!-- AUTO-GENERATED-CONTENT:END -->
