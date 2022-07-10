@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      254909
+      255310
     ],
     [
       "gitbook-plugin-atoc",
-      146495
+      146499
     ],
     [
       "gitbook-plugin-donate",
-      61444
+      61498
     ],
     [
       "waliyun",
-      20488
+      20494
     ],
     [
       "@uua/icons",
-      6991
+      6993
     ],
     [
       "leader.js.cool",
@@ -26,11 +26,11 @@
     ],
     [
       "yunpian-sdk",
-      6656
+      6657
     ],
     [
       "koa-swagger-ui",
-      6060
+      6061
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,15 +38,15 @@
     ],
     [
       "wqcloud",
-      5110
+      5111
     ],
     [
       "v0",
-      4410
+      4411
     ],
     [
       "appkey",
-      3778
+      3779
     ],
     [
       "koa-api-logger",
@@ -54,11 +54,11 @@
     ],
     [
       "coding-sdk",
-      3622
+      3623
     ],
     [
       "mock-redis",
-      3121
+      3125
     ],
     [
       "wtoys",
@@ -66,15 +66,15 @@
     ],
     [
       "tuling",
-      2945
+      2947
     ],
     [
       "eslint-config-willin",
-      2542
+      2543
     ],
     [
       "vchart",
-      2352
+      2354
     ],
     [
       "gitbook-plugin-autotheme",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2024
+      2025
     ],
     [
       "hapi-auth-redis",
@@ -90,19 +90,19 @@
     ],
     [
       "wqcloud-video",
-      2003
+      2004
     ],
     [
       "wrescuetime",
-      1933
+      1934
     ],
     [
       "hello-dolly",
-      1852
+      1855
     ],
     [
       "atl",
-      1851
+      1852
     ],
     [
       "hyperapp.js.cool",
@@ -118,11 +118,11 @@
     ],
     [
       "coding-net",
-      1668
+      1669
     ],
     [
       "wno",
-      1450
+      1451
     ],
     [
       "@x12/hosts",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1006
+      1007
     ],
     [
       "hyperapp-i18n",
@@ -181,6 +181,10 @@
       815
     ],
     [
+      "coding-deploy",
+      810
+    ],
+    [
       "markdown-toc-gitbook",
       809
     ],
@@ -189,12 +193,8 @@
       809
     ],
     [
-      "coding-deploy",
-      809
-    ],
-    [
       "awth",
-      807
+      808
     ],
     [
       "@uua/core",
@@ -222,7 +222,7 @@
     ],
     [
       "wulian",
-      708
+      709
     ],
     [
       "uua",
@@ -270,7 +270,7 @@
     ],
     [
       "edd",
-      467
+      468
     ],
     [
       "hdd",
@@ -286,7 +286,7 @@
     ],
     [
       "@xibang/mysql",
-      393
+      395
     ],
     [
       "fetch-pro",
@@ -302,7 +302,7 @@
     ],
     [
       "@authing/nextjs",
-      287
+      288
     ],
     [
       "@x12/mongodb",
@@ -326,7 +326,7 @@
     ],
     [
       "afdian",
-      217
+      220
     ],
     [
       "@x12/task-types",
@@ -341,5 +341,5 @@
       85
     ]
   ],
-  "sum": 607789
+  "sum": 608291
 }
