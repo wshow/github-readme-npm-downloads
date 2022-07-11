@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      255310
+      255504
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      61498
+      61505
     ],
     [
       "waliyun",
-      20494
+      20497
     ],
     [
       "@uua/icons",
-      6993
+      6994
     ],
     [
       "leader.js.cool",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6061
+      6062
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,11 +42,11 @@
     ],
     [
       "v0",
-      4411
+      4426
     ],
     [
       "appkey",
-      3779
+      3784
     ],
     [
       "koa-api-logger",
@@ -66,7 +66,7 @@
     ],
     [
       "tuling",
-      2947
+      2948
     ],
     [
       "eslint-config-willin",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2354
+      2356
     ],
     [
       "gitbook-plugin-autotheme",
-      2287
+      2289
     ],
     [
       "auto-deployer",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1669
+      1670
     ],
     [
       "wno",
@@ -130,7 +130,7 @@
     ],
     [
       "v0-scf",
-      1265
+      1266
     ],
     [
       "@x12/di",
@@ -206,7 +206,7 @@
     ],
     [
       "pipefn",
-      764
+      766
     ],
     [
       "wechaty-authing",
@@ -278,11 +278,11 @@
     ],
     [
       "willin",
-      422
+      423
     ],
     [
       "@xibang/redis",
-      419
+      421
     ],
     [
       "@xibang/mysql",
@@ -290,7 +290,7 @@
     ],
     [
       "fetch-pro",
-      374
+      378
     ],
     [
       "@x12/common",
@@ -321,11 +321,11 @@
       225
     ],
     [
-      "random-target",
-      220
+      "afdian",
+      223
     ],
     [
-      "afdian",
+      "random-target",
       220
     ],
     [
@@ -338,8 +338,8 @@
     ],
     [
       "passport-authing",
-      85
+      86
     ]
   ],
-  "sum": 608291
+  "sum": 608537
 }
