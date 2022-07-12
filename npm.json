@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      255504
+      255760
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      61505
+      61519
     ],
     [
       "waliyun",
-      20497
+      20500
     ],
     [
       "@uua/icons",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6062
+      6063
     ],
     [
       "gitbook-plugin-wordcount",
@@ -50,19 +50,19 @@
     ],
     [
       "koa-api-logger",
-      3759
+      3760
     ],
     [
       "coding-sdk",
       3623
     ],
     [
-      "mock-redis",
-      3125
+      "wtoys",
+      3126
     ],
     [
-      "wtoys",
-      3113
+      "mock-redis",
+      3125
     ],
     [
       "tuling",
@@ -70,19 +70,19 @@
     ],
     [
       "eslint-config-willin",
-      2543
+      2545
     ],
     [
       "vchart",
-      2356
+      2357
     ],
     [
       "gitbook-plugin-autotheme",
-      2289
+      2290
     ],
     [
       "auto-deployer",
-      2025
+      2029
     ],
     [
       "hapi-auth-redis",
@@ -106,7 +106,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1831
+      1832
     ],
     [
       "nuxtpress",
@@ -126,7 +126,7 @@
     ],
     [
       "@x12/hosts",
-      1272
+      1275
     ],
     [
       "v0-scf",
@@ -158,11 +158,11 @@
     ],
     [
       "@xibang/node-common",
-      1015
+      1019
     ],
     [
       "lslint",
-      1007
+      1010
     ],
     [
       "hyperapp-i18n",
@@ -194,11 +194,11 @@
     ],
     [
       "awth",
-      808
+      809
     ],
     [
       "@uua/core",
-      776
+      783
     ],
     [
       "@x12/env",
@@ -218,7 +218,7 @@
     ],
     [
       "remix-i18n",
-      738
+      744
     ],
     [
       "wulian",
@@ -242,7 +242,7 @@
     ],
     [
       "@willin/eslint-config",
-      587
+      589
     ],
     [
       "leancloud-sdk",
@@ -294,7 +294,7 @@
     ],
     [
       "@x12/common",
-      337
+      339
     ],
     [
       "whiteq",
@@ -341,5 +341,5 @@
       86
     ]
   ],
-  "sum": 608537
+  "sum": 608862
 }
