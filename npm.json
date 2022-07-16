@@ -2,35 +2,35 @@
   "stats": [
     [
       "hexo-wordcount",
-      256878
+      257143
     ],
     [
       "gitbook-plugin-atoc",
-      146519
+      146521
     ],
     [
       "gitbook-plugin-donate",
-      61912
+      62009
     ],
     [
       "waliyun",
-      20508
+      20513
     ],
     [
       "@uua/icons",
-      6996
+      6997
     ],
     [
       "leader.js.cool",
-      6707
+      6708
     ],
     [
       "yunpian-sdk",
-      6663
+      6676
     ],
     [
       "koa-swagger-ui",
-      6063
+      6064
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4433
+      4436
     ],
     [
       "appkey",
@@ -50,7 +50,7 @@
     ],
     [
       "koa-api-logger",
-      3760
+      3761
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3131
+      3137
     ],
     [
       "wtoys",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      2551
+      2552
     ],
     [
       "vchart",
-      2361
+      2364
     ],
     [
       "gitbook-plugin-autotheme",
@@ -138,7 +138,7 @@
     ],
     [
       "wnm",
-      1185
+      1190
     ],
     [
       "@x12/tasker",
@@ -146,7 +146,7 @@
     ],
     [
       "less.js.cool",
-      1032
+      1033
     ],
     [
       "mmonit",
@@ -170,7 +170,7 @@
     ],
     [
       "beian-domain",
-      881
+      883
     ],
     [
       "nativescript-icam",
@@ -189,20 +189,20 @@
       811
     ],
     [
+      "markdown-toc-gitbook",
+      810
+    ],
+    [
       "coding-deploy",
       810
     ],
     [
-      "markdown-toc-gitbook",
-      809
+      "wechaty-authing",
+      791
     ],
     [
       "@uua/core",
       783
-    ],
-    [
-      "wechaty-authing",
-      778
     ],
     [
       "@x12/env",
@@ -230,15 +230,15 @@
     ],
     [
       "wdouban",
-      683
+      686
     ],
     [
       "z-curve",
-      671
+      672
     ],
     [
       "vuepress-theme-asshole",
-      615
+      618
     ],
     [
       "@willin/eslint-config",
@@ -270,7 +270,7 @@
     ],
     [
       "edd",
-      469
+      470
     ],
     [
       "hdd",
@@ -278,7 +278,7 @@
     ],
     [
       "willin",
-      424
+      426
     ],
     [
       "@xibang/redis",
@@ -298,11 +298,11 @@
     ],
     [
       "@authing/nextjs",
-      298
+      299
     ],
     [
       "whiteq",
-      292
+      297
     ],
     [
       "@x12/mongodb",
@@ -341,5 +341,5 @@
       87
     ]
   ],
-  "sum": 610618
+  "sum": 611055
 }
