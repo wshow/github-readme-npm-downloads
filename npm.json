@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      257481
+      257705
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      62109
+      62238
     ],
     [
       "waliyun",
-      20514
+      20515
     ],
     [
       "@uua/icons",
-      6997
+      6998
     ],
     [
       "leader.js.cool",
@@ -54,7 +54,7 @@
     ],
     [
       "coding-sdk",
-      3623
+      3633
     ],
     [
       "mock-redis",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2037
+      2041
     ],
     [
       "hapi-auth-redis",
@@ -98,7 +98,7 @@
     ],
     [
       "atl",
-      1860
+      1864
     ],
     [
       "hello-dolly",
@@ -118,11 +118,11 @@
     ],
     [
       "coding-net",
-      1670
+      1673
     ],
     [
       "wno",
-      1453
+      1455
     ],
     [
       "v0-scf",
@@ -138,7 +138,7 @@
     ],
     [
       "wnm",
-      1190
+      1195
     ],
     [
       "@x12/tasker",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1011
+      1012
     ],
     [
       "hyperapp-i18n",
@@ -185,15 +185,15 @@
       821
     ],
     [
+      "coding-deploy",
+      814
+    ],
+    [
       "awth",
-      811
+      812
     ],
     [
       "markdown-toc-gitbook",
-      810
-    ],
-    [
-      "coding-deploy",
       810
     ],
     [
@@ -202,7 +202,7 @@
     ],
     [
       "@uua/core",
-      783
+      784
     ],
     [
       "@x12/env",
@@ -218,7 +218,7 @@
     ],
     [
       "h1de",
-      745
+      746
     ],
     [
       "wulian",
@@ -230,7 +230,7 @@
     ],
     [
       "wdouban",
-      686
+      689
     ],
     [
       "z-curve",
@@ -242,7 +242,7 @@
     ],
     [
       "@willin/eslint-config",
-      594
+      595
     ],
     [
       "@dwing/koa-joi-router",
@@ -258,7 +258,7 @@
     ],
     [
       "@uua/ip2c",
-      502
+      503
     ],
     [
       "sdk0",
@@ -290,7 +290,7 @@
     ],
     [
       "fetch-pro",
-      378
+      379
     ],
     [
       "@x12/common",
@@ -341,5 +341,5 @@
       87
     ]
   ],
-  "sum": 611539
+  "sum": 611936
 }
