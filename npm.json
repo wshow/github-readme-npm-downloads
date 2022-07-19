@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      257705
+      257890
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,7 +10,7 @@
     ],
     [
       "gitbook-plugin-donate",
-      62238
+      62373
     ],
     [
       "waliyun",
@@ -18,7 +18,7 @@
     ],
     [
       "@uua/icons",
-      6998
+      6999
     ],
     [
       "leader.js.cool",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4437
+      4439
     ],
     [
       "appkey",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2553
+      2560
     ],
     [
       "vchart",
@@ -106,7 +106,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1838
+      1839
     ],
     [
       "nuxtpress",
@@ -114,11 +114,11 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1795
+      1799
     ],
     [
       "coding-net",
-      1673
+      1676
     ],
     [
       "wno",
@@ -142,7 +142,7 @@
     ],
     [
       "@x12/tasker",
-      1103
+      1111
     ],
     [
       "less.js.cool",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1028
+      1029
     ],
     [
       "@xibang/node-common",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1012
+      1015
     ],
     [
       "hyperapp-i18n",
@@ -173,12 +173,12 @@
       883
     ],
     [
-      "nativescript-icam",
-      848
+      "@authing/remix",
+      850
     ],
     [
-      "@authing/remix",
-      838
+      "nativescript-icam",
+      848
     ],
     [
       "@shiwangme/redis",
@@ -190,7 +190,7 @@
     ],
     [
       "awth",
-      812
+      813
     ],
     [
       "markdown-toc-gitbook",
@@ -214,7 +214,7 @@
     ],
     [
       "remix-i18n",
-      753
+      757
     ],
     [
       "h1de",
@@ -246,7 +246,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      579
+      580
     ],
     [
       "leancloud-sdk",
@@ -266,11 +266,11 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      491
+      492
     ],
     [
       "edd",
-      470
+      471
     ],
     [
       "hdd",
@@ -290,7 +290,7 @@
     ],
     [
       "fetch-pro",
-      379
+      380
     ],
     [
       "@x12/common",
@@ -298,7 +298,7 @@
     ],
     [
       "@authing/nextjs",
-      308
+      312
     ],
     [
       "whiteq",
@@ -314,7 +314,7 @@
     ],
     [
       "ggql",
-      232
+      234
     ],
     [
       "npm-badges",
@@ -341,5 +341,5 @@
       87
     ]
   ],
-  "sum": 611936
+  "sum": 612313
 }
