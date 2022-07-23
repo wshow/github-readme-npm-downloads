@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      258975
+      259192
     ],
     [
       "gitbook-plugin-atoc",
-      146541
+      146544
     ],
     [
       "gitbook-plugin-donate",
-      62810
+      62924
     ],
     [
       "waliyun",
-      20524
+      20525
     ],
     [
       "@uua/icons",
-      7011
+      7015
     ],
     [
       "leader.js.cool",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5129
+      5130
     ],
     [
       "v0",
-      4453
+      4456
     ],
     [
       "appkey",
@@ -50,7 +50,7 @@
     ],
     [
       "koa-api-logger",
-      3762
+      3782
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3146
+      3150
     ],
     [
       "wtoys",
@@ -66,15 +66,15 @@
     ],
     [
       "tuling",
-      2949
+      2957
     ],
     [
       "eslint-config-willin",
-      2568
+      2569
     ],
     [
       "vchart",
-      2372
+      2375
     ],
     [
       "gitbook-plugin-autotheme",
@@ -85,12 +85,12 @@
       2042
     ],
     [
-      "hapi-auth-redis",
-      2023
+      "wqcloud-video",
+      2024
     ],
     [
-      "wqcloud-video",
-      2017
+      "hapi-auth-redis",
+      2023
     ],
     [
       "wrescuetime",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1277
+      1284
     ],
     [
       "@x12/hosts",
@@ -154,11 +154,11 @@
     ],
     [
       "mp-sdk",
-      1030
+      1031
     ],
     [
       "@xibang/node-common",
-      1020
+      1021
     ],
     [
       "lslint",
@@ -166,7 +166,7 @@
     ],
     [
       "hyperapp-i18n",
-      1005
+      1006
     ],
     [
       "beian-domain",
@@ -174,7 +174,7 @@
     ],
     [
       "@authing/remix",
-      851
+      852
     ],
     [
       "nativescript-icam",
@@ -182,7 +182,7 @@
     ],
     [
       "@shiwangme/redis",
-      821
+      822
     ],
     [
       "coding-deploy",
@@ -206,7 +206,7 @@
     ],
     [
       "@x12/env",
-      777
+      779
     ],
     [
       "pipefn",
@@ -294,11 +294,11 @@
     ],
     [
       "@x12/common",
-      340
+      342
     ],
     [
       "@authing/nextjs",
-      312
+      313
     ],
     [
       "whiteq",
@@ -310,7 +310,7 @@
     ],
     [
       "@x12/promise",
-      265
+      267
     ],
     [
       "ggql",
@@ -341,5 +341,5 @@
       88
     ]
   ],
-  "sum": 614051
+  "sum": 614456
 }
