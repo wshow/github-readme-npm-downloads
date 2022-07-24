@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      259192
+      259369
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      62924
+      62943
     ],
     [
       "waliyun",
-      20525
+      20557
     ],
     [
       "@uua/icons",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5784
+      5785
     ],
     [
       "wqcloud",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3150
+      3151
     ],
     [
       "wtoys",
@@ -78,19 +78,19 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2295
+      2297
     ],
     [
       "auto-deployer",
       2042
     ],
     [
-      "wqcloud-video",
-      2024
+      "hapi-auth-redis",
+      2031
     ],
     [
-      "hapi-auth-redis",
-      2023
+      "wqcloud-video",
+      2024
     ],
     [
       "wrescuetime",
@@ -102,11 +102,11 @@
     ],
     [
       "hello-dolly",
-      1857
+      1860
     ],
     [
       "hyperapp.js.cool",
-      1843
+      1845
     ],
     [
       "nuxtpress",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1031
+      1032
     ],
     [
       "@xibang/node-common",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1016
+      1018
     ],
     [
       "hyperapp-i18n",
@@ -218,7 +218,7 @@
     ],
     [
       "h1de",
-      747
+      752
     ],
     [
       "wulian",
@@ -274,7 +274,7 @@
     ],
     [
       "hdd",
-      456
+      457
     ],
     [
       "willin",
@@ -317,16 +317,16 @@
       237
     ],
     [
+      "random-target",
+      229
+    ],
+    [
       "afdian",
       228
     ],
     [
       "npm-badges",
       227
-    ],
-    [
-      "random-target",
-      226
     ],
     [
       "@x12/task-types",
@@ -341,5 +341,5 @@
       88
     ]
   ],
-  "sum": 614456
+  "sum": 614713
 }
