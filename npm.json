@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      260084
+      260427
     ],
     [
       "gitbook-plugin-atoc",
-      146547
+      146553
     ],
     [
       "gitbook-plugin-donate",
-      63291
+      63467
     ],
     [
       "waliyun",
-      20562
+      20563
     ],
     [
       "@uua/icons",
@@ -30,11 +30,11 @@
     ],
     [
       "koa-swagger-ui",
-      6082
+      6083
     ],
     [
       "gitbook-plugin-wordcount",
-      5785
+      5786
     ],
     [
       "wqcloud",
@@ -42,11 +42,11 @@
     ],
     [
       "v0",
-      4464
+      4466
     ],
     [
       "appkey",
-      3796
+      3797
     ],
     [
       "koa-api-logger",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3133
+      3134
     ],
     [
       "tuling",
@@ -74,15 +74,15 @@
     ],
     [
       "vchart",
-      2377
+      2379
     ],
     [
       "gitbook-plugin-autotheme",
-      2297
+      2299
     ],
     [
       "auto-deployer",
-      2042
+      2043
     ],
     [
       "hapi-auth-redis",
@@ -106,7 +106,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1846
+      1850
     ],
     [
       "nuxtpress",
@@ -130,7 +130,7 @@
     ],
     [
       "v0-scf",
-      1284
+      1285
     ],
     [
       "@x12/di",
@@ -150,7 +150,7 @@
     ],
     [
       "mmonit",
-      1034
+      1035
     ],
     [
       "mp-sdk",
@@ -158,15 +158,15 @@
     ],
     [
       "@xibang/node-common",
-      1021
+      1022
     ],
     [
       "lslint",
-      1019
+      1020
     ],
     [
       "hyperapp-i18n",
-      1006
+      1008
     ],
     [
       "beian-domain",
@@ -190,7 +190,7 @@
     ],
     [
       "awth",
-      814
+      815
     ],
     [
       "markdown-toc-gitbook",
@@ -210,7 +210,7 @@
     ],
     [
       "pipefn",
-      770
+      771
     ],
     [
       "remix-i18n",
@@ -246,6 +246,10 @@
     ],
     [
       "@dwing/koa-joi-router",
+      581
+    ],
+    [
+      "rxdis",
       580
     ],
     [
@@ -253,20 +257,16 @@
       579
     ],
     [
-      "rxdis",
-      577
-    ],
-    [
       "@uua/ip2c",
       505
     ],
     [
       "sdk0",
-      497
+      498
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      492
+      493
     ],
     [
       "edd",
@@ -282,7 +282,7 @@
     ],
     [
       "@xibang/redis",
-      422
+      423
     ],
     [
       "@xibang/mysql",
@@ -294,7 +294,7 @@
     ],
     [
       "@x12/common",
-      350
+      351
     ],
     [
       "@authing/nextjs",
@@ -330,7 +330,7 @@
     ],
     [
       "@x12/task-types",
-      221
+      222
     ],
     [
       "@x12/rx-pool",
@@ -341,5 +341,5 @@
       89
     ]
   ],
-  "sum": 615949
+  "sum": 616507
 }
