@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      260427
+      260805
     ],
     [
       "gitbook-plugin-atoc",
-      146553
+      146554
     ],
     [
       "gitbook-plugin-donate",
-      63467
+      63586
     ],
     [
       "waliyun",
-      20563
+      20571
     ],
     [
       "@uua/icons",
@@ -50,7 +50,7 @@
     ],
     [
       "koa-api-logger",
-      3782
+      3783
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3154
+      3156
     ],
     [
       "wtoys",
@@ -66,19 +66,19 @@
     ],
     [
       "tuling",
-      2957
+      2959
     ],
     [
       "eslint-config-willin",
-      2569
+      2570
     ],
     [
       "vchart",
-      2379
+      2380
     ],
     [
       "gitbook-plugin-autotheme",
-      2299
+      2300
     ],
     [
       "auto-deployer",
@@ -106,7 +106,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1850
+      1852
     ],
     [
       "nuxtpress",
@@ -174,11 +174,11 @@
     ],
     [
       "@authing/remix",
-      853
+      865
     ],
     [
       "nativescript-icam",
-      850
+      851
     ],
     [
       "@shiwangme/redis",
@@ -214,7 +214,7 @@
     ],
     [
       "remix-i18n",
-      758
+      759
     ],
     [
       "h1de",
@@ -230,11 +230,11 @@
     ],
     [
       "wdouban",
-      690
+      691
     ],
     [
       "z-curve",
-      673
+      674
     ],
     [
       "vuepress-theme-asshole",
@@ -242,15 +242,15 @@
     ],
     [
       "@willin/eslint-config",
-      597
+      598
+    ],
+    [
+      "rxdis",
+      584
     ],
     [
       "@dwing/koa-joi-router",
       581
-    ],
-    [
-      "rxdis",
-      580
     ],
     [
       "leancloud-sdk",
@@ -298,7 +298,7 @@
     ],
     [
       "@authing/nextjs",
-      314
+      318
     ],
     [
       "whiteq",
@@ -314,11 +314,11 @@
     ],
     [
       "ggql",
-      237
+      238
     ],
     [
       "random-target",
-      229
+      230
     ],
     [
       "npm-badges",
@@ -341,5 +341,5 @@
       89
     ]
   ],
-  "sum": 616507
+  "sum": 617050
 }
