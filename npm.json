@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      260805
+      261118
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      63586
+      63634
     ],
     [
       "waliyun",
-      20571
+      20576
     ],
     [
       "@uua/icons",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5131
+      5132
     ],
     [
       "v0",
-      4466
+      4467
     ],
     [
       "appkey",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3156
+      3157
     ],
     [
       "wtoys",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2570
+      2571
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2300
+      2302
     ],
     [
       "auto-deployer",
@@ -102,11 +102,11 @@
     ],
     [
       "hello-dolly",
-      1863
+      1864
     ],
     [
       "hyperapp.js.cool",
-      1852
+      1853
     ],
     [
       "nuxtpress",
@@ -126,7 +126,7 @@
     ],
     [
       "@x12/hosts",
-      1287
+      1288
     ],
     [
       "v0-scf",
@@ -134,15 +134,15 @@
     ],
     [
       "@x12/di",
-      1257
+      1258
     ],
     [
       "wnm",
-      1196
+      1197
     ],
     [
       "@x12/tasker",
-      1128
+      1129
     ],
     [
       "less.js.cool",
@@ -202,7 +202,7 @@
     ],
     [
       "@x12/env",
-      788
+      789
     ],
     [
       "@uua/core",
@@ -250,7 +250,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      581
+      583
     ],
     [
       "leancloud-sdk",
@@ -266,7 +266,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      493
+      495
     ],
     [
       "edd",
@@ -294,7 +294,7 @@
     ],
     [
       "@x12/common",
-      351
+      352
     ],
     [
       "@authing/nextjs",
@@ -306,11 +306,11 @@
     ],
     [
       "@x12/mongodb",
-      287
+      288
     ],
     [
       "@x12/promise",
-      276
+      277
     ],
     [
       "ggql",
@@ -330,16 +330,16 @@
     ],
     [
       "@x12/task-types",
-      222
+      223
     ],
     [
       "@x12/rx-pool",
-      194
+      195
     ],
     [
       "passport-authing",
       89
     ]
   ],
-  "sum": 617050
+  "sum": 617438
 }
