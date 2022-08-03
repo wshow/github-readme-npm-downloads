@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      261821
+      262143
     ],
     [
       "gitbook-plugin-atoc",
-      146555
+      146560
     ],
     [
       "gitbook-plugin-donate",
-      63651
+      63759
     ],
     [
       "waliyun",
-      20576
+      20581
     ],
     [
       "@uua/icons",
-      7020
+      7025
     ],
     [
       "leader.js.cool",
-      6716
+      6727
     ],
     [
       "yunpian-sdk",
@@ -30,11 +30,11 @@
     ],
     [
       "koa-swagger-ui",
-      6083
+      6098
     ],
     [
       "gitbook-plugin-wordcount",
-      5786
+      5787
     ],
     [
       "wqcloud",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4467
+      4468
     ],
     [
       "appkey",
@@ -50,7 +50,7 @@
     ],
     [
       "koa-api-logger",
-      3783
+      3802
     ],
     [
       "coding-sdk",
@@ -66,11 +66,11 @@
     ],
     [
       "tuling",
-      2959
+      2967
     ],
     [
       "eslint-config-willin",
-      2571
+      2572
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2303
+      2304
     ],
     [
       "auto-deployer",
@@ -106,7 +106,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1855
+      1856
     ],
     [
       "nuxtpress",
@@ -142,11 +142,11 @@
     ],
     [
       "@x12/tasker",
-      1137
+      1138
     ],
     [
       "less.js.cool",
-      1042
+      1044
     ],
     [
       "mmonit",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1032
+      1033
     ],
     [
       "@xibang/node-common",
@@ -242,19 +242,19 @@
     ],
     [
       "@willin/eslint-config",
-      602
+      603
     ],
     [
       "rxdis",
-      586
+      588
     ],
     [
       "@dwing/koa-joi-router",
-      583
+      584
     ],
     [
       "leancloud-sdk",
-      579
+      581
     ],
     [
       "@uua/ip2c",
@@ -266,7 +266,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      495
+      496
     ],
     [
       "edd",
@@ -302,7 +302,7 @@
     ],
     [
       "whiteq",
-      299
+      300
     ],
     [
       "@x12/mongodb",
@@ -318,7 +318,7 @@
     ],
     [
       "afdian",
-      233
+      236
     ],
     [
       "random-target",
@@ -341,5 +341,5 @@
       89
     ]
   ],
-  "sum": 618283
+  "sum": 618801
 }
