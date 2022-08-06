@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      262731
+      263154
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      63951
+      64073
     ],
     [
       "waliyun",
-      20618
+      20637
     ],
     [
       "@uua/icons",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4468
+      4469
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3161
+      3166
     ],
     [
       "wtoys",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2572
+      2579
     ],
     [
       "vchart",
@@ -102,7 +102,7 @@
     ],
     [
       "hello-dolly",
-      1864
+      1865
     ],
     [
       "hyperapp.js.cool",
@@ -110,7 +110,7 @@
     ],
     [
       "nuxtpress",
-      1809
+      1819
     ],
     [
       "gitbook-plugin-theme-material",
@@ -130,7 +130,7 @@
     ],
     [
       "v0-scf",
-      1285
+      1286
     ],
     [
       "@x12/di",
@@ -142,7 +142,7 @@
     ],
     [
       "@x12/tasker",
-      1139
+      1140
     ],
     [
       "less.js.cool",
@@ -150,11 +150,11 @@
     ],
     [
       "mmonit",
-      1037
+      1041
     ],
     [
       "mp-sdk",
-      1033
+      1040
     ],
     [
       "@xibang/node-common",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1021
+      1023
     ],
     [
       "hyperapp-i18n",
@@ -174,11 +174,11 @@
     ],
     [
       "@authing/remix",
-      879
+      880
     ],
     [
       "nativescript-icam",
-      851
+      853
     ],
     [
       "@shiwangme/redis",
@@ -218,7 +218,7 @@
     ],
     [
       "h1de",
-      758
+      759
     ],
     [
       "wulian",
@@ -242,19 +242,19 @@
     ],
     [
       "@willin/eslint-config",
-      603
+      604
     ],
     [
       "rxdis",
-      591
+      593
     ],
     [
       "@dwing/koa-joi-router",
-      585
+      586
     ],
     [
       "leancloud-sdk",
-      581
+      582
     ],
     [
       "@uua/ip2c",
@@ -318,7 +318,7 @@
     ],
     [
       "afdian",
-      236
+      237
     ],
     [
       "random-target",
@@ -326,7 +326,7 @@
     ],
     [
       "npm-badges",
-      229
+      230
     ],
     [
       "@x12/task-types",
@@ -341,5 +341,5 @@
       89
     ]
   ],
-  "sum": 619697
+  "sum": 620311
 }
