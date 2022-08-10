@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      264085
+      264303
     ],
     [
       "gitbook-plugin-atoc",
-      146576
+      146517
     ],
     [
       "gitbook-plugin-donate",
-      64219
+      64330
     ],
     [
       "waliyun",
-      20677
+      20678
     ],
     [
       "@uua/icons",
-      7038
+      7039
     ],
     [
       "leader.js.cool",
-      6740
+      6742
     ],
     [
       "yunpian-sdk",
@@ -30,15 +30,15 @@
     ],
     [
       "koa-swagger-ui",
-      6113
+      6114
     ],
     [
       "gitbook-plugin-wordcount",
-      5790
+      5792
     ],
     [
       "wqcloud",
-      5132
+      5133
     ],
     [
       "v0",
@@ -46,11 +46,11 @@
     ],
     [
       "koa-api-logger",
-      3836
+      3837
     ],
     [
       "appkey",
-      3810
+      3816
     ],
     [
       "coding-sdk",
@@ -58,11 +58,11 @@
     ],
     [
       "mock-redis",
-      3168
+      3171
     ],
     [
       "wtoys",
-      3135
+      3136
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2383
+      2384
     ],
     [
       "gitbook-plugin-autotheme",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2050
+      2049
     ],
     [
       "hapi-auth-redis",
@@ -94,19 +94,19 @@
     ],
     [
       "wrescuetime",
-      1937
+      1938
     ],
     [
       "atl",
       1872
     ],
     [
-      "hello-dolly",
-      1866
+      "hyperapp.js.cool",
+      1867
     ],
     [
-      "hyperapp.js.cool",
-      1865
+      "hello-dolly",
+      1866
     ],
     [
       "nuxtpress",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1685
+      1686
     ],
     [
       "wno",
@@ -146,7 +146,7 @@
     ],
     [
       "less.js.cool",
-      1044
+      1045
     ],
     [
       "mmonit",
@@ -194,11 +194,11 @@
     ],
     [
       "markdown-toc-gitbook",
-      815
+      816
     ],
     [
       "wechaty-authing",
-      803
+      816
     ],
     [
       "@uua/core",
@@ -230,11 +230,11 @@
     ],
     [
       "wdouban",
-      695
+      696
     ],
     [
       "z-curve",
-      674
+      675
     ],
     [
       "vuepress-theme-asshole",
@@ -246,15 +246,15 @@
     ],
     [
       "rxdis",
-      593
-    ],
-    [
-      "@dwing/koa-joi-router",
-      586
+      596
     ],
     [
       "leancloud-sdk",
       584
+    ],
+    [
+      "@dwing/koa-joi-router",
+      545
     ],
     [
       "@uua/ip2c",
@@ -265,20 +265,20 @@
       500
     ],
     [
-      "@dwing/azure-iot-device-mqtt",
-      497
-    ],
-    [
       "edd",
-      475
+      476
     ],
     [
       "hdd",
       458
     ],
     [
+      "@dwing/azure-iot-device-mqtt",
+      455
+    ],
+    [
       "willin",
-      428
+      429
     ],
     [
       "@xibang/redis",
@@ -302,7 +302,7 @@
     ],
     [
       "whiteq",
-      302
+      306
     ],
     [
       "@x12/mongodb",
@@ -318,7 +318,7 @@
     ],
     [
       "afdian",
-      237
+      240
     ],
     [
       "random-target",
@@ -341,5 +341,5 @@
       91
     ]
   ],
-  "sum": 621675
+  "sum": 621914
 }
