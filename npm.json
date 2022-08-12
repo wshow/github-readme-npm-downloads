@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      264705
+      265014
     ],
     [
       "gitbook-plugin-atoc",
-      146520
+      146522
     ],
     [
       "gitbook-plugin-donate",
-      64401
+      64455
     ],
     [
       "waliyun",
-      20679
+      20685
     ],
     [
       "@uua/icons",
-      7040
+      7067
     ],
     [
       "leader.js.cool",
-      6743
+      6745
     ],
     [
       "yunpian-sdk",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6114
+      6115
     ],
     [
       "gitbook-plugin-wordcount",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3136
+      3138
     ],
     [
       "tuling",
@@ -102,7 +102,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1868
+      1869
     ],
     [
       "hello-dolly",
@@ -182,7 +182,7 @@
     ],
     [
       "@shiwangme/redis",
-      839
+      844
     ],
     [
       "coding-deploy",
@@ -202,7 +202,7 @@
     ],
     [
       "@uua/core",
-      799
+      800
     ],
     [
       "@x12/env",
@@ -242,7 +242,7 @@
     ],
     [
       "@willin/eslint-config",
-      610
+      612
     ],
     [
       "rxdis",
@@ -258,11 +258,11 @@
     ],
     [
       "@uua/ip2c",
-      518
+      519
     ],
     [
       "sdk0",
-      500
+      502
     ],
     [
       "edd",
@@ -290,7 +290,7 @@
     ],
     [
       "fetch-pro",
-      386
+      388
     ],
     [
       "@x12/common",
@@ -314,7 +314,7 @@
     ],
     [
       "ggql",
-      240
+      241
     ],
     [
       "afdian",
@@ -341,5 +341,5 @@
       91
     ]
   ],
-  "sum": 622433
+  "sum": 622851
 }
