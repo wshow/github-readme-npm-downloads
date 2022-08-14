@@ -2,15 +2,15 @@
   "stats": [
     [
       "hexo-wordcount",
-      265325
+      265589
     ],
     [
       "gitbook-plugin-atoc",
-      146523
+      146524
     ],
     [
       "gitbook-plugin-donate",
-      64577
+      64640
     ],
     [
       "waliyun",
@@ -22,7 +22,7 @@
     ],
     [
       "leader.js.cool",
-      6745
+      6746
     ],
     [
       "yunpian-sdk",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5134
+      5135
     ],
     [
       "v0",
@@ -58,11 +58,11 @@
     ],
     [
       "mock-redis",
-      3174
+      3180
     ],
     [
       "wtoys",
-      3138
+      3143
     ],
     [
       "tuling",
@@ -169,12 +169,12 @@
       1010
     ],
     [
-      "beian-domain",
-      890
+      "@authing/remix",
+      898
     ],
     [
-      "@authing/remix",
-      888
+      "beian-domain",
+      890
     ],
     [
       "nativescript-icam",
@@ -182,7 +182,7 @@
     ],
     [
       "@shiwangme/redis",
-      849
+      850
     ],
     [
       "coding-deploy",
@@ -210,14 +210,14 @@
     ],
     [
       "pipefn",
-      774
-    ],
-    [
-      "remix-i18n",
-      766
+      776
     ],
     [
       "h1de",
+      767
+    ],
+    [
+      "remix-i18n",
       766
     ],
     [
@@ -270,19 +270,19 @@
     ],
     [
       "hdd",
-      458
+      459
     ],
     [
       "@dwing/azure-iot-device-mqtt",
       455
     ],
     [
-      "willin",
-      429
+      "@xibang/redis",
+      430
     ],
     [
-      "@xibang/redis",
-      428
+      "willin",
+      429
     ],
     [
       "@xibang/mysql",
@@ -290,7 +290,7 @@
     ],
     [
       "fetch-pro",
-      388
+      389
     ],
     [
       "@x12/common",
@@ -326,7 +326,7 @@
     ],
     [
       "npm-badges",
-      230
+      231
     ],
     [
       "@x12/task-types",
@@ -341,5 +341,5 @@
       91
     ]
   ],
-  "sum": 623308
+  "sum": 623668
 }
