@@ -10,13 +10,13 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                         | Downloads  |
 | -------------------------------------------------------------------------------------------- | ---------- |
-| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                               | 266168     |
-| [gitbook-plugin-atoc](https://www.npmjs.com/package/gitbook-plugin-atoc)                     | 146524     |
-| [gitbook-plugin-donate](https://www.npmjs.com/package/gitbook-plugin-donate)                 | 64659      |
-| [waliyun](https://www.npmjs.com/package/waliyun)                                             | 20693      |
-| [@uua/icons](https://www.npmjs.com/package/@uua/icons)                                       | 7072       |
-| [leader.js.cool](https://www.npmjs.com/package/leader.js.cool)                               | 6746       |
-| [yunpian-sdk](https://www.npmjs.com/package/yunpian-sdk)                                     | 6683       |
+| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                               | 266480     |
+| [gitbook-plugin-atoc](https://www.npmjs.com/package/gitbook-plugin-atoc)                     | 146535     |
+| [gitbook-plugin-donate](https://www.npmjs.com/package/gitbook-plugin-donate)                 | 64742      |
+| [waliyun](https://www.npmjs.com/package/waliyun)                                             | 20696      |
+| [@uua/icons](https://www.npmjs.com/package/@uua/icons)                                       | 7073       |
+| [leader.js.cool](https://www.npmjs.com/package/leader.js.cool)                               | 6747       |
+| [yunpian-sdk](https://www.npmjs.com/package/yunpian-sdk)                                     | 6684       |
 | [koa-swagger-ui](https://www.npmjs.com/package/koa-swagger-ui)                               | 6116       |
 | [gitbook-plugin-wordcount](https://www.npmjs.com/package/gitbook-plugin-wordcount)           | 5792       |
 | [wqcloud](https://www.npmjs.com/package/wqcloud)                                             | 5149       |
@@ -25,7 +25,7 @@ All of my npm packages and their downloads
 | [appkey](https://www.npmjs.com/package/appkey)                                               | 3816       |
 | [coding-sdk](https://www.npmjs.com/package/coding-sdk)                                       | 3646       |
 | [mock-redis](https://www.npmjs.com/package/mock-redis)                                       | 3181       |
-| [wtoys](https://www.npmjs.com/package/wtoys)                                                 | 3144       |
+| [wtoys](https://www.npmjs.com/package/wtoys)                                                 | 3145       |
 | [tuling](https://www.npmjs.com/package/tuling)                                               | 2971       |
 | [eslint-config-willin](https://www.npmjs.com/package/eslint-config-willin)                   | 2581       |
 | [vchart](https://www.npmjs.com/package/vchart)                                               | 2386       |
@@ -34,8 +34,8 @@ All of my npm packages and their downloads
 | [hapi-auth-redis](https://www.npmjs.com/package/hapi-auth-redis)                             | 2033       |
 | [wqcloud-video](https://www.npmjs.com/package/wqcloud-video)                                 | 2025       |
 | [wrescuetime](https://www.npmjs.com/package/wrescuetime)                                     | 1938       |
+| [hyperapp.js.cool](https://www.npmjs.com/package/hyperapp.js.cool)                           | 1879       |
 | [atl](https://www.npmjs.com/package/atl)                                                     | 1876       |
-| [hyperapp.js.cool](https://www.npmjs.com/package/hyperapp.js.cool)                           | 1874       |
 | [hello-dolly](https://www.npmjs.com/package/hello-dolly)                                     | 1866       |
 | [nuxtpress](https://www.npmjs.com/package/nuxtpress)                                         | 1824       |
 | [gitbook-plugin-theme-material](https://www.npmjs.com/package/gitbook-plugin-theme-material) | 1810       |
@@ -95,5 +95,5 @@ All of my npm packages and their downloads
 | [@x12/task-types](https://www.npmjs.com/package/@x12/task-types)                             | 226        |
 | [@x12/rx-pool](https://www.npmjs.com/package/@x12/rx-pool)                                   | 200        |
 | [passport-authing](https://www.npmjs.com/package/passport-authing)                           | 91         |
-| **Sum**                                                                                      | **624306** |
+| **Sum**                                                                                      | **624724** |
 <!-- AUTO-GENERATED-CONTENT:END -->

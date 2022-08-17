@@ -2,31 +2,31 @@
   "stats": [
     [
       "hexo-wordcount",
-      266168
+      266480
     ],
     [
       "gitbook-plugin-atoc",
-      146524
+      146535
     ],
     [
       "gitbook-plugin-donate",
-      64659
+      64742
     ],
     [
       "waliyun",
-      20693
+      20696
     ],
     [
       "@uua/icons",
-      7072
+      7073
     ],
     [
       "leader.js.cool",
-      6746
+      6747
     ],
     [
       "yunpian-sdk",
-      6683
+      6684
     ],
     [
       "koa-swagger-ui",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3144
+      3145
     ],
     [
       "tuling",
@@ -97,12 +97,12 @@
       1938
     ],
     [
-      "atl",
-      1876
+      "hyperapp.js.cool",
+      1879
     ],
     [
-      "hyperapp.js.cool",
-      1874
+      "atl",
+      1876
     ],
     [
       "hello-dolly",
@@ -341,5 +341,5 @@
       91
     ]
   ],
-  "sum": 624306
+  "sum": 624724
 }
