@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      266480
+      266790
     ],
     [
       "gitbook-plugin-atoc",
-      146535
+      146537
     ],
     [
       "gitbook-plugin-donate",
-      64742
+      64834
     ],
     [
       "waliyun",
-      20696
+      20729
     ],
     [
       "@uua/icons",
-      7073
+      7077
     ],
     [
       "leader.js.cool",
@@ -26,11 +26,11 @@
     ],
     [
       "yunpian-sdk",
-      6684
+      6699
     ],
     [
       "koa-swagger-ui",
-      6116
+      6119
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5149
+      5163
     ],
     [
       "v0",
-      4476
+      4492
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "appkey",
-      3816
+      3817
     ],
     [
       "coding-sdk",
@@ -58,15 +58,15 @@
     ],
     [
       "mock-redis",
-      3181
+      3190
     ],
     [
       "wtoys",
-      3145
+      3156
     ],
     [
       "tuling",
-      2971
+      2981
     ],
     [
       "eslint-config-willin",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2386
+      2389
     ],
     [
       "gitbook-plugin-autotheme",
-      2310
+      2311
     ],
     [
       "auto-deployer",
@@ -90,15 +90,15 @@
     ],
     [
       "wqcloud-video",
-      2025
+      2032
     ],
     [
       "wrescuetime",
-      1938
+      1945
     ],
     [
       "hyperapp.js.cool",
-      1879
+      1881
     ],
     [
       "atl",
@@ -122,27 +122,27 @@
     ],
     [
       "wno",
-      1458
+      1460
     ],
     [
       "@x12/hosts",
-      1299
+      1302
     ],
     [
       "v0-scf",
-      1287
+      1295
     ],
     [
       "@x12/di",
-      1270
+      1275
     ],
     [
       "wnm",
-      1201
+      1206
     ],
     [
       "@x12/tasker",
-      1148
+      1156
     ],
     [
       "less.js.cool",
@@ -158,15 +158,15 @@
     ],
     [
       "@xibang/node-common",
-      1032
+      1036
     ],
     [
       "lslint",
-      1025
+      1026
     ],
     [
       "hyperapp-i18n",
-      1011
+      1012
     ],
     [
       "@authing/remix",
@@ -178,11 +178,15 @@
     ],
     [
       "nativescript-icam",
-      855
+      856
     ],
     [
       "@shiwangme/redis",
       850
+    ],
+    [
+      "wechaty-authing",
+      829
     ],
     [
       "coding-deploy",
@@ -197,16 +201,12 @@
       816
     ],
     [
-      "wechaty-authing",
-      816
-    ],
-    [
       "@uua/core",
-      800
+      812
     ],
     [
       "@x12/env",
-      792
+      793
     ],
     [
       "pipefn",
@@ -222,15 +222,15 @@
     ],
     [
       "wulian",
-      712
+      713
     ],
     [
       "uua",
-      701
+      707
     ],
     [
       "wdouban",
-      696
+      699
     ],
     [
       "z-curve",
@@ -238,11 +238,11 @@
     ],
     [
       "vuepress-theme-asshole",
-      624
+      627
     ],
     [
       "@willin/eslint-config",
-      612
+      615
     ],
     [
       "rxdis",
@@ -250,7 +250,7 @@
     ],
     [
       "leancloud-sdk",
-      586
+      587
     ],
     [
       "@dwing/koa-joi-router",
@@ -258,7 +258,7 @@
     ],
     [
       "@uua/ip2c",
-      519
+      523
     ],
     [
       "sdk0",
@@ -278,15 +278,15 @@
     ],
     [
       "@xibang/redis",
-      431
+      433
     ],
     [
       "willin",
-      429
+      430
     ],
     [
       "@xibang/mysql",
-      402
+      404
     ],
     [
       "fetch-pro",
@@ -294,7 +294,7 @@
     ],
     [
       "@x12/common",
-      357
+      359
     ],
     [
       "@authing/nextjs",
@@ -302,15 +302,15 @@
     ],
     [
       "whiteq",
-      307
+      311
     ],
     [
       "@x12/mongodb",
-      293
+      295
     ],
     [
       "@x12/promise",
-      282
+      284
     ],
     [
       "ggql",
@@ -330,16 +330,16 @@
     ],
     [
       "@x12/task-types",
-      226
+      227
     ],
     [
       "@x12/rx-pool",
-      200
+      201
     ],
     [
       "passport-authing",
       91
     ]
   ],
-  "sum": 624724
+  "sum": 625366
 }
