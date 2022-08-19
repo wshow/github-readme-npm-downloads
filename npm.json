@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      266790
+      267102
     ],
     [
       "gitbook-plugin-atoc",
-      146537
+      146543
     ],
     [
       "gitbook-plugin-donate",
-      64834
+      64971
     ],
     [
       "waliyun",
-      20729
+      20764
     ],
     [
       "@uua/icons",
-      7077
+      7083
     ],
     [
       "leader.js.cool",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      6699
+      6700
     ],
     [
       "koa-swagger-ui",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4492
+      4495
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3190
+      3192
     ],
     [
       "wtoys",
@@ -70,27 +70,27 @@
     ],
     [
       "eslint-config-willin",
-      2581
+      2583
     ],
     [
       "vchart",
-      2389
+      2390
     ],
     [
       "gitbook-plugin-autotheme",
-      2311
+      2315
     ],
     [
       "auto-deployer",
       2053
     ],
     [
-      "hapi-auth-redis",
+      "wqcloud-video",
       2033
     ],
     [
-      "wqcloud-video",
-      2032
+      "hapi-auth-redis",
+      2033
     ],
     [
       "wrescuetime",
@@ -106,7 +106,7 @@
     ],
     [
       "hello-dolly",
-      1866
+      1867
     ],
     [
       "nuxtpress",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1810
+      1813
     ],
     [
       "coding-net",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1460
+      1461
     ],
     [
       "@x12/hosts",
@@ -154,11 +154,11 @@
     ],
     [
       "mp-sdk",
-      1040
+      1041
     ],
     [
       "@xibang/node-common",
-      1036
+      1040
     ],
     [
       "lslint",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      675
+      677
     ],
     [
       "vuepress-theme-asshole",
@@ -266,7 +266,7 @@
     ],
     [
       "edd",
-      476
+      477
     ],
     [
       "hdd",
@@ -341,5 +341,5 @@
       91
     ]
   ],
-  "sum": 625366
+  "sum": 625889
 }
