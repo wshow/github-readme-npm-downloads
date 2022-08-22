@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      267851
+      268146
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      65129
+      65137
     ],
     [
       "waliyun",
-      20771
+      20775
     ],
     [
       "@uua/icons",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6121
+      6123
     ],
     [
       "gitbook-plugin-wordcount",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2588
+      2595
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2316
+      2317
     ],
     [
       "auto-deployer",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1464
+      1465
     ],
     [
       "@x12/hosts",
@@ -166,7 +166,7 @@
     ],
     [
       "hyperapp-i18n",
-      1012
+      1013
     ],
     [
       "@authing/remix",
@@ -194,7 +194,7 @@
     ],
     [
       "awth",
-      819
+      820
     ],
     [
       "markdown-toc-gitbook",
@@ -206,19 +206,19 @@
     ],
     [
       "@x12/env",
-      795
+      796
     ],
     [
       "pipefn",
-      776
+      777
     ],
     [
       "h1de",
-      767
+      768
     ],
     [
       "remix-i18n",
-      766
+      767
     ],
     [
       "wulian",
@@ -242,7 +242,7 @@
     ],
     [
       "@willin/eslint-config",
-      616
+      617
     ],
     [
       "rxdis",
@@ -266,11 +266,11 @@
     ],
     [
       "edd",
-      479
+      480
     ],
     [
       "hdd",
-      460
+      461
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -278,7 +278,7 @@
     ],
     [
       "@xibang/redis",
-      434
+      435
     ],
     [
       "willin",
@@ -290,7 +290,7 @@
     ],
     [
       "fetch-pro",
-      389
+      390
     ],
     [
       "@x12/common",
@@ -314,11 +314,11 @@
     ],
     [
       "ggql",
-      242
+      243
     ],
     [
       "afdian",
-      241
+      242
     ],
     [
       "random-target",
@@ -334,12 +334,12 @@
     ],
     [
       "@x12/rx-pool",
-      204
+      205
     ],
     [
       "passport-authing",
-      91
+      92
     ]
   ],
-  "sum": 626921
+  "sum": 627254
 }
