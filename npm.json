@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      268485
+      268963
     ],
     [
       "gitbook-plugin-atoc",
-      146551
+      146556
     ],
     [
       "gitbook-plugin-donate",
-      65151
+      65332
     ],
     [
       "waliyun",
-      20781
+      20785
     ],
     [
       "@uua/icons",
-      7088
+      7091
     ],
     [
       "leader.js.cool",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6123
+      6124
     ],
     [
       "gitbook-plugin-wordcount",
@@ -50,7 +50,7 @@
     ],
     [
       "appkey",
-      3817
+      3818
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3203
+      3206
     ],
     [
       "wtoys",
@@ -66,11 +66,11 @@
     ],
     [
       "tuling",
-      2981
+      2982
     ],
     [
       "eslint-config-willin",
-      2596
+      2597
     ],
     [
       "vchart",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2053
+      2054
     ],
     [
       "wqcloud-video",
@@ -98,11 +98,11 @@
     ],
     [
       "hyperapp.js.cool",
-      1882
+      1883
     ],
     [
       "atl",
-      1876
+      1877
     ],
     [
       "hello-dolly",
@@ -126,7 +126,7 @@
     ],
     [
       "@x12/hosts",
-      1304
+      1307
     ],
     [
       "v0-scf",
@@ -134,7 +134,7 @@
     ],
     [
       "@x12/di",
-      1277
+      1282
     ],
     [
       "wnm",
@@ -142,7 +142,11 @@
     ],
     [
       "@x12/tasker",
-      1158
+      1166
+    ],
+    [
+      "@xibang/node-common",
+      1047
     ],
     [
       "less.js.cool",
@@ -150,10 +154,6 @@
     ],
     [
       "mmonit",
-      1043
-    ],
-    [
-      "@xibang/node-common",
       1043
     ],
     [
@@ -170,7 +170,7 @@
     ],
     [
       "@authing/remix",
-      899
+      923
     ],
     [
       "beian-domain",
@@ -182,11 +182,11 @@
     ],
     [
       "@shiwangme/redis",
-      850
+      855
     ],
     [
       "wechaty-authing",
-      842
+      855
     ],
     [
       "coding-deploy",
@@ -197,16 +197,16 @@
       820
     ],
     [
+      "@uua/core",
+      818
+    ],
+    [
       "markdown-toc-gitbook",
       816
     ],
     [
-      "@uua/core",
-      812
-    ],
-    [
       "@x12/env",
-      796
+      797
     ],
     [
       "pipefn",
@@ -218,7 +218,7 @@
     ],
     [
       "h1de",
-      768
+      769
     ],
     [
       "wulian",
@@ -242,7 +242,7 @@
     ],
     [
       "@willin/eslint-config",
-      618
+      622
     ],
     [
       "rxdis",
@@ -254,11 +254,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      546
+      548
     ],
     [
       "@uua/ip2c",
-      523
+      527
     ],
     [
       "sdk0",
@@ -274,11 +274,11 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      455
+      457
     ],
     [
       "@xibang/redis",
-      435
+      437
     ],
     [
       "willin",
@@ -286,7 +286,7 @@
     ],
     [
       "@xibang/mysql",
-      405
+      407
     ],
     [
       "fetch-pro",
@@ -294,23 +294,23 @@
     ],
     [
       "@x12/common",
-      361
+      363
     ],
     [
       "@authing/nextjs",
-      331
+      339
     ],
     [
       "whiteq",
-      311
+      312
     ],
     [
       "@x12/mongodb",
-      297
+      299
     ],
     [
       "@x12/promise",
-      286
+      288
     ],
     [
       "ggql",
@@ -322,7 +322,7 @@
     ],
     [
       "random-target",
-      235
+      236
     ],
     [
       "npm-badges",
@@ -330,11 +330,11 @@
     ],
     [
       "@x12/task-types",
-      229
+      230
     ],
     [
       "@x12/rx-pool",
-      205
+      206
     ],
     [
       "passport-authing",
@@ -342,8 +342,8 @@
     ],
     [
       "remix-sanity",
-      0
+      31
     ]
   ],
-  "sum": 627647
+  "sum": 628463
 }
