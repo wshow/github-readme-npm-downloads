@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      269432
+      269884
     ],
     [
       "gitbook-plugin-atoc",
-      146558
+      146560
     ],
     [
       "gitbook-plugin-donate",
-      65524
+      65717
     ],
     [
       "waliyun",
-      20788
+      20791
     ],
     [
       "@uua/icons",
-      7094
+      7095
     ],
     [
       "leader.js.cool",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6124
+      6125
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5195
+      5197
     ],
     [
       "v0",
-      4499
+      4501
     ],
     [
       "koa-api-logger",
@@ -54,11 +54,11 @@
     ],
     [
       "coding-sdk",
-      3656
+      3666
     ],
     [
       "mock-redis",
-      3222
+      3223
     ],
     [
       "wtoys",
@@ -97,12 +97,12 @@
       1960
     ],
     [
-      "atl",
-      1885
+      "hyperapp.js.cool",
+      1886
     ],
     [
-      "hyperapp.js.cool",
-      1884
+      "atl",
+      1885
     ],
     [
       "hello-dolly",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1689
+      1692
     ],
     [
       "wno",
@@ -170,7 +170,7 @@
     ],
     [
       "@authing/remix",
-      935
+      937
     ],
     [
       "beian-domain",
@@ -194,7 +194,7 @@
     ],
     [
       "coding-deploy",
-      822
+      824
     ],
     [
       "awth",
@@ -213,16 +213,16 @@
       777
     ],
     [
+      "h1de",
+      774
+    ],
+    [
       "remix-i18n",
       769
     ],
     [
-      "h1de",
-      769
-    ],
-    [
       "wulian",
-      720
+      722
     ],
     [
       "uua",
@@ -246,7 +246,7 @@
     ],
     [
       "rxdis",
-      600
+      602
     ],
     [
       "leancloud-sdk",
@@ -266,7 +266,7 @@
     ],
     [
       "edd",
-      481
+      482
     ],
     [
       "hdd",
@@ -298,7 +298,7 @@
     ],
     [
       "@authing/nextjs",
-      343
+      344
     ],
     [
       "whiteq",
@@ -318,7 +318,7 @@
     ],
     [
       "ggql",
-      243
+      244
     ],
     [
       "random-target",
@@ -342,8 +342,8 @@
     ],
     [
       "remix-sanity",
-      35
+      36
     ]
   ],
-  "sum": 629303
+  "sum": 629992
 }
