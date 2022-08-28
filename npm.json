@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      270300
+      270649
     ],
     [
       "gitbook-plugin-atoc",
-      146570
+      146573
     ],
     [
       "gitbook-plugin-donate",
-      65884
+      66027
     ],
     [
       "waliyun",
-      20792
+      20805
     ],
     [
       "@uua/icons",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4502
+      4503
     ],
     [
       "koa-api-logger",
@@ -54,7 +54,7 @@
     ],
     [
       "coding-sdk",
-      3666
+      3667
     ],
     [
       "mock-redis",
@@ -66,7 +66,7 @@
     ],
     [
       "tuling",
-      2983
+      2984
     ],
     [
       "eslint-config-willin",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2393
+      2394
     ],
     [
       "gitbook-plugin-autotheme",
-      2317
+      2318
     ],
     [
       "auto-deployer",
@@ -86,7 +86,7 @@
     ],
     [
       "wqcloud-video",
-      2041
+      2042
     ],
     [
       "hapi-auth-redis",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1891
+      1892
     ],
     [
       "atl",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1692
+      1693
     ],
     [
       "wno",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1028
+      1029
     ],
     [
       "hyperapp-i18n",
@@ -170,7 +170,7 @@
     ],
     [
       "@authing/remix",
-      948
+      959
     ],
     [
       "beian-domain",
@@ -178,7 +178,7 @@
     ],
     [
       "@shiwangme/redis",
-      861
+      862
     ],
     [
       "nativescript-icam",
@@ -189,11 +189,11 @@
       856
     ],
     [
-      "@uua/core",
-      824
+      "coding-deploy",
+      825
     ],
     [
-      "coding-deploy",
+      "@uua/core",
       824
     ],
     [
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      679
+      680
     ],
     [
       "vuepress-theme-asshole",
@@ -298,7 +298,7 @@
     ],
     [
       "@authing/nextjs",
-      347
+      350
     ],
     [
       "whiteq",
@@ -342,8 +342,8 @@
     ],
     [
       "remix-sanity",
-      38
+      40
     ]
   ],
-  "sum": 630622
+  "sum": 631158
 }
