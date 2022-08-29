@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      270649
+      270958
     ],
     [
       "gitbook-plugin-atoc",
-      146573
+      146574
     ],
     [
       "gitbook-plugin-donate",
-      66027
+      66037
     ],
     [
       "waliyun",
-      20805
+      20806
     ],
     [
       "@uua/icons",
-      7097
+      7098
     ],
     [
       "leader.js.cool",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      6703
+      6715
     ],
     [
       "koa-swagger-ui",
@@ -50,15 +50,15 @@
     ],
     [
       "appkey",
-      3828
+      3831
     ],
     [
       "coding-sdk",
-      3667
+      3668
     ],
     [
       "mock-redis",
-      3223
+      3227
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "tuling",
-      2984
+      2985
     ],
     [
       "eslint-config-willin",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2062
+      2063
     ],
     [
       "wqcloud-video",
@@ -102,7 +102,7 @@
     ],
     [
       "atl",
-      1885
+      1886
     ],
     [
       "hello-dolly",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1693
+      1694
     ],
     [
       "wno",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1029
+      1030
     ],
     [
       "hyperapp-i18n",
@@ -190,7 +190,7 @@
     ],
     [
       "coding-deploy",
-      825
+      826
     ],
     [
       "@uua/core",
@@ -198,7 +198,7 @@
     ],
     [
       "awth",
-      822
+      823
     ],
     [
       "markdown-toc-gitbook",
@@ -218,7 +218,7 @@
     ],
     [
       "remix-i18n",
-      769
+      770
     ],
     [
       "wulian",
@@ -246,7 +246,7 @@
     ],
     [
       "rxdis",
-      602
+      603
     ],
     [
       "leancloud-sdk",
@@ -254,7 +254,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      549
+      550
     ],
     [
       "@uua/ip2c",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      503
+      504
     ],
     [
       "edd",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      458
+      459
     ],
     [
       "@xibang/redis",
@@ -282,7 +282,7 @@
     ],
     [
       "willin",
-      431
+      432
     ],
     [
       "@xibang/mysql",
@@ -298,7 +298,7 @@
     ],
     [
       "@authing/nextjs",
-      350
+      352
     ],
     [
       "whiteq",
@@ -334,7 +334,7 @@
     ],
     [
       "@x12/rx-pool",
-      207
+      208
     ],
     [
       "passport-authing",
@@ -342,8 +342,8 @@
     ],
     [
       "remix-sanity",
-      40
+      73
     ]
   ],
-  "sum": 631158
+  "sum": 631549
 }
