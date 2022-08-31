@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      271307
+      271694
     ],
     [
       "gitbook-plugin-atoc",
-      146575
+      146576
     ],
     [
       "gitbook-plugin-donate",
-      66055
+      66144
     ],
     [
       "waliyun",
-      20809
+      20814
     ],
     [
       "@uua/icons",
-      7099
+      7108
     ],
     [
       "leader.js.cool",
@@ -26,11 +26,11 @@
     ],
     [
       "yunpian-sdk",
-      6715
+      6716
     ],
     [
       "koa-swagger-ui",
-      6125
+      6126
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5197
+      5198
     ],
     [
       "v0",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3157
+      3160
     ],
     [
       "tuling",
@@ -142,11 +142,15 @@
     ],
     [
       "@x12/tasker",
-      1175
+      1183
     ],
     [
       "@xibang/node-common",
       1051
+    ],
+    [
+      "mp-sdk",
+      1047
     ],
     [
       "less.js.cool",
@@ -155,10 +159,6 @@
     [
       "mmonit",
       1043
-    ],
-    [
-      "mp-sdk",
-      1041
     ],
     [
       "lslint",
@@ -206,7 +206,7 @@
     ],
     [
       "@x12/env",
-      798
+      799
     ],
     [
       "pipefn",
@@ -222,7 +222,7 @@
     ],
     [
       "wulian",
-      722
+      723
     ],
     [
       "uua",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      459
+      460
     ],
     [
       "@xibang/redis",
@@ -294,7 +294,7 @@
     ],
     [
       "@x12/common",
-      365
+      367
     ],
     [
       "@authing/nextjs",
@@ -306,7 +306,7 @@
     ],
     [
       "@x12/mongodb",
-      302
+      304
     ],
     [
       "@x12/promise",
@@ -334,7 +334,7 @@
     ],
     [
       "@x12/rx-pool",
-      208
+      209
     ],
     [
       "remix-sanity",
@@ -345,5 +345,5 @@
       92
     ]
   ],
-  "sum": 631969
+  "sum": 632488
 }
