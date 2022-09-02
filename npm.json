@@ -2,15 +2,15 @@
   "stats": [
     [
       "hexo-wordcount",
-      272120
+      272542
     ],
     [
       "gitbook-plugin-atoc",
-      146594
+      146615
     ],
     [
       "gitbook-plugin-donate",
-      66275
+      66382
     ],
     [
       "waliyun",
@@ -18,19 +18,19 @@
     ],
     [
       "@uua/icons",
-      7111
+      7112
     ],
     [
       "leader.js.cool",
-      6749
+      6750
     ],
     [
       "yunpian-sdk",
-      6716
+      6717
     ],
     [
       "koa-swagger-ui",
-      6126
+      6127
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4503
+      4504
     ],
     [
       "koa-api-logger",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2394
+      2395
     ],
     [
       "gitbook-plugin-autotheme",
-      2318
+      2319
     ],
     [
       "auto-deployer",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1894
+      1895
     ],
     [
       "atl",
@@ -130,7 +130,7 @@
     ],
     [
       "v0-scf",
-      1296
+      1297
     ],
     [
       "@x12/di",
@@ -142,7 +142,7 @@
     ],
     [
       "@x12/tasker",
-      1190
+      1193
     ],
     [
       "@xibang/node-common",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1032
+      1033
     ],
     [
       "hyperapp-i18n",
@@ -170,7 +170,7 @@
     ],
     [
       "@authing/remix",
-      971
+      981
     ],
     [
       "beian-domain",
@@ -226,7 +226,7 @@
     ],
     [
       "uua",
-      708
+      709
     ],
     [
       "wdouban",
@@ -238,11 +238,11 @@
     ],
     [
       "vuepress-theme-asshole",
-      627
+      628
     ],
     [
       "@willin/eslint-config",
-      626
+      627
     ],
     [
       "rxdis",
@@ -266,7 +266,7 @@
     ],
     [
       "edd",
-      482
+      483
     ],
     [
       "hdd",
@@ -298,7 +298,7 @@
     ],
     [
       "@authing/nextjs",
-      356
+      357
     ],
     [
       "whiteq",
@@ -306,7 +306,7 @@
     ],
     [
       "@x12/mongodb",
-      304
+      305
     ],
     [
       "@x12/promise",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      248
+      249
     ],
     [
       "ggql",
@@ -338,12 +338,12 @@
     ],
     [
       "remix-sanity",
-      99
+      101
     ],
     [
       "passport-authing",
       92
     ]
   ],
-  "sum": 633093
+  "sum": 633675
 }
