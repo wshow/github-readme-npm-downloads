@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      272844
+      273160
     ],
     [
       "gitbook-plugin-atoc",
-      146634
+      146645
     ],
     [
       "gitbook-plugin-donate",
-      66403
+      66478
     ],
     [
       "waliyun",
-      20818
+      20823
     ],
     [
       "@uua/icons",
-      7112
+      7113
     ],
     [
       "leader.js.cool",
-      6751
+      6752
     ],
     [
       "yunpian-sdk",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6127
+      6128
     ],
     [
       "gitbook-plugin-wordcount",
@@ -46,7 +46,7 @@
     ],
     [
       "koa-api-logger",
-      3841
+      3850
     ],
     [
       "appkey",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2601
+      2604
     ],
     [
       "vchart",
@@ -86,11 +86,11 @@
     ],
     [
       "wqcloud-video",
-      2043
+      2046
     ],
     [
       "hapi-auth-redis",
-      2035
+      2038
     ],
     [
       "wrescuetime",
@@ -130,7 +130,7 @@
     ],
     [
       "v0-scf",
-      1298
+      1299
     ],
     [
       "@x12/di",
@@ -138,11 +138,11 @@
     ],
     [
       "wnm",
-      1208
+      1209
     ],
     [
       "@x12/tasker",
-      1197
+      1198
     ],
     [
       "@xibang/node-common",
@@ -154,11 +154,11 @@
     ],
     [
       "less.js.cool",
-      1045
+      1046
     ],
     [
       "mmonit",
-      1044
+      1045
     ],
     [
       "lslint",
@@ -198,15 +198,15 @@
     ],
     [
       "awth",
-      823
+      824
     ],
     [
       "markdown-toc-gitbook",
-      816
+      817
     ],
     [
       "@x12/env",
-      799
+      800
     ],
     [
       "h1de",
@@ -214,11 +214,11 @@
     ],
     [
       "pipefn",
-      777
+      778
     ],
     [
       "remix-i18n",
-      771
+      772
     ],
     [
       "wulian",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      680
+      681
     ],
     [
       "vuepress-theme-asshole",
@@ -246,7 +246,7 @@
     ],
     [
       "rxdis",
-      603
+      604
     ],
     [
       "leancloud-sdk",
@@ -258,7 +258,7 @@
     ],
     [
       "@uua/ip2c",
-      531
+      532
     ],
     [
       "sdk0",
@@ -266,7 +266,7 @@
     ],
     [
       "edd",
-      483
+      484
     ],
     [
       "hdd",
@@ -345,5 +345,5 @@
       92
     ]
   ],
-  "sum": 634120
+  "sum": 634562
 }
