@@ -10,11 +10,11 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                         | Downloads  |
 | -------------------------------------------------------------------------------------------- | ---------- |
-| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                               | 275232     |
+| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                               | 275896     |
 | [gitbook-plugin-atoc](https://www.npmjs.com/package/gitbook-plugin-atoc)                     | 146677     |
-| [gitbook-plugin-donate](https://www.npmjs.com/package/gitbook-plugin-donate)                 | 66728      |
-| [waliyun](https://www.npmjs.com/package/waliyun)                                             | 20879      |
-| [@uua/icons](https://www.npmjs.com/package/@uua/icons)                                       | 7122       |
+| [gitbook-plugin-donate](https://www.npmjs.com/package/gitbook-plugin-donate)                 | 66808      |
+| [waliyun](https://www.npmjs.com/package/waliyun)                                             | 20888      |
+| [@uua/icons](https://www.npmjs.com/package/@uua/icons)                                       | 7125       |
 | [leader.js.cool](https://www.npmjs.com/package/leader.js.cool)                               | 6763       |
 | [yunpian-sdk](https://www.npmjs.com/package/yunpian-sdk)                                     | 6730       |
 | [koa-swagger-ui](https://www.npmjs.com/package/koa-swagger-ui)                               | 6144       |
@@ -42,7 +42,7 @@ All of my npm packages and their downloads
 | [coding-net](https://www.npmjs.com/package/coding-net)                                       | 1699       |
 | [wno](https://www.npmjs.com/package/wno)                                                     | 1468       |
 | [@x12/hosts](https://www.npmjs.com/package/@x12/hosts)                                       | 1318       |
-| [v0-scf](https://www.npmjs.com/package/v0-scf)                                               | 1312       |
+| [v0-scf](https://www.npmjs.com/package/v0-scf)                                               | 1315       |
 | [@x12/di](https://www.npmjs.com/package/@x12/di)                                             | 1306       |
 | [wnm](https://www.npmjs.com/package/wnm)                                                     | 1218       |
 | [@x12/tasker](https://www.npmjs.com/package/@x12/tasker)                                     | 1214       |
@@ -52,12 +52,12 @@ All of my npm packages and their downloads
 | [less.js.cool](https://www.npmjs.com/package/less.js.cool)                                   | 1048       |
 | [lslint](https://www.npmjs.com/package/lslint)                                               | 1036       |
 | [hyperapp-i18n](https://www.npmjs.com/package/hyperapp-i18n)                                 | 1022       |
-| [@authing/remix](https://www.npmjs.com/package/@authing/remix)                               | 997        |
+| [@authing/remix](https://www.npmjs.com/package/@authing/remix)                               | 1008       |
 | [beian-domain](https://www.npmjs.com/package/beian-domain)                                   | 901        |
 | [@shiwangme/redis](https://www.npmjs.com/package/@shiwangme/redis)                           | 871        |
 | [wechaty-authing](https://www.npmjs.com/package/wechaty-authing)                             | 870        |
 | [nativescript-icam](https://www.npmjs.com/package/nativescript-icam)                         | 858        |
-| [@uua/core](https://www.npmjs.com/package/@uua/core)                                         | 836        |
+| [@uua/core](https://www.npmjs.com/package/@uua/core)                                         | 842        |
 | [coding-deploy](https://www.npmjs.com/package/coding-deploy)                                 | 829        |
 | [awth](https://www.npmjs.com/package/awth)                                                   | 825        |
 | [markdown-toc-gitbook](https://www.npmjs.com/package/markdown-toc-gitbook)                   | 818        |
@@ -74,7 +74,7 @@ All of my npm packages and their downloads
 | [rxdis](https://www.npmjs.com/package/rxdis)                                                 | 607        |
 | [leancloud-sdk](https://www.npmjs.com/package/leancloud-sdk)                                 | 591        |
 | [@dwing/koa-joi-router](https://www.npmjs.com/package/@dwing/koa-joi-router)                 | 552        |
-| [@uua/ip2c](https://www.npmjs.com/package/@uua/ip2c)                                         | 540        |
+| [@uua/ip2c](https://www.npmjs.com/package/@uua/ip2c)                                         | 544        |
 | [sdk0](https://www.npmjs.com/package/sdk0)                                                   | 509        |
 | [edd](https://www.npmjs.com/package/edd)                                                     | 485        |
 | [hdd](https://www.npmjs.com/package/hdd)                                                     | 465        |
@@ -96,5 +96,5 @@ All of my npm packages and their downloads
 | [@x12/rx-pool](https://www.npmjs.com/package/@x12/rx-pool)                                   | 212        |
 | [remix-sanity](https://www.npmjs.com/package/remix-sanity)                                   | 177        |
 | [passport-authing](https://www.npmjs.com/package/passport-authing)                           | 93         |
-| **Sum**                                                                                      | **637553** |
+| **Sum**                                                                                      | **638333** |
 <!-- AUTO-GENERATED-CONTENT:END -->
