@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      275896
+      276178
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,7 +10,7 @@
     ],
     [
       "gitbook-plugin-donate",
-      66808
+      66816
     ],
     [
       "waliyun",
@@ -18,11 +18,11 @@
     ],
     [
       "@uua/icons",
-      7125
+      7127
     ],
     [
       "leader.js.cool",
-      6763
+      6764
     ],
     [
       "yunpian-sdk",
@@ -66,11 +66,11 @@
     ],
     [
       "tuling",
-      2993
+      2994
     ],
     [
       "eslint-config-willin",
-      2625
+      2626
     ],
     [
       "vchart",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1904
+      1906
     ],
     [
       "atl",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1036
+      1037
     ],
     [
       "hyperapp-i18n",
@@ -226,7 +226,7 @@
     ],
     [
       "uua",
-      715
+      716
     ],
     [
       "wdouban",
@@ -250,7 +250,7 @@
     ],
     [
       "leancloud-sdk",
-      591
+      592
     ],
     [
       "@dwing/koa-joi-router",
@@ -318,7 +318,7 @@
     ],
     [
       "ggql",
-      247
+      248
     ],
     [
       "random-target",
@@ -338,12 +338,12 @@
     ],
     [
       "remix-sanity",
-      177
+      178
     ],
     [
       "passport-authing",
       93
     ]
   ],
-  "sum": 638333
+  "sum": 638635
 }
