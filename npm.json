@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      278486
+      278776
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      67050
+      67054
     ],
     [
       "waliyun",
-      20986
+      20988
     ],
     [
       "@uua/icons",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5804
+      5805
     ],
     [
       "wqcloud",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3196
+      3202
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2412
+      2414
     ],
     [
       "gitbook-plugin-autotheme",
@@ -161,12 +161,12 @@
       1049
     ],
     [
-      "lslint",
-      1038
+      "@authing/remix",
+      1042
     ],
     [
-      "@authing/remix",
-      1036
+      "lslint",
+      1038
     ],
     [
       "hyperapp-i18n",
@@ -254,7 +254,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      552
+      554
     ],
     [
       "@uua/ip2c",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      462
+      465
     ],
     [
       "@xibang/redis",
@@ -345,5 +345,5 @@
       94
     ]
   ],
-  "sum": 641698
+  "sum": 642014
 }
