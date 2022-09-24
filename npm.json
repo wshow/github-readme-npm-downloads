@@ -2,35 +2,35 @@
   "stats": [
     [
       "hexo-wordcount",
-      279661
+      279933
     ],
     [
       "gitbook-plugin-atoc",
-      146745
+      146760
     ],
     [
       "gitbook-plugin-donate",
-      67308
+      67424
     ],
     [
       "waliyun",
-      21030
+      21031
     ],
     [
       "@uua/icons",
-      7157
+      7158
     ],
     [
       "yunpian-sdk",
-      6785
+      6786
     ],
     [
       "leader.js.cool",
-      6778
+      6780
     ],
     [
       "koa-swagger-ui",
-      6160
+      6161
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,27 +42,27 @@
     ],
     [
       "v0",
-      4568
+      4573
     ],
     [
       "koa-api-logger",
-      3898
+      3899
     ],
     [
       "appkey",
-      3858
+      3859
     ],
     [
       "coding-sdk",
-      3719
+      3720
     ],
     [
       "mock-redis",
-      3262
+      3327
     ],
     [
       "wtoys",
-      3214
+      3220
     ],
     [
       "tuling",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2644
+      2647
     ],
     [
       "vchart",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2084
+      2088
     ],
     [
       "wqcloud-video",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1916
+      1918
     ],
     [
       "atl",
@@ -110,7 +110,7 @@
     ],
     [
       "nuxtpress",
-      1846
+      1847
     ],
     [
       "gitbook-plugin-theme-material",
@@ -130,31 +130,31 @@
     ],
     [
       "@x12/hosts",
-      1329
+      1335
     ],
     [
       "@x12/di",
-      1323
+      1328
     ],
     [
       "@x12/tasker",
-      1240
+      1241
     ],
     [
       "wnm",
-      1236
+      1237
     ],
     [
       "@xibang/node-common",
-      1077
+      1078
     ],
     [
       "mp-sdk",
-      1061
+      1062
     ],
     [
       "@authing/remix",
-      1060
+      1061
     ],
     [
       "mmonit",
@@ -166,11 +166,11 @@
     ],
     [
       "lslint",
-      1041
+      1042
     ],
     [
       "hyperapp-i18n",
-      1024
+      1025
     ],
     [
       "wechaty-authing",
@@ -178,15 +178,15 @@
     ],
     [
       "beian-domain",
-      908
+      909
     ],
     [
       "@shiwangme/redis",
-      889
+      890
     ],
     [
       "@uua/core",
-      861
+      862
     ],
     [
       "nativescript-icam",
@@ -194,7 +194,7 @@
     ],
     [
       "coding-deploy",
-      837
+      840
     ],
     [
       "awth",
@@ -206,19 +206,19 @@
     ],
     [
       "@x12/env",
-      807
+      812
+    ],
+    [
+      "remix-i18n",
+      792
     ],
     [
       "h1de",
       792
     ],
     [
-      "remix-i18n",
-      791
-    ],
-    [
       "pipefn",
-      783
+      784
     ],
     [
       "uua",
@@ -238,7 +238,7 @@
     ],
     [
       "@willin/eslint-config",
-      644
+      645
     ],
     [
       "vuepress-theme-asshole",
@@ -250,7 +250,7 @@
     ],
     [
       "leancloud-sdk",
-      594
+      595
     ],
     [
       "@uua/ip2c",
@@ -258,27 +258,27 @@
     ],
     [
       "@dwing/koa-joi-router",
-      557
+      558
     ],
     [
       "sdk0",
-      512
+      513
     ],
     [
       "edd",
-      486
+      488
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      468
+      469
     ],
     [
       "hdd",
-      466
+      467
     ],
     [
       "@xibang/redis",
-      452
+      453
     ],
     [
       "willin",
@@ -286,19 +286,19 @@
     ],
     [
       "@xibang/mysql",
-      423
+      424
     ],
     [
       "fetch-pro",
-      404
+      406
     ],
     [
       "@x12/common",
-      379
+      380
     ],
     [
       "@authing/nextjs",
-      378
+      379
     ],
     [
       "whiteq",
@@ -306,11 +306,11 @@
     ],
     [
       "@x12/mongodb",
-      318
+      319
     ],
     [
       "@x12/promise",
-      303
+      304
     ],
     [
       "afdian",
@@ -318,7 +318,7 @@
     ],
     [
       "ggql",
-      249
+      250
     ],
     [
       "random-target",
@@ -326,15 +326,15 @@
     ],
     [
       "@x12/task-types",
-      242
+      243
     ],
     [
       "npm-badges",
-      240
+      241
     ],
     [
       "@x12/rx-pool",
-      217
+      218
     ],
     [
       "remix-sanity",
@@ -342,8 +342,8 @@
     ],
     [
       "passport-authing",
-      95
+      96
     ]
   ],
-  "sum": 643892
+  "sum": 644442
 }
