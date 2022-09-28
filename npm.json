@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      280970
+      281292
     ],
     [
       "gitbook-plugin-atoc",
-      146767
+      146773
     ],
     [
       "gitbook-plugin-donate",
-      67518
+      67628
     ],
     [
       "waliyun",
-      21037
+      21042
     ],
     [
       "@uua/icons",
-      7161
+      7164
     ],
     [
       "yunpian-sdk",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5808
+      5809
     ],
     [
       "wqcloud",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4579
+      4584
     ],
     [
       "koa-api-logger",
@@ -58,11 +58,11 @@
     ],
     [
       "mock-redis",
-      3376
+      3390
     ],
     [
       "wtoys",
-      3222
+      3223
     ],
     [
       "tuling",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2650
+      2653
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2338
+      2339
     ],
     [
       "auto-deployer",
@@ -90,7 +90,7 @@
     ],
     [
       "hapi-auth-redis",
-      2046
+      2048
     ],
     [
       "wrescuetime",
@@ -98,15 +98,15 @@
     ],
     [
       "hyperapp.js.cool",
-      1924
+      1925
     ],
     [
       "atl",
-      1913
+      1915
     ],
     [
       "hello-dolly",
-      1875
+      1876
     ],
     [
       "nuxtpress",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1824
+      1825
     ],
     [
       "coding-net",
@@ -130,7 +130,7 @@
     ],
     [
       "v0-scf",
-      1338
+      1339
     ],
     [
       "@x12/di",
@@ -142,7 +142,7 @@
     ],
     [
       "wnm",
-      1238
+      1239
     ],
     [
       "@xibang/node-common",
@@ -170,14 +170,14 @@
     ],
     [
       "hyperapp-i18n",
-      1025
-    ],
-    [
-      "beian-domain",
-      910
+      1026
     ],
     [
       "wechaty-authing",
+      911
+    ],
+    [
+      "beian-domain",
       910
     ],
     [
@@ -230,7 +230,7 @@
     ],
     [
       "wdouban",
-      714
+      715
     ],
     [
       "z-curve",
@@ -253,16 +253,16 @@
       595
     ],
     [
+      "@dwing/koa-joi-router",
+      560
+    ],
+    [
       "@uua/ip2c",
       559
     ],
     [
-      "@dwing/koa-joi-router",
-      559
-    ],
-    [
       "sdk0",
-      514
+      515
     ],
     [
       "edd",
@@ -274,7 +274,7 @@
     ],
     [
       "hdd",
-      467
+      469
     ],
     [
       "@xibang/redis",
@@ -282,7 +282,7 @@
     ],
     [
       "willin",
-      438
+      439
     ],
     [
       "@xibang/mysql",
@@ -302,7 +302,7 @@
     ],
     [
       "whiteq",
-      332
+      333
     ],
     [
       "@x12/mongodb",
@@ -338,12 +338,12 @@
     ],
     [
       "remix-sanity",
-      183
+      184
     ],
     [
       "passport-authing",
       96
     ]
   ],
-  "sum": 645751
+  "sum": 646241
 }
