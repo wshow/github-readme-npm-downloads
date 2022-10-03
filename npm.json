@@ -2,15 +2,15 @@
   "stats": [
     [
       "hexo-wordcount",
-      282686
+      282954
     ],
     [
       "gitbook-plugin-atoc",
-      146794
+      146795
     ],
     [
       "gitbook-plugin-donate",
-      67816
+      67818
     ],
     [
       "waliyun",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4588
+      4591
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "appkey",
-      3864
+      3865
     ],
     [
       "coding-sdk",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2657
+      2658
     ],
     [
       "vchart",
@@ -98,11 +98,11 @@
     ],
     [
       "hyperapp.js.cool",
-      1929
+      1930
     ],
     [
       "atl",
-      1915
+      1916
     ],
     [
       "hello-dolly",
@@ -210,7 +210,7 @@
     ],
     [
       "h1de",
-      793
+      794
     ],
     [
       "remix-i18n",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      697
+      698
     ],
     [
       "@willin/eslint-config",
@@ -274,7 +274,7 @@
     ],
     [
       "hdd",
-      469
+      470
     ],
     [
       "@xibang/redis",
@@ -310,7 +310,7 @@
     ],
     [
       "@x12/promise",
-      306
+      307
     ],
     [
       "afdian",
@@ -334,7 +334,7 @@
     ],
     [
       "@x12/rx-pool",
-      221
+      222
     ],
     [
       "remix-sanity",
@@ -345,5 +345,5 @@
       96
     ]
   ],
-  "sum": 647968
+  "sum": 648251
 }
