@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      282954
+      283294
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      67818
+      67820
     ],
     [
       "waliyun",
-      21070
+      21086
     ],
     [
       "@uua/icons",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6162
+      6169
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5268
+      5269
     ],
     [
       "v0",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2090
+      2091
     ],
     [
       "wqcloud-video",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1930
+      1931
     ],
     [
       "atl",
@@ -170,11 +170,11 @@
     ],
     [
       "hyperapp-i18n",
-      1026
+      1027
     ],
     [
       "wechaty-authing",
-      913
+      916
     ],
     [
       "beian-domain",
@@ -198,11 +198,11 @@
     ],
     [
       "awth",
-      832
+      833
     ],
     [
       "markdown-toc-gitbook",
-      822
+      823
     ],
     [
       "@x12/env",
@@ -214,11 +214,11 @@
     ],
     [
       "remix-i18n",
-      792
+      793
     ],
     [
       "pipefn",
-      785
+      786
     ],
     [
       "uua",
@@ -246,7 +246,7 @@
     ],
     [
       "rxdis",
-      613
+      614
     ],
     [
       "leancloud-sdk",
@@ -322,7 +322,7 @@
     ],
     [
       "random-target",
-      248
+      249
     ],
     [
       "@x12/task-types",
@@ -338,12 +338,12 @@
     ],
     [
       "remix-sanity",
-      184
+      185
     ],
     [
       "passport-authing",
-      96
+      97
     ]
   ],
-  "sum": 648251
+  "sum": 648631
 }
