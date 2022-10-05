@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      283294
+      283835
     ],
     [
       "gitbook-plugin-atoc",
-      146795
+      146799
     ],
     [
       "gitbook-plugin-donate",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      21086
+      21094
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      6787
+      6788
     ],
     [
       "leader.js.cool",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5269
+      5270
     ],
     [
       "v0",
-      4591
+      4592
     ],
     [
       "koa-api-logger",
@@ -86,7 +86,7 @@
     ],
     [
       "wqcloud-video",
-      2080
+      2081
     ],
     [
       "hapi-auth-redis",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1931
+      1932
     ],
     [
       "atl",
@@ -146,7 +146,7 @@
     ],
     [
       "@xibang/node-common",
-      1080
+      1081
     ],
     [
       "@authing/remix",
@@ -166,11 +166,11 @@
     ],
     [
       "lslint",
-      1042
+      1044
     ],
     [
       "hyperapp-i18n",
-      1027
+      1028
     ],
     [
       "wechaty-authing",
@@ -178,7 +178,7 @@
     ],
     [
       "beian-domain",
-      910
+      912
     ],
     [
       "@shiwangme/redis",
@@ -209,12 +209,12 @@
       818
     ],
     [
-      "h1de",
+      "remix-i18n",
       794
     ],
     [
-      "remix-i18n",
-      793
+      "h1de",
+      794
     ],
     [
       "pipefn",
@@ -230,7 +230,7 @@
     ],
     [
       "wdouban",
-      715
+      716
     ],
     [
       "z-curve",
@@ -242,11 +242,11 @@
     ],
     [
       "vuepress-theme-asshole",
-      642
+      643
     ],
     [
       "rxdis",
-      614
+      615
     ],
     [
       "leancloud-sdk",
@@ -254,7 +254,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      562
+      564
     ],
     [
       "@uua/ip2c",
@@ -270,7 +270,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      472
+      473
     ],
     [
       "hdd",
@@ -278,15 +278,15 @@
     ],
     [
       "@xibang/redis",
-      455
+      456
     ],
     [
       "willin",
-      439
+      440
     ],
     [
       "@xibang/mysql",
-      426
+      427
     ],
     [
       "fetch-pro",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      269
+      270
     ],
     [
       "ggql",
@@ -322,7 +322,7 @@
     ],
     [
       "random-target",
-      249
+      250
     ],
     [
       "@x12/task-types",
@@ -338,12 +338,12 @@
     ],
     [
       "remix-sanity",
-      185
+      186
     ],
     [
       "passport-authing",
-      97
+      99
     ]
   ],
-  "sum": 648631
+  "sum": 649210
 }
