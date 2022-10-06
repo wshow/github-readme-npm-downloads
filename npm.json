@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      283835
+      284101
     ],
     [
       "gitbook-plugin-atoc",
-      146799
+      146803
     ],
     [
       "gitbook-plugin-donate",
-      67820
+      67822
     ],
     [
       "waliyun",
-      21094
+      21097
     ],
     [
       "@uua/icons",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1932
+      1933
     ],
     [
       "atl",
@@ -330,7 +330,7 @@
     ],
     [
       "npm-badges",
-      241
+      242
     ],
     [
       "@x12/rx-pool",
@@ -345,5 +345,5 @@
       99
     ]
   ],
-  "sum": 649210
+  "sum": 649487
 }

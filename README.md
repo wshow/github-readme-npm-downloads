@@ -10,10 +10,10 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                         | Downloads  |
 | -------------------------------------------------------------------------------------------- | ---------- |
-| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                               | 283835     |
-| [gitbook-plugin-atoc](https://www.npmjs.com/package/gitbook-plugin-atoc)                     | 146799     |
-| [gitbook-plugin-donate](https://www.npmjs.com/package/gitbook-plugin-donate)                 | 67820      |
-| [waliyun](https://www.npmjs.com/package/waliyun)                                             | 21094      |
+| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                               | 284101     |
+| [gitbook-plugin-atoc](https://www.npmjs.com/package/gitbook-plugin-atoc)                     | 146803     |
+| [gitbook-plugin-donate](https://www.npmjs.com/package/gitbook-plugin-donate)                 | 67822      |
+| [waliyun](https://www.npmjs.com/package/waliyun)                                             | 21097      |
 | [@uua/icons](https://www.npmjs.com/package/@uua/icons)                                       | 7169       |
 | [yunpian-sdk](https://www.npmjs.com/package/yunpian-sdk)                                     | 6788       |
 | [leader.js.cool](https://www.npmjs.com/package/leader.js.cool)                               | 6781       |
@@ -34,7 +34,7 @@ All of my npm packages and their downloads
 | [wqcloud-video](https://www.npmjs.com/package/wqcloud-video)                                 | 2081       |
 | [hapi-auth-redis](https://www.npmjs.com/package/hapi-auth-redis)                             | 2048       |
 | [wrescuetime](https://www.npmjs.com/package/wrescuetime)                                     | 1992       |
-| [hyperapp.js.cool](https://www.npmjs.com/package/hyperapp.js.cool)                           | 1932       |
+| [hyperapp.js.cool](https://www.npmjs.com/package/hyperapp.js.cool)                           | 1933       |
 | [atl](https://www.npmjs.com/package/atl)                                                     | 1916       |
 | [hello-dolly](https://www.npmjs.com/package/hello-dolly)                                     | 1876       |
 | [nuxtpress](https://www.npmjs.com/package/nuxtpress)                                         | 1847       |
@@ -92,9 +92,9 @@ All of my npm packages and their downloads
 | [ggql](https://www.npmjs.com/package/ggql)                                                   | 251        |
 | [random-target](https://www.npmjs.com/package/random-target)                                 | 250        |
 | [@x12/task-types](https://www.npmjs.com/package/@x12/task-types)                             | 246        |
-| [npm-badges](https://www.npmjs.com/package/npm-badges)                                       | 241        |
+| [npm-badges](https://www.npmjs.com/package/npm-badges)                                       | 242        |
 | [@x12/rx-pool](https://www.npmjs.com/package/@x12/rx-pool)                                   | 222        |
 | [remix-sanity](https://www.npmjs.com/package/remix-sanity)                                   | 186        |
 | [passport-authing](https://www.npmjs.com/package/passport-authing)                           | 99         |
-| **Sum**                                                                                      | **649210** |
+| **Sum**                                                                                      | **649487** |
 <!-- AUTO-GENERATED-CONTENT:END -->
