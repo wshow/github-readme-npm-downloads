@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      288413
+      288728
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,19 +10,19 @@
     ],
     [
       "gitbook-plugin-donate",
-      67872
+      67877
     ],
     [
       "waliyun",
-      21143
+      21145
     ],
     [
       "@uua/icons",
-      7192
+      7193
     ],
     [
       "yunpian-sdk",
-      6795
+      6796
     ],
     [
       "leader.js.cool",
@@ -50,11 +50,11 @@
     ],
     [
       "appkey",
-      3872
+      3874
     ],
     [
       "coding-sdk",
-      3729
+      3730
     ],
     [
       "mock-redis",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2670
+      2671
     ],
     [
       "vchart",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2092
+      2093
     ],
     [
       "wqcloud-video",
@@ -102,7 +102,7 @@
     ],
     [
       "atl",
-      1917
+      1918
     ],
     [
       "hello-dolly",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1714
+      1715
     ],
     [
       "wno",
@@ -137,12 +137,12 @@
       1338
     ],
     [
-      "@x12/tasker",
+      "wnm",
       1249
     ],
     [
-      "wnm",
-      1248
+      "@x12/tasker",
+      1249
     ],
     [
       "@xibang/node-common",
@@ -194,11 +194,11 @@
     ],
     [
       "coding-deploy",
-      843
+      844
     ],
     [
       "awth",
-      839
+      840
     ],
     [
       "markdown-toc-gitbook",
@@ -210,11 +210,11 @@
     ],
     [
       "remix-i18n",
-      803
+      805
     ],
     [
       "h1de",
-      801
+      802
     ],
     [
       "pipefn",
@@ -222,7 +222,7 @@
     ],
     [
       "uua",
-      739
+      740
     ],
     [
       "wulian",
@@ -238,7 +238,7 @@
     ],
     [
       "@willin/eslint-config",
-      660
+      661
     ],
     [
       "vuepress-theme-asshole",
@@ -246,23 +246,23 @@
     ],
     [
       "rxdis",
-      635
+      636
     ],
     [
       "leancloud-sdk",
       599
     ],
     [
+      "@dwing/koa-joi-router",
+      567
+    ],
+    [
       "@uua/ip2c",
       566
     ],
     [
-      "@dwing/koa-joi-router",
-      566
-    ],
-    [
       "sdk0",
-      521
+      522
     ],
     [
       "edd",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      475
+      476
     ],
     [
       "@xibang/redis",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      272
+      273
     ],
     [
       "ggql",
@@ -345,5 +345,5 @@
       105
     ]
   ],
-  "sum": 654547
+  "sum": 654891
 }
