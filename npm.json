@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      290343
+      290750
     ],
     [
       "gitbook-plugin-atoc",
-      146949
+      146951
     ],
     [
       "gitbook-plugin-donate",
-      67890
+      67901
     ],
     [
       "waliyun",
-      21151
+      21152
     ],
     [
       "@uua/icons",
@@ -22,11 +22,11 @@
     ],
     [
       "yunpian-sdk",
-      6796
+      6797
     ],
     [
       "leader.js.cool",
-      6784
+      6785
     ],
     [
       "koa-swagger-ui",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4617
+      4619
     ],
     [
       "koa-api-logger",
@@ -54,7 +54,7 @@
     ],
     [
       "coding-sdk",
-      3730
+      3731
     ],
     [
       "mock-redis",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      2671
+      2672
     ],
     [
       "vchart",
-      2431
+      2432
     ],
     [
       "gitbook-plugin-autotheme",
@@ -106,7 +106,7 @@
     ],
     [
       "hello-dolly",
-      1880
+      1881
     ],
     [
       "nuxtpress",
@@ -130,7 +130,7 @@
     ],
     [
       "v0-scf",
-      1348
+      1349
     ],
     [
       "@x12/di",
@@ -146,7 +146,7 @@
     ],
     [
       "@xibang/node-common",
-      1085
+      1086
     ],
     [
       "@authing/remix",
@@ -178,7 +178,7 @@
     ],
     [
       "beian-domain",
-      919
+      920
     ],
     [
       "@shiwangme/redis",
@@ -198,7 +198,7 @@
     ],
     [
       "awth",
-      840
+      841
     ],
     [
       "markdown-toc-gitbook",
@@ -266,11 +266,11 @@
     ],
     [
       "edd",
-      495
+      496
     ],
     [
       "hdd",
-      476
+      477
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -278,7 +278,7 @@
     ],
     [
       "@xibang/redis",
-      461
+      462
     ],
     [
       "willin",
@@ -345,5 +345,5 @@
       106
     ]
   ],
-  "sum": 656568
+  "sum": 657004
 }
