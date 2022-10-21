@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      290750
+      291250
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,19 +10,19 @@
     ],
     [
       "gitbook-plugin-donate",
-      67901
+      67916
     ],
     [
       "waliyun",
-      21152
+      21159
     ],
     [
       "@uua/icons",
-      7193
+      7200
     ],
     [
       "yunpian-sdk",
-      6797
+      6798
     ],
     [
       "leader.js.cool",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4619
+      4622
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3428
+      3431
     ],
     [
       "wtoys",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2672
+      2676
     ],
     [
       "vchart",
@@ -94,7 +94,7 @@
     ],
     [
       "wrescuetime",
-      1997
+      1998
     ],
     [
       "hyperapp.js.cool",
@@ -146,7 +146,7 @@
     ],
     [
       "@xibang/node-common",
-      1086
+      1088
     ],
     [
       "@authing/remix",
@@ -166,7 +166,7 @@
     ],
     [
       "lslint",
-      1049
+      1051
     ],
     [
       "hyperapp-i18n",
@@ -278,7 +278,7 @@
     ],
     [
       "@xibang/redis",
-      462
+      463
     ],
     [
       "willin",
@@ -286,7 +286,7 @@
     ],
     [
       "@xibang/mysql",
-      434
+      435
     ],
     [
       "@authing/nextjs",
@@ -294,7 +294,7 @@
     ],
     [
       "fetch-pro",
-      415
+      416
     ],
     [
       "@x12/common",
@@ -345,5 +345,5 @@
       106
     ]
   ],
-  "sum": 657004
+  "sum": 657552
 }
