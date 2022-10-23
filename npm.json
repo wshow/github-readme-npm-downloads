@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      291650
+      292000
     ],
     [
       "gitbook-plugin-atoc",
-      146955
+      146960
     ],
     [
       "gitbook-plugin-donate",
-      67924
+      67944
     ],
     [
       "waliyun",
-      21162
+      21165
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      6785
+      6786
     ],
     [
       "koa-swagger-ui",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5814
+      5815
     ],
     [
       "wqcloud",
@@ -58,11 +58,11 @@
     ],
     [
       "mock-redis",
-      3440
+      3447
     ],
     [
       "wtoys",
-      3230
+      3231
     ],
     [
       "tuling",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2434
+      2436
     ],
     [
       "gitbook-plugin-autotheme",
-      2344
+      2345
     ],
     [
       "auto-deployer",
@@ -90,7 +90,7 @@
     ],
     [
       "hapi-auth-redis",
-      2050
+      2051
     ],
     [
       "wrescuetime",
@@ -106,15 +106,15 @@
     ],
     [
       "hello-dolly",
-      1881
+      1882
     ],
     [
       "nuxtpress",
-      1861
+      1865
     ],
     [
       "gitbook-plugin-theme-material",
-      1831
+      1832
     ],
     [
       "coding-net",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1484
+      1485
     ],
     [
       "@x12/hosts",
@@ -138,7 +138,7 @@
     ],
     [
       "wnm",
-      1249
+      1250
     ],
     [
       "@x12/tasker",
@@ -170,11 +170,11 @@
     ],
     [
       "hyperapp-i18n",
-      1032
+      1033
     ],
     [
       "wechaty-authing",
-      922
+      923
     ],
     [
       "beian-domain",
@@ -230,7 +230,7 @@
     ],
     [
       "wdouban",
-      720
+      721
     ],
     [
       "z-curve",
@@ -282,7 +282,7 @@
     ],
     [
       "willin",
-      443
+      444
     ],
     [
       "@xibang/mysql",
@@ -302,7 +302,7 @@
     ],
     [
       "whiteq",
-      337
+      338
     ],
     [
       "@x12/mongodb",
@@ -345,5 +345,5 @@
       106
     ]
   ],
-  "sum": 657998
+  "sum": 658403
 }
