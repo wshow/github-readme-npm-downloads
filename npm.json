@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      292000
+      292296
     ],
     [
       "gitbook-plugin-atoc",
-      146960
+      146961
     ],
     [
       "gitbook-plugin-donate",
-      67944
+      67957
     ],
     [
       "waliyun",
-      21165
+      21166
     ],
     [
       "@uua/icons",
@@ -22,15 +22,15 @@
     ],
     [
       "yunpian-sdk",
-      6798
+      6799
     ],
     [
       "leader.js.cool",
-      6786
+      6787
     ],
     [
       "koa-swagger-ui",
-      6179
+      6180
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,11 +42,11 @@
     ],
     [
       "v0",
-      4625
+      4626
     ],
     [
       "koa-api-logger",
-      3908
+      3909
     ],
     [
       "appkey",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3447
+      3449
     ],
     [
       "wtoys",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2677
+      2678
     ],
     [
       "vchart",
@@ -110,7 +110,7 @@
     ],
     [
       "nuxtpress",
-      1865
+      1866
     ],
     [
       "gitbook-plugin-theme-material",
@@ -125,12 +125,12 @@
       1485
     ],
     [
-      "@x12/hosts",
+      "v0-scf",
       1351
     ],
     [
-      "v0-scf",
-      1350
+      "@x12/hosts",
+      1351
     ],
     [
       "@x12/di",
@@ -162,7 +162,7 @@
     ],
     [
       "less.js.cool",
-      1057
+      1058
     ],
     [
       "lslint",
@@ -202,7 +202,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      825
+      826
     ],
     [
       "@x12/env",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      704
+      705
     ],
     [
       "@willin/eslint-config",
@@ -266,7 +266,7 @@
     ],
     [
       "edd",
-      496
+      497
     ],
     [
       "hdd",
@@ -345,5 +345,5 @@
       106
     ]
   ],
-  "sum": 658403
+  "sum": 658728
 }
