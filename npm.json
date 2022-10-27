@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      293028
+      293288
     ],
     [
       "gitbook-plugin-atoc",
-      146964
+      146984
     ],
     [
       "gitbook-plugin-donate",
-      67978
+      67991
     ],
     [
       "waliyun",
-      21172
+      21176
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      6799
+      6800
     ],
     [
       "leader.js.cool",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3449
+      3451
     ],
     [
       "wtoys",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2680
+      2681
     ],
     [
       "vchart",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1955
+      1956
     ],
     [
       "atl",
@@ -106,7 +106,7 @@
     ],
     [
       "hello-dolly",
-      1882
+      1883
     ],
     [
       "nuxtpress",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1352
+      1353
     ],
     [
       "@x12/hosts",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1068
+      1069
     ],
     [
       "mmonit",
@@ -166,11 +166,11 @@
     ],
     [
       "lslint",
-      1052
+      1053
     ],
     [
       "hyperapp-i18n",
-      1033
+      1034
     ],
     [
       "wechaty-authing",
@@ -254,7 +254,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      569
+      571
     ],
     [
       "@uua/ip2c",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      476
+      478
     ],
     [
       "@xibang/redis",
@@ -318,7 +318,7 @@
     ],
     [
       "ggql",
-      257
+      258
     ],
     [
       "random-target",
@@ -345,5 +345,5 @@
       106
     ]
   ],
-  "sum": 659527
+  "sum": 659839
 }
