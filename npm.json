@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      293288
+      293542
     ],
     [
       "gitbook-plugin-atoc",
-      146984
+      146985
     ],
     [
       "gitbook-plugin-donate",
-      67991
+      68008
     ],
     [
       "waliyun",
-      21176
+      21177
     ],
     [
       "@uua/icons",
-      7208
+      7218
     ],
     [
       "yunpian-sdk",
@@ -34,11 +34,11 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5815
+      5817
     ],
     [
       "wqcloud",
-      5278
+      5279
     ],
     [
       "v0",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3451
+      3457
     ],
     [
       "wtoys",
@@ -70,19 +70,19 @@
     ],
     [
       "eslint-config-willin",
-      2681
+      2685
     ],
     [
       "vchart",
-      2438
+      2439
     ],
     [
       "gitbook-plugin-autotheme",
-      2345
+      2347
     ],
     [
       "auto-deployer",
-      2094
+      2095
     ],
     [
       "wqcloud-video",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1956
+      1957
     ],
     [
       "atl",
@@ -106,7 +106,7 @@
     ],
     [
       "hello-dolly",
-      1883
+      1889
     ],
     [
       "nuxtpress",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1832
+      1833
     ],
     [
       "coding-net",
@@ -146,7 +146,7 @@
     ],
     [
       "@xibang/node-common",
-      1088
+      1089
     ],
     [
       "@authing/remix",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1069
+      1070
     ],
     [
       "mmonit",
@@ -166,7 +166,7 @@
     ],
     [
       "lslint",
-      1053
+      1054
     ],
     [
       "hyperapp-i18n",
@@ -178,15 +178,15 @@
     ],
     [
       "beian-domain",
-      920
+      921
     ],
     [
       "@shiwangme/redis",
-      906
+      917
     ],
     [
       "@uua/core",
-      872
+      884
     ],
     [
       "nativescript-icam",
@@ -210,11 +210,11 @@
     ],
     [
       "remix-i18n",
-      806
+      807
     ],
     [
       "h1de",
-      804
+      805
     ],
     [
       "pipefn",
@@ -253,12 +253,12 @@
       599
     ],
     [
-      "@dwing/koa-joi-router",
-      571
+      "@uua/ip2c",
+      575
     ],
     [
-      "@uua/ip2c",
-      567
+      "@dwing/koa-joi-router",
+      571
     ],
     [
       "sdk0",
@@ -270,7 +270,7 @@
     ],
     [
       "hdd",
-      478
+      479
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -318,7 +318,7 @@
     ],
     [
       "ggql",
-      258
+      259
     ],
     [
       "random-target",
@@ -345,5 +345,5 @@
       106
     ]
   ],
-  "sum": 659839
+  "sum": 660186
 }
