@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      294758
+      295078
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,23 +10,23 @@
     ],
     [
       "gitbook-plugin-donate",
-      68052
+      68056
     ],
     [
       "waliyun",
-      21261
+      21263
     ],
     [
       "@uua/icons",
-      7233
+      7237
     ],
     [
       "yunpian-sdk",
-      6827
+      6828
     ],
     [
       "leader.js.cool",
-      6814
+      6815
     ],
     [
       "koa-swagger-ui",
@@ -34,19 +34,19 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5822
+      5824
     ],
     [
       "wqcloud",
-      5307
+      5308
     ],
     [
       "v0",
-      4685
+      4687
     ],
     [
       "koa-api-logger",
-      3949
+      3950
     ],
     [
       "appkey",
@@ -66,11 +66,11 @@
     ],
     [
       "tuling",
-      3051
+      3053
     ],
     [
       "eslint-config-willin",
-      2708
+      2709
     ],
     [
       "vchart",
@@ -90,7 +90,7 @@
     ],
     [
       "hapi-auth-redis",
-      2065
+      2066
     ],
     [
       "wrescuetime",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1969
+      1970
     ],
     [
       "atl",
@@ -106,7 +106,7 @@
     ],
     [
       "hello-dolly",
-      1894
+      1895
     ],
     [
       "nuxtpress",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1369
+      1370
     ],
     [
       "@x12/hosts",
@@ -145,12 +145,12 @@
       1260
     ],
     [
-      "@xibang/node-common",
-      1098
+      "@authing/remix",
+      1114
     ],
     [
-      "@authing/remix",
-      1090
+      "@xibang/node-common",
+      1098
     ],
     [
       "mp-sdk",
@@ -162,11 +162,11 @@
     ],
     [
       "less.js.cool",
-      1063
+      1064
     ],
     [
       "lslint",
-      1057
+      1058
     ],
     [
       "hyperapp-i18n",
@@ -214,7 +214,7 @@
     ],
     [
       "h1de",
-      817
+      818
     ],
     [
       "pipefn",
@@ -250,7 +250,7 @@
     ],
     [
       "leancloud-sdk",
-      605
+      606
     ],
     [
       "@uua/ip2c",
@@ -270,7 +270,7 @@
     ],
     [
       "hdd",
-      483
+      484
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -290,11 +290,11 @@
     ],
     [
       "fetch-pro",
-      426
+      429
     ],
     [
       "@authing/nextjs",
-      419
+      427
     ],
     [
       "@x12/common",
@@ -345,5 +345,5 @@
       110
     ]
   ],
-  "sum": 662381
+  "sum": 662766
 }
