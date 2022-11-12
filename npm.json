@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      298288
+      298735
     ],
     [
       "gitbook-plugin-atoc",
-      147075
+      147082
     ],
     [
       "gitbook-plugin-donate",
-      68129
+      68130
     ],
     [
       "waliyun",
-      21351
+      21358
     ],
     [
       "@uua/icons",
@@ -50,15 +50,15 @@
     ],
     [
       "appkey",
-      3890
+      3891
     ],
     [
       "coding-sdk",
-      3760
+      3763
     ],
     [
       "mock-redis",
-      3516
+      3517
     ],
     [
       "wtoys",
@@ -78,11 +78,11 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2361
+      2362
     ],
     [
       "auto-deployer",
-      2113
+      2114
     ],
     [
       "wqcloud-video",
@@ -98,11 +98,11 @@
     ],
     [
       "hyperapp.js.cool",
-      1981
+      1982
     ],
     [
       "atl",
-      1931
+      1932
     ],
     [
       "nuxtpress",
@@ -114,19 +114,19 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1851
+      1852
     ],
     [
       "coding-net",
-      1725
+      1726
     ],
     [
       "wno",
-      1492
+      1493
     ],
     [
       "v0-scf",
-      1394
+      1395
     ],
     [
       "@x12/hosts",
@@ -194,15 +194,15 @@
     ],
     [
       "coding-deploy",
-      850
+      851
     ],
     [
       "awth",
-      848
+      849
     ],
     [
       "remix-i18n",
-      834
+      835
     ],
     [
       "markdown-toc-gitbook",
@@ -238,11 +238,11 @@
     ],
     [
       "@willin/eslint-config",
-      687
+      689
     ],
     [
       "rxdis",
-      670
+      671
     ],
     [
       "vuepress-theme-asshole",
@@ -258,11 +258,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      576
+      578
     ],
     [
       "sdk0",
-      533
+      535
     ],
     [
       "edd",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      482
+      484
     ],
     [
       "@xibang/redis",
@@ -345,5 +345,5 @@
       114
     ]
   ],
-  "sum": 666935
+  "sum": 667422
 }
