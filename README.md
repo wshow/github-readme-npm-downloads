@@ -10,11 +10,11 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                         | Downloads  |
 | -------------------------------------------------------------------------------------------- | ---------- |
-| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                               | 299260     |
+| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                               | 299472     |
 | [gitbook-plugin-atoc](https://www.npmjs.com/package/gitbook-plugin-atoc)                     | 147083     |
 | [gitbook-plugin-donate](https://www.npmjs.com/package/gitbook-plugin-donate)                 | 68150      |
-| [waliyun](https://www.npmjs.com/package/waliyun)                                             | 21363      |
-| [@uua/icons](https://www.npmjs.com/package/@uua/icons)                                       | 7306       |
+| [waliyun](https://www.npmjs.com/package/waliyun)                                             | 21364      |
+| [@uua/icons](https://www.npmjs.com/package/@uua/icons)                                       | 7307       |
 | [yunpian-sdk](https://www.npmjs.com/package/yunpian-sdk)                                     | 6852       |
 | [leader.js.cool](https://www.npmjs.com/package/leader.js.cool)                               | 6829       |
 | [koa-swagger-ui](https://www.npmjs.com/package/koa-swagger-ui)                               | 6224       |
@@ -27,14 +27,14 @@ All of my npm packages and their downloads
 | [mock-redis](https://www.npmjs.com/package/mock-redis)                                       | 3517       |
 | [wtoys](https://www.npmjs.com/package/wtoys)                                                 | 3265       |
 | [tuling](https://www.npmjs.com/package/tuling)                                               | 3059       |
-| [eslint-config-willin](https://www.npmjs.com/package/eslint-config-willin)                   | 2731       |
+| [eslint-config-willin](https://www.npmjs.com/package/eslint-config-willin)                   | 2732       |
 | [vchart](https://www.npmjs.com/package/vchart)                                               | 2464       |
 | [gitbook-plugin-autotheme](https://www.npmjs.com/package/gitbook-plugin-autotheme)           | 2362       |
 | [auto-deployer](https://www.npmjs.com/package/auto-deployer)                                 | 2114       |
 | [wqcloud-video](https://www.npmjs.com/package/wqcloud-video)                                 | 2106       |
 | [hapi-auth-redis](https://www.npmjs.com/package/hapi-auth-redis)                             | 2069       |
 | [wrescuetime](https://www.npmjs.com/package/wrescuetime)                                     | 2019       |
-| [hyperapp.js.cool](https://www.npmjs.com/package/hyperapp.js.cool)                           | 1988       |
+| [hyperapp.js.cool](https://www.npmjs.com/package/hyperapp.js.cool)                           | 1990       |
 | [atl](https://www.npmjs.com/package/atl)                                                     | 1932       |
 | [nuxtpress](https://www.npmjs.com/package/nuxtpress)                                         | 1907       |
 | [hello-dolly](https://www.npmjs.com/package/hello-dolly)                                     | 1900       |
@@ -70,7 +70,7 @@ All of my npm packages and their downloads
 | [wdouban](https://www.npmjs.com/package/wdouban)                                             | 735        |
 | [z-curve](https://www.npmjs.com/package/z-curve)                                             | 716        |
 | [@willin/eslint-config](https://www.npmjs.com/package/@willin/eslint-config)                 | 689        |
-| [rxdis](https://www.npmjs.com/package/rxdis)                                                 | 671        |
+| [rxdis](https://www.npmjs.com/package/rxdis)                                                 | 672        |
 | [vuepress-theme-asshole](https://www.npmjs.com/package/vuepress-theme-asshole)               | 657        |
 | [leancloud-sdk](https://www.npmjs.com/package/leancloud-sdk)                                 | 610        |
 | [@uua/ip2c](https://www.npmjs.com/package/@uua/ip2c)                                         | 582        |
@@ -82,8 +82,8 @@ All of my npm packages and their downloads
 | [@xibang/redis](https://www.npmjs.com/package/@xibang/redis)                                 | 472        |
 | [willin](https://www.npmjs.com/package/willin)                                               | 448        |
 | [@xibang/mysql](https://www.npmjs.com/package/@xibang/mysql)                                 | 442        |
-| [@authing/nextjs](https://www.npmjs.com/package/@authing/nextjs)                             | 436        |
-| [fetch-pro](https://www.npmjs.com/package/fetch-pro)                                         | 432        |
+| [@authing/nextjs](https://www.npmjs.com/package/@authing/nextjs)                             | 437        |
+| [fetch-pro](https://www.npmjs.com/package/fetch-pro)                                         | 433        |
 | [@x12/common](https://www.npmjs.com/package/@x12/common)                                     | 395        |
 | [whiteq](https://www.npmjs.com/package/whiteq)                                               | 352        |
 | [@x12/mongodb](https://www.npmjs.com/package/@x12/mongodb)                                   | 332        |
@@ -96,5 +96,5 @@ All of my npm packages and their downloads
 | [@x12/rx-pool](https://www.npmjs.com/package/@x12/rx-pool)                                   | 232        |
 | [remix-sanity](https://www.npmjs.com/package/remix-sanity)                                   | 199        |
 | [passport-authing](https://www.npmjs.com/package/passport-authing)                           | 114        |
-| **Sum**                                                                                      | **668007** |
+| **Sum**                                                                                      | **668227** |
 <!-- AUTO-GENERATED-CONTENT:END -->
