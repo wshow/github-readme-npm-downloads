@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      299472
+      299733
     ],
     [
       "gitbook-plugin-atoc",
-      147083
+      147085
     ],
     [
       "gitbook-plugin-donate",
-      68150
+      68164
     ],
     [
       "waliyun",
-      21364
+      21368
     ],
     [
       "@uua/icons",
-      7307
+      7318
     ],
     [
       "yunpian-sdk",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      6829
+      6832
     ],
     [
       "koa-swagger-ui",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4764
+      4767
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3517
+      3519
     ],
     [
       "wtoys",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      2732
+      2734
     ],
     [
       "vchart",
-      2464
+      2465
     ],
     [
       "gitbook-plugin-autotheme",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1990
+      1992
     ],
     [
       "atl",
@@ -122,11 +122,11 @@
     ],
     [
       "wno",
-      1493
+      1494
     ],
     [
       "v0-scf",
-      1395
+      1397
     ],
     [
       "@x12/hosts",
@@ -146,7 +146,7 @@
     ],
     [
       "@authing/remix",
-      1127
+      1128
     ],
     [
       "@xibang/node-common",
@@ -161,12 +161,12 @@
       1072
     ],
     [
-      "less.js.cool",
-      1067
+      "lslint",
+      1070
     ],
     [
-      "lslint",
-      1067
+      "less.js.cool",
+      1069
     ],
     [
       "hyperapp-i18n",
@@ -222,7 +222,7 @@
     ],
     [
       "uua",
-      760
+      761
     ],
     [
       "wulian",
@@ -242,15 +242,15 @@
     ],
     [
       "rxdis",
-      672
+      673
     ],
     [
       "vuepress-theme-asshole",
-      657
+      658
     ],
     [
       "leancloud-sdk",
-      610
+      612
     ],
     [
       "@uua/ip2c",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      537
+      538
     ],
     [
       "edd",
@@ -290,11 +290,11 @@
     ],
     [
       "@authing/nextjs",
-      437
+      438
     ],
     [
       "fetch-pro",
-      433
+      434
     ],
     [
       "@x12/common",
@@ -345,5 +345,5 @@
       114
     ]
   ],
-  "sum": 668227
+  "sum": 668549
 }
