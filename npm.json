@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      300002
+      300223
     ],
     [
       "gitbook-plugin-atoc",
-      147087
+      147090
     ],
     [
       "gitbook-plugin-donate",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      21368
+      21369
     ],
     [
       "@uua/icons",
@@ -22,15 +22,15 @@
     ],
     [
       "yunpian-sdk",
-      6852
+      6853
     ],
     [
       "leader.js.cool",
-      6832
+      6833
     ],
     [
       "koa-swagger-ui",
-      6242
+      6245
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5336
+      5349
     ],
     [
       "v0",
@@ -46,7 +46,7 @@
     ],
     [
       "koa-api-logger",
-      3964
+      3965
     ],
     [
       "appkey",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1993
+      1994
     ],
     [
       "atl",
@@ -161,12 +161,12 @@
       1072
     ],
     [
-      "lslint",
+      "less.js.cool",
       1070
     ],
     [
-      "less.js.cool",
-      1069
+      "lslint",
+      1070
     ],
     [
       "hyperapp-i18n",
@@ -205,16 +205,16 @@
       835
     ],
     [
+      "markdown-toc-gitbook",
+      833
+    ],
+    [
       "@x12/env",
       833
     ],
     [
-      "markdown-toc-gitbook",
-      832
-    ],
-    [
       "h1de",
-      827
+      828
     ],
     [
       "pipefn",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      717
+      718
     ],
     [
       "@willin/eslint-config",
@@ -266,7 +266,7 @@
     ],
     [
       "edd",
-      501
+      502
     ],
     [
       "hdd",
@@ -345,5 +345,5 @@
       114
     ]
   ],
-  "sum": 668864
+  "sum": 669114
 }
