@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      300223
+      300452
     ],
     [
       "gitbook-plugin-atoc",
-      147090
+      147096
     ],
     [
       "gitbook-plugin-donate",
-      68166
+      68168
     ],
     [
       "waliyun",
-      21369
+      21371
     ],
     [
       "@uua/icons",
-      7319
+      7320
     ],
     [
       "yunpian-sdk",
-      6853
+      6854
     ],
     [
       "leader.js.cool",
@@ -30,11 +30,11 @@
     ],
     [
       "koa-swagger-ui",
-      6245
+      6246
     ],
     [
       "gitbook-plugin-wordcount",
-      5829
+      5830
     ],
     [
       "wqcloud",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3521
+      3523
     ],
     [
       "wtoys",
@@ -66,19 +66,19 @@
     ],
     [
       "tuling",
-      3059
+      3061
     ],
     [
       "eslint-config-willin",
-      2734
+      2736
     ],
     [
       "vchart",
-      2465
+      2467
     ],
     [
       "gitbook-plugin-autotheme",
-      2363
+      2365
     ],
     [
       "auto-deployer",
@@ -86,7 +86,7 @@
     ],
     [
       "wqcloud-video",
-      2106
+      2108
     ],
     [
       "hapi-auth-redis",
@@ -102,7 +102,7 @@
     ],
     [
       "atl",
-      1932
+      1934
     ],
     [
       "nuxtpress",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1853
+      1855
     ],
     [
       "coding-net",
@@ -158,15 +158,15 @@
     ],
     [
       "mmonit",
-      1072
+      1073
     ],
     [
       "less.js.cool",
-      1070
+      1072
     ],
     [
       "lslint",
-      1070
+      1071
     ],
     [
       "hyperapp-i18n",
@@ -182,19 +182,19 @@
     ],
     [
       "@shiwangme/redis",
-      922
+      923
     ],
     [
       "@uua/core",
-      894
+      895
     ],
     [
       "nativescript-icam",
-      871
+      872
     ],
     [
       "coding-deploy",
-      851
+      853
     ],
     [
       "awth",
@@ -202,7 +202,7 @@
     ],
     [
       "remix-i18n",
-      835
+      837
     ],
     [
       "markdown-toc-gitbook",
@@ -218,7 +218,7 @@
     ],
     [
       "pipefn",
-      803
+      805
     ],
     [
       "uua",
@@ -238,11 +238,11 @@
     ],
     [
       "@willin/eslint-config",
-      690
+      692
     ],
     [
       "rxdis",
-      673
+      674
     ],
     [
       "vuepress-theme-asshole",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      578
+      579
     ],
     [
       "sdk0",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      484
+      485
     ],
     [
       "@xibang/redis",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      286
+      299
     ],
     [
       "random-target",
@@ -338,12 +338,12 @@
     ],
     [
       "remix-sanity",
-      199
+      200
     ],
     [
       "passport-authing",
       114
     ]
   ],
-  "sum": 669114
+  "sum": 669405
 }
