@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      300452
+      300637
     ],
     [
       "gitbook-plugin-atoc",
-      147096
+      147098
     ],
     [
       "gitbook-plugin-donate",
-      68168
+      68172
     ],
     [
       "waliyun",
-      21371
+      21378
     ],
     [
       "@uua/icons",
-      7320
+      7321
     ],
     [
       "yunpian-sdk",
-      6854
+      6855
     ],
     [
       "leader.js.cool",
@@ -66,7 +66,7 @@
     ],
     [
       "tuling",
-      3061
+      3065
     ],
     [
       "eslint-config-willin",
@@ -90,7 +90,7 @@
     ],
     [
       "hapi-auth-redis",
-      2070
+      2072
     ],
     [
       "wrescuetime",
@@ -122,11 +122,11 @@
     ],
     [
       "wno",
-      1495
+      1497
     ],
     [
       "v0-scf",
-      1397
+      1400
     ],
     [
       "@x12/hosts",
@@ -138,7 +138,7 @@
     ],
     [
       "wnm",
-      1272
+      1273
     ],
     [
       "@x12/tasker",
@@ -186,7 +186,7 @@
     ],
     [
       "@uua/core",
-      895
+      896
     ],
     [
       "nativescript-icam",
@@ -238,7 +238,7 @@
     ],
     [
       "@willin/eslint-config",
-      692
+      694
     ],
     [
       "rxdis",
@@ -254,7 +254,7 @@
     ],
     [
       "@uua/ip2c",
-      582
+      583
     ],
     [
       "@dwing/koa-joi-router",
@@ -270,7 +270,7 @@
     ],
     [
       "hdd",
-      486
+      487
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -294,7 +294,7 @@
     ],
     [
       "fetch-pro",
-      435
+      436
     ],
     [
       "@x12/common",
@@ -302,7 +302,7 @@
     ],
     [
       "whiteq",
-      354
+      355
     ],
     [
       "@x12/mongodb",
@@ -345,5 +345,5 @@
       114
     ]
   ],
-  "sum": 669405
+  "sum": 669624
 }
