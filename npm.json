@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      300637
+      300948
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      68172
+      68173
     ],
     [
       "waliyun",
-      21378
+      21379
     ],
     [
       "@uua/icons",
-      7321
+      7325
     ],
     [
       "yunpian-sdk",
@@ -26,15 +26,15 @@
     ],
     [
       "leader.js.cool",
-      6833
+      6835
     ],
     [
       "koa-swagger-ui",
-      6246
+      6247
     ],
     [
       "gitbook-plugin-wordcount",
-      5830
+      5831
     ],
     [
       "wqcloud",
@@ -50,7 +50,7 @@
     ],
     [
       "appkey",
-      3892
+      3893
     ],
     [
       "coding-sdk",
@@ -66,11 +66,11 @@
     ],
     [
       "tuling",
-      3065
+      3066
     ],
     [
       "eslint-config-willin",
-      2736
+      2737
     ],
     [
       "vchart",
@@ -94,11 +94,11 @@
     ],
     [
       "wrescuetime",
-      2019
+      2020
     ],
     [
       "hyperapp.js.cool",
-      1994
+      1996
     ],
     [
       "atl",
@@ -138,7 +138,7 @@
     ],
     [
       "wnm",
-      1273
+      1275
     ],
     [
       "@x12/tasker",
@@ -178,7 +178,7 @@
     ],
     [
       "beian-domain",
-      930
+      931
     ],
     [
       "@shiwangme/redis",
@@ -242,7 +242,7 @@
     ],
     [
       "rxdis",
-      674
+      675
     ],
     [
       "vuepress-theme-asshole",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      538
+      539
     ],
     [
       "edd",
@@ -322,7 +322,7 @@
     ],
     [
       "ggql",
-      264
+      265
     ],
     [
       "npm-badges",
@@ -345,5 +345,5 @@
       114
     ]
   ],
-  "sum": 669624
+  "sum": 669957
 }
