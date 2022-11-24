@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      301606
+      301957
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      68187
+      68190
     ],
     [
       "waliyun",
-      21389
+      21393
     ],
     [
       "@uua/icons",
-      7327
+      7328
     ],
     [
       "yunpian-sdk",
@@ -30,11 +30,11 @@
     ],
     [
       "koa-swagger-ui",
-      6247
+      6248
     ],
     [
       "gitbook-plugin-wordcount",
-      5832
+      5833
     ],
     [
       "wqcloud",
@@ -42,11 +42,11 @@
     ],
     [
       "v0",
-      4780
+      4781
     ],
     [
       "koa-api-logger",
-      3965
+      3975
     ],
     [
       "appkey",
@@ -58,11 +58,11 @@
     ],
     [
       "mock-redis",
-      3526
+      3534
     ],
     [
       "wtoys",
-      3266
+      3269
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2468
+      2470
     ],
     [
       "gitbook-plugin-autotheme",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2114
+      2118
     ],
     [
       "wqcloud-video",
@@ -130,11 +130,11 @@
     ],
     [
       "@x12/hosts",
-      1363
+      1364
     ],
     [
       "@x12/di",
-      1354
+      1356
     ],
     [
       "wnm",
@@ -142,15 +142,15 @@
     ],
     [
       "@x12/tasker",
-      1272
+      1275
     ],
     [
       "@authing/remix",
-      1130
+      1134
     ],
     [
       "@xibang/node-common",
-      1103
+      1108
     ],
     [
       "mp-sdk",
@@ -174,19 +174,19 @@
     ],
     [
       "wechaty-authing",
-      964
+      966
     ],
     [
       "beian-domain",
-      932
+      933
     ],
     [
       "@shiwangme/redis",
-      923
+      925
     ],
     [
       "@uua/core",
-      898
+      899
     ],
     [
       "nativescript-icam",
@@ -194,7 +194,7 @@
     ],
     [
       "coding-deploy",
-      854
+      856
     ],
     [
       "awth",
@@ -202,7 +202,7 @@
     ],
     [
       "remix-i18n",
-      838
+      839
     ],
     [
       "markdown-toc-gitbook",
@@ -222,7 +222,7 @@
     ],
     [
       "uua",
-      764
+      765
     ],
     [
       "wulian",
@@ -254,7 +254,7 @@
     ],
     [
       "@uua/ip2c",
-      584
+      586
     ],
     [
       "@dwing/koa-joi-router",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      539
+      540
     ],
     [
       "edd",
@@ -278,7 +278,7 @@
     ],
     [
       "@xibang/redis",
-      472
+      473
     ],
     [
       "willin",
@@ -286,15 +286,15 @@
     ],
     [
       "@xibang/mysql",
-      442
+      444
     ],
     [
       "@authing/nextjs",
-      438
+      440
     ],
     [
       "fetch-pro",
-      436
+      437
     ],
     [
       "@x12/common",
@@ -302,11 +302,11 @@
     ],
     [
       "whiteq",
-      355
+      357
     ],
     [
       "@x12/mongodb",
-      332
+      333
     ],
     [
       "@x12/promise",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      299
+      300
     ],
     [
       "random-target",
@@ -338,12 +338,12 @@
     ],
     [
       "remix-sanity",
-      200
+      201
     ],
     [
       "passport-authing",
       114
     ]
   ],
-  "sum": 670728
+  "sum": 671156
 }
