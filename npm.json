@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      301957
+      302212
     ],
     [
       "gitbook-plugin-atoc",
-      147102
+      147107
     ],
     [
       "gitbook-plugin-donate",
-      68190
+      68201
     ],
     [
       "waliyun",
-      21393
+      21399
     ],
     [
       "@uua/icons",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4781
+      4782
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "appkey",
-      3895
+      3896
     ],
     [
       "coding-sdk",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3269
+      3275
     ],
     [
       "tuling",
@@ -70,15 +70,15 @@
     ],
     [
       "eslint-config-willin",
-      2740
+      2741
     ],
     [
       "vchart",
-      2470
+      2473
     ],
     [
       "gitbook-plugin-autotheme",
-      2365
+      2366
     ],
     [
       "auto-deployer",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      1998
+      1999
     ],
     [
       "atl",
@@ -202,7 +202,7 @@
     ],
     [
       "remix-i18n",
-      839
+      840
     ],
     [
       "markdown-toc-gitbook",
@@ -218,7 +218,7 @@
     ],
     [
       "pipefn",
-      806
+      807
     ],
     [
       "uua",
@@ -238,7 +238,7 @@
     ],
     [
       "@willin/eslint-config",
-      695
+      696
     ],
     [
       "rxdis",
@@ -286,15 +286,15 @@
     ],
     [
       "@xibang/mysql",
-      444
+      445
     ],
     [
       "@authing/nextjs",
-      440
+      441
     ],
     [
       "fetch-pro",
-      437
+      440
     ],
     [
       "@x12/common",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      300
+      302
     ],
     [
       "random-target",
@@ -330,7 +330,7 @@
     ],
     [
       "@x12/task-types",
-      254
+      255
     ],
     [
       "@x12/rx-pool",
@@ -345,5 +345,5 @@
       114
     ]
   ],
-  "sum": 671156
+  "sum": 671458
 }
