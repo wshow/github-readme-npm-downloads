@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      302968
+      303177
     ],
     [
       "gitbook-plugin-atoc",
-      147108
+      147109
     ],
     [
       "gitbook-plugin-donate",
-      68223
+      68224
     ],
     [
       "waliyun",
-      21402
+      21406
     ],
     [
       "@uua/icons",
-      7330
+      7341
     ],
     [
       "yunpian-sdk",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4782
+      4784
     ],
     [
       "koa-api-logger",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2742
+      2745
     ],
     [
       "vchart",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2000
+      2001
     ],
     [
       "atl",
@@ -106,7 +106,7 @@
     ],
     [
       "nuxtpress",
-      1910
+      1911
     ],
     [
       "hello-dolly",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1094
+      1100
     ],
     [
       "less.js.cool",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      540
+      541
     ],
     [
       "edd",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      302
+      305
     ],
     [
       "random-target",
@@ -326,7 +326,7 @@
     ],
     [
       "npm-badges",
-      256
+      257
     ],
     [
       "@x12/task-types",
@@ -345,5 +345,5 @@
       114
     ]
   ],
-  "sum": 672284
+  "sum": 672528
 }
