@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      303551
+      303936
     ],
     [
       "gitbook-plugin-atoc",
-      147110
+      147111
     ],
     [
       "gitbook-plugin-donate",
-      68226
+      68228
     ],
     [
       "waliyun",
-      21413
+      21416
     ],
     [
       "@uua/icons",
@@ -70,15 +70,15 @@
     ],
     [
       "eslint-config-willin",
-      2745
+      2746
     ],
     [
       "vchart",
-      2474
+      2475
     ],
     [
       "gitbook-plugin-autotheme",
-      2368
+      2370
     ],
     [
       "auto-deployer",
@@ -182,7 +182,7 @@
     ],
     [
       "@shiwangme/redis",
-      925
+      926
     ],
     [
       "@uua/core",
@@ -218,7 +218,7 @@
     ],
     [
       "pipefn",
-      807
+      808
     ],
     [
       "uua",
@@ -246,7 +246,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      658
+      659
     ],
     [
       "leancloud-sdk",
@@ -345,5 +345,5 @@
       115
     ]
   ],
-  "sum": 672931
+  "sum": 673329
 }

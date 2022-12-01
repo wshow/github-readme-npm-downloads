@@ -10,10 +10,10 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                         | Downloads  |
 | -------------------------------------------------------------------------------------------- | ---------- |
-| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                               | 303551     |
-| [gitbook-plugin-atoc](https://www.npmjs.com/package/gitbook-plugin-atoc)                     | 147110     |
-| [gitbook-plugin-donate](https://www.npmjs.com/package/gitbook-plugin-donate)                 | 68226      |
-| [waliyun](https://www.npmjs.com/package/waliyun)                                             | 21413      |
+| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                               | 303936     |
+| [gitbook-plugin-atoc](https://www.npmjs.com/package/gitbook-plugin-atoc)                     | 147111     |
+| [gitbook-plugin-donate](https://www.npmjs.com/package/gitbook-plugin-donate)                 | 68228      |
+| [waliyun](https://www.npmjs.com/package/waliyun)                                             | 21416      |
 | [@uua/icons](https://www.npmjs.com/package/@uua/icons)                                       | 7341       |
 | [yunpian-sdk](https://www.npmjs.com/package/yunpian-sdk)                                     | 6864       |
 | [leader.js.cool](https://www.npmjs.com/package/leader.js.cool)                               | 6845       |
@@ -27,9 +27,9 @@ All of my npm packages and their downloads
 | [mock-redis](https://www.npmjs.com/package/mock-redis)                                       | 3535       |
 | [wtoys](https://www.npmjs.com/package/wtoys)                                                 | 3279       |
 | [tuling](https://www.npmjs.com/package/tuling)                                               | 3069       |
-| [eslint-config-willin](https://www.npmjs.com/package/eslint-config-willin)                   | 2745       |
-| [vchart](https://www.npmjs.com/package/vchart)                                               | 2474       |
-| [gitbook-plugin-autotheme](https://www.npmjs.com/package/gitbook-plugin-autotheme)           | 2368       |
+| [eslint-config-willin](https://www.npmjs.com/package/eslint-config-willin)                   | 2746       |
+| [vchart](https://www.npmjs.com/package/vchart)                                               | 2475       |
+| [gitbook-plugin-autotheme](https://www.npmjs.com/package/gitbook-plugin-autotheme)           | 2370       |
 | [auto-deployer](https://www.npmjs.com/package/auto-deployer)                                 | 2118       |
 | [wqcloud-video](https://www.npmjs.com/package/wqcloud-video)                                 | 2111       |
 | [hapi-auth-redis](https://www.npmjs.com/package/hapi-auth-redis)                             | 2072       |
@@ -55,7 +55,7 @@ All of my npm packages and their downloads
 | [hyperapp-i18n](https://www.npmjs.com/package/hyperapp-i18n)                                 | 1050       |
 | [wechaty-authing](https://www.npmjs.com/package/wechaty-authing)                             | 972        |
 | [beian-domain](https://www.npmjs.com/package/beian-domain)                                   | 933        |
-| [@shiwangme/redis](https://www.npmjs.com/package/@shiwangme/redis)                           | 925        |
+| [@shiwangme/redis](https://www.npmjs.com/package/@shiwangme/redis)                           | 926        |
 | [@uua/core](https://www.npmjs.com/package/@uua/core)                                         | 899        |
 | [nativescript-icam](https://www.npmjs.com/package/nativescript-icam)                         | 873        |
 | [coding-deploy](https://www.npmjs.com/package/coding-deploy)                                 | 856        |
@@ -64,14 +64,14 @@ All of my npm packages and their downloads
 | [h1de](https://www.npmjs.com/package/h1de)                                                   | 836        |
 | [@x12/env](https://www.npmjs.com/package/@x12/env)                                           | 834        |
 | [markdown-toc-gitbook](https://www.npmjs.com/package/markdown-toc-gitbook)                   | 833        |
-| [pipefn](https://www.npmjs.com/package/pipefn)                                               | 807        |
+| [pipefn](https://www.npmjs.com/package/pipefn)                                               | 808        |
 | [uua](https://www.npmjs.com/package/uua)                                                     | 766        |
 | [wulian](https://www.npmjs.com/package/wulian)                                               | 742        |
 | [wdouban](https://www.npmjs.com/package/wdouban)                                             | 736        |
 | [z-curve](https://www.npmjs.com/package/z-curve)                                             | 719        |
 | [@willin/eslint-config](https://www.npmjs.com/package/@willin/eslint-config)                 | 696        |
 | [rxdis](https://www.npmjs.com/package/rxdis)                                                 | 678        |
-| [vuepress-theme-asshole](https://www.npmjs.com/package/vuepress-theme-asshole)               | 658        |
+| [vuepress-theme-asshole](https://www.npmjs.com/package/vuepress-theme-asshole)               | 659        |
 | [leancloud-sdk](https://www.npmjs.com/package/leancloud-sdk)                                 | 615        |
 | [@uua/ip2c](https://www.npmjs.com/package/@uua/ip2c)                                         | 586        |
 | [@dwing/koa-joi-router](https://www.npmjs.com/package/@dwing/koa-joi-router)                 | 579        |
@@ -96,5 +96,5 @@ All of my npm packages and their downloads
 | [@x12/rx-pool](https://www.npmjs.com/package/@x12/rx-pool)                                   | 234        |
 | [remix-sanity](https://www.npmjs.com/package/remix-sanity)                                   | 201        |
 | [passport-authing](https://www.npmjs.com/package/passport-authing)                           | 115        |
-| **Sum**                                                                                      | **672931** |
+| **Sum**                                                                                      | **673329** |
 <!-- AUTO-GENERATED-CONTENT:END -->
