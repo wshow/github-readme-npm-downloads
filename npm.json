@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      304577
+      304831
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,7 +10,7 @@
     ],
     [
       "gitbook-plugin-donate",
-      68241
+      68242
     ],
     [
       "waliyun",
@@ -18,11 +18,11 @@
     ],
     [
       "@uua/icons",
-      7348
+      7349
     ],
     [
       "yunpian-sdk",
-      6864
+      6868
     ],
     [
       "leader.js.cool",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5833
+      5834
     ],
     [
       "wqcloud",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4786
+      4787
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3536
+      3542
     ],
     [
       "wtoys",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2476
+      2477
     ],
     [
       "gitbook-plugin-autotheme",
@@ -106,7 +106,7 @@
     ],
     [
       "nuxtpress",
-      1911
+      1921
     ],
     [
       "hello-dolly",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1727
+      1728
     ],
     [
       "wno",
@@ -178,7 +178,7 @@
     ],
     [
       "beian-domain",
-      933
+      934
     ],
     [
       "@shiwangme/redis",
@@ -218,7 +218,7 @@
     ],
     [
       "pipefn",
-      808
+      810
     ],
     [
       "uua",
@@ -242,7 +242,7 @@
     ],
     [
       "rxdis",
-      678
+      679
     ],
     [
       "vuepress-theme-asshole",
@@ -345,5 +345,5 @@
       115
     ]
   ],
-  "sum": 674041
+  "sum": 674325
 }
