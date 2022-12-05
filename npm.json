@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      304831
+      305043
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      21421
+      21448
     ],
     [
       "@uua/icons",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5356
+      5361
     ],
     [
       "v0",
-      4787
+      4788
     ],
     [
       "koa-api-logger",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      2746
+      2748
     ],
     [
       "vchart",
-      2477
+      2478
     ],
     [
       "gitbook-plugin-autotheme",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1108
+      1109
     ],
     [
       "mp-sdk",
@@ -202,7 +202,7 @@
     ],
     [
       "remix-i18n",
-      842
+      844
     ],
     [
       "h1de",
@@ -234,11 +234,11 @@
     ],
     [
       "z-curve",
-      719
+      720
     ],
     [
       "@willin/eslint-config",
-      697
+      699
     ],
     [
       "rxdis",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      541
+      542
     ],
     [
       "edd",
@@ -278,7 +278,7 @@
     ],
     [
       "@xibang/redis",
-      473
+      474
     ],
     [
       "willin",
@@ -286,7 +286,7 @@
     ],
     [
       "@xibang/mysql",
-      445
+      446
     ],
     [
       "@authing/nextjs",
@@ -345,5 +345,5 @@
       115
     ]
   ],
-  "sum": 674325
+  "sum": 674582
 }
