@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      305382
+      305733
     ],
     [
       "gitbook-plugin-atoc",
-      147121
+      147122
     ],
     [
       "gitbook-plugin-donate",
-      68242
+      68243
     ],
     [
       "waliyun",
-      21454
+      21458
     ],
     [
       "@uua/icons",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5366
+      5372
     ],
     [
       "v0",
@@ -50,15 +50,15 @@
     ],
     [
       "appkey",
-      3896
+      3907
     ],
     [
       "coding-sdk",
-      3767
+      3768
     ],
     [
       "mock-redis",
-      3542
+      3544
     ],
     [
       "wtoys",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2749
+      2751
     ],
     [
       "vchart",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2123
+      2124
     ],
     [
       "wqcloud-video",
@@ -102,7 +102,7 @@
     ],
     [
       "atl",
-      1935
+      1936
     ],
     [
       "nuxtpress",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1728
+      1729
     ],
     [
       "wno",
@@ -130,7 +130,7 @@
     ],
     [
       "@x12/hosts",
-      1365
+      1366
     ],
     [
       "@x12/di",
@@ -157,11 +157,11 @@
       1100
     ],
     [
-      "less.js.cool",
-      1074
+      "lslint",
+      1075
     ],
     [
-      "lslint",
+      "less.js.cool",
       1074
     ],
     [
@@ -194,19 +194,19 @@
     ],
     [
       "coding-deploy",
-      858
+      859
     ],
     [
       "awth",
-      849
+      850
     ],
     [
       "remix-i18n",
-      844
+      846
     ],
     [
       "h1de",
-      837
+      838
     ],
     [
       "@x12/env",
@@ -238,11 +238,11 @@
     ],
     [
       "@willin/eslint-config",
-      699
+      700
     ],
     [
       "rxdis",
-      679
+      681
     ],
     [
       "vuepress-theme-asshole",
@@ -254,15 +254,15 @@
     ],
     [
       "@uua/ip2c",
-      587
+      589
     ],
     [
       "@dwing/koa-joi-router",
-      579
+      580
     ],
     [
       "sdk0",
-      542
+      544
     ],
     [
       "edd",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      486
+      487
     ],
     [
       "@xibang/redis",
@@ -345,5 +345,5 @@
       115
     ]
   ],
-  "sum": 674941
+  "sum": 675339
 }
