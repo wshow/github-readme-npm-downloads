@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      306052
+      306407
     ],
     [
       "gitbook-plugin-atoc",
-      147122
+      147126
     ],
     [
       "gitbook-plugin-donate",
-      68244
+      68253
     ],
     [
       "waliyun",
-      21472
+      21497
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      6847
+      6848
     ],
     [
       "koa-swagger-ui",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4789
+      4795
     ],
     [
       "koa-api-logger",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2480
+      2487
     ],
     [
       "gitbook-plugin-autotheme",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1109
+      1122
     ],
     [
       "mp-sdk",
@@ -202,15 +202,15 @@
     ],
     [
       "remix-i18n",
-      846
+      847
+    ],
+    [
+      "@x12/env",
+      839
     ],
     [
       "h1de",
       838
-    ],
-    [
-      "@x12/env",
-      835
     ],
     [
       "markdown-toc-gitbook",
@@ -345,5 +345,5 @@
       115
     ]
   ],
-  "sum": 675734
+  "sum": 676159
 }
