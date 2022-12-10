@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      306407
+      306823
     ],
     [
       "gitbook-plugin-atoc",
-      147126
+      147130
     ],
     [
       "gitbook-plugin-donate",
-      68253
+      68254
     ],
     [
       "waliyun",
-      21497
+      21503
     ],
     [
       "@uua/icons",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3545
+      3563
     ],
     [
       "wtoys",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2487
+      2488
     ],
     [
       "gitbook-plugin-autotheme",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2002
+      2003
     ],
     [
       "atl",
@@ -174,7 +174,7 @@
     ],
     [
       "wechaty-authing",
-      973
+      982
     ],
     [
       "beian-domain",
@@ -338,12 +338,12 @@
     ],
     [
       "remix-sanity",
-      202
+      203
     ],
     [
       "passport-authing",
       115
     ]
   ],
-  "sum": 676159
+  "sum": 676616
 }
