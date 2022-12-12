@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      307176
+      307423
     ],
     [
       "gitbook-plugin-atoc",
-      147131
+      147134
     ],
     [
       "gitbook-plugin-donate",
-      68256
+      68260
     ],
     [
       "waliyun",
-      21504
+      21535
     ],
     [
       "@uua/icons",
-      7353
+      7361
     ],
     [
       "yunpian-sdk",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      6848
+      6849
     ],
     [
       "koa-swagger-ui",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5834
+      5835
     ],
     [
       "wqcloud",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3293
+      3294
     ],
     [
       "tuling",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2752
+      2753
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2373
+      2374
     ],
     [
       "auto-deployer",
@@ -90,7 +90,7 @@
     ],
     [
       "hapi-auth-redis",
-      2072
+      2073
     ],
     [
       "wrescuetime",
@@ -110,11 +110,11 @@
     ],
     [
       "hello-dolly",
-      1901
+      1902
     ],
     [
       "gitbook-plugin-theme-material",
-      1859
+      1860
     ],
     [
       "coding-net",
@@ -138,7 +138,7 @@
     ],
     [
       "wnm",
-      1279
+      1280
     ],
     [
       "@x12/tasker",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1075
+      1076
     ],
     [
       "mmonit",
@@ -174,7 +174,7 @@
     ],
     [
       "wechaty-authing",
-      982
+      996
     ],
     [
       "beian-domain",
@@ -230,7 +230,7 @@
     ],
     [
       "wdouban",
-      738
+      742
     ],
     [
       "z-curve",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      545
+      548
     ],
     [
       "edd",
@@ -282,7 +282,7 @@
     ],
     [
       "willin",
-      451
+      452
     ],
     [
       "@xibang/mysql",
@@ -302,7 +302,7 @@
     ],
     [
       "whiteq",
-      358
+      359
     ],
     [
       "@x12/mongodb",
@@ -322,7 +322,7 @@
     ],
     [
       "ggql",
-      265
+      266
     ],
     [
       "npm-badges",
@@ -345,5 +345,5 @@
       115
     ]
   ],
-  "sum": 676994
+  "sum": 677321
 }
