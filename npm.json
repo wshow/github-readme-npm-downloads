@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      307423
+      307685
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,23 +14,23 @@
     ],
     [
       "waliyun",
-      21535
+      21536
     ],
     [
       "@uua/icons",
-      7361
+      7370
     ],
     [
       "yunpian-sdk",
-      6868
+      6869
     ],
     [
       "leader.js.cool",
-      6849
+      6851
     ],
     [
       "koa-swagger-ui",
-      6248
+      6249
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,11 +42,11 @@
     ],
     [
       "v0",
-      4796
+      4797
     ],
     [
       "koa-api-logger",
-      3975
+      3976
     ],
     [
       "appkey",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2753
+      2754
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2374
+      2406
     ],
     [
       "auto-deployer",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2003
+      2005
     ],
     [
       "atl",
@@ -146,7 +146,7 @@
     ],
     [
       "@authing/remix",
-      1148
+      1160
     ],
     [
       "@xibang/node-common",
@@ -154,11 +154,11 @@
     ],
     [
       "mp-sdk",
-      1100
+      1101
     ],
     [
       "less.js.cool",
-      1076
+      1077
     ],
     [
       "lslint",
@@ -214,7 +214,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      834
+      835
     ],
     [
       "pipefn",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      723
+      724
     ],
     [
       "@willin/eslint-config",
@@ -246,7 +246,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      660
+      661
     ],
     [
       "leancloud-sdk",
@@ -262,11 +262,11 @@
     ],
     [
       "sdk0",
-      548
+      549
     ],
     [
       "edd",
-      504
+      505
     ],
     [
       "hdd",
@@ -338,12 +338,12 @@
     ],
     [
       "remix-sanity",
-      203
+      204
     ],
     [
       "passport-authing",
       115
     ]
   ],
-  "sum": 677321
+  "sum": 677654
 }
