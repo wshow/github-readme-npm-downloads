@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      308396
+      308656
     ],
     [
       "gitbook-plugin-atoc",
-      147139
+      147144
     ],
     [
       "gitbook-plugin-donate",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      21563
+      21564
     ],
     [
       "@uua/icons",
-      7383
+      7384
     ],
     [
       "yunpian-sdk",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4806
+      4811
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3586
+      3588
     ],
     [
       "wtoys",
@@ -170,7 +170,7 @@
     ],
     [
       "hyperapp-i18n",
-      1050
+      1051
     ],
     [
       "wechaty-authing",
@@ -210,7 +210,7 @@
     ],
     [
       "h1de",
-      838
+      839
     ],
     [
       "markdown-toc-gitbook",
@@ -222,7 +222,7 @@
     ],
     [
       "uua",
-      768
+      774
     ],
     [
       "wdouban",
@@ -242,7 +242,7 @@
     ],
     [
       "rxdis",
-      683
+      684
     ],
     [
       "vuepress-theme-asshole",
@@ -270,7 +270,7 @@
     ],
     [
       "hdd",
-      488
+      489
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -289,11 +289,11 @@
       448
     ],
     [
-      "@authing/nextjs",
-      443
+      "fetch-pro",
+      447
     ],
     [
-      "fetch-pro",
+      "@authing/nextjs",
       443
     ],
     [
@@ -345,5 +345,5 @@
       115
     ]
   ],
-  "sum": 678501
+  "sum": 678789
 }
