@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      308656
+      308903
     ],
     [
       "gitbook-plugin-atoc",
-      147144
+      147145
     ],
     [
       "gitbook-plugin-donate",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      21564
+      21565
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      6870
+      6871
     ],
     [
       "leader.js.cool",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4811
+      4812
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3588
+      3593
     ],
     [
       "wtoys",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2009
+      2012
     ],
     [
       "atl",
@@ -134,7 +134,7 @@
     ],
     [
       "@x12/di",
-      1358
+      1359
     ],
     [
       "wnm",
@@ -170,7 +170,7 @@
     ],
     [
       "hyperapp-i18n",
-      1051
+      1052
     ],
     [
       "wechaty-authing",
@@ -186,7 +186,7 @@
     ],
     [
       "@uua/core",
-      904
+      905
     ],
     [
       "nativescript-icam",
@@ -194,7 +194,7 @@
     ],
     [
       "coding-deploy",
-      859
+      860
     ],
     [
       "awth",
@@ -206,11 +206,11 @@
     ],
     [
       "@x12/env",
-      843
+      844
     ],
     [
       "h1de",
-      839
+      840
     ],
     [
       "markdown-toc-gitbook",
@@ -278,7 +278,7 @@
     ],
     [
       "@xibang/redis",
-      474
+      478
     ],
     [
       "willin",
@@ -338,12 +338,12 @@
     ],
     [
       "remix-sanity",
-      204
+      205
     ],
     [
       "passport-authing",
       115
     ]
   ],
-  "sum": 678789
+  "sum": 679059
 }
