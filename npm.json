@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      309455
+      309832
     ],
     [
       "gitbook-plugin-atoc",
-      147147
+      147148
     ],
     [
       "gitbook-plugin-donate",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      21566
+      21567
     ],
     [
       "@uua/icons",
-      7387
+      7389
     ],
     [
       "yunpian-sdk",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5835
+      5836
     ],
     [
       "wqcloud",
@@ -66,15 +66,15 @@
     ],
     [
       "tuling",
-      3085
+      3086
     ],
     [
       "eslint-config-willin",
-      2756
+      2757
     ],
     [
       "vchart",
-      2491
+      2492
     ],
     [
       "gitbook-plugin-autotheme",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2015
+      2017
     ],
     [
       "atl",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1405
+      1408
     ],
     [
       "@x12/hosts",
@@ -157,11 +157,11 @@
       1101
     ],
     [
-      "less.js.cool",
-      1077
+      "lslint",
+      1078
     ],
     [
-      "lslint",
+      "less.js.cool",
       1077
     ],
     [
@@ -182,7 +182,7 @@
     ],
     [
       "@shiwangme/redis",
-      927
+      928
     ],
     [
       "@uua/core",
@@ -242,7 +242,7 @@
     ],
     [
       "rxdis",
-      685
+      686
     ],
     [
       "vuepress-theme-asshole",
@@ -250,7 +250,7 @@
     ],
     [
       "leancloud-sdk",
-      615
+      616
     ],
     [
       "@uua/ip2c",
@@ -345,5 +345,5 @@
       115
     ]
   ],
-  "sum": 679681
+  "sum": 680075
 }
