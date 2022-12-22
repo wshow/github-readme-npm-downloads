@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      309832
+      310080
     ],
     [
       "gitbook-plugin-atoc",
-      147148
+      147149
     ],
     [
       "gitbook-plugin-donate",
-      68275
+      68282
     ],
     [
       "waliyun",
-      21567
+      21570
     ],
     [
       "@uua/icons",
-      7389
+      7392
     ],
     [
       "yunpian-sdk",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4812
+      4813
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3594
+      3596
     ],
     [
       "wtoys",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2757
+      2758
     ],
     [
       "vchart",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2017
+      2018
     ],
     [
       "atl",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1101
+      1102
     ],
     [
       "lslint",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      549
+      550
     ],
     [
       "edd",
@@ -345,5 +345,5 @@
       115
     ]
   ],
-  "sum": 680075
+  "sum": 680344
 }
