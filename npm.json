@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      310382
+      310661
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      68290
+      68294
     ],
     [
       "waliyun",
-      21575
+      21578
     ],
     [
       "@uua/icons",
-      7397
+      7413
     ],
     [
       "yunpian-sdk",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5836
+      5837
     ],
     [
       "wqcloud",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3596
+      3604
     ],
     [
       "wtoys",
@@ -106,7 +106,7 @@
     ],
     [
       "nuxtpress",
-      1921
+      1922
     ],
     [
       "hello-dolly",
@@ -174,11 +174,11 @@
     ],
     [
       "wechaty-authing",
-      996
+      999
     ],
     [
       "beian-domain",
-      935
+      936
     ],
     [
       "@shiwangme/redis",
@@ -197,12 +197,12 @@
       860
     ],
     [
-      "awth",
-      850
+      "remix-i18n",
+      852
     ],
     [
-      "remix-i18n",
-      849
+      "awth",
+      850
     ],
     [
       "@x12/env",
@@ -242,7 +242,7 @@
     ],
     [
       "rxdis",
-      686
+      687
     ],
     [
       "vuepress-theme-asshole",
@@ -330,7 +330,7 @@
     ],
     [
       "npm-badges",
-      257
+      258
     ],
     [
       "@x12/rx-pool",
@@ -345,5 +345,5 @@
       115
     ]
   ],
-  "sum": 680689
+  "sum": 681010
 }
