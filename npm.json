@@ -2,47 +2,47 @@
   "stats": [
     [
       "hexo-wordcount",
-      310661
+      310943
     ],
     [
       "gitbook-plugin-atoc",
-      147149
+      147150
     ],
     [
       "gitbook-plugin-donate",
-      68294
+      68296
     ],
     [
       "waliyun",
-      21578
+      21580
     ],
     [
       "@uua/icons",
-      7413
+      7420
     ],
     [
       "yunpian-sdk",
-      6874
+      6875
     ],
     [
       "leader.js.cool",
-      6853
+      6862
     ],
     [
       "koa-swagger-ui",
-      6258
+      6260
     ],
     [
       "gitbook-plugin-wordcount",
-      5837
+      5838
     ],
     [
       "wqcloud",
-      5374
+      5375
     ],
     [
       "v0",
-      4813
+      4817
     ],
     [
       "koa-api-logger",
@@ -54,15 +54,15 @@
     ],
     [
       "coding-sdk",
-      3768
+      3772
     ],
     [
       "mock-redis",
-      3604
+      3611
     ],
     [
       "wtoys",
-      3295
+      3297
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2492
+      2493
     ],
     [
       "gitbook-plugin-autotheme",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2018
+      2019
     ],
     [
       "atl",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1408
+      1409
     ],
     [
       "@x12/hosts",
@@ -166,7 +166,7 @@
     ],
     [
       "mmonit",
-      1075
+      1076
     ],
     [
       "hyperapp-i18n",
@@ -198,7 +198,7 @@
     ],
     [
       "remix-i18n",
-      852
+      856
     ],
     [
       "awth",
@@ -242,11 +242,11 @@
     ],
     [
       "rxdis",
-      687
+      688
     ],
     [
       "vuepress-theme-asshole",
-      661
+      663
     ],
     [
       "leancloud-sdk",
@@ -285,16 +285,16 @@
       452
     ],
     [
+      "@authing/nextjs",
+      452
+    ],
+    [
       "@xibang/mysql",
       451
     ],
     [
       "fetch-pro",
       447
-    ],
-    [
-      "@authing/nextjs",
-      443
     ],
     [
       "@x12/common",
@@ -334,16 +334,16 @@
     ],
     [
       "@x12/rx-pool",
-      237
+      239
     ],
     [
       "remix-sanity",
-      205
+      207
     ],
     [
       "passport-authing",
-      115
+      116
     ]
   ],
-  "sum": 681010
+  "sum": 681360
 }
