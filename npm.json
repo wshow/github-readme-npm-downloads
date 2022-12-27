@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      311095
+      311299
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,15 +14,15 @@
     ],
     [
       "waliyun",
-      21584
+      21593
     ],
     [
       "@uua/icons",
-      7431
+      7437
     ],
     [
       "yunpian-sdk",
-      6883
+      6893
     ],
     [
       "leader.js.cool",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6262
+      6268
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4829
+      4837
     ],
     [
       "koa-api-logger",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3297
+      3299
     ],
     [
       "tuling",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2495
+      2496
     ],
     [
       "gitbook-plugin-autotheme",
-      2409
+      2410
     ],
     [
       "auto-deployer",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2019
+      2022
     ],
     [
       "atl",
@@ -146,7 +146,7 @@
     ],
     [
       "@authing/remix",
-      1161
+      1164
     ],
     [
       "@xibang/node-common",
@@ -157,12 +157,12 @@
       1102
     ],
     [
-      "lslint",
-      1078
+      "less.js.cool",
+      1079
     ],
     [
-      "less.js.cool",
-      1077
+      "lslint",
+      1078
     ],
     [
       "mmonit",
@@ -182,23 +182,23 @@
     ],
     [
       "@shiwangme/redis",
-      929
+      932
     ],
     [
       "@uua/core",
-      905
+      911
     ],
     [
       "nativescript-icam",
-      874
+      875
+    ],
+    [
+      "remix-i18n",
+      860
     ],
     [
       "coding-deploy",
       860
-    ],
-    [
-      "remix-i18n",
-      857
     ],
     [
       "awth",
@@ -222,7 +222,7 @@
     ],
     [
       "uua",
-      774
+      780
     ],
     [
       "wulian",
@@ -238,7 +238,7 @@
     ],
     [
       "@willin/eslint-config",
-      705
+      708
     ],
     [
       "rxdis",
@@ -254,11 +254,11 @@
     ],
     [
       "@uua/ip2c",
-      595
+      599
     ],
     [
       "@dwing/koa-joi-router",
-      580
+      582
     ],
     [
       "sdk0",
@@ -302,7 +302,7 @@
     ],
     [
       "whiteq",
-      360
+      362
     ],
     [
       "@x12/mongodb",
@@ -318,19 +318,19 @@
     ],
     [
       "random-target",
-      269
+      271
     ],
     [
       "ggql",
       267
     ],
     [
-      "@x12/task-types",
+      "npm-badges",
       260
     ],
     [
-      "npm-badges",
-      259
+      "@x12/task-types",
+      260
     ],
     [
       "@x12/rx-pool",
@@ -338,12 +338,12 @@
     ],
     [
       "remix-sanity",
-      207
+      208
     ],
     [
       "passport-authing",
       116
     ]
   ],
-  "sum": 681594
+  "sum": 681883
 }
