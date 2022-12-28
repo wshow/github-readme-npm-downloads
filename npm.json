@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      311299
+      311592
     ],
     [
       "gitbook-plugin-atoc",
-      147150
+      147151
     ],
     [
       "gitbook-plugin-donate",
-      68296
+      68297
     ],
     [
       "waliyun",
-      21593
+      21610
     ],
     [
       "@uua/icons",
-      7437
+      7453
     ],
     [
       "yunpian-sdk",
-      6893
+      6894
     ],
     [
       "leader.js.cool",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6268
+      6272
     ],
     [
       "gitbook-plugin-wordcount",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3299
+      3306
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2496
+      2497
     ],
     [
       "gitbook-plugin-autotheme",
@@ -98,7 +98,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2022
+      2023
     ],
     [
       "atl",
@@ -166,7 +166,7 @@
     ],
     [
       "mmonit",
-      1076
+      1077
     ],
     [
       "hyperapp-i18n",
@@ -177,24 +177,24 @@
       1000
     ],
     [
+      "@shiwangme/redis",
+      938
+    ],
+    [
       "beian-domain",
       936
     ],
     [
-      "@shiwangme/redis",
-      932
-    ],
-    [
       "@uua/core",
-      911
+      915
     ],
     [
       "nativescript-icam",
-      875
+      876
     ],
     [
       "remix-i18n",
-      860
+      865
     ],
     [
       "coding-deploy",
@@ -282,7 +282,7 @@
     ],
     [
       "@authing/nextjs",
-      454
+      455
     ],
     [
       "willin",
@@ -302,7 +302,7 @@
     ],
     [
       "whiteq",
-      362
+      364
     ],
     [
       "@x12/mongodb",
@@ -326,7 +326,7 @@
     ],
     [
       "npm-badges",
-      260
+      261
     ],
     [
       "@x12/task-types",
@@ -345,5 +345,5 @@
       116
     ]
   ],
-  "sum": 681883
+  "sum": 682246
 }
