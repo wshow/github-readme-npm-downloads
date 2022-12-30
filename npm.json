@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      311828
+      312061
     ],
     [
       "gitbook-plugin-atoc",
-      147153
+      147156
     ],
     [
       "gitbook-plugin-donate",
-      68299
+      68310
     ],
     [
       "waliyun",
-      21611
+      21617
     ],
     [
       "@uua/icons",
@@ -22,15 +22,15 @@
     ],
     [
       "yunpian-sdk",
-      6894
+      6895
     ],
     [
       "leader.js.cool",
-      6876
+      6877
     ],
     [
       "koa-swagger-ui",
-      6272
+      6273
     ],
     [
       "gitbook-plugin-wordcount",
@@ -46,7 +46,7 @@
     ],
     [
       "koa-api-logger",
-      3976
+      3977
     ],
     [
       "appkey",
@@ -54,11 +54,11 @@
     ],
     [
       "coding-sdk",
-      3785
+      3795
     ],
     [
       "mock-redis",
-      3612
+      3614
     ],
     [
       "wtoys",
@@ -94,11 +94,11 @@
     ],
     [
       "wrescuetime",
-      2026
+      2027
     ],
     [
       "hyperapp.js.cool",
-      2024
+      2026
     ],
     [
       "atl",
@@ -146,7 +146,7 @@
     ],
     [
       "@authing/remix",
-      1165
+      1166
     ],
     [
       "@xibang/node-common",
@@ -174,7 +174,7 @@
     ],
     [
       "wechaty-authing",
-      1001
+      1002
     ],
     [
       "@shiwangme/redis",
@@ -194,7 +194,7 @@
     ],
     [
       "remix-i18n",
-      869
+      872
     ],
     [
       "coding-deploy",
@@ -230,7 +230,7 @@
     ],
     [
       "wdouban",
-      745
+      746
     ],
     [
       "z-curve",
@@ -282,7 +282,7 @@
     ],
     [
       "@authing/nextjs",
-      458
+      459
     ],
     [
       "willin",
@@ -294,7 +294,7 @@
     ],
     [
       "fetch-pro",
-      447
+      448
     ],
     [
       "@x12/common",
@@ -345,5 +345,5 @@
       116
     ]
   ],
-  "sum": 682517
+  "sum": 682797
 }
