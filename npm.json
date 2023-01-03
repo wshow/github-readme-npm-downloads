@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      312865
+      313112
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,19 +14,19 @@
     ],
     [
       "waliyun",
-      21630
+      21632
     ],
     [
       "@uua/icons",
-      7455
+      7459
     ],
     [
       "yunpian-sdk",
-      6895
+      6896
     ],
     [
       "leader.js.cool",
-      6878
+      6880
     ],
     [
       "koa-swagger-ui",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5840
+      5841
     ],
     [
       "wqcloud",
@@ -94,11 +94,11 @@
     ],
     [
       "hyperapp.js.cool",
-      2029
+      2030
     ],
     [
       "wrescuetime",
-      2029
+      2030
     ],
     [
       "atl",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1860
+      1861
     ],
     [
       "coding-net",
@@ -130,15 +130,15 @@
     ],
     [
       "@x12/hosts",
-      1374
+      1375
     ],
     [
       "@x12/di",
-      1367
+      1368
     ],
     [
       "@x12/tasker",
-      1287
+      1288
     ],
     [
       "wnm",
@@ -146,7 +146,7 @@
     ],
     [
       "@authing/remix",
-      1173
+      1175
     ],
     [
       "@xibang/node-common",
@@ -161,12 +161,12 @@
       1079
     ],
     [
-      "lslint",
+      "mmonit",
       1079
     ],
     [
-      "mmonit",
-      1078
+      "lslint",
+      1079
     ],
     [
       "hyperapp-i18n",
@@ -190,11 +190,11 @@
     ],
     [
       "nativescript-icam",
-      876
+      877
     ],
     [
       "remix-i18n",
-      875
+      877
     ],
     [
       "coding-deploy",
@@ -206,7 +206,7 @@
     ],
     [
       "@x12/env",
-      846
+      847
     ],
     [
       "h1de",
@@ -262,18 +262,18 @@
     ],
     [
       "sdk0",
-      553
+      554
     ],
     [
       "edd",
       505
     ],
     [
-      "hdd",
-      489
+      "@dwing/azure-iot-device-mqtt",
+      490
     ],
     [
-      "@dwing/azure-iot-device-mqtt",
+      "hdd",
       489
     ],
     [
@@ -298,7 +298,7 @@
     ],
     [
       "@x12/common",
-      402
+      403
     ],
     [
       "whiteq",
@@ -306,11 +306,11 @@
     ],
     [
       "@x12/mongodb",
-      338
+      339
     ],
     [
       "@x12/promise",
-      329
+      331
     ],
     [
       "afdian",
@@ -318,7 +318,7 @@
     ],
     [
       "random-target",
-      272
+      273
     ],
     [
       "ggql",
@@ -345,5 +345,5 @@
       116
     ]
   ],
-  "sum": 683736
+  "sum": 684013
 }
