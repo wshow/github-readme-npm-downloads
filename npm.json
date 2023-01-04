@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      313112
+      313530
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      68316
+      68317
     ],
     [
       "waliyun",
-      21632
+      21633
     ],
     [
       "@uua/icons",
-      7459
+      7461
     ],
     [
       "yunpian-sdk",
@@ -30,11 +30,11 @@
     ],
     [
       "koa-swagger-ui",
-      6273
+      6279
     ],
     [
       "gitbook-plugin-wordcount",
-      5841
+      5842
     ],
     [
       "wqcloud",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4837
+      4838
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3614
+      3616
     ],
     [
       "wtoys",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2762
+      2767
     ],
     [
       "vchart",
@@ -94,7 +94,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2030
+      2032
     ],
     [
       "wrescuetime",
@@ -126,11 +126,11 @@
     ],
     [
       "v0-scf",
-      1409
+      1410
     ],
     [
       "@x12/hosts",
-      1375
+      1376
     ],
     [
       "@x12/di",
@@ -154,7 +154,11 @@
     ],
     [
       "mp-sdk",
-      1102
+      1103
+    ],
+    [
+      "lslint",
+      1080
     ],
     [
       "less.js.cool",
@@ -165,20 +169,16 @@
       1079
     ],
     [
-      "lslint",
-      1079
-    ],
-    [
       "hyperapp-i18n",
-      1052
+      1053
     ],
     [
       "wechaty-authing",
-      1011
+      1014
     ],
     [
       "@shiwangme/redis",
-      939
+      941
     ],
     [
       "beian-domain",
@@ -186,14 +186,14 @@
     ],
     [
       "@uua/core",
-      920
-    ],
-    [
-      "nativescript-icam",
-      877
+      923
     ],
     [
       "remix-i18n",
+      878
+    ],
+    [
+      "nativescript-icam",
       877
     ],
     [
@@ -210,11 +210,11 @@
     ],
     [
       "h1de",
-      840
+      842
     ],
     [
       "markdown-toc-gitbook",
-      835
+      836
     ],
     [
       "pipefn",
@@ -225,24 +225,24 @@
       780
     ],
     [
+      "wdouban",
+      747
+    ],
+    [
       "wulian",
       746
     ],
     [
-      "wdouban",
-      746
-    ],
-    [
       "z-curve",
-      724
+      725
     ],
     [
       "@willin/eslint-config",
-      710
+      711
     ],
     [
       "rxdis",
-      690
+      693
     ],
     [
       "vuepress-theme-asshole",
@@ -250,11 +250,11 @@
     ],
     [
       "leancloud-sdk",
-      616
+      617
     ],
     [
       "@uua/ip2c",
-      599
+      601
     ],
     [
       "@dwing/koa-joi-router",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      554
+      555
     ],
     [
       "edd",
@@ -278,11 +278,11 @@
     ],
     [
       "@xibang/redis",
-      481
+      482
     ],
     [
       "@authing/nextjs",
-      462
+      463
     ],
     [
       "willin",
@@ -345,5 +345,5 @@
       116
     ]
   ],
-  "sum": 684013
+  "sum": 684481
 }
