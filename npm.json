@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      313953
+      314286
     ],
     [
       "gitbook-plugin-atoc",
-      147173
+      147176
     ],
     [
       "gitbook-plugin-donate",
-      68319
+      68321
     ],
     [
       "waliyun",
-      21636
+      21644
     ],
     [
       "@uua/icons",
-      7461
+      7462
     ],
     [
       "yunpian-sdk",
-      6897
+      6899
     ],
     [
       "leader.js.cool",
@@ -34,19 +34,19 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5843
+      5845
     ],
     [
       "wqcloud",
-      5380
+      5382
     ],
     [
       "v0",
-      4839
+      4841
     ],
     [
       "koa-api-logger",
-      3983
+      3984
     ],
     [
       "appkey",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3316
+      3317
     ],
     [
       "tuling",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2411
+      2412
     ],
     [
       "auto-deployer",
@@ -90,11 +90,11 @@
     ],
     [
       "hapi-auth-redis",
-      2074
+      2075
     ],
     [
       "hyperapp.js.cool",
-      2033
+      2034
     ],
     [
       "wrescuetime",
@@ -110,11 +110,11 @@
     ],
     [
       "hello-dolly",
-      1903
+      1905
     ],
     [
       "gitbook-plugin-theme-material",
-      1862
+      1863
     ],
     [
       "coding-net",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1411
+      1412
     ],
     [
       "@x12/hosts",
@@ -138,15 +138,15 @@
     ],
     [
       "@x12/tasker",
-      1288
+      1289
     ],
     [
       "wnm",
-      1284
+      1285
     ],
     [
       "@authing/remix",
-      1176
+      1178
     ],
     [
       "@xibang/node-common",
@@ -174,7 +174,7 @@
     ],
     [
       "wechaty-authing",
-      1015
+      1017
     ],
     [
       "@shiwangme/redis",
@@ -186,11 +186,11 @@
     ],
     [
       "@uua/core",
-      923
+      924
     ],
     [
       "remix-i18n",
-      879
+      880
     ],
     [
       "nativescript-icam",
@@ -226,7 +226,7 @@
     ],
     [
       "wdouban",
-      747
+      748
     ],
     [
       "wulian",
@@ -246,7 +246,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      667
+      668
     ],
     [
       "leancloud-sdk",
@@ -282,11 +282,11 @@
     ],
     [
       "@authing/nextjs",
-      465
+      466
     ],
     [
       "willin",
-      453
+      454
     ],
     [
       "@xibang/mysql",
@@ -302,7 +302,7 @@
     ],
     [
       "whiteq",
-      365
+      366
     ],
     [
       "@x12/mongodb",
@@ -330,7 +330,7 @@
     ],
     [
       "@x12/task-types",
-      260
+      261
     ],
     [
       "@x12/rx-pool",
@@ -345,5 +345,5 @@
       116
     ]
   ],
-  "sum": 684955
+  "sum": 685333
 }
