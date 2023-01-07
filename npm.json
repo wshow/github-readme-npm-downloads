@@ -2,35 +2,35 @@
   "stats": [
     [
       "hexo-wordcount",
-      314286
+      314620
     ],
     [
       "gitbook-plugin-atoc",
-      147176
+      147177
     ],
     [
       "gitbook-plugin-donate",
-      68321
+      68322
     ],
     [
       "waliyun",
-      21644
+      21650
     ],
     [
       "@uua/icons",
-      7462
+      7470
     ],
     [
       "yunpian-sdk",
-      6899
+      6901
     ],
     [
       "leader.js.cool",
-      6882
+      6884
     ],
     [
       "koa-swagger-ui",
-      6279
+      6281
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,15 +38,15 @@
     ],
     [
       "wqcloud",
-      5382
+      5383
     ],
     [
       "v0",
-      4841
+      4842
     ],
     [
       "koa-api-logger",
-      3984
+      3986
     ],
     [
       "appkey",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3317
+      3318
     ],
     [
       "tuling",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2503
+      2504
     ],
     [
       "gitbook-plugin-autotheme",
-      2412
+      2413
     ],
     [
       "auto-deployer",
@@ -86,7 +86,7 @@
     ],
     [
       "wqcloud-video",
-      2119
+      2120
     ],
     [
       "hapi-auth-redis",
@@ -94,7 +94,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2034
+      2035
     ],
     [
       "wrescuetime",
@@ -106,11 +106,11 @@
     ],
     [
       "nuxtpress",
-      1922
+      1924
     ],
     [
       "hello-dolly",
-      1905
+      1906
     ],
     [
       "gitbook-plugin-theme-material",
@@ -146,7 +146,7 @@
     ],
     [
       "@authing/remix",
-      1178
+      1181
     ],
     [
       "@xibang/node-common",
@@ -162,7 +162,7 @@
     ],
     [
       "less.js.cool",
-      1079
+      1080
     ],
     [
       "mmonit",
@@ -174,7 +174,7 @@
     ],
     [
       "wechaty-authing",
-      1017
+      1018
     ],
     [
       "@shiwangme/redis",
@@ -194,7 +194,7 @@
     ],
     [
       "nativescript-icam",
-      877
+      878
     ],
     [
       "coding-deploy",
@@ -214,7 +214,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      837
+      838
     ],
     [
       "pipefn",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      725
+      726
     ],
     [
       "@willin/eslint-config",
@@ -266,7 +266,7 @@
     ],
     [
       "edd",
-      505
+      506
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -282,7 +282,7 @@
     ],
     [
       "@authing/nextjs",
-      466
+      468
     ],
     [
       "willin",
@@ -345,5 +345,5 @@
       116
     ]
   ],
-  "sum": 685333
+  "sum": 685712
 }
