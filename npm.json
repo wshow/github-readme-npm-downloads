@@ -2,35 +2,35 @@
   "stats": [
     [
       "hexo-wordcount",
-      314620
+      314864
     ],
     [
       "gitbook-plugin-atoc",
-      147177
+      147179
     ],
     [
       "gitbook-plugin-donate",
-      68322
+      68326
     ],
     [
       "waliyun",
-      21650
+      21659
     ],
     [
       "@uua/icons",
-      7470
+      7471
     ],
     [
       "yunpian-sdk",
-      6901
+      6902
     ],
     [
       "leader.js.cool",
-      6884
+      6885
     ],
     [
       "koa-swagger-ui",
-      6281
+      6285
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5383
+      5384
     ],
     [
       "v0",
@@ -46,7 +46,7 @@
     ],
     [
       "koa-api-logger",
-      3986
+      3988
     ],
     [
       "appkey",
@@ -66,15 +66,15 @@
     ],
     [
       "tuling",
-      3089
+      3090
     ],
     [
       "eslint-config-willin",
-      2767
+      2768
     ],
     [
       "vchart",
-      2504
+      2505
     ],
     [
       "gitbook-plugin-autotheme",
@@ -102,7 +102,7 @@
     ],
     [
       "atl",
-      1939
+      1940
     ],
     [
       "nuxtpress",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1863
+      1864
     ],
     [
       "coding-net",
@@ -134,11 +134,11 @@
     ],
     [
       "@x12/di",
-      1369
+      1370
     ],
     [
       "@x12/tasker",
-      1289
+      1290
     ],
     [
       "wnm",
@@ -146,7 +146,7 @@
     ],
     [
       "@authing/remix",
-      1181
+      1184
     ],
     [
       "@xibang/node-common",
@@ -166,7 +166,7 @@
     ],
     [
       "mmonit",
-      1079
+      1080
     ],
     [
       "hyperapp-i18n",
@@ -178,7 +178,7 @@
     ],
     [
       "@shiwangme/redis",
-      941
+      942
     ],
     [
       "beian-domain",
@@ -190,11 +190,11 @@
     ],
     [
       "remix-i18n",
-      880
+      881
     ],
     [
       "nativescript-icam",
-      878
+      879
     ],
     [
       "coding-deploy",
@@ -202,7 +202,7 @@
     ],
     [
       "awth",
-      852
+      853
     ],
     [
       "@x12/env",
@@ -210,7 +210,7 @@
     ],
     [
       "h1de",
-      843
+      844
     ],
     [
       "markdown-toc-gitbook",
@@ -250,7 +250,7 @@
     ],
     [
       "leancloud-sdk",
-      617
+      618
     ],
     [
       "@uua/ip2c",
@@ -338,12 +338,12 @@
     ],
     [
       "remix-sanity",
-      208
+      209
     ],
     [
       "passport-authing",
       116
     ]
   ],
-  "sum": 685712
+  "sum": 685999
 }
