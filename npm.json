@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      315209
+      315763
     ],
     [
       "gitbook-plugin-atoc",
-      147180
+      147182
     ],
     [
       "gitbook-plugin-donate",
-      68326
+      68327
     ],
     [
       "waliyun",
-      21674
+      21686
     ],
     [
       "@uua/icons",
@@ -42,11 +42,11 @@
     ],
     [
       "v0",
-      4846
+      4853
     ],
     [
       "koa-api-logger",
-      3990
+      3992
     ],
     [
       "appkey",
@@ -58,11 +58,11 @@
     ],
     [
       "mock-redis",
-      3618
+      3619
     ],
     [
       "wtoys",
-      3318
+      3319
     ],
     [
       "tuling",
@@ -90,11 +90,11 @@
     ],
     [
       "hapi-auth-redis",
-      2075
+      2076
     ],
     [
       "hyperapp.js.cool",
-      2035
+      2037
     ],
     [
       "wrescuetime",
@@ -102,7 +102,7 @@
     ],
     [
       "atl",
-      1940
+      1941
     ],
     [
       "nuxtpress",
@@ -146,7 +146,7 @@
     ],
     [
       "@authing/remix",
-      1184
+      1208
     ],
     [
       "@xibang/node-common",
@@ -170,7 +170,7 @@
     ],
     [
       "hyperapp-i18n",
-      1053
+      1054
     ],
     [
       "wechaty-authing",
@@ -206,11 +206,11 @@
     ],
     [
       "@x12/env",
-      847
+      851
     ],
     [
       "h1de",
-      844
+      845
     ],
     [
       "markdown-toc-gitbook",
@@ -282,7 +282,7 @@
     ],
     [
       "@authing/nextjs",
-      468
+      477
     ],
     [
       "willin",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      307
+      308
     ],
     [
       "random-target",
@@ -322,7 +322,7 @@
     ],
     [
       "ggql",
-      267
+      268
     ],
     [
       "npm-badges",
@@ -345,5 +345,5 @@
       116
     ]
   ],
-  "sum": 686381
+  "sum": 687006
 }
