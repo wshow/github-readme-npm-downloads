@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      315763
+      316213
     ],
     [
       "gitbook-plugin-atoc",
-      147182
+      147183
     ],
     [
       "gitbook-plugin-donate",
-      68327
+      68328
     ],
     [
       "waliyun",
-      21686
+      21691
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      6885
+      6896
     ],
     [
       "koa-swagger-ui",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5385
+      5386
     ],
     [
       "v0",
@@ -54,7 +54,7 @@
     ],
     [
       "coding-sdk",
-      3802
+      3803
     ],
     [
       "mock-redis",
@@ -157,12 +157,12 @@
       1105
     ],
     [
-      "lslint",
-      1081
+      "less.js.cool",
+      1082
     ],
     [
-      "less.js.cool",
-      1080
+      "lslint",
+      1081
     ],
     [
       "mmonit",
@@ -190,7 +190,7 @@
     ],
     [
       "remix-i18n",
-      881
+      882
     ],
     [
       "nativescript-icam",
@@ -210,7 +210,7 @@
     ],
     [
       "h1de",
-      845
+      846
     ],
     [
       "markdown-toc-gitbook",
@@ -269,12 +269,12 @@
       506
     ],
     [
-      "@dwing/azure-iot-device-mqtt",
+      "hdd",
       490
     ],
     [
-      "hdd",
-      489
+      "@dwing/azure-iot-device-mqtt",
+      490
     ],
     [
       "@xibang/redis",
@@ -282,7 +282,7 @@
     ],
     [
       "@authing/nextjs",
-      477
+      478
     ],
     [
       "willin",
@@ -294,7 +294,7 @@
     ],
     [
       "fetch-pro",
-      449
+      450
     ],
     [
       "@x12/common",
@@ -345,5 +345,5 @@
       116
     ]
   ],
-  "sum": 687006
+  "sum": 687483
 }
