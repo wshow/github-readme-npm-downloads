@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      317104
+      317454
     ],
     [
       "gitbook-plugin-atoc",
-      147185
+      147203
     ],
     [
       "gitbook-plugin-donate",
-      68349
+      68363
     ],
     [
       "waliyun",
-      21693
+      21734
     ],
     [
       "@uua/icons",
@@ -22,35 +22,35 @@
     ],
     [
       "yunpian-sdk",
-      6904
+      6917
     ],
     [
       "leader.js.cool",
-      6897
+      6898
     ],
     [
       "koa-swagger-ui",
-      6288
+      6303
     ],
     [
       "gitbook-plugin-wordcount",
-      5845
+      5846
     ],
     [
       "wqcloud",
-      5386
+      5400
     ],
     [
       "v0",
-      4870
+      4871
     ],
     [
       "koa-api-logger",
-      3994
+      4013
     ],
     [
       "appkey",
-      3912
+      3917
     ],
     [
       "coding-sdk",
@@ -58,27 +58,27 @@
     ],
     [
       "mock-redis",
-      3624
+      3643
     ],
     [
       "wtoys",
-      3320
+      3321
     ],
     [
       "tuling",
-      3090
+      3098
     ],
     [
       "eslint-config-willin",
-      2771
+      2772
     ],
     [
       "vchart",
-      2510
+      2511
     ],
     [
       "gitbook-plugin-autotheme",
-      2416
+      2417
     ],
     [
       "auto-deployer",
@@ -86,19 +86,19 @@
     ],
     [
       "wqcloud-video",
-      2127
+      2128
     ],
     [
       "hapi-auth-redis",
-      2076
+      2080
     ],
     [
       "hyperapp.js.cool",
-      2039
+      2044
     ],
     [
       "wrescuetime",
-      2030
+      2038
     ],
     [
       "atl",
@@ -110,7 +110,7 @@
     ],
     [
       "hello-dolly",
-      1906
+      1909
     ],
     [
       "gitbook-plugin-theme-material",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1510
+      1512
     ],
     [
       "v0-scf",
@@ -146,15 +146,15 @@
     ],
     [
       "@authing/remix",
-      1209
+      1211
     ],
     [
       "@xibang/node-common",
-      1132
+      1136
     ],
     [
       "mp-sdk",
-      1105
+      1111
     ],
     [
       "less.js.cool",
@@ -166,11 +166,11 @@
     ],
     [
       "mmonit",
-      1080
+      1082
     ],
     [
       "hyperapp-i18n",
-      1056
+      1058
     ],
     [
       "wechaty-authing",
@@ -190,11 +190,11 @@
     ],
     [
       "remix-i18n",
-      883
+      885
     ],
     [
       "nativescript-icam",
-      879
+      880
     ],
     [
       "coding-deploy",
@@ -206,7 +206,7 @@
     ],
     [
       "awth",
-      854
+      855
     ],
     [
       "h1de",
@@ -214,7 +214,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      838
+      839
     ],
     [
       "pipefn",
@@ -226,11 +226,11 @@
     ],
     [
       "wdouban",
-      748
+      751
     ],
     [
       "wulian",
-      746
+      747
     ],
     [
       "z-curve",
@@ -242,7 +242,7 @@
     ],
     [
       "rxdis",
-      695
+      696
     ],
     [
       "vuepress-theme-asshole",
@@ -274,11 +274,11 @@
     ],
     [
       "hdd",
-      490
+      491
     ],
     [
       "@xibang/redis",
-      484
+      486
     ],
     [
       "@authing/nextjs",
@@ -286,11 +286,11 @@
     ],
     [
       "willin",
-      455
+      456
     ],
     [
       "@xibang/mysql",
-      452
+      454
     ],
     [
       "fetch-pro",
@@ -345,5 +345,5 @@
       116
     ]
   ],
-  "sum": 688568
+  "sum": 689146
 }
