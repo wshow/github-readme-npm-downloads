@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      317454
+      317880
     ],
     [
       "gitbook-plugin-atoc",
-      147203
+      147205
     ],
     [
       "gitbook-plugin-donate",
-      68363
+      68391
     ],
     [
       "waliyun",
-      21734
+      21735
     ],
     [
       "@uua/icons",
-      7472
+      7478
     ],
     [
       "yunpian-sdk",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      6898
+      6909
     ],
     [
       "koa-swagger-ui",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5846
+      5848
     ],
     [
       "wqcloud",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4871
+      4887
     ],
     [
       "koa-api-logger",
@@ -54,23 +54,23 @@
     ],
     [
       "coding-sdk",
-      3813
+      3814
     ],
     [
       "mock-redis",
-      3643
+      3644
     ],
     [
       "wtoys",
-      3321
+      3332
     ],
     [
       "tuling",
-      3098
+      3100
     ],
     [
       "eslint-config-willin",
-      2772
+      2779
     ],
     [
       "vchart",
@@ -106,7 +106,7 @@
     ],
     [
       "nuxtpress",
-      1925
+      1935
     ],
     [
       "hello-dolly",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1869
+      1870
     ],
     [
       "coding-net",
@@ -130,11 +130,11 @@
     ],
     [
       "@x12/hosts",
-      1390
+      1393
     ],
     [
       "@x12/di",
-      1379
+      1380
     ],
     [
       "wnm",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1083
+      1084
     ],
     [
       "mmonit",
@@ -174,11 +174,11 @@
     ],
     [
       "wechaty-authing",
-      1019
+      1020
     ],
     [
       "@shiwangme/redis",
-      943
+      948
     ],
     [
       "beian-domain",
@@ -186,22 +186,22 @@
     ],
     [
       "@uua/core",
-      925
+      926
     ],
     [
       "remix-i18n",
-      885
+      886
     ],
     [
       "nativescript-icam",
       880
     ],
     [
-      "coding-deploy",
-      865
+      "@x12/env",
+      866
     ],
     [
-      "@x12/env",
+      "coding-deploy",
       865
     ],
     [
@@ -210,7 +210,7 @@
     ],
     [
       "h1de",
-      846
+      851
     ],
     [
       "markdown-toc-gitbook",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      726
+      728
     ],
     [
       "@willin/eslint-config",
@@ -250,7 +250,7 @@
     ],
     [
       "leancloud-sdk",
-      621
+      622
     ],
     [
       "@uua/ip2c",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      556
+      558
     ],
     [
       "edd",
@@ -282,7 +282,7 @@
     ],
     [
       "@authing/nextjs",
-      481
+      482
     ],
     [
       "willin",
@@ -294,7 +294,7 @@
     ],
     [
       "fetch-pro",
-      450
+      452
     ],
     [
       "@x12/common",
@@ -326,7 +326,7 @@
     ],
     [
       "npm-badges",
-      262
+      263
     ],
     [
       "@x12/task-types",
@@ -345,5 +345,5 @@
       116
     ]
   ],
-  "sum": 689146
+  "sum": 689699
 }
