@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      317880
+      318217
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      68391
+      68406
     ],
     [
       "waliyun",
-      21735
+      21736
     ],
     [
       "@uua/icons",
-      7478
+      7481
     ],
     [
       "yunpian-sdk",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      6909
+      6913
     ],
     [
       "koa-swagger-ui",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4887
+      4888
     ],
     [
       "koa-api-logger",
@@ -50,15 +50,15 @@
     ],
     [
       "appkey",
-      3917
+      3918
     ],
     [
       "coding-sdk",
-      3814
+      3815
     ],
     [
       "mock-redis",
-      3644
+      3645
     ],
     [
       "wtoys",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2779
+      2780
     ],
     [
       "vchart",
@@ -94,7 +94,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2044
+      2045
     ],
     [
       "wrescuetime",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1111
+      1112
     ],
     [
       "less.js.cool",
@@ -174,7 +174,7 @@
     ],
     [
       "wechaty-authing",
-      1020
+      1021
     ],
     [
       "@shiwangme/redis",
@@ -186,7 +186,7 @@
     ],
     [
       "@uua/core",
-      926
+      932
     ],
     [
       "remix-i18n",
@@ -210,7 +210,7 @@
     ],
     [
       "h1de",
-      851
+      852
     ],
     [
       "markdown-toc-gitbook",
@@ -222,7 +222,7 @@
     ],
     [
       "uua",
-      782
+      788
     ],
     [
       "wdouban",
@@ -254,7 +254,7 @@
     ],
     [
       "@uua/ip2c",
-      602
+      608
     ],
     [
       "@dwing/koa-joi-router",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      558
+      559
     ],
     [
       "edd",
@@ -282,7 +282,7 @@
     ],
     [
       "@authing/nextjs",
-      482
+      484
     ],
     [
       "willin",
@@ -322,7 +322,7 @@
     ],
     [
       "ggql",
-      268
+      269
     ],
     [
       "npm-badges",
@@ -345,5 +345,5 @@
       116
     ]
   ],
-  "sum": 689699
+  "sum": 690090
 }
