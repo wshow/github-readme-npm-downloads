@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      319236
+      319818
     ],
     [
       "gitbook-plugin-atoc",
-      147212
+      147219
     ],
     [
       "gitbook-plugin-donate",
-      68413
+      68418
     ],
     [
       "waliyun",
-      21753
+      21761
     ],
     [
       "@uua/icons",
@@ -22,15 +22,15 @@
     ],
     [
       "yunpian-sdk",
-      6923
+      6926
     ],
     [
       "leader.js.cool",
-      6920
+      6924
     ],
     [
       "koa-swagger-ui",
-      6308
+      6309
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,55 +38,55 @@
     ],
     [
       "wqcloud",
-      5408
+      5410
     ],
     [
       "v0",
-      4898
+      4900
     ],
     [
       "koa-api-logger",
-      4020
+      4026
     ],
     [
       "appkey",
-      3919
+      3921
     ],
     [
       "coding-sdk",
-      3818
+      3819
     ],
     [
       "mock-redis",
-      3652
+      3655
     ],
     [
       "wtoys",
-      3335
+      3339
     ],
     [
       "tuling",
-      3104
+      3107
     ],
     [
       "eslint-config-willin",
-      2785
+      2787
     ],
     [
       "vchart",
-      2512
+      2513
     ],
     [
       "gitbook-plugin-autotheme",
-      2417
+      2418
     ],
     [
       "wqcloud-video",
-      2134
+      2136
     ],
     [
       "auto-deployer",
-      2131
+      2132
     ],
     [
       "hapi-auth-redis",
@@ -94,11 +94,11 @@
     ],
     [
       "hyperapp.js.cool",
-      2050
+      2051
     ],
     [
       "wrescuetime",
-      2041
+      2043
     ],
     [
       "atl",
@@ -106,27 +106,27 @@
     ],
     [
       "nuxtpress",
-      1939
+      1943
     ],
     [
       "hello-dolly",
-      1910
+      1912
     ],
     [
       "gitbook-plugin-theme-material",
-      1871
+      1873
     ],
     [
       "coding-net",
-      1740
+      1741
     ],
     [
       "wno",
-      1513
+      1515
     ],
     [
       "v0-scf",
-      1422
+      1423
     ],
     [
       "@x12/hosts",
@@ -138,7 +138,7 @@
     ],
     [
       "@x12/tasker",
-      1302
+      1306
     ],
     [
       "wnm",
@@ -146,7 +146,7 @@
     ],
     [
       "@authing/remix",
-      1217
+      1220
     ],
     [
       "@xibang/node-common",
@@ -154,11 +154,11 @@
     ],
     [
       "mp-sdk",
-      1112
+      1113
     ],
     [
       "less.js.cool",
-      1085
+      1086
     ],
     [
       "lslint",
@@ -174,7 +174,7 @@
     ],
     [
       "wechaty-authing",
-      1027
+      1029
     ],
     [
       "@shiwangme/redis",
@@ -190,7 +190,7 @@
     ],
     [
       "remix-i18n",
-      889
+      891
     ],
     [
       "nativescript-icam",
@@ -202,7 +202,7 @@
     ],
     [
       "coding-deploy",
-      865
+      866
     ],
     [
       "awth",
@@ -210,7 +210,7 @@
     ],
     [
       "h1de",
-      853
+      854
     ],
     [
       "markdown-toc-gitbook",
@@ -218,15 +218,15 @@
     ],
     [
       "pipefn",
-      818
+      819
     ],
     [
       "uua",
-      792
+      794
     ],
     [
       "wdouban",
-      752
+      753
     ],
     [
       "wulian",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      728
+      729
     ],
     [
       "@willin/eslint-config",
@@ -246,7 +246,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      673
+      674
     ],
     [
       "leancloud-sdk",
@@ -254,7 +254,7 @@
     ],
     [
       "@uua/ip2c",
-      610
+      611
     ],
     [
       "@dwing/koa-joi-router",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      561
+      562
     ],
     [
       "edd",
@@ -278,11 +278,11 @@
     ],
     [
       "@xibang/redis",
-      487
+      488
     ],
     [
       "@authing/nextjs",
-      485
+      487
     ],
     [
       "willin",
@@ -290,11 +290,11 @@
     ],
     [
       "@xibang/mysql",
-      455
+      456
     ],
     [
       "fetch-pro",
-      455
+      456
     ],
     [
       "@x12/common",
@@ -310,15 +310,15 @@
     ],
     [
       "@x12/promise",
-      335
+      336
     ],
     [
       "afdian",
-      310
+      311
     ],
     [
       "random-target",
-      277
+      280
     ],
     [
       "ggql",
@@ -330,7 +330,7 @@
     ],
     [
       "@x12/task-types",
-      263
+      264
     ],
     [
       "@x12/rx-pool",
@@ -342,8 +342,8 @@
     ],
     [
       "passport-authing",
-      116
+      118
     ]
   ],
-  "sum": 691333
+  "sum": 692024
 }
