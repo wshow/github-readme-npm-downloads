@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      321069
+      321598
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,19 +14,19 @@
     ],
     [
       "waliyun",
-      21778
+      21781
     ],
     [
       "@uua/icons",
-      7486
+      7491
     ],
     [
       "yunpian-sdk",
-      6931
+      6932
     ],
     [
       "leader.js.cool",
-      6927
+      6928
     ],
     [
       "koa-swagger-ui",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4906
+      4908
     ],
     [
       "koa-api-logger",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1427
+      1428
     ],
     [
       "@x12/hosts",
@@ -174,7 +174,7 @@
     ],
     [
       "wechaty-authing",
-      1035
+      1036
     ],
     [
       "@shiwangme/redis",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      312
+      313
     ],
     [
       "random-target",
@@ -345,5 +345,5 @@
       118
     ]
   ],
-  "sum": 693481
+  "sum": 694025
 }
