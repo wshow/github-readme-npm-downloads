@@ -2,15 +2,15 @@
   "stats": [
     [
       "hexo-wordcount",
-      321598
+      322121
     ],
     [
       "gitbook-plugin-atoc",
-      147224
+      147225
     ],
     [
       "gitbook-plugin-donate",
-      68433
+      68435
     ],
     [
       "waliyun",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5854
+      5855
     ],
     [
       "wqcloud",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2788
+      2789
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2421
+      2422
     ],
     [
       "wqcloud-video",
@@ -86,7 +86,7 @@
     ],
     [
       "auto-deployer",
-      2133
+      2134
     ],
     [
       "hapi-auth-redis",
@@ -174,7 +174,7 @@
     ],
     [
       "wechaty-authing",
-      1036
+      1039
     ],
     [
       "@shiwangme/redis",
@@ -206,7 +206,7 @@
     ],
     [
       "h1de",
-      858
+      859
     ],
     [
       "awth",
@@ -238,11 +238,11 @@
     ],
     [
       "@willin/eslint-config",
-      716
+      717
     ],
     [
       "rxdis",
-      699
+      700
     ],
     [
       "vuepress-theme-asshole",
@@ -334,7 +334,7 @@
     ],
     [
       "@x12/rx-pool",
-      242
+      243
     ],
     [
       "remix-sanity",
@@ -345,5 +345,5 @@
       118
     ]
   ],
-  "sum": 694025
+  "sum": 694562
 }
