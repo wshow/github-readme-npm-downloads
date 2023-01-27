@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      323005
+      323448
     ],
     [
       "gitbook-plugin-atoc",
-      147236
+      147243
     ],
     [
       "gitbook-plugin-donate",
@@ -18,11 +18,11 @@
     ],
     [
       "@uua/icons",
-      7492
+      7493
     ],
     [
       "yunpian-sdk",
-      6935
+      6939
     ],
     [
       "leader.js.cool",
@@ -30,11 +30,11 @@
     ],
     [
       "koa-swagger-ui",
-      6320
+      6322
     ],
     [
       "gitbook-plugin-wordcount",
-      5861
+      5862
     ],
     [
       "wqcloud",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3659
+      3664
     ],
     [
       "wtoys",
@@ -90,11 +90,11 @@
     ],
     [
       "hapi-auth-redis",
-      2085
+      2086
     ],
     [
       "hyperapp.js.cool",
-      2056
+      2058
     ],
     [
       "wrescuetime",
@@ -110,11 +110,11 @@
     ],
     [
       "hello-dolly",
-      1915
+      1916
     ],
     [
       "gitbook-plugin-theme-material",
-      1878
+      1879
     ],
     [
       "coding-net",
@@ -146,7 +146,7 @@
     ],
     [
       "@authing/remix",
-      1241
+      1244
     ],
     [
       "@xibang/node-common",
@@ -158,7 +158,7 @@
     ],
     [
       "less.js.cool",
-      1087
+      1088
     ],
     [
       "lslint",
@@ -170,7 +170,7 @@
     ],
     [
       "hyperapp-i18n",
-      1064
+      1065
     ],
     [
       "wechaty-authing",
@@ -190,11 +190,11 @@
     ],
     [
       "remix-i18n",
-      898
+      899
     ],
     [
       "nativescript-icam",
-      886
+      887
     ],
     [
       "@x12/env",
@@ -206,7 +206,7 @@
     ],
     [
       "h1de",
-      860
+      861
     ],
     [
       "awth",
@@ -250,7 +250,7 @@
     ],
     [
       "leancloud-sdk",
-      627
+      628
     ],
     [
       "@uua/ip2c",
@@ -318,11 +318,11 @@
     ],
     [
       "random-target",
-      288
+      289
     ],
     [
       "ggql",
-      272
+      273
     ],
     [
       "@x12/task-types",
@@ -342,8 +342,8 @@
     ],
     [
       "passport-authing",
-      122
+      125
     ]
   ],
-  "sum": 695679
+  "sum": 696161
 }
