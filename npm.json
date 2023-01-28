@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      323448
+      323837
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      21816
+      21818
     ],
     [
       "@uua/icons",
@@ -94,7 +94,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2058
+      2059
     ],
     [
       "wrescuetime",
@@ -102,7 +102,7 @@
     ],
     [
       "atl",
-      1953
+      1954
     ],
     [
       "nuxtpress",
@@ -110,7 +110,7 @@
     ],
     [
       "hello-dolly",
-      1916
+      1917
     ],
     [
       "gitbook-plugin-theme-material",
@@ -146,7 +146,7 @@
     ],
     [
       "@authing/remix",
-      1244
+      1245
     ],
     [
       "@xibang/node-common",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1120
+      1121
     ],
     [
       "less.js.cool",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1086
+      1087
     ],
     [
       "mmonit",
@@ -174,7 +174,7 @@
     ],
     [
       "wechaty-authing",
-      1044
+      1045
     ],
     [
       "@shiwangme/redis",
@@ -206,7 +206,7 @@
     ],
     [
       "h1de",
-      861
+      867
     ],
     [
       "awth",
@@ -246,11 +246,11 @@
     ],
     [
       "vuepress-theme-asshole",
-      675
+      676
     ],
     [
       "leancloud-sdk",
-      628
+      629
     ],
     [
       "@uua/ip2c",
@@ -269,16 +269,16 @@
       510
     ],
     [
+      "@authing/nextjs",
+      500
+    ],
+    [
       "@dwing/azure-iot-device-mqtt",
       496
     ],
     [
-      "@authing/nextjs",
-      496
-    ],
-    [
       "hdd",
-      492
+      493
     ],
     [
       "@xibang/redis",
@@ -342,8 +342,8 @@
     ],
     [
       "passport-authing",
-      125
+      126
     ]
   ],
-  "sum": 696161
+  "sum": 696573
 }
