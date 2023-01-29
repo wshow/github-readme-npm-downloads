@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      323837
+      324387
     ],
     [
       "gitbook-plugin-atoc",
-      147243
+      147248
     ],
     [
       "gitbook-plugin-donate",
-      68441
+      68473
     ],
     [
       "waliyun",
-      21818
+      21821
     ],
     [
       "@uua/icons",
-      7493
+      7500
     ],
     [
       "yunpian-sdk",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6322
+      6323
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4917
+      4918
     ],
     [
       "koa-api-logger",
@@ -58,15 +58,15 @@
     ],
     [
       "mock-redis",
-      3664
+      3665
     ],
     [
       "wtoys",
-      3344
+      3345
     ],
     [
       "tuling",
-      3109
+      3110
     ],
     [
       "eslint-config-willin",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1516
+      1517
     ],
     [
       "v0-scf",
@@ -146,7 +146,7 @@
     ],
     [
       "@authing/remix",
-      1245
+      1257
     ],
     [
       "@xibang/node-common",
@@ -174,7 +174,7 @@
     ],
     [
       "wechaty-authing",
-      1045
+      1047
     ],
     [
       "@shiwangme/redis",
@@ -182,7 +182,7 @@
     ],
     [
       "beian-domain",
-      947
+      948
     ],
     [
       "@uua/core",
@@ -194,7 +194,7 @@
     ],
     [
       "nativescript-icam",
-      887
+      888
     ],
     [
       "@x12/env",
@@ -226,7 +226,7 @@
     ],
     [
       "wdouban",
-      754
+      755
     ],
     [
       "wulian",
@@ -310,7 +310,7 @@
     ],
     [
       "@x12/promise",
-      338
+      340
     ],
     [
       "afdian",
@@ -318,7 +318,7 @@
     ],
     [
       "random-target",
-      289
+      290
     ],
     [
       "ggql",
@@ -345,5 +345,5 @@
       126
     ]
   ],
-  "sum": 696573
+  "sum": 697196
 }
