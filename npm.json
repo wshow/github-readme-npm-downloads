@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      324387
+      324668
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      68473
+      68475
     ],
     [
       "waliyun",
-      21821
+      21823
     ],
     [
       "@uua/icons",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4918
+      4919
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "appkey",
-      3931
+      3932
     ],
     [
       "coding-sdk",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2517
+      2519
     ],
     [
       "gitbook-plugin-autotheme",
@@ -102,11 +102,11 @@
     ],
     [
       "atl",
-      1954
+      1955
     ],
     [
       "nuxtpress",
-      1946
+      1947
     ],
     [
       "hello-dolly",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1428
+      1429
     ],
     [
       "@x12/hosts",
@@ -142,11 +142,11 @@
     ],
     [
       "wnm",
-      1299
+      1300
     ],
     [
       "@authing/remix",
-      1257
+      1262
     ],
     [
       "@xibang/node-common",
@@ -174,7 +174,7 @@
     ],
     [
       "wechaty-authing",
-      1047
+      1053
     ],
     [
       "@shiwangme/redis",
@@ -190,7 +190,7 @@
     ],
     [
       "remix-i18n",
-      899
+      900
     ],
     [
       "nativescript-icam",
@@ -222,7 +222,7 @@
     ],
     [
       "uua",
-      795
+      797
     ],
     [
       "wdouban",
@@ -246,7 +246,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      676
+      677
     ],
     [
       "leancloud-sdk",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      591
+      592
     ],
     [
       "sdk0",
@@ -270,11 +270,11 @@
     ],
     [
       "@authing/nextjs",
-      500
+      502
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      496
+      497
     ],
     [
       "hdd",
@@ -345,5 +345,5 @@
       126
     ]
   ],
-  "sum": 697196
+  "sum": 697508
 }
