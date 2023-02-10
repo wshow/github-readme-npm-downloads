@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      328274
+      328492
     ],
     [
       "gitbook-plugin-atoc",
-      147349
+      147355
     ],
     [
       "gitbook-plugin-donate",
-      68533
+      68543
     ],
     [
       "waliyun",
-      21868
+      21874
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      6944
+      6947
     ],
     [
       "koa-swagger-ui",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5878
+      5880
     ],
     [
       "wqcloud",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4955
+      4957
     ],
     [
       "koa-api-logger",
@@ -58,11 +58,11 @@
     ],
     [
       "mock-redis",
-      3687
+      3688
     ],
     [
       "wtoys",
-      3351
+      3352
     ],
     [
       "tuling",
@@ -78,19 +78,19 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2451
+      2453
+    ],
+    [
+      "auto-deployer",
+      2144
     ],
     [
       "wqcloud-video",
       2143
     ],
     [
-      "auto-deployer",
-      2143
-    ],
-    [
       "hapi-auth-redis",
-      2096
+      2100
     ],
     [
       "hyperapp.js.cool",
@@ -98,7 +98,7 @@
     ],
     [
       "wrescuetime",
-      2051
+      2052
     ],
     [
       "atl",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1884
+      1885
     ],
     [
       "coding-net",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1443
+      1444
     ],
     [
       "@x12/hosts",
@@ -154,11 +154,11 @@
     ],
     [
       "mp-sdk",
-      1127
+      1128
     ],
     [
       "less.js.cool",
-      1092
+      1094
     ],
     [
       "lslint",
@@ -186,7 +186,7 @@
     ],
     [
       "@uua/core",
-      947
+      948
     ],
     [
       "remix-i18n",
@@ -210,7 +210,7 @@
     ],
     [
       "awth",
-      866
+      867
     ],
     [
       "markdown-toc-gitbook",
@@ -222,7 +222,7 @@
     ],
     [
       "uua",
-      803
+      804
     ],
     [
       "wdouban",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      595
+      597
     ],
     [
       "sdk0",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      499
+      500
     ],
     [
       "hdd",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      329
+      330
     ],
     [
       "random-target",
@@ -342,8 +342,8 @@
     ],
     [
       "passport-authing",
-      137
+      138
     ]
   ],
-  "sum": 702054
+  "sum": 702324
 }
