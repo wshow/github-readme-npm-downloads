@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      328718
+      328958
     ],
     [
       "gitbook-plugin-atoc",
-      147365
+      147367
     ],
     [
       "gitbook-plugin-donate",
-      68545
+      68549
     ],
     [
       "waliyun",
-      21874
+      21876
     ],
     [
       "@uua/icons",
@@ -22,15 +22,15 @@
     ],
     [
       "yunpian-sdk",
-      6964
+      6977
     ],
     [
       "leader.js.cool",
-      6948
+      6950
     ],
     [
       "koa-swagger-ui",
-      6334
+      6337
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5432
+      5435
     ],
     [
       "v0",
@@ -50,7 +50,7 @@
     ],
     [
       "appkey",
-      3946
+      3947
     ],
     [
       "coding-sdk",
@@ -66,7 +66,7 @@
     ],
     [
       "tuling",
-      3118
+      3120
     ],
     [
       "eslint-config-willin",
@@ -74,18 +74,18 @@
     ],
     [
       "vchart",
-      2528
+      2530
     ],
     [
       "gitbook-plugin-autotheme",
-      2457
-    ],
-    [
-      "wqcloud-video",
-      2144
+      2460
     ],
     [
       "auto-deployer",
+      2145
+    ],
+    [
+      "wqcloud-video",
       2144
     ],
     [
@@ -94,19 +94,19 @@
     ],
     [
       "hyperapp.js.cool",
-      2080
+      2081
     ],
     [
       "wrescuetime",
-      2054
+      2056
     ],
     [
       "atl",
-      1967
+      1968
     ],
     [
       "nuxtpress",
-      1952
+      1953
     ],
     [
       "hello-dolly",
@@ -146,7 +146,7 @@
     ],
     [
       "@authing/remix",
-      1277
+      1278
     ],
     [
       "@xibang/node-common",
@@ -186,7 +186,7 @@
     ],
     [
       "@uua/core",
-      948
+      949
     ],
     [
       "remix-i18n",
@@ -222,7 +222,7 @@
     ],
     [
       "uua",
-      805
+      806
     ],
     [
       "wdouban",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      737
+      738
     ],
     [
       "@willin/eslint-config",
@@ -242,7 +242,7 @@
     ],
     [
       "rxdis",
-      714
+      717
     ],
     [
       "vuepress-theme-asshole",
@@ -254,7 +254,7 @@
     ],
     [
       "@uua/ip2c",
-      619
+      620
     ],
     [
       "@dwing/koa-joi-router",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      569
+      570
     ],
     [
       "edd",
@@ -286,7 +286,7 @@
     ],
     [
       "fetch-pro",
-      467
+      468
     ],
     [
       "willin",
@@ -302,7 +302,7 @@
     ],
     [
       "whiteq",
-      379
+      380
     ],
     [
       "@x12/mongodb",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      330
+      331
     ],
     [
       "random-target",
@@ -330,7 +330,7 @@
     ],
     [
       "npm-badges",
-      269
+      270
     ],
     [
       "@x12/rx-pool",
@@ -345,5 +345,5 @@
       138
     ]
   ],
-  "sum": 702606
+  "sum": 702902
 }
