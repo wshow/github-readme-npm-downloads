@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      328958
+      329219
     ],
     [
       "gitbook-plugin-atoc",
-      147367
+      147368
     ],
     [
       "gitbook-plugin-donate",
@@ -14,15 +14,15 @@
     ],
     [
       "waliyun",
-      21876
+      21879
     ],
     [
       "@uua/icons",
-      7519
+      7521
     ],
     [
       "yunpian-sdk",
-      6977
+      6980
     ],
     [
       "leader.js.cool",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5435
+      5436
     ],
     [
       "v0",
-      4962
+      4978
     ],
     [
       "koa-api-logger",
@@ -62,19 +62,19 @@
     ],
     [
       "wtoys",
-      3353
+      3365
     ],
     [
       "tuling",
-      3120
+      3124
     ],
     [
       "eslint-config-willin",
-      2810
+      2811
     ],
     [
       "vchart",
-      2530
+      2531
     ],
     [
       "gitbook-plugin-autotheme",
@@ -82,11 +82,11 @@
     ],
     [
       "auto-deployer",
-      2145
+      2146
     ],
     [
       "wqcloud-video",
-      2144
+      2145
     ],
     [
       "hapi-auth-redis",
@@ -98,19 +98,19 @@
     ],
     [
       "wrescuetime",
-      2056
+      2057
     ],
     [
       "atl",
-      1968
+      1969
     ],
     [
       "nuxtpress",
-      1953
+      1954
     ],
     [
       "hello-dolly",
-      1927
+      1928
     ],
     [
       "gitbook-plugin-theme-material",
@@ -122,11 +122,11 @@
     ],
     [
       "wno",
-      1523
+      1524
     ],
     [
       "v0-scf",
-      1445
+      1446
     ],
     [
       "@x12/hosts",
@@ -142,11 +142,11 @@
     ],
     [
       "wnm",
-      1311
+      1312
     ],
     [
       "@authing/remix",
-      1278
+      1279
     ],
     [
       "@xibang/node-common",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1128
+      1129
     ],
     [
       "less.js.cool",
@@ -166,7 +166,7 @@
     ],
     [
       "mmonit",
-      1090
+      1091
     ],
     [
       "hyperapp-i18n",
@@ -186,7 +186,7 @@
     ],
     [
       "@uua/core",
-      949
+      950
     ],
     [
       "remix-i18n",
@@ -206,7 +206,7 @@
     ],
     [
       "h1de",
-      871
+      872
     ],
     [
       "awth",
@@ -222,7 +222,7 @@
     ],
     [
       "uua",
-      806
+      809
     ],
     [
       "wdouban",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      570
+      575
     ],
     [
       "edd",
@@ -270,7 +270,7 @@
     ],
     [
       "@authing/nextjs",
-      509
+      511
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -302,7 +302,7 @@
     ],
     [
       "whiteq",
-      380
+      381
     ],
     [
       "@x12/mongodb",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      331
+      332
     ],
     [
       "random-target",
@@ -342,8 +342,8 @@
     ],
     [
       "passport-authing",
-      138
+      139
     ]
   ],
-  "sum": 702902
+  "sum": 703234
 }
