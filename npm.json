@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      329445
+      329749
     ],
     [
       "gitbook-plugin-atoc",
-      147370
+      147374
     ],
     [
       "gitbook-plugin-donate",
-      68550
+      68551
     ],
     [
       "waliyun",
-      21879
+      21883
     ],
     [
       "@uua/icons",
-      7522
+      7527
     ],
     [
       "leader.js.cool",
-      6982
+      6983
     ],
     [
       "yunpian-sdk",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6337
+      6343
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,15 +42,15 @@
     ],
     [
       "v0",
-      4983
+      4984
     ],
     [
       "koa-api-logger",
-      4049
+      4050
     ],
     [
       "appkey",
-      3947
+      3949
     ],
     [
       "coding-sdk",
@@ -66,11 +66,11 @@
     ],
     [
       "tuling",
-      3126
+      3127
     ],
     [
       "eslint-config-willin",
-      2813
+      2816
     ],
     [
       "vchart",
@@ -90,7 +90,7 @@
     ],
     [
       "hapi-auth-redis",
-      2100
+      2101
     ],
     [
       "hyperapp.js.cool",
@@ -98,7 +98,7 @@
     ],
     [
       "wrescuetime",
-      2058
+      2059
     ],
     [
       "atl",
@@ -130,7 +130,7 @@
     ],
     [
       "@x12/hosts",
-      1414
+      1415
     ],
     [
       "@x12/di",
@@ -138,7 +138,7 @@
     ],
     [
       "@x12/tasker",
-      1317
+      1318
     ],
     [
       "wnm",
@@ -170,18 +170,18 @@
     ],
     [
       "wechaty-authing",
-      1078
+      1080
     ],
     [
       "hyperapp-i18n",
-      1077
-    ],
-    [
-      "beian-domain",
-      955
+      1078
     ],
     [
       "@shiwangme/redis",
+      956
+    ],
+    [
+      "beian-domain",
       955
     ],
     [
@@ -201,12 +201,12 @@
       878
     ],
     [
-      "coding-deploy",
+      "h1de",
       875
     ],
     [
-      "h1de",
-      874
+      "coding-deploy",
+      875
     ],
     [
       "awth",
@@ -226,11 +226,11 @@
     ],
     [
       "wdouban",
-      759
+      760
     ],
     [
       "wulian",
-      753
+      754
     ],
     [
       "z-curve",
@@ -242,7 +242,7 @@
     ],
     [
       "rxdis",
-      717
+      718
     ],
     [
       "vuepress-theme-asshole",
@@ -266,11 +266,11 @@
     ],
     [
       "edd",
-      515
+      516
     ],
     [
       "@authing/nextjs",
-      511
+      512
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -298,7 +298,7 @@
     ],
     [
       "@x12/common",
-      416
+      418
     ],
     [
       "whiteq",
@@ -318,7 +318,7 @@
     ],
     [
       "random-target",
-      306
+      308
     ],
     [
       "ggql",
@@ -338,12 +338,12 @@
     ],
     [
       "remix-sanity",
-      217
+      218
     ],
     [
       "passport-authing",
       139
     ]
   ],
-  "sum": 703552
+  "sum": 703904
 }
