@@ -10,27 +10,27 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                         | Downloads  |
 | -------------------------------------------------------------------------------------------- | ---------- |
-| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                               | 330439     |
-| [gitbook-plugin-atoc](https://www.npmjs.com/package/gitbook-plugin-atoc)                     | 147375     |
-| [gitbook-plugin-donate](https://www.npmjs.com/package/gitbook-plugin-donate)                 | 68559      |
-| [waliyun](https://www.npmjs.com/package/waliyun)                                             | 21890      |
+| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                               | 330705     |
+| [gitbook-plugin-atoc](https://www.npmjs.com/package/gitbook-plugin-atoc)                     | 147376     |
+| [gitbook-plugin-donate](https://www.npmjs.com/package/gitbook-plugin-donate)                 | 68566      |
+| [waliyun](https://www.npmjs.com/package/waliyun)                                             | 21898      |
 | [@uua/icons](https://www.npmjs.com/package/@uua/icons)                                       | 7528       |
 | [yunpian-sdk](https://www.npmjs.com/package/yunpian-sdk)                                     | 6985       |
 | [leader.js.cool](https://www.npmjs.com/package/leader.js.cool)                               | 6984       |
 | [koa-swagger-ui](https://www.npmjs.com/package/koa-swagger-ui)                               | 6347       |
 | [gitbook-plugin-wordcount](https://www.npmjs.com/package/gitbook-plugin-wordcount)           | 5881       |
 | [wqcloud](https://www.npmjs.com/package/wqcloud)                                             | 5447       |
-| [v0](https://www.npmjs.com/package/v0)                                                       | 4985       |
+| [v0](https://www.npmjs.com/package/v0)                                                       | 4986       |
 | [koa-api-logger](https://www.npmjs.com/package/koa-api-logger)                               | 4052       |
 | [appkey](https://www.npmjs.com/package/appkey)                                               | 3951       |
 | [coding-sdk](https://www.npmjs.com/package/coding-sdk)                                       | 3844       |
 | [mock-redis](https://www.npmjs.com/package/mock-redis)                                       | 3689       |
-| [wtoys](https://www.npmjs.com/package/wtoys)                                                 | 3365       |
+| [wtoys](https://www.npmjs.com/package/wtoys)                                                 | 3366       |
 | [tuling](https://www.npmjs.com/package/tuling)                                               | 3128       |
 | [eslint-config-willin](https://www.npmjs.com/package/eslint-config-willin)                   | 2817       |
 | [vchart](https://www.npmjs.com/package/vchart)                                               | 2532       |
 | [gitbook-plugin-autotheme](https://www.npmjs.com/package/gitbook-plugin-autotheme)           | 2461       |
-| [wqcloud-video](https://www.npmjs.com/package/wqcloud-video)                                 | 2149       |
+| [wqcloud-video](https://www.npmjs.com/package/wqcloud-video)                                 | 2150       |
 | [auto-deployer](https://www.npmjs.com/package/auto-deployer)                                 | 2147       |
 | [hapi-auth-redis](https://www.npmjs.com/package/hapi-auth-redis)                             | 2102       |
 | [hyperapp.js.cool](https://www.npmjs.com/package/hyperapp.js.cool)                           | 2085       |
@@ -40,7 +40,7 @@ All of my npm packages and their downloads
 | [hello-dolly](https://www.npmjs.com/package/hello-dolly)                                     | 1931       |
 | [gitbook-plugin-theme-material](https://www.npmjs.com/package/gitbook-plugin-theme-material) | 1886       |
 | [coding-net](https://www.npmjs.com/package/coding-net)                                       | 1752       |
-| [wno](https://www.npmjs.com/package/wno)                                                     | 1526       |
+| [wno](https://www.npmjs.com/package/wno)                                                     | 1527       |
 | [v0-scf](https://www.npmjs.com/package/v0-scf)                                               | 1446       |
 | [@x12/hosts](https://www.npmjs.com/package/@x12/hosts)                                       | 1415       |
 | [@x12/di](https://www.npmjs.com/package/@x12/di)                                             | 1406       |
@@ -49,8 +49,8 @@ All of my npm packages and their downloads
 | [@authing/remix](https://www.npmjs.com/package/@authing/remix)                               | 1281       |
 | [@xibang/node-common](https://www.npmjs.com/package/@xibang/node-common)                     | 1144       |
 | [mp-sdk](https://www.npmjs.com/package/mp-sdk)                                               | 1130       |
+| [lslint](https://www.npmjs.com/package/lslint)                                               | 1095       |
 | [less.js.cool](https://www.npmjs.com/package/less.js.cool)                                   | 1094       |
-| [lslint](https://www.npmjs.com/package/lslint)                                               | 1094       |
 | [mmonit](https://www.npmjs.com/package/mmonit)                                               | 1092       |
 | [wechaty-authing](https://www.npmjs.com/package/wechaty-authing)                             | 1081       |
 | [hyperapp-i18n](https://www.npmjs.com/package/hyperapp-i18n)                                 | 1079       |
@@ -96,5 +96,5 @@ All of my npm packages and their downloads
 | [@x12/rx-pool](https://www.npmjs.com/package/@x12/rx-pool)                                   | 254        |
 | [remix-sanity](https://www.npmjs.com/package/remix-sanity)                                   | 218        |
 | [passport-authing](https://www.npmjs.com/package/passport-authing)                           | 139        |
-| **Sum**                                                                                      | **704674** |
+| **Sum**                                                                                      | **704961** |
 <!-- AUTO-GENERATED-CONTENT:END -->

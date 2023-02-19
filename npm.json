@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      330439
+      330705
     ],
     [
       "gitbook-plugin-atoc",
-      147375
+      147376
     ],
     [
       "gitbook-plugin-donate",
-      68559
+      68566
     ],
     [
       "waliyun",
-      21890
+      21898
     ],
     [
       "@uua/icons",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      4985
+      4986
     ],
     [
       "koa-api-logger",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3365
+      3366
     ],
     [
       "tuling",
@@ -82,7 +82,7 @@
     ],
     [
       "wqcloud-video",
-      2149
+      2150
     ],
     [
       "auto-deployer",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1526
+      1527
     ],
     [
       "v0-scf",
@@ -157,11 +157,11 @@
       1130
     ],
     [
-      "less.js.cool",
-      1094
+      "lslint",
+      1095
     ],
     [
-      "lslint",
+      "less.js.cool",
       1094
     ],
     [
@@ -345,5 +345,5 @@
       139
     ]
   ],
-  "sum": 704674
+  "sum": 704961
 }
