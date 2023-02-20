@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      330705
+      331101
     ],
     [
       "gitbook-plugin-atoc",
-      147376
+      147377
     ],
     [
       "gitbook-plugin-donate",
-      68566
+      68571
     ],
     [
       "waliyun",
-      21898
+      21903
     ],
     [
       "@uua/icons",
-      7528
+      7529
     ],
     [
       "yunpian-sdk",
-      6985
+      6986
     ],
     [
       "leader.js.cool",
@@ -50,11 +50,11 @@
     ],
     [
       "appkey",
-      3951
+      3952
     ],
     [
       "coding-sdk",
-      3844
+      3845
     ],
     [
       "mock-redis",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2817
+      2823
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2461
+      2462
     ],
     [
       "wqcloud-video",
@@ -86,7 +86,7 @@
     ],
     [
       "auto-deployer",
-      2147
+      2148
     ],
     [
       "hapi-auth-redis",
@@ -102,7 +102,7 @@
     ],
     [
       "atl",
-      1973
+      1974
     ],
     [
       "nuxtpress",
@@ -114,11 +114,11 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1886
+      1887
     ],
     [
       "coding-net",
-      1752
+      1753
     ],
     [
       "wno",
@@ -190,7 +190,7 @@
     ],
     [
       "remix-i18n",
-      915
+      917
     ],
     [
       "nativescript-icam",
@@ -202,15 +202,15 @@
     ],
     [
       "h1de",
-      875
+      876
     ],
     [
       "coding-deploy",
-      875
+      876
     ],
     [
       "awth",
-      867
+      868
     ],
     [
       "markdown-toc-gitbook",
@@ -222,7 +222,7 @@
     ],
     [
       "uua",
-      809
+      810
     ],
     [
       "wdouban",
@@ -242,7 +242,7 @@
     ],
     [
       "rxdis",
-      721
+      722
     ],
     [
       "vuepress-theme-asshole",
@@ -258,11 +258,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      598
+      599
     ],
     [
       "sdk0",
-      575
+      576
     ],
     [
       "edd",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      500
+      501
     ],
     [
       "hdd",
@@ -345,5 +345,5 @@
       139
     ]
   ],
-  "sum": 704961
+  "sum": 705393
 }
