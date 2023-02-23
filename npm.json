@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      331890
+      332210
     ],
     [
       "gitbook-plugin-atoc",
-      147379
+      147381
     ],
     [
       "gitbook-plugin-donate",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      21909
+      21916
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      6985
+      6986
     ],
     [
       "koa-swagger-ui",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5449
+      5450
     ],
     [
       "v0",
-      4988
+      5003
     ],
     [
       "koa-api-logger",
@@ -50,11 +50,11 @@
     ],
     [
       "appkey",
-      3954
+      3955
     ],
     [
       "coding-sdk",
-      3846
+      3847
     ],
     [
       "mock-redis",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3366
+      3368
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2533
+      2534
     ],
     [
       "gitbook-plugin-autotheme",
@@ -94,11 +94,11 @@
     ],
     [
       "hyperapp.js.cool",
-      2087
+      2089
     ],
     [
       "wrescuetime",
-      2061
+      2062
     ],
     [
       "atl",
@@ -110,11 +110,11 @@
     ],
     [
       "hello-dolly",
-      1931
+      1933
     ],
     [
       "gitbook-plugin-theme-material",
-      1887
+      1888
     ],
     [
       "coding-net",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1529
+      1532
     ],
     [
       "v0-scf",
@@ -142,7 +142,7 @@
     ],
     [
       "wnm",
-      1313
+      1314
     ],
     [
       "@authing/remix",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1144
+      1145
     ],
     [
       "mp-sdk",
@@ -177,12 +177,12 @@
       1079
     ],
     [
-      "@shiwangme/redis",
+      "beian-domain",
       956
     ],
     [
-      "beian-domain",
-      955
+      "@shiwangme/redis",
+      956
     ],
     [
       "@uua/core",
@@ -210,7 +210,7 @@
     ],
     [
       "awth",
-      868
+      869
     ],
     [
       "markdown-toc-gitbook",
@@ -222,7 +222,7 @@
     ],
     [
       "uua",
-      811
+      812
     ],
     [
       "wdouban",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      602
+      603
     ],
     [
       "sdk0",
@@ -270,7 +270,7 @@
     ],
     [
       "edd",
-      516
+      517
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -278,11 +278,11 @@
     ],
     [
       "hdd",
-      497
+      498
     ],
     [
       "@xibang/redis",
-      492
+      493
     ],
     [
       "fetch-pro",
@@ -330,11 +330,11 @@
     ],
     [
       "npm-badges",
-      271
+      272
     ],
     [
       "@x12/rx-pool",
-      255
+      256
     ],
     [
       "remix-sanity",
@@ -345,5 +345,5 @@
       139
     ]
   ],
-  "sum": 706279
+  "sum": 706650
 }
