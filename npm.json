@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      332480
+      332714
     ],
     [
       "gitbook-plugin-atoc",
-      147381
+      147382
     ],
     [
       "gitbook-plugin-donate",
-      68582
+      68587
     ],
     [
       "waliyun",
-      21922
+      21926
     ],
     [
       "@uua/icons",
@@ -30,11 +30,11 @@
     ],
     [
       "koa-swagger-ui",
-      6351
+      6352
     ],
     [
       "gitbook-plugin-wordcount",
-      5881
+      5882
     ],
     [
       "wqcloud",
@@ -46,7 +46,7 @@
     ],
     [
       "koa-api-logger",
-      4054
+      4055
     ],
     [
       "appkey",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3368
+      3370
     ],
     [
       "tuling",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2463
+      2464
     ],
     [
       "wqcloud-video",
@@ -90,15 +90,15 @@
     ],
     [
       "hapi-auth-redis",
-      2104
+      2105
     ],
     [
       "hyperapp.js.cool",
-      2089
+      2091
     ],
     [
       "wrescuetime",
-      2064
+      2065
     ],
     [
       "atl",
@@ -106,19 +106,19 @@
     ],
     [
       "nuxtpress",
-      1959
+      1960
     ],
     [
       "hello-dolly",
-      1933
+      1934
     ],
     [
       "gitbook-plugin-theme-material",
-      1888
+      1889
     ],
     [
       "coding-net",
-      1753
+      1754
     ],
     [
       "wno",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1449
+      1450
     ],
     [
       "@x12/hosts",
@@ -142,11 +142,11 @@
     ],
     [
       "wnm",
-      1314
+      1315
     ],
     [
       "@authing/remix",
-      1295
+      1296
     ],
     [
       "@xibang/node-common",
@@ -170,7 +170,7 @@
     ],
     [
       "wechaty-authing",
-      1081
+      1082
     ],
     [
       "hyperapp-i18n",
@@ -198,7 +198,7 @@
     ],
     [
       "@x12/env",
-      880
+      881
     ],
     [
       "coding-deploy",
@@ -226,7 +226,7 @@
     ],
     [
       "wdouban",
-      760
+      761
     ],
     [
       "wulian",
@@ -290,7 +290,7 @@
     ],
     [
       "willin",
-      464
+      465
     ],
     [
       "@xibang/mysql",
@@ -302,7 +302,7 @@
     ],
     [
       "whiteq",
-      381
+      383
     ],
     [
       "@x12/mongodb",
@@ -322,7 +322,7 @@
     ],
     [
       "ggql",
-      277
+      278
     ],
     [
       "@x12/task-types",
@@ -345,5 +345,5 @@
       139
     ]
   ],
-  "sum": 706983
+  "sum": 707251
 }
