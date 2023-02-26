@@ -2,35 +2,35 @@
   "stats": [
     [
       "hexo-wordcount",
-      332714
+      333050
     ],
     [
       "gitbook-plugin-atoc",
-      147382
+      147384
     ],
     [
       "gitbook-plugin-donate",
-      68587
+      68590
     ],
     [
       "waliyun",
-      21926
+      21929
     ],
     [
       "@uua/icons",
-      7539
+      7546
     ],
     [
       "yunpian-sdk",
-      6989
+      6990
     ],
     [
       "leader.js.cool",
-      6987
+      6988
     ],
     [
       "koa-swagger-ui",
-      6352
+      6353
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5452
+      5453
     ],
     [
       "v0",
@@ -46,7 +46,7 @@
     ],
     [
       "koa-api-logger",
-      4055
+      4056
     ],
     [
       "appkey",
@@ -54,7 +54,7 @@
     ],
     [
       "coding-sdk",
-      3847
+      3848
     ],
     [
       "mock-redis",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      2827
+      2829
     ],
     [
       "vchart",
-      2535
+      2540
     ],
     [
       "gitbook-plugin-autotheme",
@@ -110,7 +110,7 @@
     ],
     [
       "hello-dolly",
-      1934
+      1935
     ],
     [
       "gitbook-plugin-theme-material",
@@ -142,31 +142,31 @@
     ],
     [
       "wnm",
-      1315
+      1316
     ],
     [
       "@authing/remix",
-      1296
+      1297
     ],
     [
       "@xibang/node-common",
-      1145
+      1146
     ],
     [
       "mp-sdk",
-      1131
+      1132
     ],
     [
       "lslint",
       1096
     ],
     [
-      "mmonit",
+      "less.js.cool",
       1095
     ],
     [
-      "less.js.cool",
-      1094
+      "mmonit",
+      1095
     ],
     [
       "wechaty-authing",
@@ -178,11 +178,11 @@
     ],
     [
       "beian-domain",
-      957
+      958
     ],
     [
       "@shiwangme/redis",
-      956
+      958
     ],
     [
       "@uua/core",
@@ -210,11 +210,11 @@
     ],
     [
       "awth",
-      869
+      870
     ],
     [
       "markdown-toc-gitbook",
-      855
+      856
     ],
     [
       "pipefn",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      738
+      740
     ],
     [
       "@willin/eslint-config",
@@ -270,7 +270,7 @@
     ],
     [
       "edd",
-      517
+      519
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -278,11 +278,11 @@
     ],
     [
       "hdd",
-      498
+      499
     ],
     [
       "@xibang/redis",
-      493
+      494
     ],
     [
       "fetch-pro",
@@ -334,7 +334,7 @@
     ],
     [
       "@x12/rx-pool",
-      257
+      258
     ],
     [
       "remix-sanity",
@@ -345,5 +345,5 @@
       139
     ]
   ],
-  "sum": 707251
+  "sum": 707633
 }
