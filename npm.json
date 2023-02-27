@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      333050
+      333338
     ],
     [
       "gitbook-plugin-atoc",
-      147384
+      147386
     ],
     [
       "gitbook-plugin-donate",
@@ -14,23 +14,23 @@
     ],
     [
       "waliyun",
-      21929
+      21931
     ],
     [
       "@uua/icons",
-      7546
+      7547
     ],
     [
       "yunpian-sdk",
-      6990
+      6991
     ],
     [
       "leader.js.cool",
-      6988
+      6989
     ],
     [
       "koa-swagger-ui",
-      6353
+      6354
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,11 +42,11 @@
     ],
     [
       "v0",
-      5005
+      5006
     ],
     [
       "koa-api-logger",
-      4056
+      4061
     ],
     [
       "appkey",
@@ -54,7 +54,7 @@
     ],
     [
       "coding-sdk",
-      3848
+      3849
     ],
     [
       "mock-redis",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3370
+      3371
     ],
     [
       "tuling",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2829
+      2831
     ],
     [
       "vchart",
@@ -102,7 +102,7 @@
     ],
     [
       "atl",
-      1975
+      1976
     ],
     [
       "nuxtpress",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1532
+      1533
     ],
     [
       "v0-scf",
@@ -138,11 +138,11 @@
     ],
     [
       "@x12/tasker",
-      1330
+      1331
     ],
     [
       "wnm",
-      1316
+      1317
     ],
     [
       "@authing/remix",
@@ -157,16 +157,16 @@
       1132
     ],
     [
-      "lslint",
+      "less.js.cool",
       1096
     ],
     [
-      "less.js.cool",
-      1095
+      "mmonit",
+      1096
     ],
     [
-      "mmonit",
-      1095
+      "lslint",
+      1096
     ],
     [
       "wechaty-authing",
@@ -177,11 +177,11 @@
       1079
     ],
     [
-      "beian-domain",
-      958
+      "@shiwangme/redis",
+      964
     ],
     [
-      "@shiwangme/redis",
+      "beian-domain",
       958
     ],
     [
@@ -194,7 +194,7 @@
     ],
     [
       "nativescript-icam",
-      899
+      900
     ],
     [
       "@x12/env",
@@ -254,7 +254,7 @@
     ],
     [
       "@uua/ip2c",
-      621
+      622
     ],
     [
       "@dwing/koa-joi-router",
@@ -266,7 +266,7 @@
     ],
     [
       "@authing/nextjs",
-      520
+      521
     ],
     [
       "edd",
@@ -310,11 +310,11 @@
     ],
     [
       "@x12/promise",
-      349
+      350
     ],
     [
       "afdian",
-      332
+      333
     ],
     [
       "random-target",
@@ -326,7 +326,7 @@
     ],
     [
       "@x12/task-types",
-      276
+      277
     ],
     [
       "npm-badges",
@@ -345,5 +345,5 @@
       139
     ]
   ],
-  "sum": 707633
+  "sum": 707957
 }
