@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      333338
+      333634
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,19 +10,19 @@
     ],
     [
       "gitbook-plugin-donate",
-      68590
+      68597
     ],
     [
       "waliyun",
-      21931
+      21935
     ],
     [
       "@uua/icons",
-      7547
+      7548
     ],
     [
       "yunpian-sdk",
-      6991
+      6992
     ],
     [
       "leader.js.cool",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5453
+      5455
     ],
     [
       "v0",
@@ -46,7 +46,7 @@
     ],
     [
       "koa-api-logger",
-      4061
+      4063
     ],
     [
       "appkey",
@@ -66,7 +66,7 @@
     ],
     [
       "tuling",
-      3130
+      3134
     ],
     [
       "eslint-config-willin",
@@ -82,7 +82,7 @@
     ],
     [
       "wqcloud-video",
-      2152
+      2153
     ],
     [
       "auto-deployer",
@@ -106,11 +106,11 @@
     ],
     [
       "nuxtpress",
-      1960
+      1961
     ],
     [
       "hello-dolly",
-      1935
+      1936
     ],
     [
       "gitbook-plugin-theme-material",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1754
+      1755
     ],
     [
       "wno",
@@ -157,11 +157,11 @@
       1132
     ],
     [
-      "less.js.cool",
-      1096
+      "mmonit",
+      1098
     ],
     [
-      "mmonit",
+      "less.js.cool",
       1096
     ],
     [
@@ -186,11 +186,11 @@
     ],
     [
       "@uua/core",
-      951
+      952
     ],
     [
       "remix-i18n",
-      921
+      923
     ],
     [
       "nativescript-icam",
@@ -214,7 +214,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      856
+      857
     ],
     [
       "pipefn",
@@ -226,19 +226,19 @@
     ],
     [
       "wdouban",
-      761
+      762
     ],
     [
       "wulian",
-      754
+      755
     ],
     [
       "z-curve",
-      740
+      741
     ],
     [
       "@willin/eslint-config",
-      724
+      725
     ],
     [
       "rxdis",
@@ -254,7 +254,7 @@
     ],
     [
       "@uua/ip2c",
-      622
+      623
     ],
     [
       "@dwing/koa-joi-router",
@@ -286,7 +286,7 @@
     ],
     [
       "fetch-pro",
-      469
+      472
     ],
     [
       "willin",
@@ -318,7 +318,7 @@
     ],
     [
       "random-target",
-      309
+      312
     ],
     [
       "ggql",
@@ -345,5 +345,5 @@
       139
     ]
   ],
-  "sum": 707957
+  "sum": 708295
 }
