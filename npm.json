@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      336508
+      336811
     ],
     [
       "gitbook-plugin-atoc",
-      147425
+      147426
     ],
     [
       "gitbook-plugin-donate",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      22027
+      22030
     ],
     [
       "@uua/icons",
-      7556
+      7557
     ],
     [
       "leader.js.cool",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      6995
+      6996
     ],
     [
       "koa-swagger-ui",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5019
+      5021
     ],
     [
       "koa-api-logger",
@@ -50,11 +50,11 @@
     ],
     [
       "appkey",
-      3959
+      3962
     ],
     [
       "coding-sdk",
-      3853
+      3854
     ],
     [
       "mock-redis",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3374
+      3375
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2551
+      2552
     ],
     [
       "gitbook-plugin-autotheme",
@@ -90,11 +90,11 @@
     ],
     [
       "hapi-auth-redis",
-      2106
+      2107
     ],
     [
       "hyperapp.js.cool",
-      2100
+      2102
     ],
     [
       "wrescuetime",
@@ -146,7 +146,7 @@
     ],
     [
       "@authing/remix",
-      1314
+      1317
     ],
     [
       "@xibang/node-common",
@@ -174,7 +174,7 @@
     ],
     [
       "hyperapp-i18n",
-      1083
+      1084
     ],
     [
       "@shiwangme/redis",
@@ -202,7 +202,7 @@
     ],
     [
       "h1de",
-      882
+      886
     ],
     [
       "coding-deploy",
@@ -218,7 +218,7 @@
     ],
     [
       "pipefn",
-      827
+      828
     ],
     [
       "uua",
@@ -242,7 +242,7 @@
     ],
     [
       "rxdis",
-      725
+      726
     ],
     [
       "vuepress-theme-asshole",
@@ -258,11 +258,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      606
+      607
     ],
     [
       "sdk0",
-      581
+      582
     ],
     [
       "@authing/nextjs",
@@ -273,11 +273,11 @@
       522
     ],
     [
-      "hdd",
-      502
+      "@dwing/azure-iot-device-mqtt",
+      503
     ],
     [
-      "@dwing/azure-iot-device-mqtt",
+      "hdd",
       502
     ],
     [
@@ -342,8 +342,8 @@
     ],
     [
       "passport-authing",
-      140
+      141
     ]
   ],
-  "sum": 711800
+  "sum": 712134
 }
