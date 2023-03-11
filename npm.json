@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      336811
+      337097
     ],
     [
       "gitbook-plugin-atoc",
-      147426
+      147440
     ],
     [
       "gitbook-plugin-donate",
-      68619
+      68620
     ],
     [
       "waliyun",
-      22030
+      22033
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "leader.js.cool",
-      7002
+      7004
     ],
     [
       "yunpian-sdk",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5021
+      5022
     ],
     [
       "koa-api-logger",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3375
+      3376
     ],
     [
       "tuling",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2473
+      2474
     ],
     [
       "wqcloud-video",
@@ -106,7 +106,7 @@
     ],
     [
       "nuxtpress",
-      1971
+      1972
     ],
     [
       "hello-dolly",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1892
+      1893
     ],
     [
       "coding-net",
@@ -138,7 +138,7 @@
     ],
     [
       "@x12/tasker",
-      1343
+      1344
     ],
     [
       "wnm",
@@ -146,7 +146,7 @@
     ],
     [
       "@authing/remix",
-      1317
+      1318
     ],
     [
       "@xibang/node-common",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1140
+      1141
     ],
     [
       "wechaty-authing",
@@ -178,7 +178,7 @@
     ],
     [
       "@shiwangme/redis",
-      969
+      970
     ],
     [
       "beian-domain",
@@ -190,19 +190,19 @@
     ],
     [
       "remix-i18n",
-      929
+      930
     ],
     [
       "nativescript-icam",
       900
     ],
     [
-      "@x12/env",
-      887
+      "h1de",
+      888
     ],
     [
-      "h1de",
-      886
+      "@x12/env",
+      887
     ],
     [
       "coding-deploy",
@@ -218,7 +218,7 @@
     ],
     [
       "pipefn",
-      828
+      829
     ],
     [
       "uua",
@@ -246,7 +246,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      686
+      687
     ],
     [
       "leancloud-sdk",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      607
+      608
     ],
     [
       "sdk0",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      503
+      504
     ],
     [
       "hdd",
@@ -345,5 +345,5 @@
       141
     ]
   ],
-  "sum": 712134
+  "sum": 712456
 }
