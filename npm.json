@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      337097
+      337373
     ],
     [
       "gitbook-plugin-atoc",
-      147440
+      147445
     ],
     [
       "gitbook-plugin-donate",
-      68620
+      68628
     ],
     [
       "waliyun",
-      22033
+      22036
     ],
     [
       "@uua/icons",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6371
+      6373
     ],
     [
       "gitbook-plugin-wordcount",
@@ -46,11 +46,11 @@
     ],
     [
       "koa-api-logger",
-      4099
+      4101
     ],
     [
       "appkey",
-      3962
+      3964
     ],
     [
       "coding-sdk",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2838
+      2839
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2474
+      2475
     ],
     [
       "wqcloud-video",
@@ -94,7 +94,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2102
+      2103
     ],
     [
       "wrescuetime",
@@ -106,7 +106,7 @@
     ],
     [
       "nuxtpress",
-      1972
+      1973
     ],
     [
       "hello-dolly",
@@ -142,7 +142,7 @@
     ],
     [
       "wnm",
-      1326
+      1327
     ],
     [
       "@authing/remix",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1141
+      1142
     ],
     [
       "wechaty-authing",
@@ -182,7 +182,7 @@
     ],
     [
       "beian-domain",
-      961
+      962
     ],
     [
       "@uua/core",
@@ -206,7 +206,7 @@
     ],
     [
       "coding-deploy",
-      881
+      882
     ],
     [
       "awth",
@@ -242,7 +242,7 @@
     ],
     [
       "rxdis",
-      726
+      727
     ],
     [
       "vuepress-theme-asshole",
@@ -266,7 +266,7 @@
     ],
     [
       "@authing/nextjs",
-      528
+      529
     ],
     [
       "edd",
@@ -302,7 +302,7 @@
     ],
     [
       "whiteq",
-      387
+      389
     ],
     [
       "@x12/mongodb",
@@ -318,7 +318,7 @@
     ],
     [
       "random-target",
-      315
+      316
     ],
     [
       "ggql",
@@ -338,12 +338,12 @@
     ],
     [
       "remix-sanity",
-      221
+      223
     ],
     [
       "passport-authing",
       141
     ]
   ],
-  "sum": 712456
+  "sum": 712769
 }
