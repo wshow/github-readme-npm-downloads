@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      337719
+      338032
     ],
     [
       "gitbook-plugin-atoc",
-      147450
+      147455
     ],
     [
       "gitbook-plugin-donate",
-      68630
+      68634
     ],
     [
       "waliyun",
-      22039
+      22040
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      6997
+      6998
     ],
     [
       "koa-swagger-ui",
@@ -46,11 +46,11 @@
     ],
     [
       "koa-api-logger",
-      4101
+      4103
     ],
     [
       "appkey",
-      3966
+      3970
     ],
     [
       "coding-sdk",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2475
+      2477
     ],
     [
       "wqcloud-video",
@@ -106,11 +106,11 @@
     ],
     [
       "nuxtpress",
-      1973
+      1975
     ],
     [
       "hello-dolly",
-      1940
+      1941
     ],
     [
       "gitbook-plugin-theme-material",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1459
+      1460
     ],
     [
       "@x12/hosts",
@@ -146,11 +146,11 @@
     ],
     [
       "@authing/remix",
-      1318
+      1320
     ],
     [
       "@xibang/node-common",
-      1153
+      1156
     ],
     [
       "mp-sdk",
@@ -218,7 +218,7 @@
     ],
     [
       "pipefn",
-      829
+      830
     ],
     [
       "uua",
@@ -254,7 +254,7 @@
     ],
     [
       "@uua/ip2c",
-      627
+      628
     ],
     [
       "@dwing/koa-joi-router",
@@ -286,7 +286,7 @@
     ],
     [
       "fetch-pro",
-      476
+      477
     ],
     [
       "willin",
@@ -334,7 +334,7 @@
     ],
     [
       "@x12/rx-pool",
-      259
+      260
     ],
     [
       "remix-sanity",
@@ -345,5 +345,5 @@
       141
     ]
   ],
-  "sum": 713138
+  "sum": 713483
 }
