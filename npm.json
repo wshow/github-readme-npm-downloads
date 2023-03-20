@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      339609
+      339798
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      68705
+      68709
     ],
     [
       "waliyun",
-      22098
+      22101
     ],
     [
       "@uua/icons",
@@ -22,15 +22,15 @@
     ],
     [
       "leader.js.cool",
-      7014
+      7015
     ],
     [
       "yunpian-sdk",
-      7002
+      7015
     ],
     [
       "koa-swagger-ui",
-      6381
+      6383
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,15 +38,15 @@
     ],
     [
       "wqcloud",
-      5494
+      5495
     ],
     [
       "v0",
-      5030
+      5031
     ],
     [
       "koa-api-logger",
-      4110
+      4112
     ],
     [
       "appkey",
@@ -54,11 +54,11 @@
     ],
     [
       "coding-sdk",
-      3862
+      3872
     ],
     [
       "mock-redis",
-      3718
+      3719
     ],
     [
       "wtoys",
@@ -66,11 +66,11 @@
     ],
     [
       "tuling",
-      3144
+      3146
     ],
     [
       "eslint-config-willin",
-      2847
+      2849
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2492
+      2495
     ],
     [
       "wqcloud-video",
@@ -98,7 +98,7 @@
     ],
     [
       "wrescuetime",
-      2079
+      2080
     ],
     [
       "atl",
@@ -106,7 +106,7 @@
     ],
     [
       "nuxtpress",
-      1979
+      1980
     ],
     [
       "hello-dolly",
@@ -114,11 +114,11 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1897
+      1898
     ],
     [
       "coding-net",
-      1758
+      1762
     ],
     [
       "wno",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1463
+      1464
     ],
     [
       "@x12/hosts",
@@ -154,11 +154,11 @@
     ],
     [
       "mp-sdk",
-      1143
+      1144
     ],
     [
       "wechaty-authing",
-      1107
+      1109
     ],
     [
       "mmonit",
@@ -170,7 +170,7 @@
     ],
     [
       "less.js.cool",
-      1096
+      1097
     ],
     [
       "hyperapp-i18n",
@@ -178,19 +178,19 @@
     ],
     [
       "@shiwangme/redis",
-      974
+      975
     ],
     [
       "@uua/core",
-      963
+      964
     ],
     [
       "beian-domain",
-      962
+      963
     ],
     [
       "remix-i18n",
-      931
+      932
     ],
     [
       "nativescript-icam",
@@ -198,7 +198,7 @@
     ],
     [
       "h1de",
-      890
+      892
     ],
     [
       "@x12/env",
@@ -206,7 +206,7 @@
     ],
     [
       "coding-deploy",
-      884
+      886
     ],
     [
       "awth",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      744
+      746
     ],
     [
       "@willin/eslint-config",
@@ -310,7 +310,7 @@
     ],
     [
       "@x12/promise",
-      355
+      356
     ],
     [
       "afdian",
@@ -318,7 +318,7 @@
     ],
     [
       "random-target",
-      316
+      317
     ],
     [
       "ggql",
@@ -345,5 +345,5 @@
       141
     ]
   ],
-  "sum": 715471
+  "sum": 715729
 }
