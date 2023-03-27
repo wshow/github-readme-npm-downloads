@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      341669
+      341894
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      69183
+      69184
     ],
     [
       "waliyun",
-      22152
+      22155
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "leader.js.cool",
-      7044
+      7046
     ],
     [
       "yunpian-sdk",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5506
+      5507
     ],
     [
       "v0",
-      5039
+      5040
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "appkey",
-      3987
+      3991
     ],
     [
       "coding-sdk",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2854
+      2856
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2517
+      2518
     ],
     [
       "wqcloud-video",
@@ -178,7 +178,7 @@
     ],
     [
       "@shiwangme/redis",
-      979
+      980
     ],
     [
       "@uua/core",
@@ -198,7 +198,7 @@
     ],
     [
       "h1de",
-      894
+      895
     ],
     [
       "@x12/env",
@@ -238,7 +238,7 @@
     ],
     [
       "rxdis",
-      734
+      735
     ],
     [
       "@willin/eslint-config",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      585
+      586
     ],
     [
       "@authing/nextjs",
@@ -278,7 +278,7 @@
     ],
     [
       "hdd",
-      504
+      506
     ],
     [
       "@xibang/redis",
@@ -345,5 +345,5 @@
       142
     ]
   ],
-  "sum": 718589
+  "sum": 718835
 }
