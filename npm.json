@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      341894
+      342202
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      69184
+      69186
     ],
     [
       "waliyun",
-      22155
+      22157
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "leader.js.cool",
-      7046
+      7048
     ],
     [
       "yunpian-sdk",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5507
+      5521
     ],
     [
       "v0",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3388
+      3399
     ],
     [
       "tuling",
@@ -74,15 +74,15 @@
     ],
     [
       "vchart",
-      2565
+      2566
     ],
     [
       "gitbook-plugin-autotheme",
-      2518
+      2519
     ],
     [
       "wqcloud-video",
-      2174
+      2181
     ],
     [
       "auto-deployer",
@@ -94,11 +94,11 @@
     ],
     [
       "hyperapp.js.cool",
-      2114
+      2115
     ],
     [
       "wrescuetime",
-      2083
+      2090
     ],
     [
       "atl",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1545
+      1547
     ],
     [
       "v0-scf",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1335
+      1340
     ],
     [
       "@xibang/node-common",
@@ -174,11 +174,11 @@
     ],
     [
       "hyperapp-i18n",
-      1087
+      1088
     ],
     [
       "@shiwangme/redis",
-      980
+      981
     ],
     [
       "@uua/core",
@@ -206,7 +206,7 @@
     ],
     [
       "coding-deploy",
-      887
+      888
     ],
     [
       "awth",
@@ -230,7 +230,7 @@
     ],
     [
       "wulian",
-      761
+      762
     ],
     [
       "z-curve",
@@ -246,7 +246,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      692
+      693
     ],
     [
       "leancloud-sdk",
@@ -294,7 +294,7 @@
     ],
     [
       "@xibang/mysql",
-      465
+      466
     ],
     [
       "@x12/common",
@@ -330,7 +330,7 @@
     ],
     [
       "npm-badges",
-      275
+      276
     ],
     [
       "@x12/rx-pool",
@@ -345,5 +345,5 @@
       142
     ]
   ],
-  "sum": 718835
+  "sum": 719205
 }
