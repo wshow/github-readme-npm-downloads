@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      342202
+      342464
     ],
     [
       "gitbook-plugin-atoc",
-      147512
+      147513
     ],
     [
       "gitbook-plugin-donate",
-      69186
+      69188
     ],
     [
       "waliyun",
-      22157
+      22163
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "leader.js.cool",
-      7048
+      7049
     ],
     [
       "yunpian-sdk",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5040
+      5041
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "appkey",
-      3991
+      3993
     ],
     [
       "coding-sdk",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3399
+      3400
     ],
     [
       "tuling",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2856
+      2858
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2519
+      2521
     ],
     [
       "wqcloud-video",
@@ -102,7 +102,7 @@
     ],
     [
       "atl",
-      1985
+      1986
     ],
     [
       "nuxtpress",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1158
+      1160
     ],
     [
       "mp-sdk",
@@ -162,15 +162,15 @@
     ],
     [
       "lslint",
-      1103
+      1104
+    ],
+    [
+      "less.js.cool",
+      1102
     ],
     [
       "mmonit",
       1102
-    ],
-    [
-      "less.js.cool",
-      1101
     ],
     [
       "hyperapp-i18n",
@@ -186,7 +186,7 @@
     ],
     [
       "beian-domain",
-      964
+      965
     ],
     [
       "remix-i18n",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      586
+      587
     ],
     [
       "@authing/nextjs",
@@ -282,7 +282,7 @@
     ],
     [
       "@xibang/redis",
-      500
+      501
     ],
     [
       "fetch-pro",
@@ -294,7 +294,7 @@
     ],
     [
       "@xibang/mysql",
-      466
+      468
     ],
     [
       "@x12/common",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      340
+      341
     ],
     [
       "random-target",
@@ -345,5 +345,5 @@
       142
     ]
   ],
-  "sum": 719205
+  "sum": 719496
 }
