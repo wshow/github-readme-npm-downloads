@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      342464
+      342716
     ],
     [
       "gitbook-plugin-atoc",
-      147513
+      147516
     ],
     [
       "gitbook-plugin-donate",
-      69188
+      69190
     ],
     [
       "waliyun",
-      22163
+      22168
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "leader.js.cool",
-      7049
+      7050
     ],
     [
       "yunpian-sdk",
@@ -34,15 +34,15 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5896
+      5899
     ],
     [
       "wqcloud",
-      5521
+      5522
     ],
     [
       "v0",
-      5041
+      5043
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3727
+      3736
     ],
     [
       "wtoys",
@@ -70,15 +70,15 @@
     ],
     [
       "eslint-config-willin",
-      2858
+      2860
     ],
     [
       "vchart",
-      2566
+      2567
     ],
     [
       "gitbook-plugin-autotheme",
-      2521
+      2524
     ],
     [
       "wqcloud-video",
@@ -98,7 +98,7 @@
     ],
     [
       "wrescuetime",
-      2090
+      2091
     ],
     [
       "atl",
@@ -137,12 +137,12 @@
       1424
     ],
     [
-      "@x12/tasker",
-      1361
+      "@authing/remix",
+      1373
     ],
     [
-      "@authing/remix",
-      1360
+      "@x12/tasker",
+      1361
     ],
     [
       "wnm",
@@ -238,7 +238,7 @@
     ],
     [
       "rxdis",
-      735
+      736
     ],
     [
       "@willin/eslint-config",
@@ -258,15 +258,15 @@
     ],
     [
       "@dwing/koa-joi-router",
-      614
+      615
     ],
     [
       "sdk0",
-      587
+      588
     ],
     [
       "@authing/nextjs",
-      546
+      550
     ],
     [
       "edd",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      507
+      509
     ],
     [
       "hdd",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      341
+      342
     ],
     [
       "random-target",
@@ -342,8 +342,8 @@
     ],
     [
       "passport-authing",
-      142
+      143
     ]
   ],
-  "sum": 719496
+  "sum": 719805
 }
