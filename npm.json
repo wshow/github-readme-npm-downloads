@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      343301
+      343546
     ],
     [
       "gitbook-plugin-atoc",
-      147521
+      147522
     ],
     [
       "gitbook-plugin-donate",
-      69203
+      69209
     ],
     [
       "waliyun",
-      22173
+      22204
     ],
     [
       "@uua/icons",
-      7585
+      7586
     ],
     [
       "leader.js.cool",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      7028
+      7043
     ],
     [
       "koa-swagger-ui",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5523
+      5537
     ],
     [
       "v0",
@@ -66,11 +66,11 @@
     ],
     [
       "tuling",
-      3149
+      3158
     ],
     [
       "eslint-config-willin",
-      2861
+      2862
     ],
     [
       "vchart",
@@ -82,7 +82,7 @@
     ],
     [
       "wqcloud-video",
-      2182
+      2189
     ],
     [
       "auto-deployer",
@@ -98,11 +98,11 @@
     ],
     [
       "wrescuetime",
-      2093
+      2100
     ],
     [
       "nuxtpress",
-      1993
+      1994
     ],
     [
       "atl",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1548
+      1551
     ],
     [
       "v0-scf",
@@ -230,7 +230,7 @@
     ],
     [
       "wulian",
-      763
+      764
     ],
     [
       "z-curve",
@@ -242,7 +242,7 @@
     ],
     [
       "@willin/eslint-config",
-      734
+      735
     ],
     [
       "vuepress-theme-asshole",
@@ -330,7 +330,7 @@
     ],
     [
       "npm-badges",
-      277
+      278
     ],
     [
       "@x12/rx-pool",
@@ -338,12 +338,12 @@
     ],
     [
       "remix-sanity",
-      224
+      225
     ],
     [
       "passport-authing",
       143
     ]
   ],
-  "sum": 720564
+  "sum": 720909
 }
