@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      343798
+      344147
     ],
     [
       "gitbook-plugin-atoc",
-      147522
+      147523
     ],
     [
       "gitbook-plugin-donate",
-      69216
+      69219
     ],
     [
       "waliyun",
-      22206
+      22209
     ],
     [
       "@uua/icons",
-      7586
+      7587
     ],
     [
       "leader.js.cool",
-      7061
+      7062
     ],
     [
       "yunpian-sdk",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5537
+      5538
     ],
     [
       "v0",
-      5046
+      5048
     ],
     [
       "koa-api-logger",
@@ -50,11 +50,11 @@
     ],
     [
       "appkey",
-      3995
+      3996
     ],
     [
       "coding-sdk",
-      3877
+      3878
     ],
     [
       "mock-redis",
@@ -66,19 +66,19 @@
     ],
     [
       "tuling",
-      3159
+      3160
     ],
     [
       "eslint-config-willin",
-      2863
+      2869
     ],
     [
       "vchart",
-      2568
+      2572
     ],
     [
       "gitbook-plugin-autotheme",
-      2525
+      2526
     ],
     [
       "wqcloud-video",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1551
+      1552
     ],
     [
       "v0-scf",
@@ -130,7 +130,7 @@
     ],
     [
       "@x12/hosts",
-      1433
+      1434
     ],
     [
       "@x12/di",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1162
+      1166
     ],
     [
       "mp-sdk",
@@ -162,7 +162,7 @@
     ],
     [
       "mmonit",
-      1107
+      1108
     ],
     [
       "lslint",
@@ -218,7 +218,7 @@
     ],
     [
       "pipefn",
-      833
+      834
     ],
     [
       "uua",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      749
+      750
     ],
     [
       "rxdis",
@@ -266,11 +266,11 @@
     ],
     [
       "@authing/nextjs",
-      553
+      555
     ],
     [
       "edd",
-      524
+      525
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -282,23 +282,23 @@
     ],
     [
       "@xibang/redis",
-      502
+      503
     ],
     [
       "fetch-pro",
       490
     ],
     [
+      "@xibang/mysql",
+      471
+    ],
+    [
       "willin",
       469
     ],
     [
-      "@xibang/mysql",
-      469
-    ],
-    [
       "@x12/common",
-      429
+      431
     ],
     [
       "whiteq",
@@ -345,5 +345,5 @@
       144
     ]
   ],
-  "sum": 721227
+  "sum": 721619
 }
