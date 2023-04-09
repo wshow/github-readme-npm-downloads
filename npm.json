@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      344974
+      345347
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      69237
+      69239
     ],
     [
       "waliyun",
-      22215
+      22216
     ],
     [
       "@uua/icons",
-      7598
+      7603
     ],
     [
       "leader.js.cool",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5902
+      5903
     ],
     [
       "wqcloud",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5050
+      5052
     ],
     [
       "koa-api-logger",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2874
+      2877
     ],
     [
       "vchart",
@@ -86,11 +86,11 @@
     ],
     [
       "auto-deployer",
-      2160
+      2162
     ],
     [
       "hapi-auth-redis",
-      2121
+      2122
     ],
     [
       "hyperapp.js.cool",
@@ -142,7 +142,7 @@
     ],
     [
       "@x12/tasker",
-      1372
+      1373
     ],
     [
       "wnm",
@@ -198,7 +198,7 @@
     ],
     [
       "h1de",
-      901
+      902
     ],
     [
       "@x12/env",
@@ -210,7 +210,7 @@
     ],
     [
       "awth",
-      874
+      875
     ],
     [
       "markdown-toc-gitbook",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      750
+      751
     ],
     [
       "rxdis",
@@ -242,7 +242,7 @@
     ],
     [
       "@willin/eslint-config",
-      736
+      737
     ],
     [
       "vuepress-theme-asshole",
@@ -250,11 +250,11 @@
     ],
     [
       "leancloud-sdk",
-      644
+      645
     ],
     [
       "@uua/ip2c",
-      635
+      636
     ],
     [
       "@dwing/koa-joi-router",
@@ -321,12 +321,12 @@
       320
     ],
     [
-      "@x12/task-types",
+      "ggql",
       284
     ],
     [
-      "ggql",
-      283
+      "@x12/task-types",
+      284
     ],
     [
       "npm-badges",
@@ -345,5 +345,5 @@
       144
     ]
   ],
-  "sum": 722520
+  "sum": 722918
 }
