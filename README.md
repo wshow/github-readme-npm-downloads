@@ -10,12 +10,12 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                         | Downloads  |
 | -------------------------------------------------------------------------------------------- | ---------- |
-| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                               | 345347     |
+| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                               | 345591     |
 | [gitbook-plugin-atoc](https://www.npmjs.com/package/gitbook-plugin-atoc)                     | 147527     |
 | [gitbook-plugin-donate](https://www.npmjs.com/package/gitbook-plugin-donate)                 | 69239      |
-| [waliyun](https://www.npmjs.com/package/waliyun)                                             | 22216      |
+| [waliyun](https://www.npmjs.com/package/waliyun)                                             | 22218      |
 | [@uua/icons](https://www.npmjs.com/package/@uua/icons)                                       | 7603       |
-| [leader.js.cool](https://www.npmjs.com/package/leader.js.cool)                               | 7062       |
+| [leader.js.cool](https://www.npmjs.com/package/leader.js.cool)                               | 7063       |
 | [yunpian-sdk](https://www.npmjs.com/package/yunpian-sdk)                                     | 7045       |
 | [koa-swagger-ui](https://www.npmjs.com/package/koa-swagger-ui)                               | 6427       |
 | [gitbook-plugin-wordcount](https://www.npmjs.com/package/gitbook-plugin-wordcount)           | 5903       |
@@ -56,7 +56,7 @@ All of my npm packages and their downloads
 | [hyperapp-i18n](https://www.npmjs.com/package/hyperapp-i18n)                                 | 1091       |
 | [@shiwangme/redis](https://www.npmjs.com/package/@shiwangme/redis)                           | 982        |
 | [@uua/core](https://www.npmjs.com/package/@uua/core)                                         | 971        |
-| [beian-domain](https://www.npmjs.com/package/beian-domain)                                   | 965        |
+| [beian-domain](https://www.npmjs.com/package/beian-domain)                                   | 966        |
 | [remix-i18n](https://www.npmjs.com/package/remix-i18n)                                       | 935        |
 | [nativescript-icam](https://www.npmjs.com/package/nativescript-icam)                         | 904        |
 | [h1de](https://www.npmjs.com/package/h1de)                                                   | 902        |
@@ -68,8 +68,8 @@ All of my npm packages and their downloads
 | [uua](https://www.npmjs.com/package/uua)                                                     | 828        |
 | [wdouban](https://www.npmjs.com/package/wdouban)                                             | 771        |
 | [wulian](https://www.npmjs.com/package/wulian)                                               | 764        |
-| [z-curve](https://www.npmjs.com/package/z-curve)                                             | 751        |
-| [rxdis](https://www.npmjs.com/package/rxdis)                                                 | 739        |
+| [z-curve](https://www.npmjs.com/package/z-curve)                                             | 752        |
+| [rxdis](https://www.npmjs.com/package/rxdis)                                                 | 740        |
 | [@willin/eslint-config](https://www.npmjs.com/package/@willin/eslint-config)                 | 737        |
 | [vuepress-theme-asshole](https://www.npmjs.com/package/vuepress-theme-asshole)               | 694        |
 | [leancloud-sdk](https://www.npmjs.com/package/leancloud-sdk)                                 | 645        |
@@ -96,5 +96,5 @@ All of my npm packages and their downloads
 | [@x12/rx-pool](https://www.npmjs.com/package/@x12/rx-pool)                                   | 264        |
 | [remix-sanity](https://www.npmjs.com/package/remix-sanity)                                   | 227        |
 | [passport-authing](https://www.npmjs.com/package/passport-authing)                           | 144        |
-| **Sum**                                                                                      | **722918** |
+| **Sum**                                                                                      | **723168** |
 <!-- AUTO-GENERATED-CONTENT:END -->

@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      345347
+      345591
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      22216
+      22218
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "leader.js.cool",
-      7062
+      7063
     ],
     [
       "yunpian-sdk",
@@ -186,7 +186,7 @@
     ],
     [
       "beian-domain",
-      965
+      966
     ],
     [
       "remix-i18n",
@@ -234,11 +234,11 @@
     ],
     [
       "z-curve",
-      751
+      752
     ],
     [
       "rxdis",
-      739
+      740
     ],
     [
       "@willin/eslint-config",
@@ -345,5 +345,5 @@
       144
     ]
   ],
-  "sum": 722918
+  "sum": 723168
 }
