@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      345591
+      345847
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,19 +10,19 @@
     ],
     [
       "gitbook-plugin-donate",
-      69239
+      69245
     ],
     [
       "waliyun",
-      22218
+      22219
     ],
     [
       "@uua/icons",
-      7603
+      7604
     ],
     [
       "leader.js.cool",
-      7063
+      7064
     ],
     [
       "yunpian-sdk",
@@ -50,11 +50,11 @@
     ],
     [
       "appkey",
-      3997
+      3998
     ],
     [
       "coding-sdk",
-      3878
+      3879
     ],
     [
       "mock-redis",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2877
+      2879
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2530
+      2533
     ],
     [
       "wqcloud-video",
@@ -86,11 +86,11 @@
     ],
     [
       "auto-deployer",
-      2162
+      2163
     ],
     [
       "hapi-auth-redis",
-      2122
+      2123
     ],
     [
       "hyperapp.js.cool",
@@ -106,7 +106,7 @@
     ],
     [
       "atl",
-      1987
+      1988
     ],
     [
       "hello-dolly",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1766
+      1767
     ],
     [
       "wno",
@@ -138,7 +138,7 @@
     ],
     [
       "@authing/remix",
-      1373
+      1374
     ],
     [
       "@x12/tasker",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1166
+      1167
     ],
     [
       "mp-sdk",
@@ -158,7 +158,7 @@
     ],
     [
       "wechaty-authing",
-      1115
+      1116
     ],
     [
       "mmonit",
@@ -174,11 +174,11 @@
     ],
     [
       "hyperapp-i18n",
-      1091
+      1092
     ],
     [
       "@shiwangme/redis",
-      982
+      983
     ],
     [
       "@uua/core",
@@ -190,7 +190,7 @@
     ],
     [
       "remix-i18n",
-      935
+      936
     ],
     [
       "nativescript-icam",
@@ -206,11 +206,11 @@
     ],
     [
       "coding-deploy",
-      888
+      889
     ],
     [
       "awth",
-      875
+      876
     ],
     [
       "markdown-toc-gitbook",
@@ -238,7 +238,7 @@
     ],
     [
       "rxdis",
-      740
+      741
     ],
     [
       "@willin/eslint-config",
@@ -258,15 +258,15 @@
     ],
     [
       "@dwing/koa-joi-router",
-      616
+      618
     ],
     [
       "sdk0",
-      591
+      592
     ],
     [
       "@authing/nextjs",
-      556
+      557
     ],
     [
       "edd",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      509
+      510
     ],
     [
       "hdd",
@@ -286,7 +286,7 @@
     ],
     [
       "fetch-pro",
-      491
+      492
     ],
     [
       "@xibang/mysql",
@@ -345,5 +345,5 @@
       144
     ]
   ],
-  "sum": 723168
+  "sum": 723459
 }
