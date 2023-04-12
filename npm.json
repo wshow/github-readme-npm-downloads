@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      345847
+      346215
     ],
     [
       "gitbook-plugin-atoc",
-      147527
+      147528
     ],
     [
       "gitbook-plugin-donate",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      22219
+      22224
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      7045
+      7046
     ],
     [
       "koa-swagger-ui",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5539
+      5540
     ],
     [
       "v0",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2879
+      2882
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2533
+      2539
     ],
     [
       "wqcloud-video",
@@ -94,7 +94,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2121
+      2122
     ],
     [
       "wrescuetime",
@@ -198,7 +198,7 @@
     ],
     [
       "h1de",
-      902
+      903
     ],
     [
       "@x12/env",
@@ -254,7 +254,7 @@
     ],
     [
       "@uua/ip2c",
-      636
+      637
     ],
     [
       "@dwing/koa-joi-router",
@@ -266,7 +266,7 @@
     ],
     [
       "@authing/nextjs",
-      557
+      558
     ],
     [
       "edd",
@@ -345,5 +345,5 @@
       144
     ]
   ],
-  "sum": 723459
+  "sum": 723848
 }
