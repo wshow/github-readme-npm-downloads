@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      346754
+      346980
     ],
     [
       "gitbook-plugin-atoc",
-      147531
+      147532
     ],
     [
       "gitbook-plugin-donate",
-      69255
+      69257
     ],
     [
       "waliyun",
-      22231
+      22233
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "leader.js.cool",
-      7075
+      7076
     ],
     [
       "yunpian-sdk",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5540
+      5541
     ],
     [
       "v0",
-      5052
+      5053
     ],
     [
       "koa-api-logger",
@@ -54,7 +54,7 @@
     ],
     [
       "coding-sdk",
-      3889
+      3890
     ],
     [
       "mock-redis",
@@ -70,15 +70,15 @@
     ],
     [
       "eslint-config-willin",
-      2884
+      2886
     ],
     [
       "vchart",
-      2580
+      2582
     ],
     [
       "gitbook-plugin-autotheme",
-      2542
+      2544
     ],
     [
       "wqcloud-video",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1767
+      1768
     ],
     [
       "wno",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1467
+      1468
     ],
     [
       "@x12/hosts",
@@ -138,7 +138,7 @@
     ],
     [
       "@authing/remix",
-      1374
+      1387
     ],
     [
       "@x12/tasker",
@@ -162,7 +162,7 @@
     ],
     [
       "mmonit",
-      1108
+      1109
     ],
     [
       "lslint",
@@ -206,7 +206,7 @@
     ],
     [
       "coding-deploy",
-      889
+      890
     ],
     [
       "awth",
@@ -222,7 +222,7 @@
     ],
     [
       "uua",
-      828
+      829
     ],
     [
       "wdouban",
@@ -246,7 +246,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      694
+      695
     ],
     [
       "leancloud-sdk",
@@ -266,7 +266,7 @@
     ],
     [
       "@authing/nextjs",
-      564
+      569
     ],
     [
       "edd",
@@ -330,7 +330,7 @@
     ],
     [
       "npm-badges",
-      278
+      279
     ],
     [
       "@x12/rx-pool",
@@ -345,5 +345,5 @@
       145
     ]
   ],
-  "sum": 724530
+  "sum": 724796
 }
