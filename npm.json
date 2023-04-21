@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      348404
+      348707
     ],
     [
       "gitbook-plugin-atoc",
-      147560
+      147565
     ],
     [
       "gitbook-plugin-donate",
-      69267
+      69275
     ],
     [
       "waliyun",
-      22288
+      22320
     ],
     [
       "@uua/icons",
@@ -22,15 +22,15 @@
     ],
     [
       "leader.js.cool",
-      7081
+      7082
     ],
     [
       "yunpian-sdk",
-      7068
+      7069
     ],
     [
       "koa-swagger-ui",
-      6454
+      6457
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,15 +38,15 @@
     ],
     [
       "wqcloud",
-      5562
+      5563
     ],
     [
       "v0",
-      5076
+      5078
     ],
     [
       "koa-api-logger",
-      4189
+      4193
     ],
     [
       "appkey",
@@ -58,19 +58,19 @@
     ],
     [
       "mock-redis",
-      3757
+      3759
     ],
     [
       "wtoys",
-      3415
+      3417
     ],
     [
       "tuling",
-      3171
+      3172
     ],
     [
       "eslint-config-willin",
-      2913
+      2915
     ],
     [
       "vchart",
@@ -78,11 +78,11 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2558
+      2564
     ],
     [
       "wqcloud-video",
-      2199
+      2200
     ],
     [
       "auto-deployer",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2009
+      2010
     ],
     [
       "atl",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1914
+      1915
     ],
     [
       "coding-net",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1478
+      1480
     ],
     [
       "@x12/hosts",
@@ -146,11 +146,11 @@
     ],
     [
       "wnm",
-      1352
+      1353
     ],
     [
       "@xibang/node-common",
-      1174
+      1176
     ],
     [
       "mp-sdk",
@@ -162,7 +162,7 @@
     ],
     [
       "mmonit",
-      1114
+      1115
     ],
     [
       "lslint",
@@ -178,7 +178,7 @@
     ],
     [
       "@shiwangme/redis",
-      992
+      994
     ],
     [
       "@uua/core",
@@ -190,11 +190,11 @@
     ],
     [
       "remix-i18n",
-      942
+      943
     ],
     [
       "h1de",
-      910
+      912
     ],
     [
       "nativescript-icam",
@@ -246,11 +246,11 @@
     ],
     [
       "vuepress-theme-asshole",
-      699
+      700
     ],
     [
       "leancloud-sdk",
-      648
+      649
     ],
     [
       "@uua/ip2c",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      595
+      597
     ],
     [
       "@authing/nextjs",
@@ -278,7 +278,7 @@
     ],
     [
       "hdd",
-      510
+      511
     ],
     [
       "@xibang/redis",
@@ -286,7 +286,7 @@
     ],
     [
       "fetch-pro",
-      499
+      500
     ],
     [
       "@xibang/mysql",
@@ -302,7 +302,7 @@
     ],
     [
       "whiteq",
-      404
+      405
     ],
     [
       "@x12/mongodb",
@@ -345,5 +345,5 @@
       145
     ]
   ],
-  "sum": 726833
+  "sum": 727227
 }
