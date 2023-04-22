@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      348707
+      349049
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      69275
+      69276
     ],
     [
       "waliyun",
-      22320
+      22325
     ],
     [
       "@uua/icons",
-      7609
+      7610
     ],
     [
       "leader.js.cool",
@@ -50,7 +50,7 @@
     ],
     [
       "appkey",
-      4006
+      4007
     ],
     [
       "coding-sdk",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2915
+      2916
     ],
     [
       "vchart",
@@ -90,7 +90,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2134
+      2136
     ],
     [
       "hapi-auth-redis",
@@ -98,11 +98,11 @@
     ],
     [
       "wrescuetime",
-      2109
+      2110
     ],
     [
       "nuxtpress",
-      2010
+      2011
     ],
     [
       "atl",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1480
+      1481
     ],
     [
       "@x12/hosts",
@@ -174,7 +174,7 @@
     ],
     [
       "hyperapp-i18n",
-      1096
+      1097
     ],
     [
       "@shiwangme/redis",
@@ -182,7 +182,7 @@
     ],
     [
       "@uua/core",
-      981
+      982
     ],
     [
       "beian-domain",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      912
+      913
     ],
     [
       "nativescript-icam",
@@ -242,7 +242,7 @@
     ],
     [
       "@willin/eslint-config",
-      746
+      747
     ],
     [
       "vuepress-theme-asshole",
@@ -270,7 +270,7 @@
     ],
     [
       "edd",
-      529
+      530
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -345,5 +345,5 @@
       145
     ]
   ],
-  "sum": 727227
+  "sum": 727588
 }
