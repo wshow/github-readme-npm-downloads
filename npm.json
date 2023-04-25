@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      349529
+      349778
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      69284
+      69286
     ],
     [
       "waliyun",
-      22329
+      22332
     ],
     [
       "@uua/icons",
-      7611
+      7615
     ],
     [
       "leader.js.cool",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5565
+      5566
     ],
     [
       "v0",
@@ -66,11 +66,11 @@
     ],
     [
       "tuling",
-      3172
+      3174
     ],
     [
       "eslint-config-willin",
-      2920
+      2921
     ],
     [
       "vchart",
@@ -90,7 +90,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2136
+      2140
     ],
     [
       "hapi-auth-redis",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1557
+      1558
     ],
     [
       "v0-scf",
@@ -142,7 +142,7 @@
     ],
     [
       "@x12/tasker",
-      1382
+      1383
     ],
     [
       "wnm",
@@ -166,7 +166,7 @@
     ],
     [
       "lslint",
-      1113
+      1114
     ],
     [
       "less.js.cool",
@@ -182,7 +182,7 @@
     ],
     [
       "@uua/core",
-      983
+      985
     ],
     [
       "beian-domain",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      913
+      914
     ],
     [
       "nativescript-icam",
@@ -242,7 +242,7 @@
     ],
     [
       "@willin/eslint-config",
-      747
+      748
     ],
     [
       "vuepress-theme-asshole",
@@ -250,7 +250,7 @@
     ],
     [
       "leancloud-sdk",
-      649
+      650
     ],
     [
       "@uua/ip2c",
@@ -286,7 +286,7 @@
     ],
     [
       "fetch-pro",
-      500
+      501
     ],
     [
       "@xibang/mysql",
@@ -345,5 +345,5 @@
       145
     ]
   ],
-  "sum": 728117
+  "sum": 728392
 }
