@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      349778
+      350017
     ],
     [
       "gitbook-plugin-atoc",
-      147573
+      147576
     ],
     [
       "gitbook-plugin-donate",
-      69286
+      69288
     ],
     [
       "waliyun",
-      22332
+      22338
     ],
     [
       "@uua/icons",
-      7615
+      7616
     ],
     [
       "leader.js.cool",
@@ -26,11 +26,11 @@
     ],
     [
       "yunpian-sdk",
-      7071
+      7072
     ],
     [
       "koa-swagger-ui",
-      6459
+      6460
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5079
+      5080
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "appkey",
-      4007
+      4008
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3759
+      3764
     ],
     [
       "wtoys",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      2921
+      2924
     ],
     [
       "vchart",
-      2589
+      2591
     ],
     [
       "gitbook-plugin-autotheme",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2011
+      2012
     ],
     [
       "atl",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1558
+      1559
     ],
     [
       "v0-scf",
@@ -138,7 +138,7 @@
     ],
     [
       "@authing/remix",
-      1400
+      1401
     ],
     [
       "@x12/tasker",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1163
+      1164
     ],
     [
       "wechaty-authing",
@@ -166,7 +166,7 @@
     ],
     [
       "lslint",
-      1114
+      1115
     ],
     [
       "less.js.cool",
@@ -238,7 +238,7 @@
     ],
     [
       "rxdis",
-      751
+      752
     ],
     [
       "@willin/eslint-config",
@@ -258,11 +258,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      621
+      622
     ],
     [
       "sdk0",
-      598
+      599
     ],
     [
       "@authing/nextjs",
@@ -345,5 +345,5 @@
       145
     ]
   ],
-  "sum": 728392
+  "sum": 728665
 }
