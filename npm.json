@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      350477
+      350720
     ],
     [
       "gitbook-plugin-atoc",
-      147601
+      147606
     ],
     [
       "gitbook-plugin-donate",
-      69330
+      69335
     ],
     [
       "waliyun",
-      22348
+      22389
     ],
     [
       "@uua/icons",
-      7620
+      7621
     ],
     [
       "leader.js.cool",
-      7083
+      7084
     ],
     [
       "yunpian-sdk",
@@ -30,11 +30,11 @@
     ],
     [
       "koa-swagger-ui",
-      6462
+      6463
     ],
     [
       "gitbook-plugin-wordcount",
-      5906
+      5907
     ],
     [
       "wqcloud",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5085
+      5086
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3765
+      3766
     ],
     [
       "wtoys",
@@ -70,15 +70,15 @@
     ],
     [
       "eslint-config-willin",
-      2933
+      2943
     ],
     [
       "vchart",
-      2592
+      2594
     ],
     [
       "gitbook-plugin-autotheme",
-      2565
+      2567
     ],
     [
       "wqcloud-video",
@@ -90,7 +90,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2140
+      2144
     ],
     [
       "hapi-auth-redis",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1915
+      1916
     ],
     [
       "coding-net",
@@ -138,7 +138,7 @@
     ],
     [
       "@authing/remix",
-      1401
+      1402
     ],
     [
       "@x12/tasker",
@@ -162,7 +162,7 @@
     ],
     [
       "mmonit",
-      1116
+      1117
     ],
     [
       "lslint",
@@ -238,7 +238,7 @@
     ],
     [
       "rxdis",
-      752
+      753
     ],
     [
       "@willin/eslint-config",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      622
+      623
     ],
     [
       "sdk0",
@@ -266,7 +266,7 @@
     ],
     [
       "@authing/nextjs",
-      577
+      578
     ],
     [
       "edd",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      512
+      513
     ],
     [
       "hdd",
@@ -322,7 +322,7 @@
     ],
     [
       "ggql",
-      288
+      289
     ],
     [
       "@x12/task-types",
@@ -342,8 +342,8 @@
     ],
     [
       "passport-authing",
-      145
+      146
     ]
   ],
-  "sum": 729277
+  "sum": 729604
 }
