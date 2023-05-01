@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      350946
+      351167
     ],
     [
       "gitbook-plugin-atoc",
-      147612
+      147613
     ],
     [
       "gitbook-plugin-donate",
-      69336
+      69337
     ],
     [
       "waliyun",
-      22428
+      22430
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      7073
+      7074
     ],
     [
       "koa-swagger-ui",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5569
+      5570
     ],
     [
       "v0",
-      5101
+      5102
     ],
     [
       "koa-api-logger",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      2944
+      2945
     ],
     [
       "vchart",
-      2595
+      2596
     ],
     [
       "gitbook-plugin-autotheme",
@@ -90,7 +90,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2147
+      2149
     ],
     [
       "hapi-auth-redis",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1481
+      1482
     ],
     [
       "@x12/hosts",
@@ -138,7 +138,7 @@
     ],
     [
       "@authing/remix",
-      1402
+      1403
     ],
     [
       "@x12/tasker",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1164
+      1165
     ],
     [
       "wechaty-authing",
@@ -238,11 +238,11 @@
     ],
     [
       "rxdis",
-      753
+      754
     ],
     [
       "@willin/eslint-config",
-      749
+      750
     ],
     [
       "vuepress-theme-asshole",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      513
+      514
     ],
     [
       "hdd",
@@ -318,11 +318,11 @@
     ],
     [
       "random-target",
-      327
+      328
     ],
     [
       "ggql",
-      289
+      290
     ],
     [
       "@x12/task-types",
@@ -338,12 +338,12 @@
     ],
     [
       "remix-sanity",
-      228
+      229
     ],
     [
       "passport-authing",
       147
     ]
   ],
-  "sum": 729918
+  "sum": 730159
 }
