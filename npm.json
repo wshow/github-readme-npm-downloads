@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      352446
+      352664
     ],
     [
       "gitbook-plugin-atoc",
-      147629
+      147631
     ],
     [
       "gitbook-plugin-donate",
-      69370
+      69372
     ],
     [
       "waliyun",
-      22485
+      22495
     ],
     [
       "@uua/icons",
@@ -22,15 +22,15 @@
     ],
     [
       "leader.js.cool",
-      7096
+      7098
     ],
     [
       "yunpian-sdk",
-      7079
+      7081
     ],
     [
       "koa-swagger-ui",
-      6476
+      6477
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,11 +42,11 @@
     ],
     [
       "v0",
-      5114
+      5116
     ],
     [
       "koa-api-logger",
-      4207
+      4208
     ],
     [
       "appkey",
@@ -58,19 +58,19 @@
     ],
     [
       "mock-redis",
-      3769
+      3770
     ],
     [
       "wtoys",
-      3424
+      3426
     ],
     [
       "tuling",
-      3177
+      3178
     ],
     [
       "eslint-config-willin",
-      2959
+      2961
     ],
     [
       "vchart",
@@ -90,11 +90,11 @@
     ],
     [
       "hyperapp.js.cool",
-      2156
+      2157
     ],
     [
       "hapi-auth-redis",
-      2133
+      2134
     ],
     [
       "wrescuetime",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2018
+      2019
     ],
     [
       "atl",
@@ -110,11 +110,11 @@
     ],
     [
       "hello-dolly",
-      1958
+      1959
     ],
     [
       "gitbook-plugin-theme-material",
-      1918
+      1919
     ],
     [
       "coding-net",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1487
+      1489
     ],
     [
       "@x12/hosts",
@@ -138,7 +138,7 @@
     ],
     [
       "@authing/remix",
-      1403
+      1404
     ],
     [
       "@x12/tasker",
@@ -170,7 +170,7 @@
     ],
     [
       "less.js.cool",
-      1109
+      1110
     ],
     [
       "hyperapp-i18n",
@@ -190,7 +190,7 @@
     ],
     [
       "remix-i18n",
-      951
+      955
     ],
     [
       "h1de",
@@ -222,7 +222,7 @@
     ],
     [
       "pipefn",
-      839
+      840
     ],
     [
       "wdouban",
@@ -233,11 +233,11 @@
       767
     ],
     [
-      "rxdis",
-      759
+      "z-curve",
+      760
     ],
     [
-      "z-curve",
+      "rxdis",
       759
     ],
     [
@@ -278,7 +278,7 @@
     ],
     [
       "hdd",
-      512
+      513
     ],
     [
       "@xibang/redis",
@@ -286,7 +286,7 @@
     ],
     [
       "fetch-pro",
-      505
+      506
     ],
     [
       "@xibang/mysql",
@@ -338,12 +338,12 @@
     ],
     [
       "remix-sanity",
-      231
+      232
     ],
     [
       "passport-authing",
       149
     ]
   ],
-  "sum": 731805
+  "sum": 732069
 }
