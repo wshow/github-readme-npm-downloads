@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      353125
+      353333
     ],
     [
       "gitbook-plugin-atoc",
-      147639
+      147644
     ],
     [
       "gitbook-plugin-donate",
-      69382
+      69384
     ],
     [
       "waliyun",
-      22507
+      22508
     ],
     [
       "@uua/icons",
@@ -22,15 +22,15 @@
     ],
     [
       "leader.js.cool",
-      7099
+      7100
     ],
     [
       "yunpian-sdk",
-      7085
+      7086
     ],
     [
       "koa-swagger-ui",
-      6485
+      6488
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,11 +42,11 @@
     ],
     [
       "v0",
-      5121
+      5122
     ],
     [
       "koa-api-logger",
-      4211
+      4215
     ],
     [
       "appkey",
@@ -58,23 +58,23 @@
     ],
     [
       "mock-redis",
-      3770
+      3771
     ],
     [
       "wtoys",
-      3427
+      3428
     ],
     [
       "tuling",
-      3180
+      3181
     ],
     [
       "eslint-config-willin",
-      2966
+      2967
     ],
     [
       "vchart",
-      2605
+      2606
     ],
     [
       "gitbook-plugin-autotheme",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1357
+      1358
     ],
     [
       "@xibang/node-common",
@@ -154,11 +154,11 @@
     ],
     [
       "mp-sdk",
-      1170
+      1171
     ],
     [
       "wechaty-authing",
-      1162
+      1163
     ],
     [
       "mmonit",
@@ -170,7 +170,7 @@
     ],
     [
       "less.js.cool",
-      1111
+      1112
     ],
     [
       "hyperapp-i18n",
@@ -190,11 +190,11 @@
     ],
     [
       "remix-i18n",
-      959
+      960
     ],
     [
       "h1de",
-      922
+      923
     ],
     [
       "nativescript-icam",
@@ -214,11 +214,11 @@
     ],
     [
       "markdown-toc-gitbook",
-      868
+      869
     ],
     [
       "uua",
-      845
+      846
     ],
     [
       "pipefn",
@@ -226,7 +226,7 @@
     ],
     [
       "wdouban",
-      780
+      781
     ],
     [
       "wulian",
@@ -234,11 +234,11 @@
     ],
     [
       "z-curve",
-      760
+      762
     ],
     [
       "rxdis",
-      759
+      761
     ],
     [
       "@willin/eslint-config",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      605
+      606
     ],
     [
       "@authing/nextjs",
@@ -270,7 +270,7 @@
     ],
     [
       "edd",
-      531
+      532
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -345,5 +345,5 @@
       149
     ]
   ],
-  "sum": 732644
+  "sum": 732890
 }
