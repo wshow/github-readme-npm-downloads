@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      353623
+      353953
     ],
     [
       "gitbook-plugin-atoc",
-      147647
+      147652
     ],
     [
       "gitbook-plugin-donate",
@@ -14,15 +14,15 @@
     ],
     [
       "waliyun",
-      22513
+      22514
     ],
     [
       "@uua/icons",
-      7642
+      7643
     ],
     [
       "leader.js.cool",
-      7102
+      7103
     ],
     [
       "yunpian-sdk",
@@ -46,7 +46,7 @@
     ],
     [
       "koa-api-logger",
-      4215
+      4216
     ],
     [
       "appkey",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      2969
+      2971
     ],
     [
       "vchart",
-      2607
+      2608
     ],
     [
       "gitbook-plugin-autotheme",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1492
+      1493
     ],
     [
       "@x12/hosts",
@@ -166,7 +166,7 @@
     ],
     [
       "lslint",
-      1119
+      1120
     ],
     [
       "less.js.cool",
@@ -178,11 +178,11 @@
     ],
     [
       "@shiwangme/redis",
-      1000
+      1001
     ],
     [
       "@uua/core",
-      987
+      988
     ],
     [
       "beian-domain",
@@ -233,16 +233,16 @@
       768
     ],
     [
+      "rxdis",
+      762
+    ],
+    [
       "z-curve",
       762
     ],
     [
-      "rxdis",
-      761
-    ],
-    [
       "@willin/eslint-config",
-      755
+      756
     ],
     [
       "vuepress-theme-asshole",
@@ -254,7 +254,7 @@
     ],
     [
       "@uua/ip2c",
-      648
+      649
     ],
     [
       "@dwing/koa-joi-router",
@@ -266,7 +266,7 @@
     ],
     [
       "@authing/nextjs",
-      582
+      584
     ],
     [
       "edd",
@@ -286,7 +286,7 @@
     ],
     [
       "fetch-pro",
-      508
+      509
     ],
     [
       "@xibang/mysql",
@@ -345,5 +345,5 @@
       149
     ]
   ],
-  "sum": 733213
+  "sum": 733565
 }
