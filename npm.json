@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      353953
+      354150
     ],
     [
       "gitbook-plugin-atoc",
-      147652
+      147653
     ],
     [
       "gitbook-plugin-donate",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      22514
+      22515
     ],
     [
       "@uua/icons",
@@ -22,11 +22,11 @@
     ],
     [
       "leader.js.cool",
-      7103
+      7105
     ],
     [
       "yunpian-sdk",
-      7086
+      7087
     ],
     [
       "koa-swagger-ui",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5584
+      5585
     ],
     [
       "v0",
-      5122
+      5123
     ],
     [
       "koa-api-logger",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3428
+      3429
     ],
     [
       "tuling",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2971
+      2972
     ],
     [
       "vchart",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2021
+      2022
     ],
     [
       "atl",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1775
+      1776
     ],
     [
       "wno",
@@ -182,11 +182,11 @@
     ],
     [
       "@uua/core",
-      988
+      989
     ],
     [
       "beian-domain",
-      971
+      972
     ],
     [
       "remix-i18n",
@@ -198,14 +198,14 @@
     ],
     [
       "nativescript-icam",
-      909
-    ],
-    [
-      "coding-deploy",
-      896
+      910
     ],
     [
       "@x12/env",
+      897
+    ],
+    [
+      "coding-deploy",
       896
     ],
     [
@@ -322,7 +322,7 @@
     ],
     [
       "ggql",
-      291
+      292
     ],
     [
       "@x12/task-types",
@@ -345,5 +345,5 @@
       149
     ]
   ],
-  "sum": 733565
+  "sum": 733778
 }
