@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      354150
+      354355
     ],
     [
       "gitbook-plugin-atoc",
-      147653
+      147668
     ],
     [
       "gitbook-plugin-donate",
-      69385
+      69387
     ],
     [
       "waliyun",
-      22515
+      22517
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      7087
+      7088
     ],
     [
       "koa-swagger-ui",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5909
+      5910
     ],
     [
       "wqcloud",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5123
+      5126
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3771
+      3774
     ],
     [
       "wtoys",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2972
+      2975
     ],
     [
       "vchart",
@@ -90,7 +90,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2159
+      2160
     ],
     [
       "hapi-auth-redis",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2022
+      2023
     ],
     [
       "atl",
@@ -110,7 +110,7 @@
     ],
     [
       "hello-dolly",
-      1961
+      1962
     ],
     [
       "gitbook-plugin-theme-material",
@@ -190,11 +190,11 @@
     ],
     [
       "remix-i18n",
-      960
+      966
     ],
     [
       "h1de",
-      923
+      924
     ],
     [
       "nativescript-icam",
@@ -278,14 +278,14 @@
     ],
     [
       "hdd",
-      513
-    ],
-    [
-      "@xibang/redis",
-      509
+      514
     ],
     [
       "fetch-pro",
+      510
+    ],
+    [
+      "@xibang/redis",
       509
     ],
     [
@@ -345,5 +345,5 @@
       149
     ]
   ],
-  "sum": 733778
+  "sum": 734025
 }
