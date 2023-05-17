@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      354355
+      354509
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      22517
+      22520
     ],
     [
       "@uua/icons",
-      7643
+      7644
     ],
     [
       "leader.js.cool",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2975
+      2976
     ],
     [
       "vchart",
@@ -90,7 +90,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2160
+      2162
     ],
     [
       "hapi-auth-redis",
@@ -166,7 +166,7 @@
     ],
     [
       "lslint",
-      1120
+      1121
     ],
     [
       "less.js.cool",
@@ -174,7 +174,7 @@
     ],
     [
       "hyperapp-i18n",
-      1102
+      1103
     ],
     [
       "@shiwangme/redis",
@@ -190,11 +190,11 @@
     ],
     [
       "remix-i18n",
-      966
+      968
     ],
     [
       "h1de",
-      924
+      925
     ],
     [
       "nativescript-icam",
@@ -345,5 +345,5 @@
       149
     ]
   ],
-  "sum": 734025
+  "sum": 734191
 }
