@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      354509
+      354741
     ],
     [
       "gitbook-plugin-atoc",
-      147668
+      147671
     ],
     [
       "gitbook-plugin-donate",
-      69387
+      69390
     ],
     [
       "waliyun",
-      22520
+      22522
     ],
     [
       "@uua/icons",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5585
+      5586
     ],
     [
       "v0",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2976
+      2977
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2573
+      2574
     ],
     [
       "wqcloud-video",
@@ -90,7 +90,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2162
+      2163
     ],
     [
       "hapi-auth-redis",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1184
+      1185
     ],
     [
       "mp-sdk",
@@ -161,11 +161,11 @@
       1163
     ],
     [
-      "mmonit",
-      1121
+      "lslint",
+      1123
     ],
     [
-      "lslint",
+      "mmonit",
       1121
     ],
     [
@@ -185,12 +185,12 @@
       989
     ],
     [
-      "beian-domain",
-      972
+      "remix-i18n",
+      975
     ],
     [
-      "remix-i18n",
-      968
+      "beian-domain",
+      973
     ],
     [
       "h1de",
@@ -250,7 +250,7 @@
     ],
     [
       "leancloud-sdk",
-      654
+      655
     ],
     [
       "@uua/ip2c",
@@ -281,16 +281,16 @@
       514
     ],
     [
+      "@xibang/redis",
+      510
+    ],
+    [
       "fetch-pro",
       510
     ],
     [
-      "@xibang/redis",
-      509
-    ],
-    [
       "@xibang/mysql",
-      477
+      478
     ],
     [
       "willin",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      351
+      352
     ],
     [
       "random-target",
@@ -345,5 +345,5 @@
       149
     ]
   ],
-  "sum": 734191
+  "sum": 734450
 }
