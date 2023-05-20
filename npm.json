@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      355000
+      355233
     ],
     [
       "gitbook-plugin-atoc",
-      147671
+      147672
     ],
     [
       "gitbook-plugin-donate",
-      69392
+      69399
     ],
     [
       "waliyun",
-      22522
+      22523
     ],
     [
       "@uua/icons",
@@ -22,11 +22,11 @@
     ],
     [
       "leader.js.cool",
-      7105
+      7106
     ],
     [
       "yunpian-sdk",
-      7088
+      7089
     ],
     [
       "koa-swagger-ui",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5126
+      5141
     ],
     [
       "koa-api-logger",
@@ -66,7 +66,7 @@
     ],
     [
       "tuling",
-      3181
+      3182
     ],
     [
       "eslint-config-willin",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2609
+      2611
     ],
     [
       "gitbook-plugin-autotheme",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1123
+      1124
     ],
     [
       "mmonit",
@@ -186,7 +186,7 @@
     ],
     [
       "remix-i18n",
-      975
+      977
     ],
     [
       "beian-domain",
@@ -250,7 +250,7 @@
     ],
     [
       "leancloud-sdk",
-      655
+      656
     ],
     [
       "@uua/ip2c",
@@ -273,12 +273,12 @@
       532
     ],
     [
-      "@dwing/azure-iot-device-mqtt",
+      "hdd",
       515
     ],
     [
-      "hdd",
-      514
+      "@dwing/azure-iot-device-mqtt",
+      515
     ],
     [
       "@xibang/redis",
@@ -345,5 +345,5 @@
       149
     ]
   ],
-  "sum": 734737
+  "sum": 735004
 }
