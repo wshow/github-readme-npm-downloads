@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      357199
+      357408
     ],
     [
       "gitbook-plugin-atoc",
-      147702
+      147706
     ],
     [
       "gitbook-plugin-donate",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      22541
+      22543
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      7092
+      7093
     ],
     [
       "koa-swagger-ui",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5911
+      5912
     ],
     [
       "wqcloud",
@@ -66,11 +66,11 @@
     ],
     [
       "tuling",
-      3183
+      3184
     ],
     [
       "eslint-config-willin",
-      2998
+      2999
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2575
+      2580
     ],
     [
       "wqcloud-video",
@@ -86,7 +86,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2175
+      2178
     ],
     [
       "auto-deployer",
@@ -106,7 +106,7 @@
     ],
     [
       "atl",
-      1997
+      1998
     ],
     [
       "hello-dolly",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1175
+      1176
     ],
     [
       "wechaty-authing",
@@ -266,11 +266,11 @@
     ],
     [
       "@authing/nextjs",
-      586
+      587
     ],
     [
       "edd",
-      533
+      534
     ],
     [
       "hdd",
@@ -330,7 +330,7 @@
     ],
     [
       "npm-badges",
-      285
+      287
     ],
     [
       "@x12/rx-pool",
@@ -343,7 +343,11 @@
     [
       "passport-authing",
       151
+    ],
+    [
+      "remote-cloudflare-kv",
+      0
     ]
   ],
-  "sum": 737306
+  "sum": 737539
 }
