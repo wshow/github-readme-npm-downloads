@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      357613
+      357790
     ],
     [
       "gitbook-plugin-atoc",
-      147710
+      147712
     ],
     [
       "gitbook-plugin-donate",
-      69432
+      69434
     ],
     [
       "waliyun",
-      22550
+      22554
     ],
     [
       "@uua/icons",
-      7668
+      7669
     ],
     [
       "leader.js.cool",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5912
+      5913
     ],
     [
       "wqcloud",
@@ -42,11 +42,11 @@
     ],
     [
       "v0",
-      5157
+      5158
     ],
     [
       "koa-api-logger",
-      4218
+      4219
     ],
     [
       "appkey",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3783
+      3784
     ],
     [
       "wtoys",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      2999
+      3001
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2581
+      2582
     ],
     [
       "wqcloud-video",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1923
+      1924
     ],
     [
       "coding-net",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1497
+      1498
     ],
     [
       "@x12/di",
@@ -134,7 +134,7 @@
     ],
     [
       "@x12/hosts",
-      1445
+      1446
     ],
     [
       "@authing/remix",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      610
+      611
     ],
     [
       "@authing/nextjs",
@@ -346,8 +346,8 @@
     ],
     [
       "remote-cloudflare-kv",
-      132
+      140
     ]
   ],
-  "sum": 737901
+  "sum": 738106
 }
