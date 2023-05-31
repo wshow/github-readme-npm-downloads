@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      357790
+      357980
     ],
     [
       "gitbook-plugin-atoc",
-      147712
+      147714
     ],
     [
       "gitbook-plugin-donate",
-      69434
+      69437
     ],
     [
       "waliyun",
-      22554
+      22559
     ],
     [
       "@uua/icons",
@@ -22,11 +22,11 @@
     ],
     [
       "leader.js.cool",
-      7107
+      7112
     ],
     [
       "yunpian-sdk",
-      7093
+      7094
     ],
     [
       "koa-swagger-ui",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5158
+      5160
     ],
     [
       "koa-api-logger",
@@ -50,11 +50,11 @@
     ],
     [
       "appkey",
-      4020
+      4021
     ],
     [
       "coding-sdk",
-      3895
+      3896
     ],
     [
       "mock-redis",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      3001
+      3006
     ],
     [
       "vchart",
@@ -86,11 +86,11 @@
     ],
     [
       "hyperapp.js.cool",
-      2180
+      2184
     ],
     [
       "auto-deployer",
-      2172
+      2173
     ],
     [
       "hapi-auth-redis",
@@ -106,7 +106,7 @@
     ],
     [
       "atl",
-      1998
+      1999
     ],
     [
       "hello-dolly",
@@ -114,15 +114,15 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1924
+      1926
     ],
     [
       "coding-net",
-      1777
+      1778
     ],
     [
       "wno",
-      1569
+      1570
     ],
     [
       "v0-scf",
@@ -174,7 +174,7 @@
     ],
     [
       "hyperapp-i18n",
-      1106
+      1107
     ],
     [
       "@shiwangme/redis",
@@ -182,7 +182,7 @@
     ],
     [
       "remix-i18n",
-      999
+      1000
     ],
     [
       "@uua/core",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      926
+      927
     ],
     [
       "nativescript-icam",
@@ -206,11 +206,11 @@
     ],
     [
       "coding-deploy",
-      897
+      898
     ],
     [
       "awth",
-      882
+      883
     ],
     [
       "markdown-toc-gitbook",
@@ -222,7 +222,7 @@
     ],
     [
       "pipefn",
-      842
+      844
     ],
     [
       "wdouban",
@@ -234,7 +234,7 @@
     ],
     [
       "rxdis",
-      767
+      768
     ],
     [
       "z-curve",
@@ -258,11 +258,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      628
+      629
     ],
     [
       "sdk0",
-      611
+      614
     ],
     [
       "@authing/nextjs",
@@ -278,7 +278,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      516
+      517
     ],
     [
       "fetch-pro",
@@ -342,12 +342,12 @@
     ],
     [
       "passport-authing",
-      151
+      152
     ],
     [
       "remote-cloudflare-kv",
-      140
+      143
     ]
   ],
-  "sum": 738106
+  "sum": 738348
 }
