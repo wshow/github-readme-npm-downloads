@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      357980
+      358152
     ],
     [
       "gitbook-plugin-atoc",
-      147714
+      147720
     ],
     [
       "gitbook-plugin-donate",
-      69437
+      69440
     ],
     [
       "waliyun",
-      22559
+      22561
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "leader.js.cool",
-      7112
+      7113
     ],
     [
       "yunpian-sdk",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      3006
+      3010
     ],
     [
       "vchart",
-      2617
+      2618
     ],
     [
       "gitbook-plugin-autotheme",
@@ -122,11 +122,11 @@
     ],
     [
       "wno",
-      1570
+      1571
     ],
     [
       "v0-scf",
-      1498
+      1499
     ],
     [
       "@x12/di",
@@ -177,12 +177,12 @@
       1107
     ],
     [
-      "@shiwangme/redis",
-      1002
+      "remix-i18n",
+      1004
     ],
     [
-      "remix-i18n",
-      1000
+      "@shiwangme/redis",
+      1002
     ],
     [
       "@uua/core",
@@ -222,7 +222,7 @@
     ],
     [
       "pipefn",
-      844
+      846
     ],
     [
       "wdouban",
@@ -234,7 +234,7 @@
     ],
     [
       "rxdis",
-      768
+      769
     ],
     [
       "z-curve",
@@ -242,7 +242,7 @@
     ],
     [
       "@willin/eslint-config",
-      759
+      762
     ],
     [
       "vuepress-theme-asshole",
@@ -254,7 +254,7 @@
     ],
     [
       "@uua/ip2c",
-      650
+      651
     ],
     [
       "@dwing/koa-joi-router",
@@ -346,8 +346,8 @@
     ],
     [
       "remote-cloudflare-kv",
-      143
+      150
     ]
   ],
-  "sum": 738348
+  "sum": 738557
 }
