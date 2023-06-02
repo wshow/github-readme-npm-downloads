@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      358152
+      358346
     ],
     [
       "gitbook-plugin-atoc",
-      147720
+      147723
     ],
     [
       "gitbook-plugin-donate",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      22561
+      22562
     ],
     [
       "@uua/icons",
@@ -22,11 +22,11 @@
     ],
     [
       "leader.js.cool",
-      7113
+      7114
     ],
     [
       "yunpian-sdk",
-      7094
+      7095
     ],
     [
       "koa-swagger-ui",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5589
+      5590
     ],
     [
       "v0",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      3010
+      3011
     ],
     [
       "vchart",
-      2618
+      2619
     ],
     [
       "gitbook-plugin-autotheme",
@@ -86,7 +86,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2184
+      2185
     ],
     [
       "auto-deployer",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1499
+      1500
     ],
     [
       "@x12/di",
@@ -178,7 +178,7 @@
     ],
     [
       "remix-i18n",
-      1004
+      1007
     ],
     [
       "@shiwangme/redis",
@@ -242,7 +242,7 @@
     ],
     [
       "@willin/eslint-config",
-      762
+      763
     ],
     [
       "vuepress-theme-asshole",
@@ -266,7 +266,7 @@
     ],
     [
       "@authing/nextjs",
-      587
+      589
     ],
     [
       "edd",
@@ -286,7 +286,7 @@
     ],
     [
       "@xibang/redis",
-      512
+      513
     ],
     [
       "@xibang/mysql",
@@ -349,5 +349,5 @@
       150
     ]
   ],
-  "sum": 738557
+  "sum": 738769
 }
