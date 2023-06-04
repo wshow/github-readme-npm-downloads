@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      358524
+      358710
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,7 +10,7 @@
     ],
     [
       "gitbook-plugin-donate",
-      69441
+      69443
     ],
     [
       "waliyun",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5160
+      5161
     ],
     [
       "koa-api-logger",
@@ -66,19 +66,19 @@
     ],
     [
       "tuling",
-      3185
+      3187
     ],
     [
       "eslint-config-willin",
-      3011
+      3013
     ],
     [
       "vchart",
-      2624
+      2626
     ],
     [
       "gitbook-plugin-autotheme",
-      2583
+      2584
     ],
     [
       "wqcloud-video",
@@ -98,7 +98,7 @@
     ],
     [
       "wrescuetime",
-      2121
+      2124
     ],
     [
       "nuxtpress",
@@ -106,7 +106,7 @@
     ],
     [
       "atl",
-      2000
+      2001
     ],
     [
       "hello-dolly",
@@ -122,11 +122,11 @@
     ],
     [
       "wno",
-      1571
+      1572
     ],
     [
       "v0-scf",
-      1500
+      1501
     ],
     [
       "@x12/di",
@@ -138,7 +138,7 @@
     ],
     [
       "@authing/remix",
-      1407
+      1408
     ],
     [
       "@x12/tasker",
@@ -170,11 +170,11 @@
     ],
     [
       "less.js.cool",
-      1115
+      1117
     ],
     [
       "hyperapp-i18n",
-      1107
+      1108
     ],
     [
       "remix-i18n",
@@ -190,7 +190,7 @@
     ],
     [
       "beian-domain",
-      974
+      976
     ],
     [
       "h1de",
@@ -218,7 +218,7 @@
     ],
     [
       "uua",
-      847
+      848
     ],
     [
       "pipefn",
@@ -246,7 +246,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      705
+      706
     ],
     [
       "leancloud-sdk",
@@ -266,7 +266,7 @@
     ],
     [
       "@authing/nextjs",
-      590
+      595
     ],
     [
       "edd",
@@ -341,13 +341,13 @@
       235
     ],
     [
-      "passport-authing",
-      152
+      "remote-cloudflare-kv",
+      209
     ],
     [
-      "remote-cloudflare-kv",
-      151
+      "passport-authing",
+      152
     ]
   ],
-  "sum": 738972
+  "sum": 739245
 }
