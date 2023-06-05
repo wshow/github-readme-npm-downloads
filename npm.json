@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      358710
+      358917
     ],
     [
       "gitbook-plugin-atoc",
-      147729
+      147730
     ],
     [
       "gitbook-plugin-donate",
-      69443
+      69444
     ],
     [
       "waliyun",
-      22567
+      22568
     ],
     [
       "@uua/icons",
@@ -26,15 +26,15 @@
     ],
     [
       "yunpian-sdk",
-      7095
+      7096
     ],
     [
       "koa-swagger-ui",
-      6497
+      6499
     ],
     [
       "gitbook-plugin-wordcount",
-      5913
+      5914
     ],
     [
       "wqcloud",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3431
+      3432
     ],
     [
       "tuling",
@@ -70,15 +70,15 @@
     ],
     [
       "eslint-config-willin",
-      3013
+      3014
     ],
     [
       "vchart",
-      2626
+      2633
     ],
     [
       "gitbook-plugin-autotheme",
-      2584
+      2585
     ],
     [
       "wqcloud-video",
@@ -86,7 +86,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2186
+      2187
     ],
     [
       "auto-deployer",
@@ -94,7 +94,7 @@
     ],
     [
       "hapi-auth-redis",
-      2136
+      2137
     ],
     [
       "wrescuetime",
@@ -110,11 +110,11 @@
     ],
     [
       "hello-dolly",
-      1963
+      1964
     ],
     [
       "gitbook-plugin-theme-material",
-      1926
+      1927
     ],
     [
       "coding-net",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1362
+      1363
     ],
     [
       "@xibang/node-common",
@@ -158,11 +158,11 @@
     ],
     [
       "wechaty-authing",
-      1165
+      1166
     ],
     [
       "lslint",
-      1128
+      1129
     ],
     [
       "mmonit",
@@ -186,7 +186,7 @@
     ],
     [
       "@uua/core",
-      992
+      993
     ],
     [
       "beian-domain",
@@ -226,7 +226,7 @@
     ],
     [
       "wdouban",
-      783
+      784
     ],
     [
       "wulian",
@@ -262,11 +262,11 @@
     ],
     [
       "sdk0",
-      614
+      615
     ],
     [
       "@authing/nextjs",
-      595
+      600
     ],
     [
       "edd",
@@ -294,7 +294,7 @@
     ],
     [
       "willin",
-      475
+      476
     ],
     [
       "@x12/common",
@@ -302,7 +302,7 @@
     ],
     [
       "whiteq",
-      415
+      416
     ],
     [
       "@x12/mongodb",
@@ -318,7 +318,7 @@
     ],
     [
       "random-target",
-      334
+      336
     ],
     [
       "ggql",
@@ -330,7 +330,7 @@
     ],
     [
       "npm-badges",
-      287
+      288
     ],
     [
       "@x12/rx-pool",
@@ -342,12 +342,12 @@
     ],
     [
       "remote-cloudflare-kv",
-      209
+      214
     ],
     [
       "passport-authing",
       152
     ]
   ],
-  "sum": 739245
+  "sum": 739494
 }
