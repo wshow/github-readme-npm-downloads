@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      358917
+      359155
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,7 +10,7 @@
     ],
     [
       "gitbook-plugin-donate",
-      69444
+      69449
     ],
     [
       "waliyun",
@@ -22,15 +22,15 @@
     ],
     [
       "leader.js.cool",
-      7116
+      7118
     ],
     [
       "yunpian-sdk",
-      7096
+      7097
     ],
     [
       "koa-swagger-ui",
-      6499
+      6500
     ],
     [
       "gitbook-plugin-wordcount",
@@ -46,7 +46,7 @@
     ],
     [
       "koa-api-logger",
-      4219
+      4221
     ],
     [
       "appkey",
@@ -86,7 +86,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2187
+      2189
     ],
     [
       "auto-deployer",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1186
+      1187
     ],
     [
       "mp-sdk",
@@ -170,7 +170,7 @@
     ],
     [
       "less.js.cool",
-      1117
+      1118
     ],
     [
       "hyperapp-i18n",
@@ -178,15 +178,15 @@
     ],
     [
       "remix-i18n",
-      1007
+      1013
     ],
     [
       "@shiwangme/redis",
-      1002
+      1003
     ],
     [
       "@uua/core",
-      993
+      994
     ],
     [
       "beian-domain",
@@ -214,7 +214,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      872
+      873
     ],
     [
       "uua",
@@ -238,7 +238,7 @@
     ],
     [
       "z-curve",
-      763
+      764
     ],
     [
       "@willin/eslint-config",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      629
+      630
     ],
     [
       "sdk0",
@@ -270,7 +270,7 @@
     ],
     [
       "edd",
-      534
+      535
     ],
     [
       "hdd",
@@ -290,7 +290,7 @@
     ],
     [
       "@xibang/mysql",
-      479
+      480
     ],
     [
       "willin",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      353
+      354
     ],
     [
       "random-target",
@@ -342,12 +342,12 @@
     ],
     [
       "remote-cloudflare-kv",
-      214
+      216
     ],
     [
       "passport-authing",
       152
     ]
   ],
-  "sum": 739494
+  "sum": 739763
 }
