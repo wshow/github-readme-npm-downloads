@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      359155
+      359580
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,19 +10,19 @@
     ],
     [
       "gitbook-plugin-donate",
-      69449
+      69457
     ],
     [
       "waliyun",
-      22568
+      22572
     ],
     [
       "@uua/icons",
-      7670
+      7671
     ],
     [
       "leader.js.cool",
-      7118
+      7119
     ],
     [
       "yunpian-sdk",
@@ -46,11 +46,11 @@
     ],
     [
       "koa-api-logger",
-      4221
+      4222
     ],
     [
       "appkey",
-      4021
+      4022
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3784
+      3789
     ],
     [
       "wtoys",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      3014
+      3016
     ],
     [
       "vchart",
@@ -82,11 +82,11 @@
     ],
     [
       "wqcloud-video",
-      2211
+      2212
     ],
     [
       "hyperapp.js.cool",
-      2189
+      2192
     ],
     [
       "auto-deployer",
@@ -166,7 +166,7 @@
     ],
     [
       "mmonit",
-      1127
+      1128
     ],
     [
       "less.js.cool",
@@ -198,7 +198,7 @@
     ],
     [
       "nativescript-icam",
-      913
+      914
     ],
     [
       "@x12/env",
@@ -229,12 +229,12 @@
       784
     ],
     [
-      "wulian",
-      770
+      "rxdis",
+      771
     ],
     [
-      "rxdis",
-      769
+      "wulian",
+      770
     ],
     [
       "z-curve",
@@ -318,7 +318,7 @@
     ],
     [
       "random-target",
-      336
+      337
     ],
     [
       "ggql",
@@ -342,12 +342,12 @@
     ],
     [
       "remote-cloudflare-kv",
-      216
+      220
     ],
     [
       "passport-authing",
       152
     ]
   ],
-  "sum": 739763
+  "sum": 740224
 }
