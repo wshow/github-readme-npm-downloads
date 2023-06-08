@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      359580
+      359856
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      69457
+      69459
     ],
     [
       "waliyun",
-      22572
+      22573
     ],
     [
       "@uua/icons",
-      7671
+      7672
     ],
     [
       "leader.js.cool",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6500
+      6501
     ],
     [
       "gitbook-plugin-wordcount",
@@ -50,7 +50,7 @@
     ],
     [
       "appkey",
-      4022
+      4023
     ],
     [
       "coding-sdk",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      3016
+      3017
     ],
     [
       "vchart",
-      2633
+      2635
     ],
     [
       "gitbook-plugin-autotheme",
@@ -86,7 +86,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2192
+      2194
     ],
     [
       "auto-deployer",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1927
+      1929
     ],
     [
       "coding-net",
@@ -182,11 +182,11 @@
     ],
     [
       "@shiwangme/redis",
-      1003
+      1004
     ],
     [
       "@uua/core",
-      994
+      995
     ],
     [
       "beian-domain",
@@ -214,7 +214,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      873
+      874
     ],
     [
       "uua",
@@ -242,7 +242,7 @@
     ],
     [
       "@willin/eslint-config",
-      763
+      764
     ],
     [
       "vuepress-theme-asshole",
@@ -254,7 +254,7 @@
     ],
     [
       "@uua/ip2c",
-      651
+      652
     ],
     [
       "@dwing/koa-joi-router",
@@ -282,7 +282,7 @@
     ],
     [
       "fetch-pro",
-      516
+      517
     ],
     [
       "@xibang/redis",
@@ -349,5 +349,5 @@
       152
     ]
   ],
-  "sum": 740224
+  "sum": 740519
 }
