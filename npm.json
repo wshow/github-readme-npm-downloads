@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      359856
+      360114
     ],
     [
       "gitbook-plugin-atoc",
-      147730
+      147731
     ],
     [
       "gitbook-plugin-donate",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      22573
+      22576
     ],
     [
       "@uua/icons",
-      7672
+      7673
     ],
     [
       "leader.js.cool",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      7097
+      7098
     ],
     [
       "koa-swagger-ui",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5590
+      5591
     ],
     [
       "v0",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3432
+      3433
     ],
     [
       "tuling",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      3017
+      3019
     ],
     [
       "vchart",
-      2635
+      2636
     ],
     [
       "gitbook-plugin-autotheme",
@@ -86,7 +86,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2194
+      2196
     ],
     [
       "auto-deployer",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1929
+      1930
     ],
     [
       "coding-net",
@@ -126,15 +126,15 @@
     ],
     [
       "v0-scf",
-      1501
+      1502
+    ],
+    [
+      "@x12/hosts",
+      1449
     ],
     [
       "@x12/di",
       1447
-    ],
-    [
-      "@x12/hosts",
-      1446
     ],
     [
       "@authing/remix",
@@ -178,7 +178,7 @@
     ],
     [
       "remix-i18n",
-      1013
+      1030
     ],
     [
       "@shiwangme/redis",
@@ -230,7 +230,7 @@
     ],
     [
       "rxdis",
-      771
+      772
     ],
     [
       "wulian",
@@ -266,7 +266,7 @@
     ],
     [
       "@authing/nextjs",
-      600
+      601
     ],
     [
       "edd",
@@ -322,7 +322,7 @@
     ],
     [
       "ggql",
-      293
+      294
     ],
     [
       "@x12/task-types",
@@ -342,12 +342,12 @@
     ],
     [
       "remote-cloudflare-kv",
-      220
+      221
     ],
     [
       "passport-authing",
       152
     ]
   ],
-  "sum": 740519
+  "sum": 740816
 }
