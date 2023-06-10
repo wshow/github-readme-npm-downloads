@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      360114
+      360418
     ],
     [
       "gitbook-plugin-atoc",
-      147731
+      147732
     ],
     [
       "gitbook-plugin-donate",
-      69459
+      69470
     ],
     [
       "waliyun",
-      22576
+      22577
     ],
     [
       "@uua/icons",
@@ -22,11 +22,11 @@
     ],
     [
       "leader.js.cool",
-      7119
+      7121
     ],
     [
       "yunpian-sdk",
-      7098
+      7099
     ],
     [
       "koa-swagger-ui",
@@ -46,11 +46,11 @@
     ],
     [
       "koa-api-logger",
-      4222
+      4223
     ],
     [
       "appkey",
-      4023
+      4024
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3789
+      3793
     ],
     [
       "wtoys",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2636
+      2637
     ],
     [
       "gitbook-plugin-autotheme",
@@ -138,7 +138,7 @@
     ],
     [
       "@authing/remix",
-      1408
+      1409
     ],
     [
       "@x12/tasker",
@@ -178,7 +178,7 @@
     ],
     [
       "remix-i18n",
-      1030
+      1050
     ],
     [
       "@shiwangme/redis",
@@ -186,7 +186,7 @@
     ],
     [
       "@uua/core",
-      995
+      996
     ],
     [
       "beian-domain",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      927
+      928
     ],
     [
       "nativescript-icam",
@@ -218,7 +218,7 @@
     ],
     [
       "uua",
-      848
+      849
     ],
     [
       "pipefn",
@@ -274,7 +274,7 @@
     ],
     [
       "hdd",
-      517
+      518
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -322,7 +322,7 @@
     ],
     [
       "ggql",
-      294
+      295
     ],
     [
       "@x12/task-types",
@@ -342,12 +342,12 @@
     ],
     [
       "remote-cloudflare-kv",
-      221
+      222
     ],
     [
       "passport-authing",
       152
     ]
   ],
-  "sum": 740816
+  "sum": 741170
 }
