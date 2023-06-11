@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      360418
+      360817
     ],
     [
       "gitbook-plugin-atoc",
-      147732
+      147735
     ],
     [
       "gitbook-plugin-donate",
-      69470
+      69472
     ],
     [
       "waliyun",
-      22577
+      22582
     ],
     [
       "@uua/icons",
-      7673
+      7678
     ],
     [
       "leader.js.cool",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      7099
+      7101
     ],
     [
       "koa-swagger-ui",
@@ -42,15 +42,15 @@
     ],
     [
       "v0",
-      5161
+      5162
     ],
     [
       "koa-api-logger",
-      4223
+      4224
     ],
     [
       "appkey",
-      4024
+      4026
     ],
     [
       "coding-sdk",
@@ -62,19 +62,19 @@
     ],
     [
       "wtoys",
-      3433
+      3434
     ],
     [
       "tuling",
-      3187
+      3188
     ],
     [
       "eslint-config-willin",
-      3019
+      3020
     ],
     [
       "vchart",
-      2637
+      2638
     ],
     [
       "gitbook-plugin-autotheme",
@@ -86,7 +86,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2196
+      2197
     ],
     [
       "auto-deployer",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1129
+      1130
     ],
     [
       "mmonit",
@@ -174,11 +174,11 @@
     ],
     [
       "hyperapp-i18n",
-      1108
+      1109
     ],
     [
       "remix-i18n",
-      1050
+      1051
     ],
     [
       "@shiwangme/redis",
@@ -222,7 +222,7 @@
     ],
     [
       "pipefn",
-      846
+      847
     ],
     [
       "wdouban",
@@ -230,18 +230,18 @@
     ],
     [
       "rxdis",
-      772
+      774
     ],
     [
       "wulian",
       770
     ],
     [
-      "z-curve",
-      764
+      "@willin/eslint-config",
+      765
     ],
     [
-      "@willin/eslint-config",
+      "z-curve",
       764
     ],
     [
@@ -266,7 +266,7 @@
     ],
     [
       "@authing/nextjs",
-      601
+      604
     ],
     [
       "edd",
@@ -277,11 +277,11 @@
       518
     ],
     [
-      "@dwing/azure-iot-device-mqtt",
-      517
+      "fetch-pro",
+      518
     ],
     [
-      "fetch-pro",
+      "@dwing/azure-iot-device-mqtt",
       517
     ],
     [
@@ -318,7 +318,7 @@
     ],
     [
       "random-target",
-      337
+      343
     ],
     [
       "ggql",
@@ -346,8 +346,8 @@
     ],
     [
       "passport-authing",
-      152
+      155
     ]
   ],
-  "sum": 741170
+  "sum": 741615
 }
