@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      360817
+      361039
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      69472
+      69474
     ],
     [
       "waliyun",
-      22582
+      22586
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "leader.js.cool",
-      7121
+      7122
     ],
     [
       "yunpian-sdk",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5591
+      5592
     ],
     [
       "v0",
-      5162
+      5163
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3793
+      3801
     ],
     [
       "wtoys",
@@ -70,15 +70,15 @@
     ],
     [
       "eslint-config-willin",
-      3020
+      3021
     ],
     [
       "vchart",
-      2638
+      2647
     ],
     [
       "gitbook-plugin-autotheme",
-      2585
+      2586
     ],
     [
       "wqcloud-video",
@@ -90,19 +90,19 @@
     ],
     [
       "auto-deployer",
-      2173
+      2174
     ],
     [
       "hapi-auth-redis",
-      2137
+      2138
     ],
     [
       "wrescuetime",
-      2124
+      2125
     ],
     [
       "nuxtpress",
-      2027
+      2028
     ],
     [
       "atl",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1502
+      1503
     ],
     [
       "@x12/hosts",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1187
+      1189
     ],
     [
       "mp-sdk",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1130
+      1133
     ],
     [
       "mmonit",
@@ -178,11 +178,11 @@
     ],
     [
       "remix-i18n",
-      1051
+      1057
     ],
     [
       "@shiwangme/redis",
-      1004
+      1005
     ],
     [
       "@uua/core",
@@ -190,7 +190,7 @@
     ],
     [
       "beian-domain",
-      976
+      977
     ],
     [
       "h1de",
@@ -262,22 +262,22 @@
     ],
     [
       "sdk0",
-      615
+      616
     ],
     [
       "@authing/nextjs",
-      604
+      606
     ],
     [
       "edd",
       535
     ],
     [
-      "hdd",
-      518
+      "fetch-pro",
+      519
     ],
     [
-      "fetch-pro",
+      "hdd",
       518
     ],
     [
@@ -286,11 +286,11 @@
     ],
     [
       "@xibang/redis",
-      513
+      514
     ],
     [
       "@xibang/mysql",
-      480
+      481
     ],
     [
       "willin",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      354
+      355
     ],
     [
       "random-target",
@@ -342,12 +342,12 @@
     ],
     [
       "remote-cloudflare-kv",
-      222
+      226
     ],
     [
       "passport-authing",
-      155
+      156
     ]
   ],
-  "sum": 741615
+  "sum": 741895
 }
