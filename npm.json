@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      361039
+      361238
     ],
     [
       "gitbook-plugin-atoc",
-      147735
+      147736
     ],
     [
       "gitbook-plugin-donate",
-      69474
+      69477
     ],
     [
       "waliyun",
-      22586
+      22618
     ],
     [
       "@uua/icons",
-      7678
+      7680
     ],
     [
       "leader.js.cool",
@@ -26,11 +26,11 @@
     ],
     [
       "yunpian-sdk",
-      7101
+      7102
     ],
     [
       "koa-swagger-ui",
-      6501
+      6504
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5163
+      5165
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3801
+      3806
     ],
     [
       "wtoys",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2647
+      2650
     ],
     [
       "gitbook-plugin-autotheme",
@@ -86,7 +86,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2197
+      2198
     ],
     [
       "auto-deployer",
@@ -166,7 +166,7 @@
     ],
     [
       "mmonit",
-      1128
+      1129
     ],
     [
       "less.js.cool",
@@ -178,7 +178,7 @@
     ],
     [
       "remix-i18n",
-      1057
+      1059
     ],
     [
       "@shiwangme/redis",
@@ -186,7 +186,7 @@
     ],
     [
       "@uua/core",
-      996
+      997
     ],
     [
       "beian-domain",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      928
+      929
     ],
     [
       "nativescript-icam",
@@ -230,7 +230,7 @@
     ],
     [
       "rxdis",
-      774
+      775
     ],
     [
       "wulian",
@@ -238,7 +238,7 @@
     ],
     [
       "@willin/eslint-config",
-      765
+      766
     ],
     [
       "z-curve",
@@ -349,5 +349,5 @@
       156
     ]
   ],
-  "sum": 741895
+  "sum": 742154
 }
