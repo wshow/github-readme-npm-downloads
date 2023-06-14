@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      361238
+      361454
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      22618
+      22619
     ],
     [
       "@uua/icons",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6504
+      6506
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5165
+      5166
     ],
     [
       "koa-api-logger",
@@ -66,15 +66,15 @@
     ],
     [
       "tuling",
-      3188
+      3189
     ],
     [
       "eslint-config-willin",
-      3021
+      3023
     ],
     [
       "vchart",
-      2650
+      2651
     ],
     [
       "gitbook-plugin-autotheme",
@@ -86,7 +86,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2198
+      2199
     ],
     [
       "auto-deployer",
@@ -98,7 +98,7 @@
     ],
     [
       "wrescuetime",
-      2125
+      2126
     ],
     [
       "nuxtpress",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1133
+      1134
     ],
     [
       "mmonit",
@@ -186,7 +186,7 @@
     ],
     [
       "@uua/core",
-      997
+      998
     ],
     [
       "beian-domain",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      929
+      930
     ],
     [
       "nativescript-icam",
@@ -230,7 +230,7 @@
     ],
     [
       "rxdis",
-      775
+      778
     ],
     [
       "wulian",
@@ -250,7 +250,7 @@
     ],
     [
       "leancloud-sdk",
-      658
+      659
     ],
     [
       "@uua/ip2c",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      630
+      631
     ],
     [
       "sdk0",
@@ -266,7 +266,7 @@
     ],
     [
       "@authing/nextjs",
-      606
+      607
     ],
     [
       "edd",
@@ -314,11 +314,11 @@
     ],
     [
       "afdian",
-      355
+      358
     ],
     [
       "random-target",
-      343
+      346
     ],
     [
       "ggql",
@@ -349,5 +349,5 @@
       156
     ]
   ],
-  "sum": 742154
+  "sum": 742395
 }
