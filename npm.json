@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      362015
+      362206
     ],
     [
       "gitbook-plugin-atoc",
-      147742
+      147744
     ],
     [
       "gitbook-plugin-donate",
-      69490
+      69500
     ],
     [
       "waliyun",
-      22629
+      22636
     ],
     [
       "@uua/icons",
-      7686
+      7688
     ],
     [
       "leader.js.cool",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5593
+      5594
     ],
     [
       "v0",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2654
+      2655
     ],
     [
       "gitbook-plugin-autotheme",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2028
+      2029
     ],
     [
       "atl",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1574
+      1575
     ],
     [
       "v0-scf",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1134
+      1135
     ],
     [
       "mmonit",
@@ -330,7 +330,7 @@
     ],
     [
       "npm-badges",
-      288
+      289
     ],
     [
       "@x12/rx-pool",
@@ -346,8 +346,8 @@
     ],
     [
       "passport-authing",
-      156
+      157
     ]
   ],
-  "sum": 743047
+  "sum": 743266
 }
