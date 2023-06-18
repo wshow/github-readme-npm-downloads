@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      362206
+      362382
     ],
     [
       "gitbook-plugin-atoc",
-      147744
+      147748
     ],
     [
       "gitbook-plugin-donate",
-      69500
+      69522
     ],
     [
       "waliyun",
-      22636
+      22639
     ],
     [
       "@uua/icons",
-      7688
+      7695
     ],
     [
       "leader.js.cool",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      7104
+      7105
     ],
     [
       "koa-swagger-ui",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      3024
+      3026
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2586
+      2589
     ],
     [
       "wqcloud-video",
@@ -114,11 +114,11 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1930
+      1931
     ],
     [
       "coding-net",
-      1778
+      1779
     ],
     [
       "wno",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1503
+      1504
     ],
     [
       "@x12/hosts",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1363
+      1364
     ],
     [
       "@xibang/node-common",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1177
+      1178
     ],
     [
       "wechaty-authing",
@@ -210,7 +210,7 @@
     ],
     [
       "awth",
-      883
+      884
     ],
     [
       "markdown-toc-gitbook",
@@ -230,7 +230,7 @@
     ],
     [
       "rxdis",
-      780
+      781
     ],
     [
       "wulian",
@@ -238,7 +238,7 @@
     ],
     [
       "@willin/eslint-config",
-      766
+      767
     ],
     [
       "z-curve",
@@ -254,7 +254,7 @@
     ],
     [
       "@uua/ip2c",
-      652
+      653
     ],
     [
       "@dwing/koa-joi-router",
@@ -302,7 +302,7 @@
     ],
     [
       "whiteq",
-      416
+      420
     ],
     [
       "@x12/mongodb",
@@ -318,7 +318,7 @@
     ],
     [
       "random-target",
-      349
+      350
     ],
     [
       "ggql",
@@ -346,8 +346,8 @@
     ],
     [
       "passport-authing",
-      157
+      158
     ]
   ],
-  "sum": 743266
+  "sum": 743499
 }
