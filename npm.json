@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      362382
+      362608
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      69522
+      69528
     ],
     [
       "waliyun",
-      22639
+      22652
     ],
     [
       "@uua/icons",
-      7695
+      7696
     ],
     [
       "leader.js.cool",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      3026
+      3027
     ],
     [
       "vchart",
-      2655
+      2656
     ],
     [
       "gitbook-plugin-autotheme",
@@ -86,7 +86,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2204
+      2206
     ],
     [
       "auto-deployer",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      930
+      932
     ],
     [
       "nativescript-icam",
@@ -222,7 +222,7 @@
     ],
     [
       "pipefn",
-      847
+      848
     ],
     [
       "wdouban",
@@ -274,7 +274,7 @@
     ],
     [
       "fetch-pro",
-      519
+      520
     ],
     [
       "hdd",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      358
+      359
     ],
     [
       "random-target",
@@ -349,5 +349,5 @@
       158
     ]
   ],
-  "sum": 743499
+  "sum": 743754
 }
