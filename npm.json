@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      362608
+      362889
     ],
     [
       "gitbook-plugin-atoc",
-      147748
+      147749
     ],
     [
       "gitbook-plugin-donate",
-      69528
+      69529
     ],
     [
       "waliyun",
-      22652
+      22657
     ],
     [
       "@uua/icons",
-      7696
+      7704
     ],
     [
       "leader.js.cool",
-      7122
+      7123
     ],
     [
       "yunpian-sdk",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6507
+      6508
     ],
     [
       "gitbook-plugin-wordcount",
@@ -50,11 +50,11 @@
     ],
     [
       "appkey",
-      4027
+      4028
     ],
     [
       "coding-sdk",
-      3896
+      3897
     ],
     [
       "mock-redis",
@@ -66,11 +66,11 @@
     ],
     [
       "tuling",
-      3190
+      3192
     ],
     [
       "eslint-config-willin",
-      3027
+      3029
     ],
     [
       "vchart",
@@ -86,7 +86,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2206
+      2208
     ],
     [
       "auto-deployer",
@@ -106,11 +106,11 @@
     ],
     [
       "atl",
-      2001
+      2002
     ],
     [
       "hello-dolly",
-      1964
+      1965
     ],
     [
       "gitbook-plugin-theme-material",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1779
+      1780
     ],
     [
       "wno",
@@ -190,7 +190,7 @@
     ],
     [
       "beian-domain",
-      977
+      978
     ],
     [
       "h1de",
@@ -210,7 +210,7 @@
     ],
     [
       "awth",
-      884
+      885
     ],
     [
       "markdown-toc-gitbook",
@@ -266,7 +266,7 @@
     ],
     [
       "@authing/nextjs",
-      608
+      609
     ],
     [
       "edd",
@@ -318,7 +318,7 @@
     ],
     [
       "random-target",
-      350
+      354
     ],
     [
       "ggql",
@@ -338,7 +338,7 @@
     ],
     [
       "remix-sanity",
-      235
+      236
     ],
     [
       "remote-cloudflare-kv",
@@ -349,5 +349,5 @@
       158
     ]
   ],
-  "sum": 743754
+  "sum": 744071
 }
