@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      362889
+      363258
     ],
     [
       "gitbook-plugin-atoc",
-      147749
+      147751
     ],
     [
       "gitbook-plugin-donate",
-      69529
+      69530
     ],
     [
       "waliyun",
-      22657
+      22665
     ],
     [
       "@uua/icons",
-      7704
+      7708
     ],
     [
       "leader.js.cool",
@@ -26,11 +26,11 @@
     ],
     [
       "yunpian-sdk",
-      7105
+      7107
     ],
     [
       "koa-swagger-ui",
-      6508
+      6512
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5166
+      5169
     ],
     [
       "koa-api-logger",
@@ -54,7 +54,7 @@
     ],
     [
       "coding-sdk",
-      3897
+      3898
     ],
     [
       "mock-redis",
@@ -66,11 +66,11 @@
     ],
     [
       "tuling",
-      3192
+      3193
     ],
     [
       "eslint-config-willin",
-      3029
+      3030
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2589
+      2590
     ],
     [
       "wqcloud-video",
@@ -86,7 +86,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2208
+      2209
     ],
     [
       "auto-deployer",
@@ -94,15 +94,15 @@
     ],
     [
       "hapi-auth-redis",
-      2138
+      2139
     ],
     [
       "wrescuetime",
-      2127
+      2130
     ],
     [
       "nuxtpress",
-      2029
+      2033
     ],
     [
       "atl",
@@ -142,7 +142,7 @@
     ],
     [
       "@x12/tasker",
-      1388
+      1389
     ],
     [
       "wnm",
@@ -158,11 +158,11 @@
     ],
     [
       "wechaty-authing",
-      1166
+      1167
     ],
     [
       "lslint",
-      1135
+      1136
     ],
     [
       "mmonit",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      932
+      933
     ],
     [
       "nativescript-icam",
@@ -206,7 +206,7 @@
     ],
     [
       "coding-deploy",
-      898
+      899
     ],
     [
       "awth",
@@ -218,7 +218,7 @@
     ],
     [
       "uua",
-      849
+      850
     ],
     [
       "pipefn",
@@ -282,7 +282,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      517
+      518
     ],
     [
       "@xibang/redis",
@@ -349,5 +349,5 @@
       158
     ]
   ],
-  "sum": 744071
+  "sum": 744484
 }
