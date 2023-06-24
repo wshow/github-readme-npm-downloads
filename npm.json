@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      363998
+      364289
     ],
     [
       "gitbook-plugin-atoc",
-      147762
+      147771
     ],
     [
       "gitbook-plugin-donate",
@@ -14,15 +14,15 @@
     ],
     [
       "waliyun",
-      22678
+      22679
     ],
     [
       "@uua/icons",
-      7711
+      7713
     ],
     [
       "leader.js.cool",
-      7125
+      7126
     ],
     [
       "yunpian-sdk",
@@ -30,11 +30,11 @@
     ],
     [
       "koa-swagger-ui",
-      6516
+      6517
     ],
     [
       "gitbook-plugin-wordcount",
-      5914
+      5915
     ],
     [
       "wqcloud",
@@ -42,19 +42,19 @@
     ],
     [
       "v0",
-      5170
+      5173
     ],
     [
       "koa-api-logger",
-      4227
+      4228
     ],
     [
       "appkey",
-      4028
+      4030
     ],
     [
       "coding-sdk",
-      3899
+      3901
     ],
     [
       "mock-redis",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      3032
+      3035
     ],
     [
       "vchart",
@@ -86,11 +86,11 @@
     ],
     [
       "hyperapp.js.cool",
-      2213
+      2214
     ],
     [
       "auto-deployer",
-      2176
+      2178
     ],
     [
       "hapi-auth-redis",
@@ -98,15 +98,15 @@
     ],
     [
       "wrescuetime",
-      2130
+      2131
     ],
     [
       "nuxtpress",
-      2035
+      2037
     ],
     [
       "atl",
-      2005
+      2007
     ],
     [
       "hello-dolly",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1781
+      1783
     ],
     [
       "wno",
@@ -130,27 +130,27 @@
     ],
     [
       "@x12/hosts",
-      1457
+      1459
     ],
     [
       "@x12/di",
-      1449
+      1452
     ],
     [
       "@authing/remix",
-      1411
+      1413
     ],
     [
       "@x12/tasker",
-      1392
+      1395
     ],
     [
       "wnm",
-      1367
+      1369
     ],
     [
       "@xibang/node-common",
-      1191
+      1193
     ],
     [
       "mp-sdk",
@@ -158,7 +158,7 @@
     ],
     [
       "wechaty-authing",
-      1167
+      1168
     ],
     [
       "lslint",
@@ -182,15 +182,15 @@
     ],
     [
       "@shiwangme/redis",
-      1007
+      1010
     ],
     [
       "@uua/core",
-      1002
+      1005
     ],
     [
       "beian-domain",
-      979
+      981
     ],
     [
       "h1de",
@@ -202,15 +202,15 @@
     ],
     [
       "@x12/env",
-      900
+      902
     ],
     [
       "coding-deploy",
-      899
+      901
     ],
     [
       "awth",
-      885
+      887
     ],
     [
       "markdown-toc-gitbook",
@@ -238,7 +238,7 @@
     ],
     [
       "@willin/eslint-config",
-      768
+      771
     ],
     [
       "z-curve",
@@ -246,7 +246,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      706
+      707
     ],
     [
       "leancloud-sdk",
@@ -254,11 +254,11 @@
     ],
     [
       "@uua/ip2c",
-      653
+      655
     ],
     [
       "@dwing/koa-joi-router",
-      632
+      637
     ],
     [
       "sdk0",
@@ -266,19 +266,19 @@
     ],
     [
       "@authing/nextjs",
-      612
+      613
     ],
     [
       "edd",
-      535
+      537
     ],
     [
       "fetch-pro",
-      523
+      525
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      520
+      523
     ],
     [
       "hdd",
@@ -286,11 +286,11 @@
     ],
     [
       "@xibang/redis",
-      515
+      517
     ],
     [
       "@xibang/mysql",
-      483
+      485
     ],
     [
       "willin",
@@ -298,23 +298,23 @@
     ],
     [
       "@x12/common",
-      440
+      442
     ],
     [
       "whiteq",
-      420
+      423
     ],
     [
       "@x12/mongodb",
-      377
+      379
     ],
     [
       "@x12/promise",
-      370
+      373
     ],
     [
       "afdian",
-      359
+      361
     ],
     [
       "random-target",
@@ -326,7 +326,7 @@
     ],
     [
       "@x12/task-types",
-      292
+      294
     ],
     [
       "npm-badges",
@@ -334,7 +334,7 @@
     ],
     [
       "@x12/rx-pool",
-      274
+      276
     ],
     [
       "remix-sanity",
@@ -349,5 +349,5 @@
       158
     ]
   ],
-  "sum": 745355
+  "sum": 745750
 }
