@@ -2,63 +2,63 @@
   "stats": [
     [
       "hexo-wordcount",
-      364289
+      364630
     ],
     [
       "gitbook-plugin-atoc",
-      147771
+      147773
     ],
     [
       "gitbook-plugin-donate",
-      69534
+      69537
     ],
     [
       "waliyun",
-      22679
+      22682
     ],
     [
       "@uua/icons",
-      7713
+      7714
     ],
     [
       "leader.js.cool",
-      7126
+      7129
     ],
     [
       "yunpian-sdk",
-      7108
+      7109
     ],
     [
       "koa-swagger-ui",
-      6517
+      6520
     ],
     [
       "gitbook-plugin-wordcount",
-      5915
+      5917
     ],
     [
       "wqcloud",
-      5603
+      5606
     ],
     [
       "v0",
-      5173
+      5175
     ],
     [
       "koa-api-logger",
-      4228
+      4231
     ],
     [
       "appkey",
-      4030
+      4031
     ],
     [
       "coding-sdk",
-      3901
+      3903
     ],
     [
       "mock-redis",
-      3809
+      3812
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "tuling",
-      3194
+      3196
     ],
     [
       "eslint-config-willin",
@@ -74,51 +74,51 @@
     ],
     [
       "vchart",
-      2656
+      2659
     ],
     [
       "gitbook-plugin-autotheme",
-      2593
+      2595
+    ],
+    [
+      "hyperapp.js.cool",
+      2216
     ],
     [
       "wqcloud-video",
       2215
     ],
     [
-      "hyperapp.js.cool",
-      2214
-    ],
-    [
       "auto-deployer",
-      2178
+      2179
     ],
     [
       "hapi-auth-redis",
-      2139
+      2142
     ],
     [
       "wrescuetime",
-      2131
+      2132
     ],
     [
       "nuxtpress",
-      2037
+      2039
     ],
     [
       "atl",
-      2007
+      2008
     ],
     [
       "hello-dolly",
-      1965
+      1968
     ],
     [
       "gitbook-plugin-theme-material",
-      1932
+      1934
     ],
     [
       "coding-net",
-      1783
+      1784
     ],
     [
       "wno",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1505
+      1508
     ],
     [
       "@x12/hosts",
@@ -138,11 +138,11 @@
     ],
     [
       "@authing/remix",
-      1413
+      1414
     ],
     [
       "@x12/tasker",
-      1395
+      1396
     ],
     [
       "wnm",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1182
+      1184
     ],
     [
       "wechaty-authing",
@@ -162,23 +162,23 @@
     ],
     [
       "lslint",
-      1136
+      1138
     ],
     [
       "mmonit",
-      1130
+      1132
     ],
     [
       "less.js.cool",
-      1118
+      1120
     ],
     [
       "hyperapp-i18n",
-      1110
+      1112
     ],
     [
       "remix-i18n",
-      1059
+      1063
     ],
     [
       "@shiwangme/redis",
@@ -194,43 +194,43 @@
     ],
     [
       "h1de",
-      933
+      935
     ],
     [
       "nativescript-icam",
-      914
+      916
+    ],
+    [
+      "coding-deploy",
+      905
     ],
     [
       "@x12/env",
       902
     ],
     [
-      "coding-deploy",
-      901
-    ],
-    [
       "awth",
-      887
+      888
     ],
     [
       "markdown-toc-gitbook",
-      874
+      876
     ],
     [
       "uua",
-      850
+      852
     ],
     [
       "pipefn",
-      848
+      850
+    ],
+    [
+      "rxdis",
+      788
     ],
     [
       "wdouban",
       786
-    ],
-    [
-      "rxdis",
-      784
     ],
     [
       "wulian",
@@ -250,7 +250,7 @@
     ],
     [
       "leancloud-sdk",
-      659
+      661
     ],
     [
       "@uua/ip2c",
@@ -258,11 +258,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      637
+      638
     ],
     [
       "sdk0",
-      619
+      622
     ],
     [
       "@authing/nextjs",
@@ -278,11 +278,11 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      523
+      524
     ],
     [
       "hdd",
-      518
+      520
     ],
     [
       "@xibang/redis",
@@ -294,7 +294,7 @@
     ],
     [
       "willin",
-      476
+      477
     ],
     [
       "@x12/common",
@@ -318,11 +318,11 @@
     ],
     [
       "random-target",
-      354
+      357
     ],
     [
       "ggql",
-      295
+      297
     ],
     [
       "@x12/task-types",
@@ -330,24 +330,24 @@
     ],
     [
       "npm-badges",
-      289
+      291
     ],
     [
       "@x12/rx-pool",
-      276
+      277
     ],
     [
       "remix-sanity",
-      236
+      238
     ],
     [
       "remote-cloudflare-kv",
-      230
+      234
     ],
     [
       "passport-authing",
-      158
+      160
     ]
   ],
-  "sum": 745750
+  "sum": 746210
 }
