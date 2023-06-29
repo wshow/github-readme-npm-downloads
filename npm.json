@@ -2,15 +2,15 @@
   "stats": [
     [
       "hexo-wordcount",
-      365693
+      365919
     ],
     [
       "gitbook-plugin-atoc",
-      147773
+      147775
     ],
     [
       "gitbook-plugin-donate",
-      69541
+      69542
     ],
     [
       "waliyun",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      7120
+      7121
     ],
     [
       "koa-swagger-ui",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5917
+      5918
     ],
     [
       "wqcloud",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5177
+      5178
     ],
     [
       "koa-api-logger",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      3038
+      3039
     ],
     [
       "vchart",
-      2661
+      2666
     ],
     [
       "gitbook-plugin-autotheme",
@@ -82,7 +82,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2221
+      2222
     ],
     [
       "wqcloud-video",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1512
+      1513
     ],
     [
       "@x12/hosts",
@@ -138,7 +138,7 @@
     ],
     [
       "@authing/remix",
-      1422
+      1423
     ],
     [
       "@x12/tasker",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1184
+      1185
     ],
     [
       "wechaty-authing",
@@ -218,7 +218,7 @@
     ],
     [
       "uua",
-      853
+      854
     ],
     [
       "pipefn",
@@ -246,7 +246,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      709
+      710
     ],
     [
       "leancloud-sdk",
@@ -266,7 +266,7 @@
     ],
     [
       "@authing/nextjs",
-      616
+      617
     ],
     [
       "edd",
@@ -326,7 +326,7 @@
     ],
     [
       "@x12/task-types",
-      294
+      295
     ],
     [
       "npm-badges",
@@ -342,12 +342,12 @@
     ],
     [
       "remote-cloudflare-kv",
-      234
+      238
     ],
     [
       "passport-authing",
       160
     ]
   ],
-  "sum": 747460
+  "sum": 747710
 }
