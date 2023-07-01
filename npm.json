@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      366184
+      366494
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,27 +10,27 @@
     ],
     [
       "gitbook-plugin-donate",
-      69544
+      69550
     ],
     [
       "waliyun",
-      22706
+      22711
     ],
     [
       "@uua/icons",
-      7715
+      7718
     ],
     [
       "leader.js.cool",
-      7131
+      7133
     ],
     [
       "yunpian-sdk",
-      7121
+      7122
     ],
     [
       "koa-swagger-ui",
-      6524
+      6525
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,15 +38,15 @@
     ],
     [
       "wqcloud",
-      5611
+      5612
     ],
     [
       "v0",
-      5178
+      5179
     ],
     [
       "koa-api-logger",
-      4236
+      4237
     ],
     [
       "appkey",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3449
+      3450
     ],
     [
       "tuling",
@@ -78,15 +78,15 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2599
+      2600
     ],
     [
       "hyperapp.js.cool",
-      2222
+      2223
     ],
     [
       "wqcloud-video",
-      2218
+      2219
     ],
     [
       "auto-deployer",
@@ -94,7 +94,7 @@
     ],
     [
       "hapi-auth-redis",
-      2144
+      2145
     ],
     [
       "wrescuetime",
@@ -106,7 +106,7 @@
     ],
     [
       "atl",
-      2009
+      2010
     ],
     [
       "hello-dolly",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1376
+      1377
     ],
     [
       "@xibang/node-common",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1185
+      1187
     ],
     [
       "wechaty-authing",
@@ -170,7 +170,7 @@
     ],
     [
       "less.js.cool",
-      1120
+      1121
     ],
     [
       "hyperapp-i18n",
@@ -214,7 +214,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      876
+      877
     ],
     [
       "uua",
@@ -242,7 +242,7 @@
     ],
     [
       "z-curve",
-      769
+      770
     ],
     [
       "vuepress-theme-asshole",
@@ -270,7 +270,7 @@
     ],
     [
       "edd",
-      537
+      538
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -337,11 +337,11 @@
       277
     ],
     [
-      "remix-sanity",
-      238
+      "remote-cloudflare-kv",
+      240
     ],
     [
-      "remote-cloudflare-kv",
+      "remix-sanity",
       238
     ],
     [
@@ -349,5 +349,5 @@
       160
     ]
   ],
-  "sum": 748017
+  "sum": 748363
 }
