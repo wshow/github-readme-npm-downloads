@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      366494
+      366669
     ],
     [
       "gitbook-plugin-atoc",
-      147778
+      147781
     ],
     [
       "gitbook-plugin-donate",
-      69550
+      69552
     ],
     [
       "waliyun",
-      22711
+      22715
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "leader.js.cool",
-      7133
+      7135
     ],
     [
       "yunpian-sdk",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5612
+      5613
     ],
     [
       "v0",
@@ -50,7 +50,7 @@
     ],
     [
       "appkey",
-      4035
+      4037
     ],
     [
       "coding-sdk",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      3040
+      3042
     ],
     [
       "vchart",
@@ -82,7 +82,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2223
+      2225
     ],
     [
       "wqcloud-video",
@@ -106,7 +106,7 @@
     ],
     [
       "atl",
-      2010
+      2011
     ],
     [
       "hello-dolly",
@@ -158,7 +158,7 @@
     ],
     [
       "wechaty-authing",
-      1176
+      1178
     ],
     [
       "lslint",
@@ -166,7 +166,7 @@
     ],
     [
       "mmonit",
-      1133
+      1134
     ],
     [
       "less.js.cool",
@@ -178,7 +178,7 @@
     ],
     [
       "remix-i18n",
-      1084
+      1085
     ],
     [
       "@shiwangme/redis",
@@ -186,7 +186,7 @@
     ],
     [
       "@uua/core",
-      1006
+      1008
     ],
     [
       "beian-domain",
@@ -198,7 +198,7 @@
     ],
     [
       "nativescript-icam",
-      918
+      919
     ],
     [
       "coding-deploy",
@@ -250,11 +250,11 @@
     ],
     [
       "leancloud-sdk",
-      661
+      662
     ],
     [
       "@uua/ip2c",
-      656
+      657
     ],
     [
       "@dwing/koa-joi-router",
@@ -338,7 +338,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      240
+      241
     ],
     [
       "remix-sanity",
@@ -346,8 +346,8 @@
     ],
     [
       "passport-authing",
-      160
+      161
     ]
   ],
-  "sum": 748363
+  "sum": 748568
 }
