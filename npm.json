@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      366669
+      366869
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,27 +10,27 @@
     ],
     [
       "gitbook-plugin-donate",
-      69552
+      69554
     ],
     [
       "waliyun",
-      22715
+      22723
     ],
     [
       "@uua/icons",
-      7718
+      7725
     ],
     [
       "leader.js.cool",
-      7135
+      7137
     ],
     [
       "yunpian-sdk",
-      7122
+      7123
     ],
     [
       "koa-swagger-ui",
-      6525
+      6532
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,11 +42,11 @@
     ],
     [
       "v0",
-      5179
+      5180
     ],
     [
       "koa-api-logger",
-      4237
+      4246
     ],
     [
       "appkey",
@@ -54,15 +54,15 @@
     ],
     [
       "coding-sdk",
-      3905
+      3906
     ],
     [
       "mock-redis",
-      3812
+      3813
     ],
     [
       "wtoys",
-      3450
+      3453
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2668
+      2669
     ],
     [
       "gitbook-plugin-autotheme",
@@ -82,11 +82,11 @@
     ],
     [
       "hyperapp.js.cool",
-      2225
+      2229
     ],
     [
       "wqcloud-video",
-      2219
+      2222
     ],
     [
       "auto-deployer",
@@ -122,11 +122,11 @@
     ],
     [
       "wno",
-      1579
+      1580
     ],
     [
       "v0-scf",
-      1513
+      1515
     ],
     [
       "@x12/hosts",
@@ -138,11 +138,11 @@
     ],
     [
       "@authing/remix",
-      1423
+      1424
     ],
     [
       "@x12/tasker",
-      1399
+      1400
     ],
     [
       "wnm",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1195
+      1202
     ],
     [
       "mp-sdk",
@@ -158,7 +158,7 @@
     ],
     [
       "wechaty-authing",
-      1178
+      1180
     ],
     [
       "lslint",
@@ -174,19 +174,19 @@
     ],
     [
       "hyperapp-i18n",
-      1112
+      1113
     ],
     [
       "remix-i18n",
-      1085
+      1086
     ],
     [
       "@shiwangme/redis",
-      1014
+      1023
     ],
     [
       "@uua/core",
-      1008
+      1011
     ],
     [
       "beian-domain",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      935
+      936
     ],
     [
       "nativescript-icam",
@@ -214,7 +214,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      877
+      878
     ],
     [
       "uua",
@@ -246,7 +246,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      710
+      712
     ],
     [
       "leancloud-sdk",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      643
+      644
     ],
     [
       "sdk0",
@@ -266,7 +266,7 @@
     ],
     [
       "@authing/nextjs",
-      617
+      618
     ],
     [
       "edd",
@@ -298,7 +298,7 @@
     ],
     [
       "@x12/common",
-      442
+      443
     ],
     [
       "whiteq",
@@ -318,15 +318,15 @@
     ],
     [
       "random-target",
-      358
+      359
     ],
     [
       "ggql",
-      297
+      298
     ],
     [
       "@x12/task-types",
-      295
+      296
     ],
     [
       "npm-badges",
@@ -349,5 +349,5 @@
       161
     ]
   ],
-  "sum": 748568
+  "sum": 748856
 }
