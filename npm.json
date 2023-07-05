@@ -2,31 +2,31 @@
   "stats": [
     [
       "hexo-wordcount",
-      366869
+      367088
     ],
     [
       "gitbook-plugin-atoc",
-      147781
+      147782
     ],
     [
       "gitbook-plugin-donate",
-      69554
+      69555
     ],
     [
       "waliyun",
-      22723
+      22738
     ],
     [
       "@uua/icons",
-      7725
+      7727
     ],
     [
       "leader.js.cool",
-      7137
+      7142
     ],
     [
       "yunpian-sdk",
-      7123
+      7124
     ],
     [
       "koa-swagger-ui",
@@ -38,15 +38,15 @@
     ],
     [
       "wqcloud",
-      5613
+      5615
     ],
     [
       "v0",
-      5180
+      5183
     ],
     [
       "koa-api-logger",
-      4246
+      4255
     ],
     [
       "appkey",
@@ -54,7 +54,7 @@
     ],
     [
       "coding-sdk",
-      3906
+      3910
     ],
     [
       "mock-redis",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2669
+      2670
     ],
     [
       "gitbook-plugin-autotheme",
@@ -82,7 +82,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2229
+      2230
     ],
     [
       "wqcloud-video",
@@ -98,7 +98,7 @@
     ],
     [
       "wrescuetime",
-      2134
+      2135
     ],
     [
       "nuxtpress",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1936
+      1937
     ],
     [
       "coding-net",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1580
+      1581
     ],
     [
       "v0-scf",
@@ -134,7 +134,7 @@
     ],
     [
       "@x12/di",
-      1453
+      1456
     ],
     [
       "@authing/remix",
@@ -170,7 +170,7 @@
     ],
     [
       "less.js.cool",
-      1121
+      1122
     ],
     [
       "hyperapp-i18n",
@@ -178,7 +178,7 @@
     ],
     [
       "remix-i18n",
-      1086
+      1088
     ],
     [
       "@shiwangme/redis",
@@ -186,7 +186,7 @@
     ],
     [
       "@uua/core",
-      1011
+      1012
     ],
     [
       "beian-domain",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      936
+      937
     ],
     [
       "nativescript-icam",
@@ -258,11 +258,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      644
+      645
     ],
     [
       "sdk0",
-      623
+      624
     ],
     [
       "@authing/nextjs",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      526
+      527
     ],
     [
       "fetch-pro",
@@ -282,11 +282,11 @@
     ],
     [
       "hdd",
-      520
+      521
     ],
     [
       "@xibang/redis",
-      517
+      518
     ],
     [
       "@xibang/mysql",
@@ -298,7 +298,7 @@
     ],
     [
       "@x12/common",
-      443
+      444
     ],
     [
       "whiteq",
@@ -310,7 +310,7 @@
     ],
     [
       "@x12/promise",
-      373
+      374
     ],
     [
       "afdian",
@@ -349,5 +349,5 @@
       161
     ]
   ],
-  "sum": 748856
+  "sum": 749138
 }
