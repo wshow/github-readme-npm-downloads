@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      367088
+      367366
     ],
     [
       "gitbook-plugin-atoc",
-      147782
+      147786
     ],
     [
       "gitbook-plugin-donate",
-      69555
+      69557
     ],
     [
       "waliyun",
-      22738
+      22744
     ],
     [
       "@uua/icons",
-      7727
+      7732
     ],
     [
       "leader.js.cool",
@@ -26,11 +26,11 @@
     ],
     [
       "yunpian-sdk",
-      7124
+      7126
     ],
     [
       "koa-swagger-ui",
-      6532
+      6540
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5183
+      5184
     ],
     [
       "koa-api-logger",
@@ -50,11 +50,11 @@
     ],
     [
       "appkey",
-      4037
+      4040
     ],
     [
       "coding-sdk",
-      3910
+      3911
     ],
     [
       "mock-redis",
@@ -70,27 +70,27 @@
     ],
     [
       "eslint-config-willin",
-      3042
+      3043
     ],
     [
       "vchart",
-      2670
+      2673
     ],
     [
       "gitbook-plugin-autotheme",
-      2600
+      2601
     ],
     [
       "hyperapp.js.cool",
-      2230
+      2231
     ],
     [
       "wqcloud-video",
-      2222
+      2224
     ],
     [
       "auto-deployer",
-      2179
+      2180
     ],
     [
       "hapi-auth-redis",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2041
+      2043
     ],
     [
       "atl",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1515
+      1516
     ],
     [
       "@x12/hosts",
@@ -134,19 +134,19 @@
     ],
     [
       "@x12/di",
-      1456
+      1457
     ],
     [
       "@authing/remix",
-      1424
+      1425
     ],
     [
       "@x12/tasker",
-      1400
+      1401
     ],
     [
       "wnm",
-      1377
+      1378
     ],
     [
       "@xibang/node-common",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1187
+      1188
     ],
     [
       "wechaty-authing",
@@ -170,11 +170,11 @@
     ],
     [
       "less.js.cool",
-      1122
+      1123
     ],
     [
       "hyperapp-i18n",
-      1113
+      1114
     ],
     [
       "remix-i18n",
@@ -186,7 +186,7 @@
     ],
     [
       "@uua/core",
-      1012
+      1013
     ],
     [
       "beian-domain",
@@ -214,7 +214,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      878
+      879
     ],
     [
       "uua",
@@ -226,7 +226,7 @@
     ],
     [
       "rxdis",
-      793
+      794
     ],
     [
       "wdouban",
@@ -298,7 +298,7 @@
     ],
     [
       "@x12/common",
-      444
+      445
     ],
     [
       "whiteq",
@@ -306,7 +306,7 @@
     ],
     [
       "@x12/mongodb",
-      382
+      383
     ],
     [
       "@x12/promise",
@@ -349,5 +349,5 @@
       161
     ]
   ],
-  "sum": 749138
+  "sum": 749472
 }
