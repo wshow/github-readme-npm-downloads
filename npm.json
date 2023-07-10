@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      368105
+      368334
     ],
     [
       "gitbook-plugin-atoc",
-      147794
+      147795
     ],
     [
       "gitbook-plugin-donate",
-      69573
+      69580
     ],
     [
       "waliyun",
-      22770
+      22777
     ],
     [
       "@uua/icons",
-      7736
+      7739
     ],
     [
       "leader.js.cool",
-      7145
+      7146
     ],
     [
       "yunpian-sdk",
@@ -30,23 +30,23 @@
     ],
     [
       "koa-swagger-ui",
-      6544
+      6545
     ],
     [
       "gitbook-plugin-wordcount",
-      5920
+      5921
     ],
     [
       "wqcloud",
-      5619
+      5620
     ],
     [
       "v0",
-      5190
+      5191
     ],
     [
       "koa-api-logger",
-      4261
+      4262
     ],
     [
       "appkey",
@@ -58,15 +58,15 @@
     ],
     [
       "mock-redis",
-      3815
+      3817
     ],
     [
       "wtoys",
-      3456
+      3457
     ],
     [
       "tuling",
-      3198
+      3200
     ],
     [
       "eslint-config-willin",
@@ -82,7 +82,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2235
+      2239
     ],
     [
       "wqcloud-video",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2045
+      2046
     ],
     [
       "atl",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1785
+      1786
     ],
     [
       "wno",
@@ -138,7 +138,7 @@
     ],
     [
       "@authing/remix",
-      1427
+      1428
     ],
     [
       "@x12/tasker",
@@ -150,15 +150,15 @@
     ],
     [
       "@xibang/node-common",
-      1205
+      1209
     ],
     [
       "mp-sdk",
-      1189
+      1190
     ],
     [
       "wechaty-authing",
-      1182
+      1183
     ],
     [
       "lslint",
@@ -182,15 +182,15 @@
     ],
     [
       "@shiwangme/redis",
-      1023
+      1028
     ],
     [
       "@uua/core",
-      1013
+      1019
     ],
     [
       "beian-domain",
-      984
+      986
     ],
     [
       "h1de",
@@ -206,7 +206,7 @@
     ],
     [
       "@x12/env",
-      903
+      904
     ],
     [
       "awth",
@@ -234,7 +234,7 @@
     ],
     [
       "@willin/eslint-config",
-      775
+      778
     ],
     [
       "wulian",
@@ -254,7 +254,7 @@
     ],
     [
       "@uua/ip2c",
-      658
+      662
     ],
     [
       "@dwing/koa-joi-router",
@@ -278,7 +278,7 @@
     ],
     [
       "fetch-pro",
-      527
+      528
     ],
     [
       "hdd",
@@ -286,11 +286,11 @@
     ],
     [
       "@xibang/redis",
-      519
+      521
     ],
     [
       "@xibang/mysql",
-      487
+      489
     ],
     [
       "willin",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      363
+      366
     ],
     [
       "random-target",
@@ -349,5 +349,5 @@
       162
     ]
   ],
-  "sum": 750375
+  "sum": 750675
 }
