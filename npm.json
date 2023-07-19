@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      371040
+      371376
     ],
     [
       "gitbook-plugin-atoc",
-      147833
+      147834
     ],
     [
       "gitbook-plugin-donate",
-      69613
+      69614
     ],
     [
       "waliyun",
-      22851
+      22854
     ],
     [
       "@uua/icons",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5225
+      5227
     ],
     [
       "koa-api-logger",
@@ -66,7 +66,7 @@
     ],
     [
       "tuling",
-      3216
+      3217
     ],
     [
       "eslint-config-willin",
@@ -78,15 +78,15 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2614
+      2615
     ],
     [
       "hyperapp.js.cool",
-      2257
+      2258
     ],
     [
       "wqcloud-video",
-      2241
+      2243
     ],
     [
       "auto-deployer",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2064
+      2065
     ],
     [
       "atl",
@@ -182,7 +182,7 @@
     ],
     [
       "@shiwangme/redis",
-      1036
+      1037
     ],
     [
       "@uua/core",
@@ -226,7 +226,7 @@
     ],
     [
       "rxdis",
-      807
+      810
     ],
     [
       "wdouban",
@@ -234,7 +234,7 @@
     ],
     [
       "@willin/eslint-config",
-      783
+      786
     ],
     [
       "wulian",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      632
+      633
     ],
     [
       "@authing/nextjs",
@@ -322,7 +322,7 @@
     ],
     [
       "ggql",
-      302
+      303
     ],
     [
       "@x12/task-types",
@@ -338,7 +338,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      246
+      248
     ],
     [
       "remix-sanity",
@@ -346,8 +346,8 @@
     ],
     [
       "passport-authing",
-      165
+      166
     ]
   ],
-  "sum": 754385
+  "sum": 754746
 }
