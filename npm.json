@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      371376
+      371582
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      69614
+      69621
     ],
     [
       "waliyun",
-      22854
+      22859
     ],
     [
       "@uua/icons",
-      7771
+      7772
     ],
     [
       "leader.js.cool",
@@ -50,15 +50,15 @@
     ],
     [
       "appkey",
-      4052
+      4054
     ],
     [
       "coding-sdk",
-      3931
+      3933
     ],
     [
       "mock-redis",
-      3828
+      3830
     ],
     [
       "wtoys",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      3067
+      3069
     ],
     [
       "vchart",
-      2682
+      2687
     ],
     [
       "gitbook-plugin-autotheme",
@@ -90,7 +90,7 @@
     ],
     [
       "auto-deployer",
-      2189
+      2191
     ],
     [
       "hapi-auth-redis",
@@ -106,7 +106,7 @@
     ],
     [
       "atl",
-      2021
+      2023
     ],
     [
       "hello-dolly",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1792
+      1794
     ],
     [
       "wno",
@@ -178,7 +178,7 @@
     ],
     [
       "remix-i18n",
-      1099
+      1104
     ],
     [
       "@shiwangme/redis",
@@ -186,11 +186,11 @@
     ],
     [
       "@uua/core",
-      1026
+      1027
     ],
     [
       "beian-domain",
-      992
+      993
     ],
     [
       "h1de",
@@ -202,7 +202,7 @@
     ],
     [
       "coding-deploy",
-      910
+      912
     ],
     [
       "@x12/env",
@@ -210,7 +210,7 @@
     ],
     [
       "awth",
-      899
+      901
     ],
     [
       "markdown-toc-gitbook",
@@ -226,7 +226,7 @@
     ],
     [
       "rxdis",
-      810
+      812
     ],
     [
       "wdouban",
@@ -258,11 +258,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      649
+      650
     ],
     [
       "sdk0",
-      633
+      634
     ],
     [
       "@authing/nextjs",
@@ -278,7 +278,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      532
+      533
     ],
     [
       "hdd",
@@ -349,5 +349,5 @@
       166
     ]
   ],
-  "sum": 754746
+  "sum": 755000
 }
