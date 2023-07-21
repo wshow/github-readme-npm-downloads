@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      371582
+      371884
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,7 +10,7 @@
     ],
     [
       "gitbook-plugin-donate",
-      69621
+      69626
     ],
     [
       "waliyun",
@@ -18,7 +18,7 @@
     ],
     [
       "@uua/icons",
-      7772
+      7777
     ],
     [
       "leader.js.cool",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5227
+      5228
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "appkey",
-      4054
+      4055
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3830
+      3833
     ],
     [
       "wtoys",
@@ -74,15 +74,15 @@
     ],
     [
       "vchart",
-      2687
+      2688
     ],
     [
       "gitbook-plugin-autotheme",
-      2615
+      2616
     ],
     [
       "hyperapp.js.cool",
-      2258
+      2259
     ],
     [
       "wqcloud-video",
@@ -149,12 +149,12 @@
       1388
     ],
     [
-      "@xibang/node-common",
-      1217
+      "wechaty-authing",
+      1221
     ],
     [
-      "wechaty-authing",
-      1208
+      "@xibang/node-common",
+      1217
     ],
     [
       "mp-sdk",
@@ -186,7 +186,7 @@
     ],
     [
       "@uua/core",
-      1027
+      1028
     ],
     [
       "beian-domain",
@@ -226,7 +226,7 @@
     ],
     [
       "rxdis",
-      812
+      813
     ],
     [
       "wdouban",
@@ -338,7 +338,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      248
+      249
     ],
     [
       "remix-sanity",
@@ -349,5 +349,5 @@
       166
     ]
   ],
-  "sum": 755000
+  "sum": 755336
 }
