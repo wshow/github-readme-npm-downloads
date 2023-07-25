@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      372621
+      372908
     ],
     [
       "gitbook-plugin-atoc",
-      147840
+      147843
     ],
     [
       "gitbook-plugin-donate",
-      69628
+      69630
     ],
     [
       "waliyun",
-      22883
+      22887
     ],
     [
       "@uua/icons",
-      7781
+      7782
     ],
     [
       "leader.js.cool",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5931
+      5932
     ],
     [
       "wqcloud",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5231
+      5236
     ],
     [
       "koa-api-logger",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3476
+      3477
     ],
     [
       "tuling",
@@ -78,11 +78,11 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2619
+      2621
     ],
     [
       "hyperapp.js.cool",
-      2263
+      2265
     ],
     [
       "wqcloud-video",
@@ -90,15 +90,15 @@
     ],
     [
       "auto-deployer",
-      2192
+      2193
     ],
     [
       "hapi-auth-redis",
-      2155
+      2157
     ],
     [
       "wrescuetime",
-      2152
+      2153
     ],
     [
       "nuxtpress",
@@ -106,15 +106,15 @@
     ],
     [
       "atl",
-      2030
+      2031
     ],
     [
       "hello-dolly",
-      1980
+      1981
     ],
     [
       "gitbook-plugin-theme-material",
-      1949
+      1951
     ],
     [
       "coding-net",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1590
+      1591
     ],
     [
       "v0-scf",
@@ -142,15 +142,15 @@
     ],
     [
       "@x12/tasker",
-      1420
+      1421
     ],
     [
       "wnm",
-      1388
+      1389
     ],
     [
       "wechaty-authing",
-      1221
+      1222
     ],
     [
       "@xibang/node-common",
@@ -178,7 +178,7 @@
     ],
     [
       "remix-i18n",
-      1107
+      1108
     ],
     [
       "@shiwangme/redis",
@@ -210,7 +210,7 @@
     ],
     [
       "awth",
-      901
+      902
     ],
     [
       "markdown-toc-gitbook",
@@ -226,15 +226,15 @@
     ],
     [
       "rxdis",
-      813
+      814
     ],
     [
       "wdouban",
-      797
+      798
     ],
     [
       "@willin/eslint-config",
-      789
+      790
     ],
     [
       "wulian",
@@ -294,7 +294,7 @@
     ],
     [
       "willin",
-      483
+      484
     ],
     [
       "@x12/common",
@@ -302,7 +302,7 @@
     ],
     [
       "whiteq",
-      436
+      437
     ],
     [
       "@x12/mongodb",
@@ -310,7 +310,7 @@
     ],
     [
       "@x12/promise",
-      382
+      383
     ],
     [
       "afdian",
@@ -318,7 +318,7 @@
     ],
     [
       "random-target",
-      368
+      369
     ],
     [
       "ggql",
@@ -349,5 +349,5 @@
       166
     ]
   ],
-  "sum": 756191
+  "sum": 756520
 }
