@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      372908
+      373176
     ],
     [
       "gitbook-plugin-atoc",
-      147843
+      147848
     ],
     [
       "gitbook-plugin-donate",
-      69630
+      69655
     ],
     [
       "waliyun",
-      22887
+      22898
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "leader.js.cool",
-      7166
+      7167
     ],
     [
       "yunpian-sdk",
@@ -30,11 +30,11 @@
     ],
     [
       "koa-swagger-ui",
-      6577
+      6578
     ],
     [
       "gitbook-plugin-wordcount",
-      5932
+      5933
     ],
     [
       "wqcloud",
@@ -46,7 +46,7 @@
     ],
     [
       "koa-api-logger",
-      4297
+      4298
     ],
     [
       "appkey",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      3073
+      3074
     ],
     [
       "vchart",
@@ -78,11 +78,11 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2621
+      2622
     ],
     [
       "hyperapp.js.cool",
-      2265
+      2270
     ],
     [
       "wqcloud-video",
@@ -94,7 +94,7 @@
     ],
     [
       "hapi-auth-redis",
-      2157
+      2161
     ],
     [
       "wrescuetime",
@@ -110,7 +110,7 @@
     ],
     [
       "hello-dolly",
-      1981
+      1984
     ],
     [
       "gitbook-plugin-theme-material",
@@ -138,7 +138,7 @@
     ],
     [
       "@authing/remix",
-      1451
+      1452
     ],
     [
       "@x12/tasker",
@@ -170,11 +170,11 @@
     ],
     [
       "less.js.cool",
-      1130
+      1131
     ],
     [
       "hyperapp-i18n",
-      1121
+      1124
     ],
     [
       "remix-i18n",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      954
+      961
     ],
     [
       "nativescript-icam",
@@ -214,7 +214,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      886
+      887
     ],
     [
       "uua",
@@ -242,7 +242,7 @@
     ],
     [
       "z-curve",
-      775
+      776
     ],
     [
       "vuepress-theme-asshole",
@@ -266,11 +266,11 @@
     ],
     [
       "@authing/nextjs",
-      630
+      631
     ],
     [
       "edd",
-      542
+      543
     ],
     [
       "fetch-pro",
@@ -282,7 +282,7 @@
     ],
     [
       "hdd",
-      526
+      528
     ],
     [
       "@xibang/redis",
@@ -349,5 +349,5 @@
       166
     ]
   ],
-  "sum": 756520
+  "sum": 756865
 }
