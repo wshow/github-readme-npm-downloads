@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      373176
+      373477
     ],
     [
       "gitbook-plugin-atoc",
-      147848
+      147852
     ],
     [
       "gitbook-plugin-donate",
-      69655
+      69658
     ],
     [
       "waliyun",
-      22898
+      22900
     ],
     [
       "@uua/icons",
-      7782
+      7784
     ],
     [
       "leader.js.cool",
-      7167
+      7168
     ],
     [
       "yunpian-sdk",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5648
+      5650
     ],
     [
       "v0",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      3074
+      3075
     ],
     [
       "vchart",
@@ -82,7 +82,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2270
+      2271
     ],
     [
       "wqcloud-video",
@@ -94,7 +94,7 @@
     ],
     [
       "hapi-auth-redis",
-      2161
+      2162
     ],
     [
       "wrescuetime",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1951
+      1952
     ],
     [
       "coding-net",
@@ -166,7 +166,7 @@
     ],
     [
       "mmonit",
-      1142
+      1143
     ],
     [
       "less.js.cool",
@@ -174,7 +174,7 @@
     ],
     [
       "hyperapp-i18n",
-      1124
+      1125
     ],
     [
       "remix-i18n",
@@ -190,7 +190,7 @@
     ],
     [
       "beian-domain",
-      994
+      995
     ],
     [
       "h1de",
@@ -198,7 +198,7 @@
     ],
     [
       "nativescript-icam",
-      925
+      926
     ],
     [
       "coding-deploy",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      651
+      653
     ],
     [
       "sdk0",
@@ -278,7 +278,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      534
+      535
     ],
     [
       "hdd",
@@ -349,5 +349,5 @@
       166
     ]
   ],
-  "sum": 756865
+  "sum": 757191
 }
