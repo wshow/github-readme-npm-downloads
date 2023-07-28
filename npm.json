@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      373477
+      373789
     ],
     [
       "gitbook-plugin-atoc",
-      147852
+      147854
     ],
     [
       "gitbook-plugin-donate",
-      69658
+      69659
     ],
     [
       "waliyun",
-      22900
+      22901
     ],
     [
       "@uua/icons",
-      7784
+      7785
     ],
     [
       "leader.js.cool",
@@ -26,11 +26,11 @@
     ],
     [
       "yunpian-sdk",
-      7157
+      7158
     ],
     [
       "koa-swagger-ui",
-      6578
+      6580
     ],
     [
       "gitbook-plugin-wordcount",
@@ -70,15 +70,15 @@
     ],
     [
       "eslint-config-willin",
-      3075
+      3076
     ],
     [
       "vchart",
-      2690
+      2691
     ],
     [
       "gitbook-plugin-autotheme",
-      2622
+      2626
     ],
     [
       "hyperapp.js.cool",
@@ -110,7 +110,7 @@
     ],
     [
       "hello-dolly",
-      1984
+      1985
     ],
     [
       "gitbook-plugin-theme-material",
@@ -130,7 +130,7 @@
     ],
     [
       "@x12/hosts",
-      1472
+      1473
     ],
     [
       "@x12/di",
@@ -154,7 +154,7 @@
     ],
     [
       "@xibang/node-common",
-      1220
+      1221
     ],
     [
       "mp-sdk",
@@ -178,15 +178,15 @@
     ],
     [
       "remix-i18n",
-      1108
+      1116
     ],
     [
       "@shiwangme/redis",
-      1042
+      1043
     ],
     [
       "@uua/core",
-      1030
+      1031
     ],
     [
       "beian-domain",
@@ -234,7 +234,7 @@
     ],
     [
       "@willin/eslint-config",
-      790
+      791
     ],
     [
       "wulian",
@@ -254,7 +254,7 @@
     ],
     [
       "@uua/ip2c",
-      668
+      669
     ],
     [
       "@dwing/koa-joi-router",
@@ -274,7 +274,7 @@
     ],
     [
       "fetch-pro",
-      539
+      540
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -286,7 +286,7 @@
     ],
     [
       "@xibang/redis",
-      526
+      527
     ],
     [
       "@xibang/mysql",
@@ -346,8 +346,8 @@
     ],
     [
       "passport-authing",
-      166
+      167
     ]
   ],
-  "sum": 757191
+  "sum": 757535
 }
