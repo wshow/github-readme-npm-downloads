@@ -2,15 +2,15 @@
   "stats": [
     [
       "hexo-wordcount",
-      373789
+      374257
     ],
     [
       "gitbook-plugin-atoc",
-      147854
+      147857
     ],
     [
       "gitbook-plugin-donate",
-      69659
+      69660
     ],
     [
       "waliyun",
@@ -18,7 +18,7 @@
     ],
     [
       "@uua/icons",
-      7785
+      7786
     ],
     [
       "leader.js.cool",
@@ -78,7 +78,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2626
+      2627
     ],
     [
       "hyperapp.js.cool",
@@ -106,7 +106,7 @@
     ],
     [
       "atl",
-      2031
+      2033
     ],
     [
       "hello-dolly",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1591
+      1592
     ],
     [
       "v0-scf",
@@ -130,7 +130,7 @@
     ],
     [
       "@x12/hosts",
-      1473
+      1474
     ],
     [
       "@x12/di",
@@ -142,19 +142,19 @@
     ],
     [
       "@x12/tasker",
-      1421
+      1422
     ],
     [
       "wnm",
       1389
     ],
     [
-      "wechaty-authing",
+      "@xibang/node-common",
       1222
     ],
     [
-      "@xibang/node-common",
-      1221
+      "wechaty-authing",
+      1222
     ],
     [
       "mp-sdk",
@@ -182,11 +182,11 @@
     ],
     [
       "@shiwangme/redis",
-      1043
+      1044
     ],
     [
       "@uua/core",
-      1031
+      1032
     ],
     [
       "beian-domain",
@@ -206,7 +206,7 @@
     ],
     [
       "@x12/env",
-      909
+      910
     ],
     [
       "awth",
@@ -226,7 +226,7 @@
     ],
     [
       "rxdis",
-      814
+      815
     ],
     [
       "wdouban",
@@ -234,7 +234,7 @@
     ],
     [
       "@willin/eslint-config",
-      791
+      792
     ],
     [
       "wulian",
@@ -242,7 +242,7 @@
     ],
     [
       "z-curve",
-      776
+      777
     ],
     [
       "vuepress-theme-asshole",
@@ -250,11 +250,11 @@
     ],
     [
       "leancloud-sdk",
-      670
+      671
     ],
     [
       "@uua/ip2c",
-      669
+      670
     ],
     [
       "@dwing/koa-joi-router",
@@ -286,11 +286,11 @@
     ],
     [
       "@xibang/redis",
-      527
+      528
     ],
     [
       "@xibang/mysql",
-      493
+      494
     ],
     [
       "willin",
@@ -298,7 +298,7 @@
     ],
     [
       "@x12/common",
-      452
+      453
     ],
     [
       "whiteq",
@@ -306,11 +306,11 @@
     ],
     [
       "@x12/mongodb",
-      391
+      392
     ],
     [
       "@x12/promise",
-      383
+      384
     ],
     [
       "afdian",
@@ -322,11 +322,11 @@
     ],
     [
       "ggql",
-      304
+      305
     ],
     [
       "@x12/task-types",
-      301
+      302
     ],
     [
       "npm-badges",
@@ -334,7 +334,7 @@
     ],
     [
       "@x12/rx-pool",
-      281
+      282
     ],
     [
       "remote-cloudflare-kv",
@@ -349,5 +349,5 @@
       167
     ]
   ],
-  "sum": 757535
+  "sum": 758031
 }
