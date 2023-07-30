@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      374257
+      374524
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      69660
+      69661
     ],
     [
       "waliyun",
-      22901
+      22902
     ],
     [
       "@uua/icons",
-      7786
+      7787
     ],
     [
       "leader.js.cool",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5236
+      5239
     ],
     [
       "koa-api-logger",
@@ -50,11 +50,11 @@
     ],
     [
       "appkey",
-      4056
+      4057
     ],
     [
       "coding-sdk",
-      3935
+      3936
     ],
     [
       "mock-redis",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      3076
+      3078
     ],
     [
       "vchart",
@@ -78,11 +78,11 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2627
+      2630
     ],
     [
       "hyperapp.js.cool",
-      2271
+      2272
     ],
     [
       "wqcloud-video",
@@ -90,7 +90,7 @@
     ],
     [
       "auto-deployer",
-      2193
+      2194
     ],
     [
       "hapi-auth-redis",
@@ -106,7 +106,7 @@
     ],
     [
       "atl",
-      2033
+      2034
     ],
     [
       "hello-dolly",
@@ -118,11 +118,11 @@
     ],
     [
       "coding-net",
-      1794
+      1795
     ],
     [
       "wno",
-      1592
+      1595
     ],
     [
       "v0-scf",
@@ -190,11 +190,11 @@
     ],
     [
       "beian-domain",
-      995
+      996
     ],
     [
       "h1de",
-      961
+      962
     ],
     [
       "nativescript-icam",
@@ -202,7 +202,7 @@
     ],
     [
       "coding-deploy",
-      912
+      913
     ],
     [
       "@x12/env",
@@ -226,7 +226,7 @@
     ],
     [
       "rxdis",
-      815
+      817
     ],
     [
       "wdouban",
@@ -282,7 +282,7 @@
     ],
     [
       "hdd",
-      528
+      529
     ],
     [
       "@xibang/redis",
@@ -349,5 +349,5 @@
       167
     ]
   ],
-  "sum": 758031
+  "sum": 758324
 }
