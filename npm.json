@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      374524
+      374836
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      69661
+      69663
     ],
     [
       "waliyun",
-      22902
+      22905
     ],
     [
       "@uua/icons",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      3078
+      3082
     ],
     [
       "vchart",
-      2691
+      2692
     ],
     [
       "gitbook-plugin-autotheme",
@@ -82,7 +82,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2272
+      2274
     ],
     [
       "wqcloud-video",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1795
+      1796
     ],
     [
       "wno",
@@ -130,7 +130,7 @@
     ],
     [
       "@x12/hosts",
-      1474
+      1475
     ],
     [
       "@x12/di",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1222
+      1225
     ],
     [
       "wechaty-authing",
@@ -174,7 +174,7 @@
     ],
     [
       "hyperapp-i18n",
-      1125
+      1126
     ],
     [
       "remix-i18n",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      962
+      963
     ],
     [
       "nativescript-icam",
@@ -226,7 +226,7 @@
     ],
     [
       "rxdis",
-      817
+      818
     ],
     [
       "wdouban",
@@ -234,7 +234,7 @@
     ],
     [
       "@willin/eslint-config",
-      792
+      793
     ],
     [
       "wulian",
@@ -270,7 +270,7 @@
     ],
     [
       "edd",
-      543
+      544
     ],
     [
       "fetch-pro",
@@ -286,11 +286,11 @@
     ],
     [
       "@xibang/redis",
-      528
+      529
     ],
     [
       "@xibang/mysql",
-      494
+      495
     ],
     [
       "willin",
@@ -349,5 +349,5 @@
       167
     ]
   ],
-  "sum": 758324
+  "sum": 758660
 }
