@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      374836
+      375253
     ],
     [
       "gitbook-plugin-atoc",
-      147857
+      147859
     ],
     [
       "gitbook-plugin-donate",
-      69663
+      69664
     ],
     [
       "waliyun",
-      22905
+      22908
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      7158
+      7159
     ],
     [
       "koa-swagger-ui",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5933
+      5934
     ],
     [
       "wqcloud",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5239
+      5242
     ],
     [
       "koa-api-logger",
@@ -74,15 +74,15 @@
     ],
     [
       "vchart",
-      2692
+      2693
     ],
     [
       "gitbook-plugin-autotheme",
-      2630
+      2631
     ],
     [
       "hyperapp.js.cool",
-      2274
+      2275
     ],
     [
       "wqcloud-video",
@@ -94,7 +94,7 @@
     ],
     [
       "hapi-auth-redis",
-      2162
+      2163
     ],
     [
       "wrescuetime",
@@ -110,11 +110,11 @@
     ],
     [
       "hello-dolly",
-      1985
+      1986
     ],
     [
       "gitbook-plugin-theme-material",
-      1952
+      1953
     ],
     [
       "coding-net",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1225
+      1226
     ],
     [
       "wechaty-authing",
@@ -174,7 +174,7 @@
     ],
     [
       "hyperapp-i18n",
-      1126
+      1127
     ],
     [
       "remix-i18n",
@@ -186,11 +186,11 @@
     ],
     [
       "@uua/core",
-      1032
+      1033
     ],
     [
       "beian-domain",
-      996
+      997
     ],
     [
       "h1de",
@@ -226,7 +226,7 @@
     ],
     [
       "rxdis",
-      818
+      819
     ],
     [
       "wdouban",
@@ -274,7 +274,7 @@
     ],
     [
       "fetch-pro",
-      540
+      541
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -282,15 +282,15 @@
     ],
     [
       "hdd",
-      529
+      530
     ],
     [
       "@xibang/redis",
-      529
+      530
     ],
     [
       "@xibang/mysql",
-      495
+      496
     ],
     [
       "willin",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      372
+      373
     ],
     [
       "random-target",
@@ -349,5 +349,5 @@
       167
     ]
   ],
-  "sum": 758660
+  "sum": 759104
 }
