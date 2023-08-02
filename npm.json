@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      375253
+      375783
     ],
     [
       "gitbook-plugin-atoc",
-      147859
+      147864
     ],
     [
       "gitbook-plugin-donate",
@@ -14,15 +14,15 @@
     ],
     [
       "waliyun",
-      22908
+      22911
     ],
     [
       "@uua/icons",
-      7787
+      7788
     ],
     [
       "leader.js.cool",
-      7168
+      7169
     ],
     [
       "yunpian-sdk",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6580
+      6581
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,11 +42,11 @@
     ],
     [
       "v0",
-      5242
+      5243
     ],
     [
       "koa-api-logger",
-      4298
+      4299
     ],
     [
       "appkey",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3833
+      3853
     ],
     [
       "wtoys",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      3082
+      3084
     ],
     [
       "vchart",
@@ -78,15 +78,15 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2631
+      2632
     ],
     [
       "hyperapp.js.cool",
-      2275
+      2276
     ],
     [
       "wqcloud-video",
-      2243
+      2244
     ],
     [
       "auto-deployer",
@@ -166,7 +166,7 @@
     ],
     [
       "mmonit",
-      1143
+      1144
     ],
     [
       "less.js.cool",
@@ -190,7 +190,7 @@
     ],
     [
       "beian-domain",
-      997
+      998
     ],
     [
       "h1de",
@@ -214,7 +214,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      887
+      888
     ],
     [
       "uua",
@@ -250,7 +250,7 @@
     ],
     [
       "leancloud-sdk",
-      671
+      672
     ],
     [
       "@uua/ip2c",
@@ -349,5 +349,5 @@
       167
     ]
   ],
-  "sum": 759104
+  "sum": 759676
 }
