@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      376166
+      376583
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      22911
+      22928
     ],
     [
       "@uua/icons",
-      7793
+      7794
     ],
     [
       "leader.js.cool",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      7160
+      7161
     ],
     [
       "koa-swagger-ui",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5244
+      5245
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "appkey",
-      4058
+      4059
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3853
+      3854
     ],
     [
       "wtoys",
@@ -66,11 +66,11 @@
     ],
     [
       "tuling",
-      3217
+      3218
     ],
     [
       "eslint-config-willin",
-      3084
+      3090
     ],
     [
       "vchart",
@@ -78,11 +78,11 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2634
+      2654
     ],
     [
       "hyperapp.js.cool",
-      2277
+      2278
     ],
     [
       "wqcloud-video",
@@ -158,7 +158,7 @@
     ],
     [
       "mp-sdk",
-      1204
+      1206
     ],
     [
       "lslint",
@@ -190,7 +190,7 @@
     ],
     [
       "beian-domain",
-      998
+      999
     ],
     [
       "h1de",
@@ -226,7 +226,7 @@
     ],
     [
       "rxdis",
-      819
+      821
     ],
     [
       "wdouban",
@@ -234,7 +234,7 @@
     ],
     [
       "@willin/eslint-config",
-      793
+      794
     ],
     [
       "wulian",
@@ -258,11 +258,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      653
+      654
     ],
     [
       "sdk0",
-      634
+      635
     ],
     [
       "@authing/nextjs",
@@ -342,12 +342,12 @@
     ],
     [
       "remix-sanity",
-      245
+      246
     ],
     [
       "passport-authing",
       168
     ]
   ],
-  "sum": 760094
+  "sum": 760570
 }
