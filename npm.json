@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      376583
+      376865
     ],
     [
       "gitbook-plugin-atoc",
-      147864
+      147887
     ],
     [
       "gitbook-plugin-donate",
-      69665
+      69667
     ],
     [
       "waliyun",
-      22928
+      22938
     ],
     [
       "@uua/icons",
-      7794
+      7795
     ],
     [
       "leader.js.cool",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      7161
+      7162
     ],
     [
       "koa-swagger-ui",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5650
+      5651
     ],
     [
       "v0",
@@ -66,11 +66,11 @@
     ],
     [
       "tuling",
-      3218
+      3219
     ],
     [
       "eslint-config-willin",
-      3090
+      3091
     ],
     [
       "vchart",
@@ -78,15 +78,15 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2654
+      2662
     ],
     [
       "hyperapp.js.cool",
-      2278
+      2279
     ],
     [
       "wqcloud-video",
-      2244
+      2245
     ],
     [
       "auto-deployer",
@@ -98,7 +98,7 @@
     ],
     [
       "wrescuetime",
-      2153
+      2154
     ],
     [
       "nuxtpress",
@@ -122,27 +122,27 @@
     ],
     [
       "wno",
-      1595
+      1596
     ],
     [
       "v0-scf",
-      1533
+      1534
     ],
     [
       "@x12/hosts",
-      1475
+      1476
     ],
     [
       "@x12/di",
-      1471
+      1472
     ],
     [
       "@authing/remix",
-      1452
+      1453
     ],
     [
       "@x12/tasker",
-      1422
+      1423
     ],
     [
       "wnm",
@@ -186,7 +186,7 @@
     ],
     [
       "@uua/core",
-      1033
+      1035
     ],
     [
       "beian-domain",
@@ -202,11 +202,11 @@
     ],
     [
       "coding-deploy",
-      913
+      915
     ],
     [
       "@x12/env",
-      910
+      911
     ],
     [
       "awth",
@@ -234,11 +234,11 @@
     ],
     [
       "@willin/eslint-config",
-      794
+      796
     ],
     [
       "wulian",
-      778
+      779
     ],
     [
       "z-curve",
@@ -298,7 +298,7 @@
     ],
     [
       "@x12/common",
-      453
+      454
     ],
     [
       "whiteq",
@@ -306,11 +306,11 @@
     ],
     [
       "@x12/mongodb",
-      392
+      393
     ],
     [
       "@x12/promise",
-      384
+      385
     ],
     [
       "afdian",
@@ -326,7 +326,7 @@
     ],
     [
       "@x12/task-types",
-      302
+      303
     ],
     [
       "npm-badges",
@@ -334,7 +334,7 @@
     ],
     [
       "@x12/rx-pool",
-      282
+      283
     ],
     [
       "remote-cloudflare-kv",
@@ -349,5 +349,5 @@
       168
     ]
   ],
-  "sum": 760570
+  "sum": 760922
 }
