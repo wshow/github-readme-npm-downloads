@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      376865
+      377218
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      22938
+      22939
     ],
     [
       "@uua/icons",
-      7795
+      7796
     ],
     [
       "leader.js.cool",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      7162
+      7163
     ],
     [
       "koa-swagger-ui",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5245
+      5246
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3854
+      3855
     ],
     [
       "wtoys",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      3091
+      3093
     ],
     [
       "vchart",
@@ -78,11 +78,11 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2662
+      2668
     ],
     [
       "hyperapp.js.cool",
-      2279
+      2281
     ],
     [
       "wqcloud-video",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2066
+      2067
     ],
     [
       "atl",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      963
+      964
     ],
     [
       "nativescript-icam",
@@ -226,7 +226,7 @@
     ],
     [
       "rxdis",
-      821
+      822
     ],
     [
       "wdouban",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      373
+      381
     ],
     [
       "random-target",
@@ -330,7 +330,7 @@
     ],
     [
       "npm-badges",
-      297
+      298
     ],
     [
       "@x12/rx-pool",
@@ -349,5 +349,5 @@
       168
     ]
   ],
-  "sum": 760922
+  "sum": 761302
 }
