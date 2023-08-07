@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      377218
+      377591
     ],
     [
       "gitbook-plugin-atoc",
@@ -18,7 +18,7 @@
     ],
     [
       "@uua/icons",
-      7796
+      7799
     ],
     [
       "leader.js.cool",
@@ -26,7 +26,7 @@
     ],
     [
       "yunpian-sdk",
-      7163
+      7164
     ],
     [
       "koa-swagger-ui",
@@ -78,11 +78,11 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2668
+      2669
     ],
     [
       "hyperapp.js.cool",
-      2281
+      2282
     ],
     [
       "wqcloud-video",
@@ -169,12 +169,12 @@
       1144
     ],
     [
-      "less.js.cool",
-      1131
+      "remix-i18n",
+      1132
     ],
     [
-      "remix-i18n",
-      1129
+      "less.js.cool",
+      1131
     ],
     [
       "hyperapp-i18n",
@@ -346,8 +346,8 @@
     ],
     [
       "passport-authing",
-      168
+      169
     ]
   ],
-  "sum": 761302
+  "sum": 761685
 }
