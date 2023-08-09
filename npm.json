@@ -2,35 +2,35 @@
   "stats": [
     [
       "hexo-wordcount",
-      377843
+      378175
     ],
     [
       "gitbook-plugin-atoc",
-      147887
+      147888
     ],
     [
       "gitbook-plugin-donate",
-      69669
+      69671
     ],
     [
       "waliyun",
-      22945
+      22947
     ],
     [
       "@uua/icons",
-      7805
+      7807
     ],
     [
       "leader.js.cool",
-      7170
+      7171
     ],
     [
       "yunpian-sdk",
-      7165
+      7168
     ],
     [
       "koa-swagger-ui",
-      6581
+      6582
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5248
+      5249
     ],
     [
       "koa-api-logger",
@@ -70,19 +70,19 @@
     ],
     [
       "eslint-config-willin",
-      3094
+      3095
     ],
     [
       "vchart",
-      2693
+      2694
     ],
     [
       "gitbook-plugin-autotheme",
-      2669
+      2682
     ],
     [
       "hyperapp.js.cool",
-      2283
+      2284
     ],
     [
       "wqcloud-video",
@@ -110,7 +110,7 @@
     ],
     [
       "hello-dolly",
-      1986
+      1987
     ],
     [
       "gitbook-plugin-theme-material",
@@ -214,7 +214,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      888
+      889
     ],
     [
       "uua",
@@ -229,12 +229,12 @@
       822
     ],
     [
-      "wdouban",
-      798
+      "@willin/eslint-config",
+      803
     ],
     [
-      "@willin/eslint-config",
-      796
+      "wdouban",
+      798
     ],
     [
       "wulian",
@@ -254,7 +254,7 @@
     ],
     [
       "@uua/ip2c",
-      670
+      671
     ],
     [
       "@dwing/koa-joi-router",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      635
+      636
     ],
     [
       "@authing/nextjs",
@@ -318,7 +318,7 @@
     ],
     [
       "random-target",
-      369
+      370
     ],
     [
       "ggql",
@@ -326,7 +326,7 @@
     ],
     [
       "@x12/task-types",
-      303
+      304
     ],
     [
       "npm-badges",
@@ -334,7 +334,7 @@
     ],
     [
       "@x12/rx-pool",
-      283
+      284
     ],
     [
       "remote-cloudflare-kv",
@@ -342,12 +342,12 @@
     ],
     [
       "remix-sanity",
-      246
+      247
     ],
     [
       "passport-authing",
       169
     ]
   ],
-  "sum": 761961
+  "sum": 762337
 }
