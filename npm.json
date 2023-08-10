@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      378175
+      378481
     ],
     [
       "gitbook-plugin-atoc",
-      147888
+      147890
     ],
     [
       "gitbook-plugin-donate",
-      69671
+      69672
     ],
     [
       "waliyun",
-      22947
+      22952
     ],
     [
       "@uua/icons",
-      7807
+      7808
     ],
     [
       "leader.js.cool",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5249
+      5251
     ],
     [
       "koa-api-logger",
@@ -54,7 +54,7 @@
     ],
     [
       "coding-sdk",
-      3936
+      3937
     ],
     [
       "mock-redis",
@@ -73,16 +73,16 @@
       3095
     ],
     [
-      "vchart",
-      2694
+      "gitbook-plugin-autotheme",
+      2696
     ],
     [
-      "gitbook-plugin-autotheme",
-      2682
+      "vchart",
+      2695
     ],
     [
       "hyperapp.js.cool",
-      2284
+      2285
     ],
     [
       "wqcloud-video",
@@ -218,7 +218,7 @@
     ],
     [
       "uua",
-      869
+      870
     ],
     [
       "pipefn",
@@ -226,11 +226,11 @@
     ],
     [
       "rxdis",
-      822
+      823
     ],
     [
       "@willin/eslint-config",
-      803
+      804
     ],
     [
       "wdouban",
@@ -349,5 +349,5 @@
       169
     ]
   ],
-  "sum": 762337
+  "sum": 762674
 }
