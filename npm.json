@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      378821
+      379080
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,23 +10,23 @@
     ],
     [
       "gitbook-plugin-donate",
-      69674
+      69683
     ],
     [
       "waliyun",
-      22981
+      22985
     ],
     [
       "@uua/icons",
-      7816
-    ],
-    [
-      "leader.js.cool",
-      7171
+      7817
     ],
     [
       "yunpian-sdk",
-      7168
+      7174
+    ],
+    [
+      "leader.js.cool",
+      7172
     ],
     [
       "koa-swagger-ui",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5253
+      5255
     ],
     [
       "koa-api-logger",
@@ -50,11 +50,11 @@
     ],
     [
       "appkey",
-      4063
+      4074
     ],
     [
       "coding-sdk",
-      3938
+      3943
     ],
     [
       "mock-redis",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      3095
+      3096
     ],
     [
       "gitbook-plugin-autotheme",
-      2702
+      2712
     ],
     [
       "vchart",
@@ -82,7 +82,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2286
+      2288
     ],
     [
       "wqcloud-video",
@@ -90,7 +90,7 @@
     ],
     [
       "auto-deployer",
-      2195
+      2206
     ],
     [
       "hapi-auth-redis",
@@ -106,7 +106,7 @@
     ],
     [
       "atl",
-      2037
+      2048
     ],
     [
       "hello-dolly",
@@ -114,11 +114,11 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1953
+      1954
     ],
     [
       "coding-net",
-      1797
+      1803
     ],
     [
       "wno",
@@ -162,7 +162,7 @@
     ],
     [
       "lslint",
-      1148
+      1149
     ],
     [
       "mmonit",
@@ -182,7 +182,7 @@
     ],
     [
       "@shiwangme/redis",
-      1045
+      1046
     ],
     [
       "@uua/core",
@@ -190,7 +190,7 @@
     ],
     [
       "beian-domain",
-      1002
+      1013
     ],
     [
       "h1de",
@@ -202,15 +202,15 @@
     ],
     [
       "coding-deploy",
-      916
+      921
+    ],
+    [
+      "awth",
+      914
     ],
     [
       "@x12/env",
       911
-    ],
-    [
-      "awth",
-      903
     ],
     [
       "markdown-toc-gitbook",
@@ -294,7 +294,7 @@
     ],
     [
       "willin",
-      484
+      485
     ],
     [
       "@x12/common",
@@ -322,7 +322,7 @@
     ],
     [
       "ggql",
-      305
+      306
     ],
     [
       "@x12/task-types",
@@ -349,5 +349,5 @@
       169
     ]
   ],
-  "sum": 763083
+  "sum": 763454
 }
