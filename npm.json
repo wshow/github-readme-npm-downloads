@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      379331
+      379542
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      69692
+      69698
     ],
     [
       "waliyun",
-      22986
+      22990
     ],
     [
       "@uua/icons",
-      7819
+      7821
     ],
     [
       "yunpian-sdk",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6582
+      6583
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,23 +38,23 @@
     ],
     [
       "wqcloud",
-      5651
+      5652
     ],
     [
       "v0",
-      5255
+      5256
     ],
     [
       "koa-api-logger",
-      4299
+      4300
     ],
     [
       "appkey",
-      4075
+      4132
     ],
     [
       "coding-sdk",
-      3943
+      3944
     ],
     [
       "mock-redis",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      3096
+      3097
     ],
     [
       "gitbook-plugin-autotheme",
@@ -78,19 +78,19 @@
     ],
     [
       "vchart",
-      2695
+      2697
     ],
     [
       "hyperapp.js.cool",
-      2288
+      2289
+    ],
+    [
+      "auto-deployer",
+      2258
     ],
     [
       "wqcloud-video",
       2245
-    ],
-    [
-      "auto-deployer",
-      2207
     ],
     [
       "hapi-auth-redis",
@@ -101,12 +101,12 @@
       2154
     ],
     [
-      "nuxtpress",
-      2067
+      "atl",
+      2124
     ],
     [
-      "atl",
-      2049
+      "nuxtpress",
+      2067
     ],
     [
       "hello-dolly",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1803
+      1804
     ],
     [
       "wno",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1534
+      1535
     ],
     [
       "@x12/hosts",
@@ -138,7 +138,7 @@
     ],
     [
       "@authing/remix",
-      1453
+      1465
     ],
     [
       "@x12/tasker",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1227
+      1229
     ],
     [
       "wechaty-authing",
@@ -170,7 +170,7 @@
     ],
     [
       "remix-i18n",
-      1132
+      1136
     ],
     [
       "less.js.cool",
@@ -182,7 +182,7 @@
     ],
     [
       "@shiwangme/redis",
-      1046
+      1048
     ],
     [
       "@uua/core",
@@ -202,11 +202,11 @@
     ],
     [
       "coding-deploy",
-      921
+      922
     ],
     [
       "awth",
-      914
+      915
     ],
     [
       "@x12/env",
@@ -226,11 +226,11 @@
     ],
     [
       "rxdis",
-      824
+      825
     ],
     [
       "@willin/eslint-config",
-      806
+      807
     ],
     [
       "wdouban",
@@ -258,15 +258,15 @@
     ],
     [
       "@dwing/koa-joi-router",
-      655
+      656
     ],
     [
       "sdk0",
-      636
+      637
     ],
     [
       "@authing/nextjs",
-      631
+      635
     ],
     [
       "edd",
@@ -278,7 +278,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      536
+      537
     ],
     [
       "hdd",
@@ -346,8 +346,8 @@
     ],
     [
       "passport-authing",
-      169
+      170
     ]
   ],
-  "sum": 763734
+  "sum": 764183
 }
