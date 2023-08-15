@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      379542
+      379789
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      69698
+      69776
     ],
     [
       "waliyun",
-      22990
+      22993
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7176
+      7177
     ],
     [
       "leader.js.cool",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6583
+      6584
     ],
     [
       "gitbook-plugin-wordcount",
@@ -50,7 +50,7 @@
     ],
     [
       "appkey",
-      4132
+      4165
     ],
     [
       "coding-sdk",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      3097
+      3098
     ],
     [
       "gitbook-plugin-autotheme",
@@ -81,12 +81,12 @@
       2697
     ],
     [
-      "hyperapp.js.cool",
-      2289
+      "auto-deployer",
+      2292
     ],
     [
-      "auto-deployer",
-      2258
+      "hyperapp.js.cool",
+      2290
     ],
     [
       "wqcloud-video",
@@ -97,12 +97,12 @@
       2163
     ],
     [
-      "wrescuetime",
-      2154
+      "atl",
+      2159
     ],
     [
-      "atl",
-      2124
+      "wrescuetime",
+      2154
     ],
     [
       "nuxtpress",
@@ -178,7 +178,7 @@
     ],
     [
       "hyperapp-i18n",
-      1127
+      1128
     ],
     [
       "@shiwangme/redis",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      656
+      657
     ],
     [
       "sdk0",
@@ -278,7 +278,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      537
+      538
     ],
     [
       "hdd",
@@ -349,5 +349,5 @@
       170
     ]
   ],
-  "sum": 764183
+  "sum": 764620
 }
