@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      379789
+      380104
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      69776
+      69838
     ],
     [
       "waliyun",
-      22993
+      22997
     ],
     [
       "@uua/icons",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      3098
+      3099
     ],
     [
       "gitbook-plugin-autotheme",
-      2720
+      2732
     ],
     [
       "vchart",
@@ -86,7 +86,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2290
+      2291
     ],
     [
       "wqcloud-video",
@@ -98,7 +98,7 @@
     ],
     [
       "atl",
-      2159
+      2160
     ],
     [
       "wrescuetime",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1804
+      1805
     ],
     [
       "wno",
@@ -166,7 +166,7 @@
     ],
     [
       "mmonit",
-      1144
+      1145
     ],
     [
       "remix-i18n",
@@ -190,7 +190,7 @@
     ],
     [
       "beian-domain",
-      1013
+      1014
     ],
     [
       "h1de",
@@ -230,7 +230,7 @@
     ],
     [
       "@willin/eslint-config",
-      807
+      811
     ],
     [
       "wdouban",
@@ -330,7 +330,7 @@
     ],
     [
       "npm-badges",
-      300
+      301
     ],
     [
       "@x12/rx-pool",
@@ -338,7 +338,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      250
+      252
     ],
     [
       "remix-sanity",
@@ -349,5 +349,5 @@
       170
     ]
   ],
-  "sum": 764620
+  "sum": 765026
 }
