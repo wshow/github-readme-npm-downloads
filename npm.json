@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      380356
+      380733
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,23 +10,23 @@
     ],
     [
       "gitbook-plugin-donate",
-      69920
+      69926
     ],
     [
       "waliyun",
-      22997
+      23001
     ],
     [
       "@uua/icons",
-      7821
+      7822
     ],
     [
       "yunpian-sdk",
-      7179
+      7181
     ],
     [
       "leader.js.cool",
-      7172
+      7174
     ],
     [
       "koa-swagger-ui",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5652
+      5653
     ],
     [
       "v0",
-      5256
+      5258
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "appkey",
-      4165
+      4166
     ],
     [
       "coding-sdk",
@@ -70,15 +70,15 @@
     ],
     [
       "eslint-config-willin",
-      3099
+      3101
     ],
     [
       "gitbook-plugin-autotheme",
-      2749
+      2776
     ],
     [
       "vchart",
-      2698
+      2700
     ],
     [
       "auto-deployer",
@@ -86,7 +86,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2291
+      2293
     ],
     [
       "wqcloud-video",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1535
+      1536
     ],
     [
       "@x12/hosts",
@@ -138,7 +138,7 @@
     ],
     [
       "@authing/remix",
-      1465
+      1466
     ],
     [
       "@x12/tasker",
@@ -198,7 +198,7 @@
     ],
     [
       "nativescript-icam",
-      927
+      928
     ],
     [
       "coding-deploy",
@@ -218,7 +218,7 @@
     ],
     [
       "uua",
-      870
+      871
     ],
     [
       "pipefn",
@@ -246,7 +246,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      722
+      723
     ],
     [
       "leancloud-sdk",
@@ -266,7 +266,7 @@
     ],
     [
       "@authing/nextjs",
-      636
+      637
     ],
     [
       "edd",
@@ -290,7 +290,7 @@
     ],
     [
       "@xibang/mysql",
-      496
+      497
     ],
     [
       "willin",
@@ -338,7 +338,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      252
+      253
     ],
     [
       "remix-sanity",
@@ -349,5 +349,5 @@
       170
     ]
   ],
-  "sum": 765388
+  "sum": 765825
 }
