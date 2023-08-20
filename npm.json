@@ -2,39 +2,39 @@
   "stats": [
     [
       "hexo-wordcount",
-      380976
+      381145
     ],
     [
       "gitbook-plugin-atoc",
-      147891
+      147892
     ],
     [
       "gitbook-plugin-donate",
-      69938
+      69945
     ],
     [
       "waliyun",
-      23013
+      23034
     ],
     [
       "@uua/icons",
-      7822
+      7827
     ],
     [
       "yunpian-sdk",
-      7182
+      7183
     ],
     [
       "leader.js.cool",
-      7174
+      7175
     ],
     [
       "koa-swagger-ui",
-      6584
+      6585
     ],
     [
       "gitbook-plugin-wordcount",
-      5937
+      5938
     ],
     [
       "wqcloud",
@@ -46,7 +46,7 @@
     ],
     [
       "koa-api-logger",
-      4300
+      4301
     ],
     [
       "appkey",
@@ -74,7 +74,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2806
+      2823
     ],
     [
       "vchart",
@@ -82,7 +82,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2294
+      2295
     ],
     [
       "auto-deployer",
@@ -110,7 +110,7 @@
     ],
     [
       "hello-dolly",
-      1988
+      1989
     ],
     [
       "gitbook-plugin-theme-material",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1392
+      1393
     ],
     [
       "@xibang/node-common",
@@ -174,7 +174,7 @@
     ],
     [
       "less.js.cool",
-      1131
+      1132
     ],
     [
       "hyperapp-i18n",
@@ -186,7 +186,7 @@
     ],
     [
       "@uua/core",
-      1036
+      1041
     ],
     [
       "beian-domain",
@@ -214,7 +214,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      889
+      890
     ],
     [
       "uua",
@@ -226,7 +226,7 @@
     ],
     [
       "rxdis",
-      825
+      826
     ],
     [
       "@willin/eslint-config",
@@ -242,19 +242,19 @@
     ],
     [
       "z-curve",
-      777
+      779
     ],
     [
       "vuepress-theme-asshole",
       723
     ],
     [
-      "leancloud-sdk",
-      673
+      "@uua/ip2c",
+      675
     ],
     [
-      "@uua/ip2c",
-      671
+      "leancloud-sdk",
+      673
     ],
     [
       "@dwing/koa-joi-router",
@@ -270,7 +270,7 @@
     ],
     [
       "edd",
-      544
+      545
     ],
     [
       "fetch-pro",
@@ -349,5 +349,5 @@
       170
     ]
   ],
-  "sum": 766154
+  "sum": 766397
 }
