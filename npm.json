@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      381982
+      382267
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,19 +10,19 @@
     ],
     [
       "gitbook-plugin-donate",
-      70002
+      70048
     ],
     [
       "waliyun",
-      23042
+      23061
     ],
     [
       "@uua/icons",
-      7840
+      7842
     ],
     [
       "yunpian-sdk",
-      7184
+      7186
     ],
     [
       "leader.js.cool",
@@ -30,15 +30,15 @@
     ],
     [
       "koa-swagger-ui",
-      6586
+      6587
     ],
     [
       "gitbook-plugin-wordcount",
-      5941
+      5948
     ],
     [
       "wqcloud",
-      5654
+      5655
     ],
     [
       "v0",
@@ -50,7 +50,7 @@
     ],
     [
       "appkey",
-      4172
+      4173
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3857
+      3859
     ],
     [
       "wtoys",
@@ -70,19 +70,19 @@
     ],
     [
       "eslint-config-willin",
-      3123
+      3125
     ],
     [
       "gitbook-plugin-autotheme",
-      2836
+      2847
     ],
     [
       "vchart",
-      2702
+      2703
     ],
     [
       "hyperapp.js.cool",
-      2298
+      2299
     ],
     [
       "auto-deployer",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1957
+      1958
     ],
     [
       "coding-net",
@@ -162,7 +162,7 @@
     ],
     [
       "mmonit",
-      1170
+      1171
     ],
     [
       "lslint",
@@ -182,11 +182,11 @@
     ],
     [
       "@shiwangme/redis",
-      1067
+      1068
     ],
     [
       "@uua/core",
-      1051
+      1053
     ],
     [
       "beian-domain",
@@ -194,11 +194,11 @@
     ],
     [
       "h1de",
-      965
+      966
     ],
     [
       "nativescript-icam",
-      943
+      944
     ],
     [
       "coding-deploy",
@@ -230,7 +230,7 @@
     ],
     [
       "@willin/eslint-config",
-      821
+      822
     ],
     [
       "wdouban",
@@ -250,7 +250,7 @@
     ],
     [
       "@uua/ip2c",
-      684
+      685
     ],
     [
       "leancloud-sdk",
@@ -286,7 +286,7 @@
     ],
     [
       "hdd",
-      530
+      531
     ],
     [
       "@xibang/mysql",
@@ -322,7 +322,7 @@
     ],
     [
       "ggql",
-      307
+      308
     ],
     [
       "@x12/task-types",
@@ -349,5 +349,5 @@
       170
     ]
   ],
-  "sum": 767535
+  "sum": 767927
 }
