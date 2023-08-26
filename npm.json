@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      382526
+      382852
     ],
     [
       "gitbook-plugin-atoc",
-      147895
+      147911
     ],
     [
       "gitbook-plugin-donate",
-      70055
+      70065
     ],
     [
       "waliyun",
-      23069
+      23076
     ],
     [
       "@uua/icons",
-      7844
+      7846
     ],
     [
       "yunpian-sdk",
-      7187
+      7188
     ],
     [
       "leader.js.cool",
@@ -34,11 +34,11 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5958
+      5960
     ],
     [
       "wqcloud",
-      5655
+      5656
     ],
     [
       "v0",
@@ -70,15 +70,15 @@
     ],
     [
       "eslint-config-willin",
-      3132
+      3134
     ],
     [
       "gitbook-plugin-autotheme",
-      2855
+      2863
     ],
     [
       "vchart",
-      2704
+      2705
     ],
     [
       "hyperapp.js.cool",
@@ -93,12 +93,12 @@
       2245
     ],
     [
-      "atl",
-      2167
+      "hapi-auth-redis",
+      2169
     ],
     [
-      "hapi-auth-redis",
-      2165
+      "atl",
+      2167
     ],
     [
       "wrescuetime",
@@ -110,11 +110,11 @@
     ],
     [
       "hello-dolly",
-      1989
+      1992
     ],
     [
       "gitbook-plugin-theme-material",
-      1958
+      1962
     ],
     [
       "coding-net",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1233
+      1234
     ],
     [
       "wechaty-authing",
@@ -166,7 +166,7 @@
     ],
     [
       "lslint",
-      1151
+      1152
     ],
     [
       "remix-i18n",
@@ -190,11 +190,11 @@
     ],
     [
       "beian-domain",
-      1016
+      1017
     ],
     [
       "h1de",
-      966
+      971
     ],
     [
       "nativescript-icam",
@@ -282,15 +282,15 @@
     ],
     [
       "@xibang/redis",
-      532
+      533
     ],
     [
       "hdd",
-      531
+      532
     ],
     [
       "@xibang/mysql",
-      499
+      500
     ],
     [
       "willin",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      384
+      385
     ],
     [
       "random-target",
@@ -322,7 +322,7 @@
     ],
     [
       "ggql",
-      308
+      309
     ],
     [
       "@x12/task-types",
@@ -334,11 +334,11 @@
     ],
     [
       "@x12/rx-pool",
-      285
+      286
     ],
     [
       "remote-cloudflare-kv",
-      255
+      256
     ],
     [
       "remix-sanity",
@@ -349,5 +349,5 @@
       170
     ]
   ],
-  "sum": 768246
+  "sum": 768648
 }
