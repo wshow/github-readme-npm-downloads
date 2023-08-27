@@ -2,35 +2,35 @@
   "stats": [
     [
       "hexo-wordcount",
-      382852
+      383102
     ],
     [
       "gitbook-plugin-atoc",
-      147911
+      147912
     ],
     [
       "gitbook-plugin-donate",
-      70065
+      70067
     ],
     [
       "waliyun",
-      23076
+      23077
     ],
     [
       "@uua/icons",
-      7846
+      7847
     ],
     [
       "yunpian-sdk",
-      7188
+      7189
     ],
     [
       "leader.js.cool",
-      7175
+      7186
     ],
     [
       "koa-swagger-ui",
-      6588
+      6603
     ],
     [
       "gitbook-plugin-wordcount",
@@ -46,7 +46,7 @@
     ],
     [
       "koa-api-logger",
-      4301
+      4320
     ],
     [
       "appkey",
@@ -74,7 +74,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2863
+      2866
     ],
     [
       "vchart",
@@ -82,7 +82,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2301
+      2304
     ],
     [
       "auto-deployer",
@@ -102,7 +102,7 @@
     ],
     [
       "wrescuetime",
-      2155
+      2156
     ],
     [
       "nuxtpress",
@@ -110,7 +110,7 @@
     ],
     [
       "hello-dolly",
-      1992
+      1993
     ],
     [
       "gitbook-plugin-theme-material",
@@ -162,11 +162,11 @@
     ],
     [
       "mmonit",
-      1171
+      1172
     ],
     [
       "lslint",
-      1152
+      1153
     ],
     [
       "remix-i18n",
@@ -174,11 +174,11 @@
     ],
     [
       "less.js.cool",
-      1132
+      1134
     ],
     [
       "hyperapp-i18n",
-      1129
+      1131
     ],
     [
       "@shiwangme/redis",
@@ -202,7 +202,7 @@
     ],
     [
       "coding-deploy",
-      924
+      925
     ],
     [
       "awth",
@@ -254,7 +254,7 @@
     ],
     [
       "leancloud-sdk",
-      673
+      675
     ],
     [
       "@dwing/koa-joi-router",
@@ -349,5 +349,5 @@
       170
     ]
   ],
-  "sum": 768648
+  "sum": 768966
 }
