@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      383102
+      383335
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      70067
+      70068
     ],
     [
       "waliyun",
-      23077
+      23079
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7189
+      7195
     ],
     [
       "leader.js.cool",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3860
+      3864
     ],
     [
       "wtoys",
@@ -94,7 +94,7 @@
     ],
     [
       "hapi-auth-redis",
-      2169
+      2171
     ],
     [
       "atl",
@@ -102,7 +102,7 @@
     ],
     [
       "wrescuetime",
-      2156
+      2157
     ],
     [
       "nuxtpress",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1536
+      1538
     ],
     [
       "@x12/hosts",
@@ -158,15 +158,15 @@
     ],
     [
       "mp-sdk",
-      1207
+      1213
     ],
     [
       "mmonit",
-      1172
+      1174
     ],
     [
       "lslint",
-      1153
+      1154
     ],
     [
       "remix-i18n",
@@ -198,7 +198,7 @@
     ],
     [
       "nativescript-icam",
-      944
+      945
     ],
     [
       "coding-deploy",
@@ -214,11 +214,11 @@
     ],
     [
       "markdown-toc-gitbook",
-      890
+      891
     ],
     [
       "uua",
-      873
+      879
     ],
     [
       "pipefn",
@@ -237,11 +237,11 @@
       799
     ],
     [
-      "wulian",
-      779
+      "z-curve",
+      781
     ],
     [
-      "z-curve",
+      "wulian",
       779
     ],
     [
@@ -254,7 +254,7 @@
     ],
     [
       "leancloud-sdk",
-      675
+      676
     ],
     [
       "@dwing/koa-joi-router",
@@ -349,5 +349,5 @@
       170
     ]
   ],
-  "sum": 768966
+  "sum": 769237
 }
