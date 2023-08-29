@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      383335
+      383507
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,15 +14,15 @@
     ],
     [
       "waliyun",
-      23079
+      23081
     ],
     [
       "@uua/icons",
-      7847
+      7848
     ],
     [
       "yunpian-sdk",
-      7195
+      7196
     ],
     [
       "leader.js.cool",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3864
+      3865
     ],
     [
       "wtoys",
@@ -66,19 +66,19 @@
     ],
     [
       "tuling",
-      3219
+      3221
     ],
     [
       "eslint-config-willin",
-      3134
+      3135
     ],
     [
       "gitbook-plugin-autotheme",
-      2866
+      2867
     ],
     [
       "vchart",
-      2705
+      2707
     ],
     [
       "hyperapp.js.cool",
@@ -94,7 +94,7 @@
     ],
     [
       "hapi-auth-redis",
-      2171
+      2172
     ],
     [
       "atl",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1962
+      1966
     ],
     [
       "coding-net",
@@ -158,7 +158,7 @@
     ],
     [
       "mp-sdk",
-      1213
+      1214
     ],
     [
       "mmonit",
@@ -170,7 +170,7 @@
     ],
     [
       "remix-i18n",
-      1137
+      1140
     ],
     [
       "less.js.cool",
@@ -182,11 +182,11 @@
     ],
     [
       "@shiwangme/redis",
-      1068
+      1069
     ],
     [
       "@uua/core",
-      1053
+      1054
     ],
     [
       "beian-domain",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      971
+      975
     ],
     [
       "nativescript-icam",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      657
+      658
     ],
     [
       "@authing/nextjs",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      385
+      386
     ],
     [
       "random-target",
@@ -349,5 +349,5 @@
       170
     ]
   ],
-  "sum": 769237
+  "sum": 769437
 }
