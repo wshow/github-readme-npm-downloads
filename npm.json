@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      383991
+      384222
     ],
     [
       "gitbook-plugin-atoc",
-      147923
+      147924
     ],
     [
       "gitbook-plugin-donate",
-      70069
+      70070
     ],
     [
       "waliyun",
-      23084
+      23091
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7199
+      7200
     ],
     [
       "leader.js.cool",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5658
+      5659
     ],
     [
       "v0",
-      5261
+      5262
     ],
     [
       "koa-api-logger",
@@ -66,23 +66,23 @@
     ],
     [
       "tuling",
-      3221
+      3222
     ],
     [
       "eslint-config-willin",
-      3141
+      3142
     ],
     [
       "gitbook-plugin-autotheme",
-      2893
+      2907
     ],
     [
       "vchart",
-      2707
+      2708
     ],
     [
       "hyperapp.js.cool",
-      2307
+      2308
     ],
     [
       "auto-deployer",
@@ -94,7 +94,7 @@
     ],
     [
       "hapi-auth-redis",
-      2185
+      2188
     ],
     [
       "atl",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1968
+      1969
     ],
     [
       "coding-net",
@@ -133,12 +133,12 @@
       1481
     ],
     [
-      "@x12/di",
-      1479
+      "@authing/remix",
+      1481
     ],
     [
-      "@authing/remix",
-      1469
+      "@x12/di",
+      1479
     ],
     [
       "@x12/tasker",
@@ -166,7 +166,7 @@
     ],
     [
       "lslint",
-      1155
+      1156
     ],
     [
       "remix-i18n",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      976
+      977
     ],
     [
       "nativescript-icam",
@@ -262,7 +262,7 @@
     ],
     [
       "@authing/nextjs",
-      638
+      646
     ],
     [
       "sdk0",
@@ -318,7 +318,7 @@
     ],
     [
       "random-target",
-      371
+      374
     ],
     [
       "ggql",
@@ -338,7 +338,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      256
+      258
     ],
     [
       "remix-sanity",
@@ -346,8 +346,8 @@
     ],
     [
       "passport-authing",
-      171
+      172
     ]
   ],
-  "sum": 770050
+  "sum": 770343
 }
