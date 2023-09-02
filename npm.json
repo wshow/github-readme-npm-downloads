@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      384222
+      384483
     ],
     [
       "gitbook-plugin-atoc",
-      147924
+      147926
     ],
     [
       "gitbook-plugin-donate",
-      70070
+      70080
     ],
     [
       "waliyun",
-      23091
+      23094
     ],
     [
       "@uua/icons",
@@ -34,11 +34,11 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5960
+      5961
     ],
     [
       "wqcloud",
-      5659
+      5669
     ],
     [
       "v0",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3865
+      3866
     ],
     [
       "wtoys",
@@ -70,15 +70,15 @@
     ],
     [
       "eslint-config-willin",
-      3142
+      3143
     ],
     [
       "gitbook-plugin-autotheme",
-      2907
+      2932
     ],
     [
       "vchart",
-      2708
+      2711
     ],
     [
       "hyperapp.js.cool",
@@ -129,11 +129,11 @@
       1538
     ],
     [
-      "@x12/hosts",
-      1481
+      "@authing/remix",
+      1518
     ],
     [
-      "@authing/remix",
+      "@x12/hosts",
       1481
     ],
     [
@@ -170,7 +170,7 @@
     ],
     [
       "remix-i18n",
-      1140
+      1144
     ],
     [
       "less.js.cool",
@@ -222,15 +222,15 @@
     ],
     [
       "pipefn",
-      864
+      865
     ],
     [
       "rxdis",
-      827
+      828
     ],
     [
       "@willin/eslint-config",
-      823
+      824
     ],
     [
       "wdouban",
@@ -258,11 +258,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      659
+      660
     ],
     [
       "@authing/nextjs",
-      646
+      651
     ],
     [
       "sdk0",
@@ -338,16 +338,16 @@
     ],
     [
       "remote-cloudflare-kv",
-      258
+      260
     ],
     [
       "remix-sanity",
-      248
+      249
     ],
     [
       "passport-authing",
       172
     ]
   ],
-  "sum": 770343
+  "sum": 770713
 }
