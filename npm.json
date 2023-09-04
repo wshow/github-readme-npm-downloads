@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      384762
+      385093
     ],
     [
       "gitbook-plugin-atoc",
-      147947
+      147948
     ],
     [
       "gitbook-plugin-donate",
-      70086
+      70091
     ],
     [
       "waliyun",
-      23102
+      23103
     ],
     [
       "@uua/icons",
-      7853
+      7854
     ],
     [
       "yunpian-sdk",
@@ -26,11 +26,11 @@
     ],
     [
       "leader.js.cool",
-      7187
+      7188
     ],
     [
       "koa-swagger-ui",
-      6603
+      6605
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,11 +42,11 @@
     ],
     [
       "v0",
-      5263
+      5264
     ],
     [
       "koa-api-logger",
-      4320
+      4321
     ],
     [
       "appkey",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      3145
+      3148
     ],
     [
       "gitbook-plugin-autotheme",
-      2946
+      2947
     ],
     [
       "vchart",
@@ -82,7 +82,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2309
+      2310
     ],
     [
       "auto-deployer",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1969
+      1973
     ],
     [
       "coding-net",
@@ -130,7 +130,7 @@
     ],
     [
       "@authing/remix",
-      1518
+      1531
     ],
     [
       "@x12/hosts",
@@ -150,11 +150,11 @@
     ],
     [
       "@xibang/node-common",
-      1237
+      1239
     ],
     [
       "wechaty-authing",
-      1224
+      1226
     ],
     [
       "mp-sdk",
@@ -170,7 +170,7 @@
     ],
     [
       "remix-i18n",
-      1144
+      1146
     ],
     [
       "less.js.cool",
@@ -178,11 +178,11 @@
     ],
     [
       "hyperapp-i18n",
-      1131
+      1132
     ],
     [
       "@shiwangme/redis",
-      1069
+      1070
     ],
     [
       "@uua/core",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      978
+      979
     ],
     [
       "nativescript-icam",
@@ -214,7 +214,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      891
+      892
     ],
     [
       "uua",
@@ -222,15 +222,15 @@
     ],
     [
       "pipefn",
-      865
+      866
+    ],
+    [
+      "@willin/eslint-config",
+      834
     ],
     [
       "rxdis",
       831
-    ],
-    [
-      "@willin/eslint-config",
-      824
     ],
     [
       "wdouban",
@@ -262,7 +262,7 @@
     ],
     [
       "@authing/nextjs",
-      651
+      658
     ],
     [
       "sdk0",
@@ -282,7 +282,7 @@
     ],
     [
       "@xibang/redis",
-      534
+      535
     ],
     [
       "hdd",
@@ -349,5 +349,5 @@
       172
     ]
   ],
-  "sum": 771063
+  "sum": 771458
 }
