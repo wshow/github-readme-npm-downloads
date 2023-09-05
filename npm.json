@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      385093
+      385350
     ],
     [
       "gitbook-plugin-atoc",
-      147948
+      147949
     ],
     [
       "gitbook-plugin-donate",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      23103
+      23107
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7201
+      7202
     ],
     [
       "leader.js.cool",
@@ -58,7 +58,7 @@
     ],
     [
       "mock-redis",
-      3866
+      3868
     ],
     [
       "wtoys",
@@ -70,7 +70,7 @@
     ],
     [
       "eslint-config-willin",
-      3148
+      3162
     ],
     [
       "gitbook-plugin-autotheme",
@@ -94,7 +94,7 @@
     ],
     [
       "hapi-auth-redis",
-      2188
+      2189
     ],
     [
       "atl",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1973
+      1981
     ],
     [
       "coding-net",
@@ -122,15 +122,15 @@
     ],
     [
       "wno",
-      1603
+      1604
+    ],
+    [
+      "@authing/remix",
+      1543
     ],
     [
       "v0-scf",
       1538
-    ],
-    [
-      "@authing/remix",
-      1531
     ],
     [
       "@x12/hosts",
@@ -146,11 +146,11 @@
     ],
     [
       "wnm",
-      1394
+      1395
     ],
     [
       "@xibang/node-common",
-      1239
+      1245
     ],
     [
       "wechaty-authing",
@@ -190,7 +190,7 @@
     ],
     [
       "beian-domain",
-      1017
+      1019
     ],
     [
       "h1de",
@@ -257,16 +257,16 @@
       676
     ],
     [
-      "@dwing/koa-joi-router",
-      660
+      "@authing/nextjs",
+      662
     ],
     [
-      "@authing/nextjs",
-      658
+      "@dwing/koa-joi-router",
+      661
     ],
     [
       "sdk0",
-      640
+      641
     ],
     [
       "fetch-pro",
@@ -274,7 +274,7 @@
     ],
     [
       "edd",
-      546
+      547
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -349,5 +349,5 @@
       172
     ]
   ],
-  "sum": 771458
+  "sum": 771775
 }
