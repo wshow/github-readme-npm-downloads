@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      385350
+      385612
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,19 +10,19 @@
     ],
     [
       "gitbook-plugin-donate",
-      70091
+      70095
     ],
     [
       "waliyun",
-      23107
+      23108
     ],
     [
       "@uua/icons",
-      7854
+      7855
     ],
     [
       "yunpian-sdk",
-      7202
+      7203
     ],
     [
       "leader.js.cool",
@@ -30,15 +30,15 @@
     ],
     [
       "koa-swagger-ui",
-      6605
+      6606
     ],
     [
       "gitbook-plugin-wordcount",
-      5961
+      5962
     ],
     [
       "wqcloud",
-      5671
+      5672
     ],
     [
       "v0",
@@ -46,7 +46,7 @@
     ],
     [
       "koa-api-logger",
-      4321
+      4322
     ],
     [
       "appkey",
@@ -66,7 +66,7 @@
     ],
     [
       "tuling",
-      3222
+      3230
     ],
     [
       "eslint-config-willin",
@@ -74,15 +74,15 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2947
+      2955
     ],
     [
       "vchart",
-      2713
+      2717
     ],
     [
       "hyperapp.js.cool",
-      2310
+      2311
     ],
     [
       "auto-deployer",
@@ -126,7 +126,7 @@
     ],
     [
       "@authing/remix",
-      1543
+      1555
     ],
     [
       "v0-scf",
@@ -146,11 +146,11 @@
     ],
     [
       "wnm",
-      1395
+      1396
     ],
     [
       "@xibang/node-common",
-      1245
+      1246
     ],
     [
       "wechaty-authing",
@@ -178,11 +178,11 @@
     ],
     [
       "hyperapp-i18n",
-      1132
+      1133
     ],
     [
       "@shiwangme/redis",
-      1070
+      1071
     ],
     [
       "@uua/core",
@@ -190,7 +190,7 @@
     ],
     [
       "beian-domain",
-      1019
+      1020
     ],
     [
       "h1de",
@@ -246,7 +246,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      723
+      724
     ],
     [
       "@uua/ip2c",
@@ -258,7 +258,7 @@
     ],
     [
       "@authing/nextjs",
-      662
+      666
     ],
     [
       "@dwing/koa-joi-router",
@@ -349,5 +349,5 @@
       172
     ]
   ],
-  "sum": 771775
+  "sum": 772091
 }
