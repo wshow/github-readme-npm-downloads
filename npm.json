@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      385612
+      385855
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,7 +10,7 @@
     ],
     [
       "gitbook-plugin-donate",
-      70095
+      70103
     ],
     [
       "waliyun",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7203
+      7205
     ],
     [
       "leader.js.cool",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5672
+      5683
     ],
     [
       "v0",
-      5264
+      5280
     ],
     [
       "koa-api-logger",
@@ -70,19 +70,19 @@
     ],
     [
       "eslint-config-willin",
-      3162
+      3172
     ],
     [
       "gitbook-plugin-autotheme",
-      2955
+      2971
     ],
     [
       "vchart",
-      2717
+      2721
     ],
     [
       "hyperapp.js.cool",
-      2311
+      2312
     ],
     [
       "auto-deployer",
@@ -114,7 +114,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1981
+      1988
     ],
     [
       "coding-net",
@@ -130,7 +130,7 @@
     ],
     [
       "v0-scf",
-      1538
+      1545
     ],
     [
       "@x12/hosts",
@@ -146,11 +146,11 @@
     ],
     [
       "wnm",
-      1396
+      1397
     ],
     [
       "@xibang/node-common",
-      1246
+      1251
     ],
     [
       "wechaty-authing",
@@ -158,7 +158,7 @@
     ],
     [
       "mp-sdk",
-      1214
+      1215
     ],
     [
       "mmonit",
@@ -166,7 +166,7 @@
     ],
     [
       "lslint",
-      1156
+      1157
     ],
     [
       "remix-i18n",
@@ -218,7 +218,7 @@
     ],
     [
       "uua",
-      879
+      885
     ],
     [
       "pipefn",
@@ -226,7 +226,7 @@
     ],
     [
       "@willin/eslint-config",
-      834
+      835
     ],
     [
       "rxdis",
@@ -274,7 +274,7 @@
     ],
     [
       "edd",
-      547
+      548
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -318,7 +318,7 @@
     ],
     [
       "random-target",
-      375
+      376
     ],
     [
       "ggql",
@@ -349,5 +349,5 @@
       172
     ]
   ],
-  "sum": 772091
+  "sum": 772433
 }
