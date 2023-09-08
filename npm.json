@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      385855
+      386133
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      70103
+      70138
     ],
     [
       "waliyun",
-      23108
+      23142
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7205
+      7216
     ],
     [
       "leader.js.cool",
@@ -34,11 +34,11 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5962
+      5963
     ],
     [
       "wqcloud",
-      5683
+      5684
     ],
     [
       "v0",
@@ -50,11 +50,11 @@
     ],
     [
       "appkey",
-      4176
+      4177
     ],
     [
       "coding-sdk",
-      3954
+      3955
     ],
     [
       "mock-redis",
@@ -70,11 +70,11 @@
     ],
     [
       "eslint-config-willin",
-      3172
+      3195
     ],
     [
       "gitbook-plugin-autotheme",
-      2971
+      2975
     ],
     [
       "vchart",
@@ -86,7 +86,7 @@
     ],
     [
       "auto-deployer",
-      2297
+      2298
     ],
     [
       "wqcloud-video",
@@ -98,7 +98,7 @@
     ],
     [
       "atl",
-      2167
+      2168
     ],
     [
       "wrescuetime",
@@ -114,11 +114,11 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1988
+      1990
     ],
     [
       "coding-net",
-      1809
+      1810
     ],
     [
       "wno",
@@ -130,7 +130,7 @@
     ],
     [
       "v0-scf",
-      1545
+      1546
     ],
     [
       "@x12/hosts",
@@ -150,11 +150,11 @@
     ],
     [
       "@xibang/node-common",
-      1251
+      1261
     ],
     [
       "wechaty-authing",
-      1226
+      1239
     ],
     [
       "mp-sdk",
@@ -170,7 +170,7 @@
     ],
     [
       "remix-i18n",
-      1146
+      1147
     ],
     [
       "less.js.cool",
@@ -202,11 +202,11 @@
     ],
     [
       "coding-deploy",
-      926
+      927
     ],
     [
       "awth",
-      916
+      917
     ],
     [
       "@x12/env",
@@ -230,11 +230,11 @@
     ],
     [
       "rxdis",
-      831
+      832
     ],
     [
       "wdouban",
-      799
+      802
     ],
     [
       "z-curve",
@@ -246,7 +246,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      724
+      727
     ],
     [
       "@uua/ip2c",
@@ -262,11 +262,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      661
+      662
     ],
     [
       "sdk0",
-      641
+      642
     ],
     [
       "fetch-pro",
@@ -274,11 +274,11 @@
     ],
     [
       "edd",
-      548
+      549
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      538
+      539
     ],
     [
       "@xibang/redis",
@@ -314,7 +314,7 @@
     ],
     [
       "afdian",
-      387
+      388
     ],
     [
       "random-target",
@@ -349,5 +349,5 @@
       172
     ]
   ],
-  "sum": 772433
+  "sum": 772866
 }
