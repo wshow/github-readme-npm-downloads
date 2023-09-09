@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      386133
+      386408
     ],
     [
       "gitbook-plugin-atoc",
-      147949
+      147953
     ],
     [
       "gitbook-plugin-donate",
-      70138
+      70228
     ],
     [
       "waliyun",
-      23142
+      23144
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7216
+      7230
     ],
     [
       "leader.js.cool",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5684
+      5698
     ],
     [
       "v0",
-      5280
+      5281
     ],
     [
       "koa-api-logger",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3478
+      3489
     ],
     [
       "tuling",
@@ -70,19 +70,19 @@
     ],
     [
       "eslint-config-willin",
-      3195
+      3196
     ],
     [
       "gitbook-plugin-autotheme",
-      2975
+      2980
     ],
     [
       "vchart",
-      2721
+      2722
     ],
     [
       "hyperapp.js.cool",
-      2312
+      2313
     ],
     [
       "auto-deployer",
@@ -90,7 +90,7 @@
     ],
     [
       "wqcloud-video",
-      2246
+      2253
     ],
     [
       "hapi-auth-redis",
@@ -102,7 +102,7 @@
     ],
     [
       "wrescuetime",
-      2159
+      2166
     ],
     [
       "nuxtpress",
@@ -122,11 +122,11 @@
     ],
     [
       "wno",
-      1604
+      1607
     ],
     [
       "@authing/remix",
-      1555
+      1568
     ],
     [
       "v0-scf",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1397
+      1402
     ],
     [
       "@xibang/node-common",
@@ -202,7 +202,7 @@
     ],
     [
       "coding-deploy",
-      927
+      928
     ],
     [
       "awth",
@@ -238,11 +238,11 @@
     ],
     [
       "z-curve",
-      785
+      787
     ],
     [
       "wulian",
-      780
+      781
     ],
     [
       "vuepress-theme-asshole",
@@ -258,7 +258,7 @@
     ],
     [
       "@authing/nextjs",
-      666
+      670
     ],
     [
       "@dwing/koa-joi-router",
@@ -294,7 +294,7 @@
     ],
     [
       "willin",
-      486
+      487
     ],
     [
       "@x12/common",
@@ -302,7 +302,11 @@
     ],
     [
       "whiteq",
-      438
+      442
+    ],
+    [
+      "afdian",
+      402
     ],
     [
       "@x12/mongodb",
@@ -311,10 +315,6 @@
     [
       "@x12/promise",
       389
-    ],
-    [
-      "afdian",
-      388
     ],
     [
       "random-target",
@@ -349,5 +349,5 @@
       172
     ]
   ],
-  "sum": 772866
+  "sum": 773347
 }
