@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      386937
+      387133
     ],
     [
       "gitbook-plugin-atoc",
-      147955
+      147957
     ],
     [
       "gitbook-plugin-donate",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      23150
+      23151
     ],
     [
       "@uua/icons",
@@ -42,7 +42,7 @@
     ],
     [
       "v0",
-      5293
+      5295
     ],
     [
       "koa-api-logger",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3253
+      3283
     ],
     [
       "tuling",
@@ -78,11 +78,11 @@
     ],
     [
       "vchart",
-      2724
+      2726
     ],
     [
       "hyperapp.js.cool",
-      2316
+      2317
     ],
     [
       "auto-deployer",
@@ -126,11 +126,11 @@
     ],
     [
       "@authing/remix",
-      1592
+      1593
     ],
     [
       "v0-scf",
-      1546
+      1547
     ],
     [
       "@x12/hosts",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1291
+      1311
     ],
     [
       "wechaty-authing",
@@ -190,7 +190,7 @@
     ],
     [
       "beian-domain",
-      1020
+      1021
     ],
     [
       "h1de",
@@ -218,7 +218,7 @@
     ],
     [
       "uua",
-      886
+      887
     ],
     [
       "pipefn",
@@ -246,7 +246,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      730
+      731
     ],
     [
       "@uua/ip2c",
@@ -254,7 +254,7 @@
     ],
     [
       "@authing/nextjs",
-      679
+      681
     ],
     [
       "leancloud-sdk",
@@ -338,7 +338,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      262
+      263
     ],
     [
       "remix-sanity",
@@ -349,5 +349,5 @@
       172
     ]
   ],
-  "sum": 774054
+  "sum": 774316
 }
