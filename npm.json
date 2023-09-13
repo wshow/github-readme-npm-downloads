@@ -2,15 +2,15 @@
   "stats": [
     [
       "hexo-wordcount",
-      387133
+      387415
     ],
     [
       "gitbook-plugin-atoc",
-      147957
+      147959
     ],
     [
       "gitbook-plugin-donate",
-      70235
+      70238
     ],
     [
       "waliyun",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7230
+      7232
     ],
     [
       "leader.js.cool",
@@ -34,15 +34,11 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5963
+      5964
     ],
     [
       "wqcloud",
-      5698
-    ],
-    [
-      "v0",
-      5295
+      5699
     ],
     [
       "koa-api-logger",
@@ -50,7 +46,7 @@
     ],
     [
       "appkey",
-      4179
+      4180
     ],
     [
       "coding-sdk",
@@ -58,11 +54,11 @@
     ],
     [
       "mock-redis",
-      3868
+      3869
     ],
     [
       "wtoys",
-      3489
+      3490
     ],
     [
       "eslint-config-willin",
@@ -74,7 +70,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      2981
+      2991
     ],
     [
       "vchart",
@@ -86,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2299
+      2300
     ],
     [
       "wqcloud-video",
@@ -94,15 +90,15 @@
     ],
     [
       "hapi-auth-redis",
-      2189
+      2191
     ],
     [
       "atl",
-      2168
+      2169
     ],
     [
       "wrescuetime",
-      2167
+      2168
     ],
     [
       "nuxtpress",
@@ -110,15 +106,15 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      1996
+      2025
     ],
     [
       "hello-dolly",
-      1994
+      1995
     ],
     [
       "coding-net",
-      1810
+      1811
     ],
     [
       "wno",
@@ -126,7 +122,7 @@
     ],
     [
       "@authing/remix",
-      1593
+      1605
     ],
     [
       "v0-scf",
@@ -146,7 +142,7 @@
     ],
     [
       "wnm",
-      1404
+      1405
     ],
     [
       "@xibang/node-common",
@@ -154,7 +150,7 @@
     ],
     [
       "wechaty-authing",
-      1239
+      1240
     ],
     [
       "mp-sdk",
@@ -170,7 +166,7 @@
     ],
     [
       "remix-i18n",
-      1147
+      1148
     ],
     [
       "less.js.cool",
@@ -218,7 +214,7 @@
     ],
     [
       "uua",
-      887
+      888
     ],
     [
       "pipefn",
@@ -234,7 +230,7 @@
     ],
     [
       "wdouban",
-      802
+      803
     ],
     [
       "z-curve",
@@ -249,12 +245,12 @@
       731
     ],
     [
-      "@uua/ip2c",
+      "@authing/nextjs",
       685
     ],
     [
-      "@authing/nextjs",
-      681
+      "@uua/ip2c",
+      685
     ],
     [
       "leancloud-sdk",
@@ -294,7 +290,7 @@
     ],
     [
       "willin",
-      487
+      488
     ],
     [
       "@x12/common",
@@ -302,7 +298,7 @@
     ],
     [
       "whiteq",
-      442
+      443
     ],
     [
       "afdian",
@@ -349,5 +345,5 @@
       172
     ]
   ],
-  "sum": 774316
+  "sum": 769384
 }
