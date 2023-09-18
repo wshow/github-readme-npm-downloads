@@ -2,15 +2,15 @@
   "stats": [
     [
       "hexo-wordcount",
-      388029
+      388303
     ],
     [
       "gitbook-plugin-atoc",
-      147962
+      147963
     ],
     [
       "gitbook-plugin-donate",
-      70248
+      70254
     ],
     [
       "waliyun",
@@ -18,7 +18,7 @@
     ],
     [
       "@uua/icons",
-      7857
+      7858
     ],
     [
       "yunpian-sdk",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5706
+      5713
     ],
     [
       "koa-api-logger",
@@ -62,7 +62,7 @@
     ],
     [
       "eslint-config-willin",
-      3285
+      3286
     ],
     [
       "tuling",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2727
+      2730
     ],
     [
       "hyperapp.js.cool",
-      2320
+      2322
     ],
     [
       "auto-deployer",
@@ -118,7 +118,7 @@
     ],
     [
       "@authing/remix",
-      1629
+      1642
     ],
     [
       "wno",
@@ -158,7 +158,7 @@
     ],
     [
       "mmonit",
-      1174
+      1175
     ],
     [
       "lslint",
@@ -178,11 +178,11 @@
     ],
     [
       "@shiwangme/redis",
-      1071
+      1072
     ],
     [
       "@uua/core",
-      1054
+      1055
     ],
     [
       "beian-domain",
@@ -190,11 +190,11 @@
     ],
     [
       "h1de",
-      980
+      981
     ],
     [
       "nativescript-icam",
-      945
+      946
     ],
     [
       "coding-deploy",
@@ -222,7 +222,7 @@
     ],
     [
       "@willin/eslint-config",
-      835
+      837
     ],
     [
       "rxdis",
@@ -246,11 +246,11 @@
     ],
     [
       "@authing/nextjs",
-      693
+      697
     ],
     [
       "@uua/ip2c",
-      685
+      686
     ],
     [
       "leancloud-sdk",
@@ -282,7 +282,7 @@
     ],
     [
       "hdd",
-      532
+      533
     ],
     [
       "@xibang/mysql",
@@ -318,7 +318,7 @@
     ],
     [
       "ggql",
-      310
+      311
     ],
     [
       "@x12/task-types",
@@ -334,7 +334,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      263
+      265
     ],
     [
       "remix-sanity",
@@ -345,5 +345,5 @@
       172
     ]
   ],
-  "sum": 770104
+  "sum": 770428
 }
