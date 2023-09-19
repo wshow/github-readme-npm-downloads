@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      388303
+      388575
     ],
     [
       "gitbook-plugin-atoc",
-      147963
+      147967
     ],
     [
       "gitbook-plugin-donate",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      23153
+      23159
     ],
     [
       "@uua/icons",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5713
+      5718
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "coding-sdk",
-      3955
+      3956
     ],
     [
       "mock-redis",
@@ -62,7 +62,7 @@
     ],
     [
       "eslint-config-willin",
-      3286
+      3287
     ],
     [
       "tuling",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2322
+      2325
     ],
     [
       "auto-deployer",
@@ -114,11 +114,11 @@
     ],
     [
       "coding-net",
-      1812
+      1813
     ],
     [
       "@authing/remix",
-      1642
+      1654
     ],
     [
       "wno",
@@ -174,7 +174,7 @@
     ],
     [
       "hyperapp-i18n",
-      1133
+      1134
     ],
     [
       "@shiwangme/redis",
@@ -190,7 +190,7 @@
     ],
     [
       "h1de",
-      981
+      985
     ],
     [
       "nativescript-icam",
@@ -198,7 +198,7 @@
     ],
     [
       "coding-deploy",
-      928
+      929
     ],
     [
       "awth",
@@ -246,7 +246,7 @@
     ],
     [
       "@authing/nextjs",
-      697
+      701
     ],
     [
       "@uua/ip2c",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      662
+      663
     ],
     [
       "sdk0",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      539
+      540
     ],
     [
       "@xibang/redis",
@@ -330,7 +330,7 @@
     ],
     [
       "@x12/rx-pool",
-      288
+      289
     ],
     [
       "remote-cloudflare-kv",
@@ -345,5 +345,5 @@
       172
     ]
   ],
-  "sum": 770428
+  "sum": 770746
 }
