@@ -2,35 +2,35 @@
   "stats": [
     [
       "hexo-wordcount",
-      388575
+      388992
     ],
     [
       "gitbook-plugin-atoc",
-      147967
+      147970
     ],
     [
       "gitbook-plugin-donate",
-      70254
+      70255
     ],
     [
       "waliyun",
-      23159
+      23165
     ],
     [
       "@uua/icons",
-      7858
+      7859
     ],
     [
       "yunpian-sdk",
-      7234
+      7235
     ],
     [
       "leader.js.cool",
-      7189
+      7190
     ],
     [
       "koa-swagger-ui",
-      6608
+      6609
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5718
+      5719
     ],
     [
       "koa-api-logger",
@@ -54,7 +54,7 @@
     ],
     [
       "mock-redis",
-      3869
+      3870
     ],
     [
       "wtoys",
@@ -62,23 +62,23 @@
     ],
     [
       "eslint-config-willin",
-      3287
+      3288
     ],
     [
       "tuling",
-      3231
+      3232
     ],
     [
       "gitbook-plugin-autotheme",
-      3003
+      3038
     ],
     [
       "vchart",
-      2730
+      2732
     ],
     [
       "hyperapp.js.cool",
-      2325
+      2326
     ],
     [
       "auto-deployer",
@@ -106,19 +106,19 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2033
+      2038
     ],
     [
       "hello-dolly",
-      1995
+      1996
     ],
     [
       "coding-net",
-      1813
+      1815
     ],
     [
       "@authing/remix",
-      1654
+      1666
     ],
     [
       "wno",
@@ -134,7 +134,7 @@
     ],
     [
       "@x12/hosts",
-      1481
+      1482
     ],
     [
       "@x12/tasker",
@@ -142,7 +142,7 @@
     ],
     [
       "wnm",
-      1405
+      1406
     ],
     [
       "@xibang/node-common",
@@ -154,27 +154,27 @@
     ],
     [
       "mp-sdk",
-      1217
+      1219
     ],
     [
       "mmonit",
       1175
     ],
     [
-      "lslint",
-      1157
+      "remix-i18n",
+      1167
     ],
     [
-      "remix-i18n",
-      1148
+      "lslint",
+      1159
     ],
     [
       "less.js.cool",
-      1135
+      1136
     ],
     [
       "hyperapp-i18n",
-      1134
+      1135
     ],
     [
       "@shiwangme/redis",
@@ -182,7 +182,7 @@
     ],
     [
       "@uua/core",
-      1055
+      1056
     ],
     [
       "beian-domain",
@@ -210,7 +210,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      893
+      895
     ],
     [
       "uua",
@@ -222,7 +222,7 @@
     ],
     [
       "@willin/eslint-config",
-      837
+      839
     ],
     [
       "rxdis",
@@ -242,11 +242,11 @@
     ],
     [
       "vuepress-theme-asshole",
-      732
+      733
     ],
     [
       "@authing/nextjs",
-      701
+      705
     ],
     [
       "@uua/ip2c",
@@ -254,11 +254,11 @@
     ],
     [
       "leancloud-sdk",
-      676
+      678
     ],
     [
       "@dwing/koa-joi-router",
-      663
+      664
     ],
     [
       "sdk0",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      540
+      541
     ],
     [
       "@xibang/redis",
@@ -282,7 +282,7 @@
     ],
     [
       "hdd",
-      533
+      534
     ],
     [
       "@xibang/mysql",
@@ -314,7 +314,7 @@
     ],
     [
       "random-target",
-      376
+      377
     ],
     [
       "ggql",
@@ -345,5 +345,5 @@
       172
     ]
   ],
-  "sum": 770746
+  "sum": 771282
 }
