@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      389677
+      389850
     ],
     [
       "gitbook-plugin-atoc",
-      147975
+      147976
     ],
     [
       "gitbook-plugin-donate",
-      70255
+      70256
     ],
     [
       "waliyun",
-      23171
+      23173
     ],
     [
       "@uua/icons",
-      7862
+      7863
     ],
     [
       "yunpian-sdk",
-      7237
+      7238
     ],
     [
       "leader.js.cool",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5720
+      5721
     ],
     [
       "koa-api-logger",
@@ -62,11 +62,11 @@
     ],
     [
       "eslint-config-willin",
-      3301
+      3302
     ],
     [
       "tuling",
-      3232
+      3234
     ],
     [
       "gitbook-plugin-autotheme",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2738
+      2739
     ],
     [
       "hyperapp.js.cool",
@@ -90,7 +90,7 @@
     ],
     [
       "hapi-auth-redis",
-      2191
+      2192
     ],
     [
       "wrescuetime",
@@ -102,11 +102,11 @@
     ],
     [
       "nuxtpress",
-      2078
+      2079
     ],
     [
       "gitbook-plugin-theme-material",
-      2045
+      2046
     ],
     [
       "hello-dolly",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1547
+      1548
     ],
     [
       "@x12/hosts",
@@ -150,7 +150,7 @@
     ],
     [
       "remix-i18n",
-      1281
+      1283
     ],
     [
       "wechaty-authing",
@@ -166,7 +166,7 @@
     ],
     [
       "lslint",
-      1160
+      1161
     ],
     [
       "less.js.cool",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      666
+      667
     ],
     [
       "sdk0",
@@ -326,7 +326,7 @@
     ],
     [
       "npm-badges",
-      303
+      304
     ],
     [
       "@x12/rx-pool",
@@ -345,5 +345,5 @@
       172
     ]
   ],
-  "sum": 772270
+  "sum": 772463
 }
