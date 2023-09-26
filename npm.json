@@ -2,15 +2,15 @@
   "stats": [
     [
       "hexo-wordcount",
-      389850
+      390116
     ],
     [
       "gitbook-plugin-atoc",
-      147976
+      147978
     ],
     [
       "gitbook-plugin-donate",
-      70256
+      70258
     ],
     [
       "waliyun",
@@ -18,11 +18,11 @@
     ],
     [
       "@uua/icons",
-      7863
+      7864
     ],
     [
       "yunpian-sdk",
-      7238
+      7239
     ],
     [
       "leader.js.cool",
@@ -42,7 +42,7 @@
     ],
     [
       "koa-api-logger",
-      4323
+      4324
     ],
     [
       "appkey",
@@ -70,7 +70,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3087
+      3088
     ],
     [
       "vchart",
@@ -86,15 +86,15 @@
     ],
     [
       "wqcloud-video",
-      2254
+      2255
     ],
     [
       "hapi-auth-redis",
-      2192
+      2193
     ],
     [
       "wrescuetime",
-      2171
+      2172
     ],
     [
       "atl",
@@ -110,7 +110,7 @@
     ],
     [
       "hello-dolly",
-      1997
+      1998
     ],
     [
       "coding-net",
@@ -150,7 +150,7 @@
     ],
     [
       "remix-i18n",
-      1283
+      1289
     ],
     [
       "wechaty-authing",
@@ -186,11 +186,11 @@
     ],
     [
       "beian-domain",
-      1023
+      1024
     ],
     [
       "h1de",
-      986
+      987
     ],
     [
       "nativescript-icam",
@@ -230,15 +230,15 @@
     ],
     [
       "wdouban",
-      803
+      804
     ],
     [
       "z-curve",
-      788
+      789
     ],
     [
       "wulian",
-      782
+      783
     ],
     [
       "vuepress-theme-asshole",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      667
+      668
     ],
     [
       "sdk0",
@@ -342,8 +342,8 @@
     ],
     [
       "passport-authing",
-      172
+      173
     ]
   ],
-  "sum": 772463
+  "sum": 772754
 }
