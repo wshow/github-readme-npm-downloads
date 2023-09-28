@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      390339
+      390579
     ],
     [
       "gitbook-plugin-atoc",
-      147980
+      147981
     ],
     [
       "gitbook-plugin-donate",
-      70261
+      70262
     ],
     [
       "waliyun",
-      23176
+      23178
     ],
     [
       "@uua/icons",
@@ -30,11 +30,11 @@
     ],
     [
       "koa-swagger-ui",
-      6610
+      6611
     ],
     [
       "gitbook-plugin-wordcount",
-      5964
+      5965
     ],
     [
       "wqcloud",
@@ -70,7 +70,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3099
+      3102
     ],
     [
       "vchart",
@@ -90,7 +90,7 @@
     ],
     [
       "hapi-auth-redis",
-      2193
+      2194
     ],
     [
       "wrescuetime",
@@ -106,11 +106,11 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2052
+      2054
     ],
     [
       "hello-dolly",
-      1998
+      1999
     ],
     [
       "coding-net",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1548
+      1549
     ],
     [
       "@x12/hosts",
@@ -145,12 +145,12 @@
       1407
     ],
     [
-      "@xibang/node-common",
-      1314
+      "remix-i18n",
+      1359
     ],
     [
-      "remix-i18n",
-      1291
+      "@xibang/node-common",
+      1314
     ],
     [
       "wechaty-authing",
@@ -190,7 +190,7 @@
     ],
     [
       "h1de",
-      988
+      990
     ],
     [
       "nativescript-icam",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      668
+      669
     ],
     [
       "sdk0",
@@ -314,7 +314,7 @@
     ],
     [
       "random-target",
-      377
+      378
     ],
     [
       "ggql",
@@ -338,12 +338,12 @@
     ],
     [
       "remix-sanity",
-      250
+      251
     ],
     [
       "passport-authing",
       173
     ]
   ],
-  "sum": 773034
+  "sum": 773361
 }
