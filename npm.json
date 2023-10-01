@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      391027
+      391359
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,7 +10,7 @@
     ],
     [
       "gitbook-plugin-donate",
-      70263
+      70264
     ],
     [
       "waliyun",
@@ -18,7 +18,7 @@
     ],
     [
       "@uua/icons",
-      7867
+      7869
     ],
     [
       "yunpian-sdk",
@@ -54,15 +54,15 @@
     ],
     [
       "mock-redis",
-      3874
+      3875
     ],
     [
       "wtoys",
-      3490
+      3491
     ],
     [
       "eslint-config-willin",
-      3307
+      3308
     ],
     [
       "tuling",
@@ -70,7 +70,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3137
+      3138
     ],
     [
       "vchart",
@@ -94,7 +94,7 @@
     ],
     [
       "wrescuetime",
-      2172
+      2173
     ],
     [
       "atl",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2060
+      2063
     ],
     [
       "hello-dolly",
@@ -118,7 +118,7 @@
     ],
     [
       "@authing/remix",
-      1703
+      1704
     ],
     [
       "wno",
@@ -142,11 +142,11 @@
     ],
     [
       "wnm",
-      1407
+      1408
     ],
     [
       "remix-i18n",
-      1380
+      1396
     ],
     [
       "@xibang/node-common",
@@ -198,7 +198,7 @@
     ],
     [
       "coding-deploy",
-      930
+      931
     ],
     [
       "awth",
@@ -226,7 +226,7 @@
     ],
     [
       "rxdis",
-      832
+      833
     ],
     [
       "wdouban",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      789
+      791
     ],
     [
       "wulian",
@@ -246,7 +246,7 @@
     ],
     [
       "@authing/nextjs",
-      718
+      719
     ],
     [
       "@uua/ip2c",
@@ -282,7 +282,7 @@
     ],
     [
       "hdd",
-      535
+      536
     ],
     [
       "@xibang/mysql",
@@ -345,5 +345,5 @@
       173
     ]
   ],
-  "sum": 773927
+  "sum": 774294
 }
