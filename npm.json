@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      391526
+      391743
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,7 +10,7 @@
     ],
     [
       "gitbook-plugin-donate",
-      70277
+      70285
     ],
     [
       "waliyun",
@@ -18,11 +18,11 @@
     ],
     [
       "@uua/icons",
-      7872
+      7878
     ],
     [
       "yunpian-sdk",
-      7241
+      7244
     ],
     [
       "leader.js.cool",
@@ -46,15 +46,15 @@
     ],
     [
       "appkey",
-      4190
+      4201
     ],
     [
       "coding-sdk",
-      3968
+      3989
     ],
     [
       "mock-redis",
-      3877
+      3878
     ],
     [
       "wtoys",
@@ -62,7 +62,7 @@
     ],
     [
       "eslint-config-willin",
-      3308
+      3309
     ],
     [
       "tuling",
@@ -78,11 +78,11 @@
     ],
     [
       "hyperapp.js.cool",
-      2330
+      2331
     ],
     [
       "auto-deployer",
-      2305
+      2314
     ],
     [
       "wqcloud-video",
@@ -93,12 +93,12 @@
       2195
     ],
     [
-      "wrescuetime",
-      2179
+      "atl",
+      2183
     ],
     [
-      "atl",
-      2174
+      "wrescuetime",
+      2180
     ],
     [
       "nuxtpress",
@@ -114,31 +114,31 @@
     ],
     [
       "coding-net",
-      1818
+      1825
     ],
     [
       "@authing/remix",
-      1728
+      1740
     ],
     [
       "wno",
-      1611
+      1612
     ],
     [
       "v0-scf",
       1549
     ],
     [
-      "@x12/hosts",
-      1492
+      "@x12/di",
+      1502
     ],
     [
-      "@x12/di",
-      1491
+      "@x12/hosts",
+      1498
     ],
     [
       "@x12/tasker",
-      1442
+      1458
     ],
     [
       "wnm",
@@ -146,11 +146,11 @@
     ],
     [
       "remix-i18n",
-      1397
+      1400
     ],
     [
       "@xibang/node-common",
-      1318
+      1326
     ],
     [
       "wechaty-authing",
@@ -178,15 +178,15 @@
     ],
     [
       "@shiwangme/redis",
-      1083
+      1088
     ],
     [
       "@uua/core",
-      1063
+      1075
     ],
     [
       "beian-domain",
-      1028
+      1032
     ],
     [
       "h1de",
@@ -198,15 +198,15 @@
     ],
     [
       "coding-deploy",
-      933
+      938
     ],
     [
       "awth",
-      920
+      923
     ],
     [
       "@x12/env",
-      915
+      917
     ],
     [
       "markdown-toc-gitbook",
@@ -222,11 +222,11 @@
     ],
     [
       "@willin/eslint-config",
-      843
+      849
     ],
     [
       "rxdis",
-      833
+      834
     ],
     [
       "wdouban",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      791
+      792
     ],
     [
       "wulian",
@@ -246,11 +246,11 @@
     ],
     [
       "@authing/nextjs",
-      727
+      731
     ],
     [
       "@uua/ip2c",
-      694
+      702
     ],
     [
       "leancloud-sdk",
@@ -258,11 +258,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      672
+      675
     ],
     [
       "sdk0",
-      643
+      644
     ],
     [
       "fetch-pro",
@@ -270,15 +270,15 @@
     ],
     [
       "edd",
-      553
+      554
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      545
+      547
     ],
     [
       "@xibang/redis",
-      539
+      543
     ],
     [
       "hdd",
@@ -286,7 +286,7 @@
     ],
     [
       "@xibang/mysql",
-      504
+      508
     ],
     [
       "willin",
@@ -294,7 +294,7 @@
     ],
     [
       "@x12/common",
-      460
+      464
     ],
     [
       "whiteq",
@@ -302,15 +302,15 @@
     ],
     [
       "afdian",
-      406
+      418
     ],
     [
       "@x12/mongodb",
-      399
+      403
     ],
     [
       "@x12/promise",
-      392
+      396
     ],
     [
       "random-target",
@@ -322,7 +322,7 @@
     ],
     [
       "@x12/task-types",
-      308
+      310
     ],
     [
       "npm-badges",
@@ -330,7 +330,7 @@
     ],
     [
       "@x12/rx-pool",
-      292
+      294
     ],
     [
       "remote-cloudflare-kv",
@@ -343,7 +343,11 @@
     [
       "passport-authing",
       173
+    ],
+    [
+      "remix-auth-afdian",
+      0
     ]
   ],
-  "sum": 774629
+  "sum": 775075
 }
