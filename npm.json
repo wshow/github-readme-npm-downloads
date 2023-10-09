@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      393073
+      393264
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,27 +10,27 @@
     ],
     [
       "gitbook-plugin-donate",
-      70308
+      70312
     ],
     [
       "waliyun",
-      23243
+      23250
     ],
     [
       "@uua/icons",
-      7909
+      7911
     ],
     [
       "yunpian-sdk",
-      7267
+      7268
     ],
     [
       "leader.js.cool",
-      7207
+      7208
     ],
     [
       "koa-swagger-ui",
-      6630
+      6631
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,7 +42,7 @@
     ],
     [
       "koa-api-logger",
-      4344
+      4345
     ],
     [
       "appkey",
@@ -62,7 +62,7 @@
     ],
     [
       "eslint-config-willin",
-      3319
+      3320
     ],
     [
       "tuling",
@@ -70,7 +70,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3153
+      3160
     ],
     [
       "vchart",
@@ -82,11 +82,11 @@
     ],
     [
       "hyperapp.js.cool",
-      2335
+      2337
     ],
     [
       "wqcloud-video",
-      2262
+      2263
     ],
     [
       "atl",
@@ -98,7 +98,7 @@
     ],
     [
       "wrescuetime",
-      2188
+      2193
     ],
     [
       "nuxtpress",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2084
+      2086
     ],
     [
       "hello-dolly",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1849
+      1850
     ],
     [
       "wno",
@@ -158,7 +158,7 @@
     ],
     [
       "mp-sdk",
-      1226
+      1227
     ],
     [
       "mmonit",
@@ -170,7 +170,7 @@
     ],
     [
       "less.js.cool",
-      1139
+      1140
     ],
     [
       "hyperapp-i18n",
@@ -190,7 +190,7 @@
     ],
     [
       "h1de",
-      999
+      1001
     ],
     [
       "coding-deploy",
@@ -198,7 +198,7 @@
     ],
     [
       "nativescript-icam",
-      947
+      948
     ],
     [
       "awth",
@@ -210,7 +210,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      898
+      900
     ],
     [
       "uua",
@@ -218,15 +218,15 @@
     ],
     [
       "@willin/eslint-config",
-      877
+      878
     ],
     [
       "pipefn",
-      870
+      871
     ],
     [
       "rxdis",
-      838
+      839
     ],
     [
       "wdouban",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      796
+      798
     ],
     [
       "@authing/nextjs",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      646
+      647
     ],
     [
       "fetch-pro",
@@ -278,11 +278,11 @@
     ],
     [
       "edd",
-      555
+      557
     ],
     [
       "hdd",
-      541
+      542
     ],
     [
       "@xibang/mysql",
@@ -342,12 +342,12 @@
     ],
     [
       "remix-auth-afdian",
-      204
+      209
     ],
     [
       "passport-authing",
       174
     ]
   ],
-  "sum": 778045
+  "sum": 778293
 }
