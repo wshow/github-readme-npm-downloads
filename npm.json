@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      393264
+      393498
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,23 +10,23 @@
     ],
     [
       "gitbook-plugin-donate",
-      70312
+      70317
     ],
     [
       "waliyun",
-      23250
+      23315
     ],
     [
       "@uua/icons",
-      7911
+      7913
     ],
     [
       "yunpian-sdk",
-      7268
+      7270
     ],
     [
       "leader.js.cool",
-      7208
+      7209
     ],
     [
       "koa-swagger-ui",
@@ -66,15 +66,15 @@
     ],
     [
       "tuling",
-      3242
+      3243
     ],
     [
       "gitbook-plugin-autotheme",
-      3160
+      3168
     ],
     [
       "vchart",
-      2751
+      2752
     ],
     [
       "auto-deployer",
@@ -82,7 +82,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2337
+      2339
     ],
     [
       "wqcloud-video",
@@ -98,15 +98,15 @@
     ],
     [
       "wrescuetime",
-      2193
+      2195
     ],
     [
       "nuxtpress",
-      2089
+      2090
     ],
     [
       "gitbook-plugin-theme-material",
-      2086
+      2088
     ],
     [
       "hello-dolly",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1557
+      1558
     ],
     [
       "@x12/di",
@@ -142,7 +142,7 @@
     ],
     [
       "remix-i18n",
-      1420
+      1421
     ],
     [
       "wnm",
@@ -162,7 +162,7 @@
     ],
     [
       "mmonit",
-      1177
+      1178
     ],
     [
       "lslint",
@@ -173,12 +173,12 @@
       1140
     ],
     [
-      "hyperapp-i18n",
-      1138
+      "@shiwangme/redis",
+      1139
     ],
     [
-      "@shiwangme/redis",
-      1134
+      "hyperapp-i18n",
+      1138
     ],
     [
       "@uua/core",
@@ -230,7 +230,7 @@
     ],
     [
       "wdouban",
-      808
+      809
     ],
     [
       "z-curve",
@@ -246,11 +246,11 @@
     ],
     [
       "vuepress-theme-asshole",
-      738
+      740
     ],
     [
       "@uua/ip2c",
-      738
+      739
     ],
     [
       "@dwing/koa-joi-router",
@@ -334,7 +334,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      271
+      272
     ],
     [
       "remix-sanity",
@@ -342,12 +342,12 @@
     ],
     [
       "remix-auth-afdian",
-      209
+      211
     ],
     [
       "passport-authing",
-      174
+      175
     ]
   ],
-  "sum": 778293
+  "sum": 778635
 }
