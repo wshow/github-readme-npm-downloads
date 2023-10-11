@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      393498
+      393859
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,19 +10,19 @@
     ],
     [
       "gitbook-plugin-donate",
-      70317
+      70318
     ],
     [
       "waliyun",
-      23315
+      23319
     ],
     [
       "@uua/icons",
-      7913
+      7914
     ],
     [
       "yunpian-sdk",
-      7270
+      7274
     ],
     [
       "leader.js.cool",
@@ -54,7 +54,7 @@
     ],
     [
       "mock-redis",
-      3888
+      3889
     ],
     [
       "wtoys",
@@ -62,7 +62,7 @@
     ],
     [
       "eslint-config-willin",
-      3320
+      3321
     ],
     [
       "tuling",
@@ -70,7 +70,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3168
+      3181
     ],
     [
       "vchart",
@@ -86,27 +86,27 @@
     ],
     [
       "wqcloud-video",
-      2263
+      2264
     ],
     [
       "atl",
-      2216
+      2217
     ],
     [
       "hapi-auth-redis",
-      2200
+      2201
     ],
     [
       "wrescuetime",
-      2195
+      2196
+    ],
+    [
+      "gitbook-plugin-theme-material",
+      2090
     ],
     [
       "nuxtpress",
       2090
-    ],
-    [
-      "gitbook-plugin-theme-material",
-      2088
     ],
     [
       "hello-dolly",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1558
+      1559
     ],
     [
       "@x12/di",
@@ -154,7 +154,7 @@
     ],
     [
       "wechaty-authing",
-      1254
+      1255
     ],
     [
       "mp-sdk",
@@ -166,7 +166,7 @@
     ],
     [
       "lslint",
-      1164
+      1165
     ],
     [
       "less.js.cool",
@@ -190,7 +190,7 @@
     ],
     [
       "h1de",
-      1001
+      1003
     ],
     [
       "coding-deploy",
@@ -234,19 +234,19 @@
     ],
     [
       "z-curve",
-      798
+      799
+    ],
+    [
+      "wulian",
+      785
     ],
     [
       "@authing/nextjs",
       785
     ],
     [
-      "wulian",
-      784
-    ],
-    [
       "vuepress-theme-asshole",
-      740
+      741
     ],
     [
       "@uua/ip2c",
@@ -254,7 +254,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      687
+      688
     ],
     [
       "leancloud-sdk",
@@ -282,7 +282,7 @@
     ],
     [
       "hdd",
-      542
+      543
     ],
     [
       "@xibang/mysql",
@@ -349,5 +349,5 @@
       175
     ]
   ],
-  "sum": 778635
+  "sum": 779037
 }
