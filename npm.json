@@ -2,15 +2,15 @@
   "stats": [
     [
       "hexo-wordcount",
-      393859
+      394175
     ],
     [
       "gitbook-plugin-atoc",
-      148028
+      148029
     ],
     [
       "gitbook-plugin-donate",
-      70318
+      70325
     ],
     [
       "waliyun",
@@ -18,7 +18,7 @@
     ],
     [
       "@uua/icons",
-      7914
+      7915
     ],
     [
       "yunpian-sdk",
@@ -62,7 +62,7 @@
     ],
     [
       "eslint-config-willin",
-      3321
+      3322
     ],
     [
       "tuling",
@@ -70,11 +70,11 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3181
+      3192
     ],
     [
       "vchart",
-      2752
+      2753
     ],
     [
       "auto-deployer",
@@ -86,7 +86,7 @@
     ],
     [
       "wqcloud-video",
-      2264
+      2265
     ],
     [
       "atl",
@@ -94,7 +94,7 @@
     ],
     [
       "hapi-auth-redis",
-      2201
+      2202
     ],
     [
       "wrescuetime",
@@ -146,11 +146,11 @@
     ],
     [
       "wnm",
-      1414
+      1415
     ],
     [
       "@xibang/node-common",
-      1364
+      1365
     ],
     [
       "wechaty-authing",
@@ -162,19 +162,19 @@
     ],
     [
       "mmonit",
-      1178
+      1179
     ],
     [
       "lslint",
       1165
     ],
     [
-      "less.js.cool",
-      1140
+      "@shiwangme/redis",
+      1141
     ],
     [
-      "@shiwangme/redis",
-      1139
+      "less.js.cool",
+      1140
     ],
     [
       "hyperapp-i18n",
@@ -194,7 +194,7 @@
     ],
     [
       "coding-deploy",
-      956
+      957
     ],
     [
       "nativescript-icam",
@@ -210,7 +210,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      900
+      901
     ],
     [
       "uua",
@@ -266,7 +266,7 @@
     ],
     [
       "fetch-pro",
-      565
+      566
     ],
     [
       "@xibang/redis",
@@ -314,7 +314,7 @@
     ],
     [
       "random-target",
-      381
+      382
     ],
     [
       "@x12/task-types",
@@ -349,5 +349,5 @@
       175
     ]
   ],
-  "sum": 779037
+  "sum": 779386
 }
