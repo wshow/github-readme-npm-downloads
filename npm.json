@@ -2,35 +2,35 @@
   "stats": [
     [
       "hexo-wordcount",
-      394421
+      394613
     ],
     [
       "gitbook-plugin-atoc",
-      148032
+      148033
     ],
     [
       "gitbook-plugin-donate",
-      70333
+      70334
     ],
     [
       "waliyun",
-      23321
+      23351
     ],
     [
       "@uua/icons",
-      7916
+      7917
     ],
     [
       "yunpian-sdk",
-      7277
+      7278
     ],
     [
       "leader.js.cool",
-      7210
+      7211
     ],
     [
       "koa-swagger-ui",
-      6631
+      6632
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5740
+      5742
     ],
     [
       "koa-api-logger",
@@ -70,7 +70,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3208
+      3232
     ],
     [
       "vchart",
@@ -82,7 +82,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2339
+      2340
     ],
     [
       "wqcloud-video",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1850
+      1851
     ],
     [
       "wno",
@@ -166,7 +166,7 @@
     ],
     [
       "lslint",
-      1165
+      1167
     ],
     [
       "@shiwangme/redis",
@@ -174,11 +174,11 @@
     ],
     [
       "less.js.cool",
-      1140
+      1141
     ],
     [
       "hyperapp-i18n",
-      1138
+      1139
     ],
     [
       "@uua/core",
@@ -210,7 +210,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      901
+      902
     ],
     [
       "uua",
@@ -238,7 +238,7 @@
     ],
     [
       "wulian",
-      785
+      786
     ],
     [
       "@authing/nextjs",
@@ -294,7 +294,7 @@
     ],
     [
       "@x12/common",
-      482
+      483
     ],
     [
       "whiteq",
@@ -322,7 +322,7 @@
     ],
     [
       "ggql",
-      313
+      314
     ],
     [
       "npm-badges",
@@ -349,5 +349,5 @@
       175
     ]
   ],
-  "sum": 779699
+  "sum": 779963
 }
