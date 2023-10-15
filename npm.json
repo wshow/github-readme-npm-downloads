@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      394613
+      394813
     ],
     [
       "gitbook-plugin-atoc",
-      148033
+      148036
     ],
     [
       "gitbook-plugin-donate",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7278
+      7280
     ],
     [
       "leader.js.cool",
@@ -65,16 +65,16 @@
       3325
     ],
     [
+      "gitbook-plugin-autotheme",
+      3260
+    ],
+    [
       "tuling",
       3243
     ],
     [
-      "gitbook-plugin-autotheme",
-      3232
-    ],
-    [
       "vchart",
-      2758
+      2759
     ],
     [
       "auto-deployer",
@@ -82,7 +82,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2340
+      2342
     ],
     [
       "wqcloud-video",
@@ -102,7 +102,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2092
+      2094
     ],
     [
       "nuxtpress",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1366
+      1367
     ],
     [
       "wechaty-authing",
@@ -178,7 +178,7 @@
     ],
     [
       "hyperapp-i18n",
-      1139
+      1140
     ],
     [
       "@uua/core",
@@ -186,7 +186,7 @@
     ],
     [
       "beian-domain",
-      1051
+      1052
     ],
     [
       "h1de",
@@ -214,11 +214,11 @@
     ],
     [
       "uua",
-      897
+      898
     ],
     [
       "@willin/eslint-config",
-      879
+      880
     ],
     [
       "pipefn",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      799
+      803
     ],
     [
       "wulian",
@@ -266,15 +266,15 @@
     ],
     [
       "fetch-pro",
-      566
+      567
     ],
     [
       "@xibang/redis",
-      562
+      563
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      558
+      559
     ],
     [
       "edd",
@@ -282,11 +282,11 @@
     ],
     [
       "hdd",
-      544
+      545
     ],
     [
       "@xibang/mysql",
-      526
+      527
     ],
     [
       "willin",
@@ -302,7 +302,7 @@
     ],
     [
       "afdian",
-      442
+      443
     ],
     [
       "@x12/mongodb",
@@ -314,7 +314,7 @@
     ],
     [
       "random-target",
-      382
+      383
     ],
     [
       "@x12/task-types",
@@ -349,5 +349,5 @@
       175
     ]
   ],
-  "sum": 779963
+  "sum": 780217
 }
