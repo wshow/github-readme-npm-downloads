@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      394813
+      395020
     ],
     [
       "gitbook-plugin-atoc",
-      148036
+      148037
     ],
     [
       "gitbook-plugin-donate",
-      70334
+      70335
     ],
     [
       "waliyun",
-      23351
+      23354
     ],
     [
       "@uua/icons",
-      7917
+      7921
     ],
     [
       "yunpian-sdk",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6632
+      6633
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,7 +42,7 @@
     ],
     [
       "koa-api-logger",
-      4348
+      4349
     ],
     [
       "appkey",
@@ -62,7 +62,7 @@
     ],
     [
       "eslint-config-willin",
-      3325
+      3326
     ],
     [
       "gitbook-plugin-autotheme",
@@ -94,15 +94,15 @@
     ],
     [
       "hapi-auth-redis",
-      2202
+      2203
     ],
     [
       "wrescuetime",
-      2196
+      2198
     ],
     [
       "gitbook-plugin-theme-material",
-      2094
+      2100
     ],
     [
       "nuxtpress",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1367
+      1368
     ],
     [
       "wechaty-authing",
@@ -170,7 +170,7 @@
     ],
     [
       "@shiwangme/redis",
-      1142
+      1143
     ],
     [
       "less.js.cool",
@@ -182,7 +182,7 @@
     ],
     [
       "@uua/core",
-      1131
+      1133
     ],
     [
       "beian-domain",
@@ -245,12 +245,12 @@
       785
     ],
     [
-      "vuepress-theme-asshole",
-      741
+      "@uua/ip2c",
+      744
     ],
     [
-      "@uua/ip2c",
-      740
+      "vuepress-theme-asshole",
+      742
     ],
     [
       "@dwing/koa-joi-router",
@@ -266,7 +266,7 @@
     ],
     [
       "fetch-pro",
-      567
+      568
     ],
     [
       "@xibang/redis",
@@ -322,7 +322,7 @@
     ],
     [
       "ggql",
-      314
+      315
     ],
     [
       "npm-badges",
@@ -349,5 +349,5 @@
       175
     ]
   ],
-  "sum": 780217
+  "sum": 780456
 }
