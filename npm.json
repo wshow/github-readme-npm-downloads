@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      396358
+      396542
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,7 +10,7 @@
     ],
     [
       "gitbook-plugin-donate",
-      70379
+      70385
     ],
     [
       "waliyun",
@@ -18,11 +18,11 @@
     ],
     [
       "@uua/icons",
-      7926
+      7928
     ],
     [
       "yunpian-sdk",
-      7315
+      7328
     ],
     [
       "leader.js.cool",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5766
+      5767
     ],
     [
       "koa-api-logger",
@@ -46,11 +46,11 @@
     ],
     [
       "appkey",
-      4257
+      4261
     ],
     [
       "coding-sdk",
-      4103
+      4105
     ],
     [
       "mock-redis",
@@ -58,7 +58,7 @@
     ],
     [
       "wtoys",
-      3526
+      3527
     ],
     [
       "gitbook-plugin-autotheme",
@@ -66,11 +66,11 @@
     ],
     [
       "eslint-config-willin",
-      3350
+      3355
     ],
     [
       "tuling",
-      3264
+      3274
     ],
     [
       "vchart",
@@ -90,15 +90,15 @@
     ],
     [
       "atl",
-      2226
+      2234
     ],
     [
       "wrescuetime",
-      2211
+      2217
     ],
     [
       "hapi-auth-redis",
-      2210
+      2214
     ],
     [
       "gitbook-plugin-theme-material",
@@ -106,7 +106,7 @@
     ],
     [
       "nuxtpress",
-      2103
+      2109
     ],
     [
       "hello-dolly",
@@ -114,19 +114,19 @@
     ],
     [
       "@authing/remix",
-      1891
+      1892
     ],
     [
       "coding-net",
-      1870
+      1872
     ],
     [
       "wno",
-      1618
+      1620
     ],
     [
       "v0-scf",
-      1566
+      1567
     ],
     [
       "@x12/di",
@@ -142,7 +142,7 @@
     ],
     [
       "remix-i18n",
-      1433
+      1435
     ],
     [
       "wnm",
@@ -158,11 +158,11 @@
     ],
     [
       "mp-sdk",
-      1246
+      1250
     ],
     [
       "mmonit",
-      1184
+      1186
     ],
     [
       "lslint",
@@ -186,11 +186,11 @@
     ],
     [
       "beian-domain",
-      1058
+      1061
     ],
     [
       "h1de",
-      1013
+      1018
     ],
     [
       "coding-deploy",
@@ -202,19 +202,19 @@
     ],
     [
       "awth",
-      935
+      939
     ],
     [
       "@x12/env",
       930
     ],
     [
-      "markdown-toc-gitbook",
-      904
+      "uua",
+      910
     ],
     [
-      "uua",
-      904
+      "markdown-toc-gitbook",
+      905
     ],
     [
       "@willin/eslint-config",
@@ -222,27 +222,27 @@
     ],
     [
       "pipefn",
-      876
+      878
     ],
     [
       "rxdis",
-      843
+      844
     ],
     [
       "wdouban",
-      831
+      833
+    ],
+    [
+      "wulian",
+      809
     ],
     [
       "z-curve",
       809
     ],
     [
-      "wulian",
-      805
-    ],
-    [
       "@authing/nextjs",
-      794
+      795
     ],
     [
       "@uua/ip2c",
@@ -278,7 +278,7 @@
     ],
     [
       "edd",
-      559
+      560
     ],
     [
       "hdd",
@@ -294,7 +294,7 @@
     ],
     [
       "@x12/common",
-      489
+      490
     ],
     [
       "whiteq",
@@ -314,7 +314,7 @@
     ],
     [
       "random-target",
-      388
+      389
     ],
     [
       "@x12/task-types",
@@ -334,11 +334,11 @@
     ],
     [
       "remote-cloudflare-kv",
-      275
+      277
     ],
     [
       "remix-sanity",
-      254
+      255
     ],
     [
       "remix-auth-afdian",
@@ -349,5 +349,5 @@
       179
     ]
   ],
-  "sum": 782842
+  "sum": 783143
 }
