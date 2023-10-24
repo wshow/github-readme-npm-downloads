@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      396542
+      396766
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      70385
+      70388
     ],
     [
       "waliyun",
-      23409
+      23411
     ],
     [
       "@uua/icons",
@@ -38,19 +38,19 @@
     ],
     [
       "wqcloud",
-      5767
+      5769
     ],
     [
       "koa-api-logger",
-      4369
+      4388
     ],
     [
       "appkey",
-      4261
+      4264
     ],
     [
       "coding-sdk",
-      4105
+      4108
     ],
     [
       "mock-redis",
@@ -58,7 +58,7 @@
     ],
     [
       "wtoys",
-      3527
+      3530
     ],
     [
       "gitbook-plugin-autotheme",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3355
+      3362
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2764
+      2767
     ],
     [
       "auto-deployer",
@@ -82,7 +82,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2353
+      2354
     ],
     [
       "wqcloud-video",
@@ -98,14 +98,14 @@
     ],
     [
       "hapi-auth-redis",
-      2214
-    ],
-    [
-      "gitbook-plugin-theme-material",
-      2109
+      2215
     ],
     [
       "nuxtpress",
+      2112
+    ],
+    [
+      "gitbook-plugin-theme-material",
       2109
     ],
     [
@@ -114,7 +114,7 @@
     ],
     [
       "@authing/remix",
-      1892
+      1894
     ],
     [
       "coding-net",
@@ -194,7 +194,7 @@
     ],
     [
       "coding-deploy",
-      961
+      963
     ],
     [
       "nativescript-icam",
@@ -234,7 +234,7 @@
     ],
     [
       "wulian",
-      809
+      810
     ],
     [
       "z-curve",
@@ -242,7 +242,7 @@
     ],
     [
       "@authing/nextjs",
-      795
+      797
     ],
     [
       "@uua/ip2c",
@@ -250,11 +250,11 @@
     ],
     [
       "vuepress-theme-asshole",
-      746
+      748
     ],
     [
       "@dwing/koa-joi-router",
-      694
+      695
     ],
     [
       "leancloud-sdk",
@@ -349,5 +349,5 @@
       179
     ]
   ],
-  "sum": 783143
+  "sum": 783427
 }
