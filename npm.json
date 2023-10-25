@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      396766
+      396947
     ],
     [
       "gitbook-plugin-atoc",
-      148071
+      148086
     ],
     [
       "gitbook-plugin-donate",
-      70388
+      70391
     ],
     [
       "waliyun",
-      23411
+      23446
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7328
+      7331
     ],
     [
       "leader.js.cool",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6650
+      6666
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5769
+      5781
     ],
     [
       "koa-api-logger",
-      4388
+      4389
     ],
     [
       "appkey",
@@ -62,7 +62,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3368
+      3372
     ],
     [
       "eslint-config-willin",
@@ -86,7 +86,7 @@
     ],
     [
       "wqcloud-video",
-      2281
+      2282
     ],
     [
       "atl",
@@ -94,7 +94,7 @@
     ],
     [
       "wrescuetime",
-      2217
+      2224
     ],
     [
       "hapi-auth-redis",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2112
+      2122
     ],
     [
       "gitbook-plugin-theme-material",
@@ -142,15 +142,15 @@
     ],
     [
       "remix-i18n",
-      1435
+      1442
     ],
     [
       "wnm",
-      1427
+      1429
     ],
     [
       "@xibang/node-common",
-      1377
+      1378
     ],
     [
       "wechaty-authing",
@@ -158,7 +158,7 @@
     ],
     [
       "mp-sdk",
-      1250
+      1256
     ],
     [
       "mmonit",
@@ -166,19 +166,19 @@
     ],
     [
       "lslint",
-      1172
+      1173
     ],
     [
       "@shiwangme/redis",
-      1149
+      1150
+    ],
+    [
+      "less.js.cool",
+      1146
     ],
     [
       "hyperapp-i18n",
       1146
-    ],
-    [
-      "less.js.cool",
-      1144
     ],
     [
       "@uua/core",
@@ -198,11 +198,11 @@
     ],
     [
       "nativescript-icam",
-      952
+      953
     ],
     [
       "awth",
-      939
+      940
     ],
     [
       "@x12/env",
@@ -233,12 +233,12 @@
       833
     ],
     [
-      "wulian",
-      810
+      "z-curve",
+      811
     ],
     [
-      "z-curve",
-      809
+      "wulian",
+      810
     ],
     [
       "@authing/nextjs",
@@ -254,11 +254,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      695
+      696
     ],
     [
       "leancloud-sdk",
-      685
+      687
     ],
     [
       "sdk0",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      566
+      567
     ],
     [
       "edd",
@@ -302,7 +302,7 @@
     ],
     [
       "afdian",
-      453
+      454
     ],
     [
       "@x12/mongodb",
@@ -314,7 +314,7 @@
     ],
     [
       "random-target",
-      389
+      392
     ],
     [
       "@x12/task-types",
@@ -349,5 +349,5 @@
       179
     ]
   ],
-  "sum": 783427
+  "sum": 783747
 }
