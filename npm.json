@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      396947
+      397145
     ],
     [
       "gitbook-plugin-atoc",
-      148086
+      148088
     ],
     [
       "gitbook-plugin-donate",
-      70391
+      70400
     ],
     [
       "waliyun",
-      23446
+      23451
     ],
     [
       "@uua/icons",
-      7928
+      7933
     ],
     [
       "yunpian-sdk",
-      7331
+      7334
     ],
     [
       "leader.js.cool",
@@ -30,51 +30,51 @@
     ],
     [
       "koa-swagger-ui",
-      6666
+      6667
     ],
     [
       "gitbook-plugin-wordcount",
-      5974
+      5975
     ],
     [
       "wqcloud",
-      5781
+      5782
     ],
     [
       "koa-api-logger",
-      4389
+      4390
     ],
     [
       "appkey",
-      4264
+      4269
     ],
     [
       "coding-sdk",
-      4108
+      4118
     ],
     [
       "mock-redis",
-      3899
+      3904
     ],
     [
       "wtoys",
-      3530
+      3533
     ],
     [
       "gitbook-plugin-autotheme",
-      3372
+      3377
     ],
     [
       "eslint-config-willin",
-      3362
+      3366
     ],
     [
       "tuling",
-      3274
+      3275
     ],
     [
       "vchart",
-      2767
+      2768
     ],
     [
       "auto-deployer",
@@ -82,11 +82,11 @@
     ],
     [
       "hyperapp.js.cool",
-      2354
+      2356
     ],
     [
       "wqcloud-video",
-      2282
+      2283
     ],
     [
       "atl",
@@ -94,11 +94,11 @@
     ],
     [
       "wrescuetime",
-      2224
+      2225
     ],
     [
       "hapi-auth-redis",
-      2215
+      2216
     ],
     [
       "nuxtpress",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2109
+      2115
     ],
     [
       "hello-dolly",
@@ -122,15 +122,15 @@
     ],
     [
       "wno",
-      1620
+      1621
     ],
     [
       "v0-scf",
-      1567
+      1568
     ],
     [
       "@x12/di",
-      1559
+      1560
     ],
     [
       "@x12/tasker",
@@ -138,7 +138,7 @@
     ],
     [
       "@x12/hosts",
-      1533
+      1534
     ],
     [
       "remix-i18n",
@@ -146,15 +146,15 @@
     ],
     [
       "wnm",
-      1429
+      1431
     ],
     [
       "@xibang/node-common",
-      1378
+      1380
     ],
     [
       "wechaty-authing",
-      1269
+      1283
     ],
     [
       "mp-sdk",
@@ -170,7 +170,11 @@
     ],
     [
       "@shiwangme/redis",
-      1150
+      1151
+    ],
+    [
+      "@uua/core",
+      1146
     ],
     [
       "less.js.cool",
@@ -181,16 +185,12 @@
       1146
     ],
     [
-      "@uua/core",
-      1142
-    ],
-    [
       "beian-domain",
       1061
     ],
     [
       "h1de",
-      1018
+      1019
     ],
     [
       "coding-deploy",
@@ -210,7 +210,7 @@
     ],
     [
       "uua",
-      910
+      911
     ],
     [
       "markdown-toc-gitbook",
@@ -226,31 +226,31 @@
     ],
     [
       "rxdis",
-      844
+      847
     ],
     [
       "wdouban",
-      833
+      834
     ],
     [
       "z-curve",
-      811
+      812
     ],
     [
       "wulian",
-      810
+      811
     ],
     [
       "@authing/nextjs",
       797
     ],
     [
-      "@uua/ip2c",
-      753
+      "vuepress-theme-asshole",
+      755
     ],
     [
-      "vuepress-theme-asshole",
-      748
+      "@uua/ip2c",
+      753
     ],
     [
       "@dwing/koa-joi-router",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      649
+      652
     ],
     [
       "fetch-pro",
@@ -270,7 +270,7 @@
     ],
     [
       "@xibang/redis",
-      568
+      569
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -282,15 +282,15 @@
     ],
     [
       "hdd",
-      551
+      553
     ],
     [
       "@xibang/mysql",
-      532
+      533
     ],
     [
       "willin",
-      492
+      493
     ],
     [
       "@x12/common",
@@ -298,7 +298,7 @@
     ],
     [
       "whiteq",
-      457
+      458
     ],
     [
       "afdian",
@@ -315,6 +315,10 @@
     [
       "random-target",
       392
+    ],
+    [
+      "remix-auth-afdian",
+      328
     ],
     [
       "@x12/task-types",
@@ -338,16 +342,12 @@
     ],
     [
       "remix-sanity",
-      255
-    ],
-    [
-      "remix-auth-afdian",
-      221
+      256
     ],
     [
       "passport-authing",
       179
     ]
   ],
-  "sum": 783747
+  "sum": 784177
 }
