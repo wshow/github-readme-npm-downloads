@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      397364
+      397559
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      70403
+      70409
     ],
     [
       "waliyun",
-      23452
+      23453
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7334
+      7336
     ],
     [
       "leader.js.cool",
@@ -46,15 +46,15 @@
     ],
     [
       "appkey",
-      4271
+      4274
     ],
     [
       "coding-sdk",
-      4118
+      4119
     ],
     [
       "mock-redis",
-      3910
+      3913
     ],
     [
       "wtoys",
@@ -62,7 +62,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3385
+      3393
     ],
     [
       "eslint-config-willin",
@@ -78,11 +78,11 @@
     ],
     [
       "auto-deployer",
-      2362
+      2363
     ],
     [
       "hyperapp.js.cool",
-      2357
+      2358
     ],
     [
       "wqcloud-video",
@@ -90,7 +90,7 @@
     ],
     [
       "atl",
-      2234
+      2235
     ],
     [
       "wrescuetime",
@@ -101,12 +101,12 @@
       2216
     ],
     [
-      "nuxtpress",
-      2122
+      "gitbook-plugin-theme-material",
+      2124
     ],
     [
-      "gitbook-plugin-theme-material",
-      2120
+      "nuxtpress",
+      2122
     ],
     [
       "hello-dolly",
@@ -114,11 +114,11 @@
     ],
     [
       "@authing/remix",
-      1894
+      1895
     ],
     [
       "coding-net",
-      1872
+      1873
     ],
     [
       "wno",
@@ -170,7 +170,7 @@
     ],
     [
       "@shiwangme/redis",
-      1151
+      1152
     ],
     [
       "@uua/core",
@@ -194,7 +194,7 @@
     ],
     [
       "coding-deploy",
-      963
+      964
     ],
     [
       "nativescript-icam",
@@ -202,7 +202,7 @@
     ],
     [
       "awth",
-      940
+      941
     ],
     [
       "@x12/env",
@@ -210,11 +210,11 @@
     ],
     [
       "uua",
-      911
+      912
     ],
     [
       "markdown-toc-gitbook",
-      905
+      906
     ],
     [
       "@willin/eslint-config",
@@ -226,7 +226,7 @@
     ],
     [
       "rxdis",
-      847
+      848
     ],
     [
       "wdouban",
@@ -234,7 +234,7 @@
     ],
     [
       "z-curve",
-      812
+      813
     ],
     [
       "wulian",
@@ -254,7 +254,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      696
+      697
     ],
     [
       "leancloud-sdk",
@@ -262,7 +262,7 @@
     ],
     [
       "sdk0",
-      652
+      653
     ],
     [
       "fetch-pro",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      567
+      568
     ],
     [
       "edd",
@@ -318,7 +318,7 @@
     ],
     [
       "remix-auth-afdian",
-      337
+      345
     ],
     [
       "@x12/task-types",
@@ -349,5 +349,5 @@
       180
     ]
   ],
-  "sum": 784446
+  "sum": 784692
 }
