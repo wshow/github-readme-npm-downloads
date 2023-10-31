@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      397982
+      398165
     ],
     [
       "gitbook-plugin-atoc",
-      148103
+      148104
     ],
     [
       "gitbook-plugin-donate",
-      70430
+      70432
     ],
     [
       "waliyun",
-      23454
+      23455
     ],
     [
       "@uua/icons",
-      7934
+      7935
     ],
     [
       "yunpian-sdk",
-      7339
+      7343
     ],
     [
       "leader.js.cool",
@@ -46,11 +46,11 @@
     ],
     [
       "appkey",
-      4277
+      4281
     ],
     [
       "coding-sdk",
-      4132
+      4144
     ],
     [
       "mock-redis",
@@ -66,11 +66,11 @@
     ],
     [
       "eslint-config-willin",
-      3369
+      3374
     ],
     [
       "tuling",
-      3279
+      3285
     ],
     [
       "vchart",
@@ -82,7 +82,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2360
+      2361
     ],
     [
       "wqcloud-video",
@@ -94,7 +94,7 @@
     ],
     [
       "wrescuetime",
-      2229
+      2233
     ],
     [
       "hapi-auth-redis",
@@ -102,11 +102,11 @@
     ],
     [
       "nuxtpress",
-      2130
+      2132
     ],
     [
       "gitbook-plugin-theme-material",
-      2127
+      2129
     ],
     [
       "hello-dolly",
@@ -118,11 +118,11 @@
     ],
     [
       "coding-net",
-      1876
+      1886
     ],
     [
       "wno",
-      1621
+      1625
     ],
     [
       "v0-scf",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1436
+      1437
     ],
     [
       "@xibang/node-common",
@@ -158,7 +158,7 @@
     ],
     [
       "mp-sdk",
-      1259
+      1263
     ],
     [
       "mmonit",
@@ -166,7 +166,7 @@
     ],
     [
       "lslint",
-      1173
+      1174
     ],
     [
       "@shiwangme/redis",
@@ -194,7 +194,7 @@
     ],
     [
       "coding-deploy",
-      964
+      966
     ],
     [
       "nativescript-icam",
@@ -230,11 +230,11 @@
     ],
     [
       "wdouban",
-      838
+      843
     ],
     [
       "wulian",
-      817
+      823
     ],
     [
       "z-curve",
@@ -349,5 +349,5 @@
       180
     ]
   ],
-  "sum": 785240
+  "sum": 785501
 }
