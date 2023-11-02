@@ -2,15 +2,15 @@
   "stats": [
     [
       "hexo-wordcount",
-      398399
+      398737
     ],
     [
       "gitbook-plugin-atoc",
-      148112
+      148115
     ],
     [
       "gitbook-plugin-donate",
-      70437
+      70440
     ],
     [
       "waliyun",
@@ -18,11 +18,11 @@
     ],
     [
       "@uua/icons",
-      7935
+      7937
     ],
     [
       "yunpian-sdk",
-      7349
+      7358
     ],
     [
       "leader.js.cool",
@@ -34,11 +34,11 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5980
+      5983
     ],
     [
       "wqcloud",
-      5782
+      5784
     ],
     [
       "koa-api-logger",
@@ -46,31 +46,31 @@
     ],
     [
       "appkey",
-      4286
+      4289
     ],
     [
       "coding-sdk",
-      4149
+      4152
     ],
     [
       "mock-redis",
-      3917
+      3925
     ],
     [
       "wtoys",
-      3533
+      3534
     ],
     [
       "gitbook-plugin-autotheme",
-      3403
+      3410
     ],
     [
       "eslint-config-willin",
-      3379
+      3386
     ],
     [
       "tuling",
-      3290
+      3295
     ],
     [
       "vchart",
@@ -82,35 +82,35 @@
     ],
     [
       "hyperapp.js.cool",
-      2361
+      2362
     ],
     [
       "wqcloud-video",
       2284
     ],
     [
+      "wrescuetime",
+      2239
+    ],
+    [
       "atl",
       2236
     ],
     [
-      "wrescuetime",
-      2235
-    ],
-    [
       "hapi-auth-redis",
-      2216
+      2217
     ],
     [
       "nuxtpress",
-      2136
+      2139
     ],
     [
       "gitbook-plugin-theme-material",
-      2129
+      2130
     ],
     [
       "hello-dolly",
-      2016
+      2017
     ],
     [
       "@authing/remix",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1892
+      1894
     ],
     [
       "wno",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1437
+      1438
     ],
     [
       "@xibang/node-common",
@@ -154,11 +154,11 @@
     ],
     [
       "wechaty-authing",
-      1284
+      1285
     ],
     [
       "mp-sdk",
-      1266
+      1268
     ],
     [
       "mmonit",
@@ -202,7 +202,7 @@
     ],
     [
       "awth",
-      941
+      942
     ],
     [
       "@x12/env",
@@ -222,19 +222,19 @@
     ],
     [
       "pipefn",
-      878
+      879
+    ],
+    [
+      "wdouban",
+      850
     ],
     [
       "rxdis",
       848
     ],
     [
-      "wdouban",
-      845
-    ],
-    [
       "wulian",
-      828
+      836
     ],
     [
       "z-curve",
@@ -282,7 +282,7 @@
     ],
     [
       "hdd",
-      553
+      554
     ],
     [
       "@xibang/mysql",
@@ -290,7 +290,7 @@
     ],
     [
       "willin",
-      494
+      495
     ],
     [
       "@x12/common",
@@ -298,7 +298,7 @@
     ],
     [
       "whiteq",
-      458
+      459
     ],
     [
       "afdian",
@@ -318,7 +318,7 @@
     ],
     [
       "remix-auth-afdian",
-      347
+      349
     ],
     [
       "@x12/task-types",
@@ -330,7 +330,7 @@
     ],
     [
       "npm-badges",
-      309
+      313
     ],
     [
       "@x12/rx-pool",
@@ -338,7 +338,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      279
+      280
     ],
     [
       "remix-sanity",
@@ -349,5 +349,5 @@
       180
     ]
   ],
-  "sum": 785830
+  "sum": 786266
 }
