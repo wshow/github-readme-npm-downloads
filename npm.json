@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      398737
+      399091
     ],
     [
       "gitbook-plugin-atoc",
-      148115
+      148122
     ],
     [
       "gitbook-plugin-donate",
-      70440
+      70443
     ],
     [
       "waliyun",
-      23459
+      23460
     ],
     [
       "@uua/icons",
@@ -22,39 +22,39 @@
     ],
     [
       "yunpian-sdk",
-      7358
+      7363
     ],
     [
       "leader.js.cool",
-      7248
+      7255
     ],
     [
       "koa-swagger-ui",
-      6668
+      6670
     ],
     [
       "gitbook-plugin-wordcount",
-      5983
+      5985
     ],
     [
       "wqcloud",
-      5784
+      5786
     ],
     [
       "koa-api-logger",
-      4390
+      4391
     ],
     [
       "appkey",
-      4289
+      4291
     ],
     [
       "coding-sdk",
-      4152
+      4154
     ],
     [
       "mock-redis",
-      3925
+      3928
     ],
     [
       "wtoys",
@@ -62,15 +62,15 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3410
+      3414
     ],
     [
       "eslint-config-willin",
-      3386
+      3388
     ],
     [
       "tuling",
-      3295
+      3300
     ],
     [
       "vchart",
@@ -90,7 +90,7 @@
     ],
     [
       "wrescuetime",
-      2239
+      2242
     ],
     [
       "atl",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2139
+      2141
     ],
     [
       "gitbook-plugin-theme-material",
@@ -114,11 +114,11 @@
     ],
     [
       "@authing/remix",
-      1896
+      1897
     ],
     [
       "coding-net",
-      1894
+      1896
     ],
     [
       "wno",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1569
+      1570
     ],
     [
       "@x12/di",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1438
+      1440
     ],
     [
       "@xibang/node-common",
@@ -158,7 +158,7 @@
     ],
     [
       "mp-sdk",
-      1268
+      1271
     ],
     [
       "mmonit",
@@ -174,11 +174,11 @@
     ],
     [
       "@uua/core",
-      1147
+      1148
     ],
     [
       "less.js.cool",
-      1146
+      1147
     ],
     [
       "hyperapp-i18n",
@@ -190,7 +190,7 @@
     ],
     [
       "h1de",
-      1021
+      1022
     ],
     [
       "coding-deploy",
@@ -214,7 +214,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      906
+      907
     ],
     [
       "@willin/eslint-config",
@@ -226,7 +226,7 @@
     ],
     [
       "wdouban",
-      850
+      852
     ],
     [
       "rxdis",
@@ -234,11 +234,11 @@
     ],
     [
       "wulian",
-      836
+      839
     ],
     [
       "z-curve",
-      813
+      814
     ],
     [
       "@authing/nextjs",
@@ -246,7 +246,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      756
+      757
     ],
     [
       "@uua/ip2c",
@@ -278,7 +278,7 @@
     ],
     [
       "edd",
-      560
+      561
     ],
     [
       "hdd",
@@ -349,5 +349,5 @@
       180
     ]
   ],
-  "sum": 786266
+  "sum": 786694
 }
