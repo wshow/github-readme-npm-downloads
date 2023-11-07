@@ -2,15 +2,15 @@
   "stats": [
     [
       "hexo-wordcount",
-      399442
+      399686
     ],
     [
       "gitbook-plugin-atoc",
-      148125
+      148126
     ],
     [
       "gitbook-plugin-donate",
-      70453
+      70454
     ],
     [
       "waliyun",
@@ -18,15 +18,15 @@
     ],
     [
       "@uua/icons",
-      7938
+      7939
     ],
     [
       "yunpian-sdk",
-      7370
+      7374
     ],
     [
       "leader.js.cool",
-      7261
+      7265
     ],
     [
       "koa-swagger-ui",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5985
+      5986
     ],
     [
       "wqcloud",
@@ -46,11 +46,11 @@
     ],
     [
       "appkey",
-      4300
+      4303
     ],
     [
       "coding-sdk",
-      4161
+      4163
     ],
     [
       "mock-redis",
@@ -66,11 +66,11 @@
     ],
     [
       "eslint-config-willin",
-      3391
+      3397
     ],
     [
       "tuling",
-      3303
+      3307
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2366
+      2367
     ],
     [
       "auto-deployer",
@@ -90,7 +90,7 @@
     ],
     [
       "wrescuetime",
-      2246
+      2253
     ],
     [
       "atl",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2148
+      2151
     ],
     [
       "gitbook-plugin-theme-material",
@@ -114,7 +114,7 @@
     ],
     [
       "coding-net",
-      1902
+      1908
     ],
     [
       "@authing/remix",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1627
+      1628
     ],
     [
       "v0-scf",
@@ -158,11 +158,11 @@
     ],
     [
       "mp-sdk",
-      1276
+      1282
     ],
     [
       "mmonit",
-      1186
+      1187
     ],
     [
       "lslint",
@@ -170,11 +170,11 @@
     ],
     [
       "@shiwangme/redis",
-      1153
+      1154
     ],
     [
       "@uua/core",
-      1148
+      1149
     ],
     [
       "less.js.cool",
@@ -190,15 +190,15 @@
     ],
     [
       "h1de",
-      1022
+      1023
     ],
     [
       "coding-deploy",
-      966
+      967
     ],
     [
       "nativescript-icam",
-      953
+      954
     ],
     [
       "awth",
@@ -214,11 +214,11 @@
     ],
     [
       "markdown-toc-gitbook",
-      909
+      910
     ],
     [
       "@willin/eslint-config",
-      888
+      889
     ],
     [
       "pipefn",
@@ -226,11 +226,11 @@
     ],
     [
       "wdouban",
-      855
+      860
     ],
     [
       "wulian",
-      848
+      855
     ],
     [
       "rxdis",
@@ -250,7 +250,7 @@
     ],
     [
       "@uua/ip2c",
-      754
+      755
     ],
     [
       "@dwing/koa-joi-router",
@@ -278,11 +278,11 @@
     ],
     [
       "edd",
-      561
+      562
     ],
     [
       "hdd",
-      554
+      555
     ],
     [
       "@xibang/mysql",
@@ -326,7 +326,7 @@
     ],
     [
       "ggql",
-      318
+      319
     ],
     [
       "npm-badges",
@@ -349,5 +349,5 @@
       180
     ]
   ],
-  "sum": 787157
+  "sum": 787476
 }
