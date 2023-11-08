@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      399686
+      399990
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,19 +10,19 @@
     ],
     [
       "gitbook-plugin-donate",
-      70454
+      70461
     ],
     [
       "waliyun",
-      23466
+      23480
     ],
     [
       "@uua/icons",
-      7939
+      7940
     ],
     [
       "yunpian-sdk",
-      7374
+      7378
     ],
     [
       "leader.js.cool",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6670
+      6671
     ],
     [
       "gitbook-plugin-wordcount",
@@ -46,15 +46,15 @@
     ],
     [
       "appkey",
-      4303
+      4308
     ],
     [
       "coding-sdk",
-      4163
+      4170
     ],
     [
       "mock-redis",
-      3929
+      3959
     ],
     [
       "wtoys",
@@ -62,15 +62,15 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3416
+      3426
     ],
     [
       "eslint-config-willin",
-      3397
+      3401
     ],
     [
       "tuling",
-      3307
+      3311
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2367
+      2368
     ],
     [
       "auto-deployer",
@@ -90,7 +90,7 @@
     ],
     [
       "wrescuetime",
-      2253
+      2254
     ],
     [
       "atl",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2151
+      2153
     ],
     [
       "gitbook-plugin-theme-material",
@@ -114,7 +114,7 @@
     ],
     [
       "coding-net",
-      1908
+      1911
     ],
     [
       "@authing/remix",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1570
+      1571
     ],
     [
       "@x12/di",
@@ -153,12 +153,12 @@
       1382
     ],
     [
-      "wechaty-authing",
+      "mp-sdk",
       1285
     ],
     [
-      "mp-sdk",
-      1282
+      "wechaty-authing",
+      1285
     ],
     [
       "mmonit",
@@ -182,7 +182,7 @@
     ],
     [
       "hyperapp-i18n",
-      1146
+      1147
     ],
     [
       "beian-domain",
@@ -206,7 +206,7 @@
     ],
     [
       "@x12/env",
-      931
+      932
     ],
     [
       "uua",
@@ -214,7 +214,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      910
+      911
     ],
     [
       "@willin/eslint-config",
@@ -226,11 +226,11 @@
     ],
     [
       "wdouban",
-      860
+      863
     ],
     [
       "wulian",
-      855
+      859
     ],
     [
       "rxdis",
@@ -238,7 +238,7 @@
     ],
     [
       "z-curve",
-      814
+      815
     ],
     [
       "@authing/nextjs",
@@ -266,7 +266,7 @@
     ],
     [
       "fetch-pro",
-      581
+      582
     ],
     [
       "@xibang/redis",
@@ -278,7 +278,7 @@
     ],
     [
       "edd",
-      562
+      563
     ],
     [
       "hdd",
@@ -306,7 +306,7 @@
     ],
     [
       "@x12/mongodb",
-      429
+      430
     ],
     [
       "@x12/promise",
@@ -322,7 +322,7 @@
     ],
     [
       "@x12/task-types",
-      329
+      330
     ],
     [
       "ggql",
@@ -349,5 +349,5 @@
       180
     ]
   ],
-  "sum": 787476
+  "sum": 787893
 }
