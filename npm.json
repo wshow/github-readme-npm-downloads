@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      400537
+      400912
     ],
     [
       "gitbook-plugin-atoc",
-      148145
+      148150
     ],
     [
       "gitbook-plugin-donate",
-      70495
+      70496
     ],
     [
       "waliyun",
-      23515
+      23521
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7386
+      7388
     ],
     [
       "leader.js.cool",
@@ -46,15 +46,15 @@
     ],
     [
       "appkey",
-      4314
+      4315
     ],
     [
       "coding-sdk",
-      4179
+      4183
     ],
     [
       "mock-redis",
-      3963
+      3964
     ],
     [
       "wtoys",
@@ -62,11 +62,11 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3449
+      3453
     ],
     [
       "eslint-config-willin",
-      3420
+      3422
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2775
+      2777
     ],
     [
       "hyperapp.js.cool",
@@ -90,7 +90,7 @@
     ],
     [
       "wrescuetime",
-      2265
+      2266
     ],
     [
       "atl",
@@ -98,11 +98,11 @@
     ],
     [
       "hapi-auth-redis",
-      2218
+      2222
     ],
     [
       "nuxtpress",
-      2159
+      2162
     ],
     [
       "gitbook-plugin-theme-material",
@@ -110,11 +110,11 @@
     ],
     [
       "hello-dolly",
-      2018
+      2021
     ],
     [
       "coding-net",
-      1920
+      1921
     ],
     [
       "@authing/remix",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1292
+      1293
     ],
     [
       "wechaty-authing",
@@ -162,11 +162,11 @@
     ],
     [
       "mmonit",
-      1187
+      1188
     ],
     [
       "lslint",
-      1175
+      1178
     ],
     [
       "@shiwangme/redis",
@@ -190,15 +190,15 @@
     ],
     [
       "h1de",
-      1024
+      1029
     ],
     [
       "coding-deploy",
-      967
+      968
     ],
     [
       "nativescript-icam",
-      954
+      955
     ],
     [
       "awth",
@@ -226,7 +226,7 @@
     ],
     [
       "wulian",
-      872
+      877
     ],
     [
       "wdouban",
@@ -234,7 +234,7 @@
     ],
     [
       "rxdis",
-      848
+      849
     ],
     [
       "z-curve",
@@ -258,7 +258,7 @@
     ],
     [
       "leancloud-sdk",
-      688
+      689
     ],
     [
       "sdk0",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      571
+      572
     ],
     [
       "edd",
@@ -282,7 +282,7 @@
     ],
     [
       "hdd",
-      557
+      558
     ],
     [
       "@xibang/mysql",
@@ -330,7 +330,7 @@
     ],
     [
       "npm-badges",
-      313
+      314
     ],
     [
       "@x12/rx-pool",
@@ -349,5 +349,5 @@
       180
     ]
   ],
-  "sum": 788737
+  "sum": 789174
 }
