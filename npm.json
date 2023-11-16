@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      401932
+      402180
     ],
     [
       "gitbook-plugin-atoc",
-      148169
+      148173
     ],
     [
       "gitbook-plugin-donate",
-      70516
+      70518
     ],
     [
       "waliyun",
-      23538
+      23540
     ],
     [
       "@uua/icons",
@@ -22,11 +22,11 @@
     ],
     [
       "yunpian-sdk",
-      7414
+      7418
     ],
     [
       "leader.js.cool",
-      7292
+      7310
     ],
     [
       "koa-swagger-ui",
@@ -42,15 +42,15 @@
     ],
     [
       "koa-api-logger",
-      4434
+      4435
     ],
     [
       "appkey",
-      4331
+      4336
     ],
     [
       "coding-sdk",
-      4212
+      4213
     ],
     [
       "mock-redis",
@@ -62,23 +62,23 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3477
+      3487
     ],
     [
       "eslint-config-willin",
-      3452
+      3454
     ],
     [
       "tuling",
-      3340
+      3342
     ],
     [
       "vchart",
-      2781
+      2782
     ],
     [
       "hyperapp.js.cool",
-      2379
+      2380
     ],
     [
       "auto-deployer",
@@ -90,7 +90,7 @@
     ],
     [
       "wrescuetime",
-      2275
+      2277
     ],
     [
       "atl",
@@ -142,7 +142,7 @@
     ],
     [
       "remix-i18n",
-      1449
+      1450
     ],
     [
       "wnm",
@@ -154,7 +154,7 @@
     ],
     [
       "mp-sdk",
-      1314
+      1323
     ],
     [
       "wechaty-authing",
@@ -170,7 +170,7 @@
     ],
     [
       "@shiwangme/redis",
-      1161
+      1166
     ],
     [
       "@uua/core",
@@ -189,6 +189,10 @@
       1065
     ],
     [
+      "remix-auth-afdian",
+      1051
+    ],
+    [
       "h1de",
       1035
     ],
@@ -198,11 +202,7 @@
     ],
     [
       "nativescript-icam",
-      957
-    ],
-    [
-      "remix-auth-afdian",
-      955
+      958
     ],
     [
       "awth",
@@ -218,11 +218,11 @@
     ],
     [
       "markdown-toc-gitbook",
-      917
+      918
     ],
     [
       "wulian",
-      899
+      903
     ],
     [
       "@willin/eslint-config",
@@ -230,15 +230,15 @@
     ],
     [
       "pipefn",
-      884
+      885
     ],
     [
       "wdouban",
-      883
+      884
     ],
     [
       "rxdis",
-      853
+      854
     ],
     [
       "z-curve",
@@ -262,7 +262,7 @@
     ],
     [
       "leancloud-sdk",
-      692
+      694
     ],
     [
       "sdk0",
@@ -294,7 +294,7 @@
     ],
     [
       "afdian",
-      515
+      526
     ],
     [
       "@x12/common",
@@ -338,16 +338,16 @@
     ],
     [
       "remote-cloudflare-kv",
-      282
+      284
     ],
     [
       "remix-sanity",
-      257
+      258
     ],
     [
       "passport-authing",
       183
     ]
   ],
-  "sum": 791535
+  "sum": 791974
 }
