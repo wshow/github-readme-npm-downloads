@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      402656
+      402881
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      70545
+      70569
     ],
     [
       "waliyun",
-      23544
+      23574
     ],
     [
       "@uua/icons",
@@ -22,11 +22,11 @@
     ],
     [
       "yunpian-sdk",
-      7427
+      7430
     ],
     [
       "leader.js.cool",
-      7311
+      7312
     ],
     [
       "koa-swagger-ui",
@@ -46,7 +46,7 @@
     ],
     [
       "appkey",
-      4340
+      4341
     ],
     [
       "coding-sdk",
@@ -54,15 +54,15 @@
     ],
     [
       "mock-redis",
-      3979
+      3980
+    ],
+    [
+      "gitbook-plugin-autotheme",
+      3550
     ],
     [
       "wtoys",
       3546
-    ],
-    [
-      "gitbook-plugin-autotheme",
-      3526
     ],
     [
       "eslint-config-willin",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2371
+      2373
     ],
     [
       "wqcloud-video",
@@ -94,7 +94,7 @@
     ],
     [
       "atl",
-      2245
+      2247
     ],
     [
       "hapi-auth-redis",
@@ -142,7 +142,7 @@
     ],
     [
       "remix-i18n",
-      1459
+      1469
     ],
     [
       "wnm",
@@ -186,7 +186,7 @@
     ],
     [
       "remix-auth-afdian",
-      1116
+      1127
     ],
     [
       "beian-domain",
@@ -230,7 +230,7 @@
     ],
     [
       "pipefn",
-      887
+      889
     ],
     [
       "wdouban",
@@ -254,7 +254,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      759
+      760
     ],
     [
       "@dwing/koa-joi-router",
@@ -262,11 +262,11 @@
     ],
     [
       "leancloud-sdk",
-      694
+      696
     ],
     [
       "sdk0",
-      658
+      659
     ],
     [
       "fetch-pro",
@@ -294,11 +294,11 @@
     ],
     [
       "afdian",
-      534
+      535
     ],
     [
       "@x12/common",
-      497
+      499
     ],
     [
       "willin",
@@ -350,8 +350,8 @@
     ],
     [
       "remix-auth-sso",
-      0
+      141
     ]
   ],
-  "sum": 792724
+  "sum": 793208
 }
