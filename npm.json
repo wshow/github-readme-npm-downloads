@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      403088
+      403308
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      70639
+      70643
     ],
     [
       "waliyun",
-      23576
+      23578
     ],
     [
       "@uua/icons",
-      7953
+      7981
     ],
     [
       "yunpian-sdk",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5804
+      5805
     ],
     [
       "koa-api-logger",
@@ -58,15 +58,15 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3551
+      3555
     ],
     [
       "wtoys",
-      3547
+      3548
     ],
     [
       "eslint-config-willin",
-      3458
+      3459
     ],
     [
       "tuling",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2786
+      2787
     ],
     [
       "hyperapp.js.cool",
-      2384
+      2386
     ],
     [
       "auto-deployer",
@@ -86,11 +86,11 @@
     ],
     [
       "wqcloud-video",
-      2293
+      2294
     ],
     [
       "wrescuetime",
-      2281
+      2282
     ],
     [
       "atl",
@@ -118,11 +118,11 @@
     ],
     [
       "@authing/remix",
-      1923
+      1924
     ],
     [
       "wno",
-      1634
+      1635
     ],
     [
       "@x12/di",
@@ -142,11 +142,11 @@
     ],
     [
       "remix-i18n",
-      1493
+      1502
     ],
     [
       "wnm",
-      1448
+      1450
     ],
     [
       "@xibang/node-common",
@@ -158,7 +158,7 @@
     ],
     [
       "wechaty-authing",
-      1286
+      1287
     ],
     [
       "mmonit",
@@ -169,16 +169,16 @@
       1183
     ],
     [
+      "remix-auth-afdian",
+      1182
+    ],
+    [
       "@shiwangme/redis",
       1167
     ],
     [
       "@uua/core",
       1166
-    ],
-    [
-      "remix-auth-afdian",
-      1163
     ],
     [
       "less.js.cool",
@@ -222,11 +222,11 @@
     ],
     [
       "wulian",
-      915
+      916
     ],
     [
       "@willin/eslint-config",
-      897
+      898
     ],
     [
       "pipefn",
@@ -234,19 +234,19 @@
     ],
     [
       "wdouban",
-      884
+      885
     ],
     [
       "rxdis",
-      855
+      859
     ],
     [
       "z-curve",
-      821
+      823
     ],
     [
       "@authing/nextjs",
-      806
+      807
     ],
     [
       "@uua/ip2c",
@@ -294,7 +294,7 @@
     ],
     [
       "afdian",
-      535
+      539
     ],
     [
       "@x12/common",
@@ -302,11 +302,11 @@
     ],
     [
       "willin",
-      496
+      497
     ],
     [
       "whiteq",
-      460
+      461
     ],
     [
       "@x12/mongodb",
@@ -338,11 +338,11 @@
     ],
     [
       "remote-cloudflare-kv",
-      285
+      288
     ],
     [
       "remix-sanity",
-      260
+      261
     ],
     [
       "passport-authing",
@@ -350,8 +350,8 @@
     ],
     [
       "remix-auth-sso",
-      148
+      158
     ]
   ],
-  "sum": 793576
+  "sum": 793905
 }
