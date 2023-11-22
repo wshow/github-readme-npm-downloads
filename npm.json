@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      403308
+      403567
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      70643
+      70644
     ],
     [
       "waliyun",
-      23578
+      23581
     ],
     [
       "@uua/icons",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5805
+      5807
     ],
     [
       "koa-api-logger",
@@ -46,23 +46,23 @@
     ],
     [
       "appkey",
-      4341
+      4342
     ],
     [
       "coding-sdk",
-      4214
+      4215
     ],
     [
       "mock-redis",
-      3980
+      3983
     ],
     [
       "gitbook-plugin-autotheme",
-      3555
+      3561
     ],
     [
       "wtoys",
-      3548
+      3549
     ],
     [
       "eslint-config-willin",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2787
+      2789
     ],
     [
       "hyperapp.js.cool",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2373
+      2374
     ],
     [
       "wqcloud-video",
@@ -94,7 +94,7 @@
     ],
     [
       "atl",
-      2247
+      2248
     ],
     [
       "hapi-auth-redis",
@@ -110,11 +110,11 @@
     ],
     [
       "hello-dolly",
-      2027
+      2028
     ],
     [
       "coding-net",
-      1934
+      1935
     ],
     [
       "@authing/remix",
@@ -142,11 +142,11 @@
     ],
     [
       "remix-i18n",
-      1502
+      1523
     ],
     [
       "wnm",
-      1450
+      1451
     ],
     [
       "@xibang/node-common",
@@ -165,12 +165,12 @@
       1194
     ],
     [
-      "lslint",
-      1183
+      "remix-auth-afdian",
+      1191
     ],
     [
-      "remix-auth-afdian",
-      1182
+      "lslint",
+      1183
     ],
     [
       "@shiwangme/redis",
@@ -190,7 +190,7 @@
     ],
     [
       "beian-domain",
-      1065
+      1066
     ],
     [
       "h1de",
@@ -198,7 +198,7 @@
     ],
     [
       "coding-deploy",
-      970
+      971
     ],
     [
       "nativescript-icam",
@@ -206,7 +206,7 @@
     ],
     [
       "awth",
-      944
+      945
     ],
     [
       "@x12/env",
@@ -238,7 +238,7 @@
     ],
     [
       "rxdis",
-      859
+      860
     ],
     [
       "z-curve",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      704
+      705
     ],
     [
       "leancloud-sdk",
@@ -266,7 +266,7 @@
     ],
     [
       "sdk0",
-      659
+      662
     ],
     [
       "fetch-pro",
@@ -278,7 +278,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      573
+      574
     ],
     [
       "edd",
@@ -294,7 +294,7 @@
     ],
     [
       "afdian",
-      539
+      540
     ],
     [
       "@x12/common",
@@ -350,8 +350,8 @@
     ],
     [
       "remix-auth-sso",
-      158
+      181
     ]
   ],
-  "sum": 793905
+  "sum": 794252
 }
