@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      403567
+      403802
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      70644
+      70648
     ],
     [
       "waliyun",
-      23581
+      23584
     ],
     [
       "@uua/icons",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      3983
+      3984
     ],
     [
       "gitbook-plugin-autotheme",
-      3561
+      3563
     ],
     [
       "wtoys",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2789
+      2790
     ],
     [
       "hyperapp.js.cool",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1451
+      1453
     ],
     [
       "@xibang/node-common",
@@ -158,7 +158,7 @@
     ],
     [
       "wechaty-authing",
-      1287
+      1288
     ],
     [
       "mmonit",
@@ -166,7 +166,7 @@
     ],
     [
       "remix-auth-afdian",
-      1191
+      1192
     ],
     [
       "lslint",
@@ -230,7 +230,7 @@
     ],
     [
       "pipefn",
-      889
+      892
     ],
     [
       "wdouban",
@@ -246,7 +246,7 @@
     ],
     [
       "@authing/nextjs",
-      807
+      808
     ],
     [
       "@uua/ip2c",
@@ -294,7 +294,7 @@
     ],
     [
       "afdian",
-      540
+      541
     ],
     [
       "@x12/common",
@@ -338,7 +338,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      288
+      301
     ],
     [
       "remix-sanity",
@@ -346,12 +346,12 @@
     ],
     [
       "passport-authing",
-      184
+      187
     ],
     [
       "remix-auth-sso",
-      181
+      185
     ]
   ],
-  "sum": 794252
+  "sum": 794527
 }
