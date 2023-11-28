@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      404785
+      405025
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      70673
+      70676
     ],
     [
       "waliyun",
-      23623
+      23624
     ],
     [
       "@uua/icons",
@@ -26,11 +26,11 @@
     ],
     [
       "leader.js.cool",
-      7312
+      7314
     ],
     [
       "koa-swagger-ui",
-      6689
+      6690
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,7 +42,7 @@
     ],
     [
       "koa-api-logger",
-      4436
+      4437
     ],
     [
       "appkey",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3462
+      3463
     ],
     [
       "tuling",
@@ -114,7 +114,7 @@
     ],
     [
       "coding-net",
-      1935
+      1937
     ],
     [
       "@authing/remix",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1585
+      1587
     ],
     [
       "@x12/di",
@@ -134,7 +134,7 @@
     ],
     [
       "@x12/tasker",
-      1572
+      1573
     ],
     [
       "@x12/hosts",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1471
+      1472
     ],
     [
       "@xibang/node-common",
@@ -154,7 +154,7 @@
     ],
     [
       "wechaty-authing",
-      1334
+      1335
     ],
     [
       "mp-sdk",
@@ -181,12 +181,12 @@
       1167
     ],
     [
-      "hyperapp-i18n",
+      "less.js.cool",
       1154
     ],
     [
-      "less.js.cool",
-      1153
+      "hyperapp-i18n",
+      1154
     ],
     [
       "beian-domain",
@@ -218,7 +218,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      918
+      919
     ],
     [
       "wulian",
@@ -242,7 +242,7 @@
     ],
     [
       "z-curve",
-      825
+      826
     ],
     [
       "@authing/nextjs",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      706
+      707
     ],
     [
       "leancloud-sdk",
@@ -282,7 +282,7 @@
     ],
     [
       "edd",
-      564
+      565
     ],
     [
       "hdd",
@@ -290,7 +290,7 @@
     ],
     [
       "afdian",
-      546
+      547
     ],
     [
       "@xibang/mysql",
@@ -306,7 +306,7 @@
     ],
     [
       "whiteq",
-      467
+      468
     ],
     [
       "@x12/mongodb",
@@ -346,12 +346,12 @@
     ],
     [
       "remix-auth-sso",
-      195
+      198
     ],
     [
       "passport-authing",
       188
     ]
   ],
-  "sum": 795865
+  "sum": 796131
 }
