@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      405025
+      405254
     ],
     [
       "gitbook-plugin-atoc",
-      148177
+      148178
     ],
     [
       "gitbook-plugin-donate",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      23624
+      23625
     ],
     [
       "@uua/icons",
@@ -22,11 +22,11 @@
     ],
     [
       "yunpian-sdk",
-      7447
+      7448
     ],
     [
       "leader.js.cool",
-      7314
+      7315
     ],
     [
       "koa-swagger-ui",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4007
+      4008
     ],
     [
       "gitbook-plugin-autotheme",
-      3583
+      3590
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3463
+      3464
     ],
     [
       "tuling",
@@ -78,11 +78,11 @@
     ],
     [
       "hyperapp.js.cool",
-      2390
+      2392
     ],
     [
       "auto-deployer",
-      2374
+      2375
     ],
     [
       "wqcloud-video",
@@ -98,7 +98,7 @@
     ],
     [
       "hapi-auth-redis",
-      2229
+      2230
     ],
     [
       "nuxtpress",
@@ -106,11 +106,11 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2143
+      2144
     ],
     [
       "hello-dolly",
-      2029
+      2030
     ],
     [
       "coding-net",
@@ -137,16 +137,16 @@
       1573
     ],
     [
+      "remix-i18n",
+      1543
+    ],
+    [
       "@x12/hosts",
       1542
     ],
     [
-      "remix-i18n",
-      1535
-    ],
-    [
       "wnm",
-      1472
+      1475
     ],
     [
       "@xibang/node-common",
@@ -162,7 +162,7 @@
     ],
     [
       "remix-auth-afdian",
-      1200
+      1203
     ],
     [
       "mmonit",
@@ -202,7 +202,7 @@
     ],
     [
       "nativescript-icam",
-      958
+      959
     ],
     [
       "awth",
@@ -238,7 +238,7 @@
     ],
     [
       "rxdis",
-      860
+      861
     ],
     [
       "z-curve",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      707
+      708
     ],
     [
       "leancloud-sdk",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      576
+      577
     ],
     [
       "@xibang/redis",
@@ -346,12 +346,12 @@
     ],
     [
       "remix-auth-sso",
-      198
+      203
     ],
     [
       "passport-authing",
-      188
+      189
     ]
   ],
-  "sum": 796131
+  "sum": 796403
 }
