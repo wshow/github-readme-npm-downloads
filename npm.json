@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      405254
+      405435
     ],
     [
       "gitbook-plugin-atoc",
-      148178
+      148189
     ],
     [
       "gitbook-plugin-donate",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      23625
+      23626
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      7315
+      7316
     ],
     [
       "koa-swagger-ui",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3590
+      3600
     ],
     [
       "wtoys",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2375
+      2376
     ],
     [
       "wqcloud-video",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2144
+      2145
     ],
     [
       "hello-dolly",
@@ -138,7 +138,7 @@
     ],
     [
       "remix-i18n",
-      1543
+      1552
     ],
     [
       "@x12/hosts",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1475
+      1478
     ],
     [
       "@xibang/node-common",
@@ -154,7 +154,7 @@
     ],
     [
       "wechaty-authing",
-      1335
+      1348
     ],
     [
       "mp-sdk",
@@ -170,7 +170,7 @@
     ],
     [
       "lslint",
-      1183
+      1185
     ],
     [
       "@uua/core",
@@ -182,7 +182,7 @@
     ],
     [
       "less.js.cool",
-      1154
+      1156
     ],
     [
       "hyperapp-i18n",
@@ -238,7 +238,7 @@
     ],
     [
       "rxdis",
-      861
+      862
     ],
     [
       "z-curve",
@@ -330,7 +330,7 @@
     ],
     [
       "npm-badges",
-      318
+      319
     ],
     [
       "@x12/rx-pool",
@@ -338,7 +338,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      302
+      303
     ],
     [
       "remix-sanity",
@@ -346,12 +346,12 @@
     ],
     [
       "remix-auth-sso",
-      203
+      213
     ],
     [
       "passport-authing",
       189
     ]
   ],
-  "sum": 796403
+  "sum": 796651
 }
