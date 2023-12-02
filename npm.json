@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      405676
+      406259
     ],
     [
       "gitbook-plugin-atoc",
-      148189
+      148193
     ],
     [
       "gitbook-plugin-donate",
-      70676
+      70678
     ],
     [
       "waliyun",
-      23630
+      23633
     ],
     [
       "@uua/icons",
-      7981
+      7982
     ],
     [
       "yunpian-sdk",
-      7449
+      7451
     ],
     [
       "leader.js.cool",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6690
+      6691
     ],
     [
       "gitbook-plugin-wordcount",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4008
+      4012
     ],
     [
       "gitbook-plugin-autotheme",
-      3603
+      3605
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3469
+      3472
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2798
+      2799
     ],
     [
       "hyperapp.js.cool",
@@ -138,7 +138,7 @@
     ],
     [
       "remix-i18n",
-      1555
+      1560
     ],
     [
       "@x12/hosts",
@@ -162,11 +162,11 @@
     ],
     [
       "remix-auth-afdian",
-      1203
+      1205
     ],
     [
       "mmonit",
-      1194
+      1196
     ],
     [
       "lslint",
@@ -174,11 +174,11 @@
     ],
     [
       "@uua/core",
-      1167
+      1168
     ],
     [
       "@shiwangme/redis",
-      1167
+      1168
     ],
     [
       "less.js.cool",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      1036
+      1037
     ],
     [
       "coding-deploy",
@@ -202,7 +202,7 @@
     ],
     [
       "nativescript-icam",
-      959
+      960
     ],
     [
       "awth",
@@ -226,7 +226,7 @@
     ],
     [
       "@willin/eslint-config",
-      898
+      899
     ],
     [
       "pipefn",
@@ -254,7 +254,7 @@
     ],
     [
       "@uua/ip2c",
-      762
+      763
     ],
     [
       "@dwing/koa-joi-router",
@@ -274,7 +274,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      578
+      579
     ],
     [
       "@xibang/redis",
@@ -286,7 +286,7 @@
     ],
     [
       "hdd",
-      561
+      562
     ],
     [
       "afdian",
@@ -298,7 +298,7 @@
     ],
     [
       "willin",
-      499
+      500
     ],
     [
       "@x12/common",
@@ -326,7 +326,7 @@
     ],
     [
       "ggql",
-      322
+      323
     ],
     [
       "npm-badges",
@@ -338,7 +338,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      303
+      304
     ],
     [
       "remix-sanity",
@@ -346,12 +346,12 @@
     ],
     [
       "remix-auth-sso",
-      217
+      220
     ],
     [
       "passport-authing",
       190
     ]
   ],
-  "sum": 796928
+  "sum": 797557
 }
