@@ -2,35 +2,35 @@
   "stats": [
     [
       "hexo-wordcount",
-      406259
+      406980
     ],
     [
       "gitbook-plugin-atoc",
-      148193
+      148194
     ],
     [
       "gitbook-plugin-donate",
-      70678
+      70680
     ],
     [
       "waliyun",
-      23633
+      23635
     ],
     [
       "@uua/icons",
-      7982
+      7984
     ],
     [
       "yunpian-sdk",
-      7451
+      7464
     ],
     [
       "leader.js.cool",
-      7316
+      7317
     ],
     [
       "koa-swagger-ui",
-      6691
+      6692
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5824
+      5839
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3605
+      3607
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3472
+      3474
     ],
     [
       "tuling",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2799
+      2800
     ],
     [
       "hyperapp.js.cool",
-      2395
+      2397
     ],
     [
       "auto-deployer",
@@ -86,11 +86,11 @@
     ],
     [
       "wqcloud-video",
-      2301
+      2308
     ],
     [
       "wrescuetime",
-      2289
+      2296
     ],
     [
       "atl",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1639
+      1641
     ],
     [
       "v0-scf",
@@ -138,7 +138,7 @@
     ],
     [
       "remix-i18n",
-      1560
+      1563
     ],
     [
       "@x12/hosts",
@@ -154,7 +154,7 @@
     ],
     [
       "wechaty-authing",
-      1348
+      1362
     ],
     [
       "mp-sdk",
@@ -162,7 +162,7 @@
     ],
     [
       "remix-auth-afdian",
-      1205
+      1210
     ],
     [
       "mmonit",
@@ -186,7 +186,7 @@
     ],
     [
       "hyperapp-i18n",
-      1154
+      1155
     ],
     [
       "beian-domain",
@@ -222,7 +222,7 @@
     ],
     [
       "wulian",
-      917
+      918
     ],
     [
       "@willin/eslint-config",
@@ -334,7 +334,7 @@
     ],
     [
       "@x12/rx-pool",
-      313
+      314
     ],
     [
       "remote-cloudflare-kv",
@@ -351,7 +351,11 @@
     [
       "passport-authing",
       190
+    ],
+    [
+      "@v0/v0",
+      0
     ]
   ],
-  "sum": 797557
+  "sum": 798363
 }
