@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      406980
+      407280
     ],
     [
       "gitbook-plugin-atoc",
-      148194
+      148195
     ],
     [
       "gitbook-plugin-donate",
-      70680
+      70681
     ],
     [
       "waliyun",
-      23635
+      23640
     ],
     [
       "@uua/icons",
@@ -22,11 +22,11 @@
     ],
     [
       "yunpian-sdk",
-      7464
+      7475
     ],
     [
       "leader.js.cool",
-      7317
+      7330
     ],
     [
       "koa-swagger-ui",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5989
+      5990
     ],
     [
       "wqcloud",
@@ -42,11 +42,11 @@
     ],
     [
       "koa-api-logger",
-      4437
+      4438
     ],
     [
       "appkey",
-      4342
+      4343
     ],
     [
       "coding-sdk",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4012
+      4013
     ],
     [
       "gitbook-plugin-autotheme",
-      3607
+      3608
     ],
     [
       "wtoys",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2397
+      2399
     ],
     [
       "auto-deployer",
@@ -106,15 +106,15 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2145
+      2147
     ],
     [
       "hello-dolly",
-      2030
+      2031
     ],
     [
       "coding-net",
-      1937
+      1938
     ],
     [
       "@authing/remix",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1641
+      1642
     ],
     [
       "v0-scf",
@@ -134,11 +134,11 @@
     ],
     [
       "@x12/tasker",
-      1573
+      1574
     ],
     [
       "remix-i18n",
-      1563
+      1566
     ],
     [
       "@x12/hosts",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1391
+      1392
     ],
     [
       "wechaty-authing",
@@ -190,7 +190,7 @@
     ],
     [
       "beian-domain",
-      1067
+      1068
     ],
     [
       "h1de",
@@ -198,7 +198,7 @@
     ],
     [
       "coding-deploy",
-      971
+      972
     ],
     [
       "nativescript-icam",
@@ -226,7 +226,7 @@
     ],
     [
       "@willin/eslint-config",
-      899
+      900
     ],
     [
       "pipefn",
@@ -258,7 +258,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      709
+      710
     ],
     [
       "leancloud-sdk",
@@ -278,7 +278,7 @@
     ],
     [
       "@xibang/redis",
-      576
+      577
     ],
     [
       "edd",
@@ -290,11 +290,11 @@
     ],
     [
       "afdian",
-      549
+      550
     ],
     [
       "@xibang/mysql",
-      541
+      542
     ],
     [
       "willin",
@@ -338,7 +338,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      304
+      306
     ],
     [
       "remix-sanity",
@@ -346,16 +346,24 @@
     ],
     [
       "remix-auth-sso",
-      220
+      221
     ],
     [
       "passport-authing",
-      190
+      191
     ],
     [
       "@v0/v0",
+      138
+    ],
+    [
+      "@svelte-dev/auth-oauth2",
+      0
+    ],
+    [
+      "@svelte-dev/auth",
       0
     ]
   ],
-  "sum": 798363
+  "sum": 798860
 }
