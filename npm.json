@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      407280
+      407517
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      23640
+      23644
     ],
     [
       "@uua/icons",
-      7984
+      7987
     ],
     [
       "yunpian-sdk",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      7330
+      7333
     ],
     [
       "koa-swagger-ui",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5839
+      5849
     ],
     [
       "koa-api-logger",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3474
+      3476
     ],
     [
       "tuling",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2399
+      2400
     ],
     [
       "auto-deployer",
@@ -98,7 +98,7 @@
     ],
     [
       "hapi-auth-redis",
-      2230
+      2231
     ],
     [
       "nuxtpress",
@@ -122,27 +122,27 @@
     ],
     [
       "wno",
-      1642
+      1643
     ],
     [
       "v0-scf",
       1587
     ],
     [
-      "@x12/di",
-      1574
+      "@x12/tasker",
+      1582
     ],
     [
-      "@x12/tasker",
-      1574
+      "@x12/di",
+      1579
     ],
     [
       "remix-i18n",
-      1566
+      1568
     ],
     [
       "@x12/hosts",
-      1542
+      1545
     ],
     [
       "wnm",
@@ -162,7 +162,7 @@
     ],
     [
       "remix-auth-afdian",
-      1210
+      1211
     ],
     [
       "mmonit",
@@ -170,7 +170,7 @@
     ],
     [
       "lslint",
-      1185
+      1186
     ],
     [
       "@uua/core",
@@ -202,7 +202,7 @@
     ],
     [
       "nativescript-icam",
-      960
+      961
     ],
     [
       "awth",
@@ -210,7 +210,7 @@
     ],
     [
       "@x12/env",
-      936
+      937
     ],
     [
       "uua",
@@ -238,7 +238,7 @@
     ],
     [
       "rxdis",
-      862
+      863
     ],
     [
       "z-curve",
@@ -297,12 +297,12 @@
       542
     ],
     [
-      "willin",
-      500
+      "@x12/common",
+      501
     ],
     [
-      "@x12/common",
-      499
+      "willin",
+      500
     ],
     [
       "whiteq",
@@ -310,11 +310,11 @@
     ],
     [
       "@x12/mongodb",
-      436
+      438
     ],
     [
       "@x12/promise",
-      426
+      428
     ],
     [
       "random-target",
@@ -322,7 +322,7 @@
     ],
     [
       "@x12/task-types",
-      333
+      334
     ],
     [
       "ggql",
@@ -334,7 +334,7 @@
     ],
     [
       "@x12/rx-pool",
-      314
+      315
     ],
     [
       "remote-cloudflare-kv",
@@ -346,24 +346,28 @@
     ],
     [
       "remix-auth-sso",
-      221
+      223
     ],
     [
       "passport-authing",
-      191
-    ],
-    [
-      "@v0/v0",
-      138
-    ],
-    [
-      "@svelte-dev/auth-oauth2",
-      0
+      192
     ],
     [
       "@svelte-dev/auth",
+      183
+    ],
+    [
+      "@v0/v0",
+      144
+    ],
+    [
+      "@svelte-dev/auth-oauth2",
+      58
+    ],
+    [
+      "@svelte-dev/auth-sso",
       0
     ]
   ],
-  "sum": 798860
+  "sum": 799403
 }
