@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      407517
+      408325
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,19 +10,19 @@
     ],
     [
       "gitbook-plugin-donate",
-      70681
+      70682
     ],
     [
       "waliyun",
-      23644
+      23649
     ],
     [
       "@uua/icons",
-      7987
+      7989
     ],
     [
       "yunpian-sdk",
-      7475
+      7477
     ],
     [
       "leader.js.cool",
@@ -50,15 +50,15 @@
     ],
     [
       "coding-sdk",
-      4215
+      4216
     ],
     [
       "mock-redis",
-      4013
+      4019
     ],
     [
       "gitbook-plugin-autotheme",
-      3608
+      3613
     ],
     [
       "wtoys",
@@ -78,11 +78,11 @@
     ],
     [
       "hyperapp.js.cool",
-      2400
+      2404
     ],
     [
       "auto-deployer",
-      2376
+      2377
     ],
     [
       "wqcloud-video",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2147
+      2148
     ],
     [
       "hello-dolly",
@@ -154,7 +154,7 @@
     ],
     [
       "wechaty-authing",
-      1362
+      1363
     ],
     [
       "mp-sdk",
@@ -170,11 +170,11 @@
     ],
     [
       "lslint",
-      1186
+      1188
     ],
     [
       "@uua/core",
-      1168
+      1169
     ],
     [
       "@shiwangme/redis",
@@ -238,7 +238,7 @@
     ],
     [
       "rxdis",
-      863
+      865
     ],
     [
       "z-curve",
@@ -262,7 +262,7 @@
     ],
     [
       "leancloud-sdk",
-      697
+      698
     ],
     [
       "sdk0",
@@ -338,11 +338,23 @@
     ],
     [
       "remote-cloudflare-kv",
-      306
+      307
+    ],
+    [
+      "@svelte-dev/auth-oauth2",
+      273
     ],
     [
       "remix-sanity",
       262
+    ],
+    [
+      "@svelte-dev/auth-sso",
+      246
+    ],
+    [
+      "@svelte-dev/auth",
+      237
     ],
     [
       "remix-auth-sso",
@@ -350,24 +362,16 @@
     ],
     [
       "passport-authing",
-      192
-    ],
-    [
-      "@svelte-dev/auth",
-      183
+      193
     ],
     [
       "@v0/v0",
-      144
+      152
     ],
     [
-      "@svelte-dev/auth-oauth2",
-      58
-    ],
-    [
-      "@svelte-dev/auth-sso",
+      "@svelte-dev/session",
       0
     ]
   ],
-  "sum": 799403
+  "sum": 800771
 }
