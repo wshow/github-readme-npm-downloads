@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      408325
+      408993
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      23649
+      23651
     ],
     [
       "@uua/icons",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4019
+      4020
     ],
     [
       "gitbook-plugin-autotheme",
-      3613
+      3615
     ],
     [
       "wtoys",
@@ -70,11 +70,11 @@
     ],
     [
       "tuling",
-      3353
+      3354
     ],
     [
       "vchart",
-      2800
+      2801
     ],
     [
       "hyperapp.js.cool",
@@ -138,7 +138,7 @@
     ],
     [
       "remix-i18n",
-      1568
+      1570
     ],
     [
       "@x12/hosts",
@@ -158,11 +158,11 @@
     ],
     [
       "mp-sdk",
-      1330
+      1331
     ],
     [
       "remix-auth-afdian",
-      1211
+      1212
     ],
     [
       "mmonit",
@@ -214,7 +214,7 @@
     ],
     [
       "uua",
-      930
+      932
     ],
     [
       "markdown-toc-gitbook",
@@ -242,7 +242,7 @@
     ],
     [
       "z-curve",
-      826
+      827
     ],
     [
       "@authing/nextjs",
@@ -342,19 +342,19 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      273
+      288
     ],
     [
       "remix-sanity",
-      262
+      263
     ],
     [
       "@svelte-dev/auth-sso",
-      246
+      260
     ],
     [
       "@svelte-dev/auth",
-      237
+      244
     ],
     [
       "remix-auth-sso",
@@ -366,12 +366,12 @@
     ],
     [
       "@v0/v0",
-      152
+      153
     ],
     [
       "@svelte-dev/session",
-      0
+      46
     ]
   ],
-  "sum": 800771
+  "sum": 801537
 }
