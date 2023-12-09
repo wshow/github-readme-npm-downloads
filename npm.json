@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      409619
+      410240
     ],
     [
       "gitbook-plugin-atoc",
-      148195
+      148197
     ],
     [
       "gitbook-plugin-donate",
-      70682
+      70685
     ],
     [
       "waliyun",
-      23734
+      23739
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7478
+      7479
     ],
     [
       "leader.js.cool",
@@ -46,7 +46,7 @@
     ],
     [
       "appkey",
-      4343
+      4344
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3618
+      3620
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3476
+      3477
     ],
     [
       "tuling",
@@ -138,7 +138,7 @@
     ],
     [
       "remix-i18n",
-      1570
+      1577
     ],
     [
       "@x12/hosts",
@@ -162,7 +162,7 @@
     ],
     [
       "remix-auth-afdian",
-      1212
+      1213
     ],
     [
       "mmonit",
@@ -214,7 +214,7 @@
     ],
     [
       "uua",
-      932
+      933
     ],
     [
       "wulian",
@@ -250,7 +250,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      766
+      767
     ],
     [
       "@uua/ip2c",
@@ -267,6 +267,10 @@
     [
       "sdk0",
       662
+    ],
+    [
+      "@svelte-dev/auth",
+      629
     ],
     [
       "fetch-pro",
@@ -290,7 +294,7 @@
     ],
     [
       "afdian",
-      552
+      554
     ],
     [
       "@xibang/mysql",
@@ -305,10 +309,6 @@
       500
     ],
     [
-      "@svelte-dev/auth",
-      471
-    ],
-    [
       "whiteq",
       468
     ],
@@ -317,20 +317,20 @@
       439
     ],
     [
+      "@svelte-dev/auth-oauth2",
+      434
+    ],
+    [
       "@x12/promise",
       429
     ],
     [
       "random-target",
-      398
-    ],
-    [
-      "@svelte-dev/auth-oauth2",
-      376
+      399
     ],
     [
       "@svelte-dev/auth-sso",
-      340
+      363
     ],
     [
       "@x12/task-types",
@@ -342,7 +342,7 @@
     ],
     [
       "npm-badges",
-      319
+      320
     ],
     [
       "@x12/rx-pool",
@@ -358,28 +358,28 @@
     ],
     [
       "remix-auth-sso",
-      223
+      229
     ],
     [
       "passport-authing",
       193
     ],
     [
+      "@svelte-dev/session",
+      186
+    ],
+    [
       "@v0/v0",
       154
     ],
     [
-      "@svelte-dev/session",
-      144
+      "@svelte-dev/auth-afdian",
+      101
     ],
     [
       "@svelte-dev/auth-github",
-      0
-    ],
-    [
-      "@svelte-dev/auth-afdian",
-      0
+      58
     ]
   ],
-  "sum": 802772
+  "sum": 803868
 }
