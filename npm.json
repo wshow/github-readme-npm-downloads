@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      410240
+      410899
     ],
     [
       "gitbook-plugin-atoc",
-      148197
+      148201
     ],
     [
       "gitbook-plugin-donate",
-      70685
+      70687
     ],
     [
       "waliyun",
-      23739
+      23744
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7479
+      7481
     ],
     [
       "leader.js.cool",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5852
+      5853
     ],
     [
       "koa-api-logger",
@@ -46,7 +46,7 @@
     ],
     [
       "appkey",
-      4344
+      4345
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3620
+      3629
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3477
+      3478
     ],
     [
       "tuling",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2405
+      2406
     ],
     [
       "auto-deployer",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2202
+      2204
     ],
     [
       "gitbook-plugin-theme-material",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1587
+      1588
     ],
     [
       "@x12/tasker",
@@ -138,7 +138,7 @@
     ],
     [
       "remix-i18n",
-      1577
+      1578
     ],
     [
       "@x12/hosts",
@@ -162,7 +162,7 @@
     ],
     [
       "remix-auth-afdian",
-      1213
+      1214
     ],
     [
       "mmonit",
@@ -265,12 +265,12 @@
       698
     ],
     [
-      "sdk0",
-      662
+      "@svelte-dev/auth",
+      680
     ],
     [
-      "@svelte-dev/auth",
-      629
+      "sdk0",
+      662
     ],
     [
       "fetch-pro",
@@ -294,7 +294,7 @@
     ],
     [
       "afdian",
-      554
+      555
     ],
     [
       "@xibang/mysql",
@@ -303,6 +303,10 @@
     [
       "@x12/common",
       502
+    ],
+    [
+      "@svelte-dev/auth-oauth2",
+      501
     ],
     [
       "willin",
@@ -317,10 +321,6 @@
       439
     ],
     [
-      "@svelte-dev/auth-oauth2",
-      434
-    ],
-    [
       "@x12/promise",
       429
     ],
@@ -330,7 +330,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      363
+      370
     ],
     [
       "@x12/task-types",
@@ -361,25 +361,29 @@
       229
     ],
     [
-      "passport-authing",
-      193
-    ],
-    [
       "@svelte-dev/session",
-      186
+      209
     ],
     [
-      "@v0/v0",
-      154
+      "passport-authing",
+      194
     ],
     [
       "@svelte-dev/auth-afdian",
-      101
+      162
+    ],
+    [
+      "@v0/v0",
+      155
     ],
     [
       "@svelte-dev/auth-github",
-      58
+      113
+    ],
+    [
+      "@svelte-dev/eslint-config",
+      0
     ]
   ],
-  "sum": 803868
+  "sum": 804825
 }
