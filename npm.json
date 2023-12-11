@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      410899
+      411233
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      70687
+      70705
     ],
     [
       "waliyun",
-      23744
+      23745
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      7333
+      7334
     ],
     [
       "koa-swagger-ui",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3478
+      3480
     ],
     [
       "tuling",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2148
+      2153
     ],
     [
       "hello-dolly",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1478
+      1479
     ],
     [
       "@xibang/node-common",
@@ -230,7 +230,7 @@
     ],
     [
       "pipefn",
-      892
+      893
     ],
     [
       "wdouban",
@@ -257,6 +257,10 @@
       763
     ],
     [
+      "@svelte-dev/auth",
+      754
+    ],
+    [
       "@dwing/koa-joi-router",
       710
     ],
@@ -265,16 +269,16 @@
       698
     ],
     [
-      "@svelte-dev/auth",
-      680
-    ],
-    [
       "sdk0",
-      662
+      663
     ],
     [
       "fetch-pro",
       596
+    ],
+    [
+      "@svelte-dev/auth-oauth2",
+      591
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -305,10 +309,6 @@
       502
     ],
     [
-      "@svelte-dev/auth-oauth2",
-      501
-    ],
-    [
       "willin",
       500
     ],
@@ -321,16 +321,16 @@
       439
     ],
     [
+      "@svelte-dev/auth-sso",
+      431
+    ],
+    [
       "@x12/promise",
       429
     ],
     [
       "random-target",
       399
-    ],
-    [
-      "@svelte-dev/auth-sso",
-      370
     ],
     [
       "@x12/task-types",
@@ -353,37 +353,37 @@
       307
     ],
     [
+      "@svelte-dev/session",
+      284
+    ],
+    [
       "remix-sanity",
       263
+    ],
+    [
+      "@svelte-dev/auth-afdian",
+      233
     ],
     [
       "remix-auth-sso",
       229
     ],
     [
-      "@svelte-dev/session",
-      209
-    ],
-    [
       "passport-authing",
       194
     ],
     [
-      "@svelte-dev/auth-afdian",
-      162
+      "@svelte-dev/auth-github",
+      179
     ],
     [
       "@v0/v0",
-      155
-    ],
-    [
-      "@svelte-dev/auth-github",
-      113
+      156
     ],
     [
       "@svelte-dev/eslint-config",
-      0
+      118
     ]
   ],
-  "sum": 804825
+  "sum": 805745
 }
