@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      411233
+      411482
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      23745
+      23746
     ],
     [
       "@uua/icons",
-      7990
+      7991
     ],
     [
       "yunpian-sdk",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3480
+      3481
     ],
     [
       "tuling",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2801
+      2802
     ],
     [
       "hyperapp.js.cool",
-      2406
+      2407
     ],
     [
       "auto-deployer",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2153
+      2154
     ],
     [
       "hello-dolly",
@@ -138,7 +138,7 @@
     ],
     [
       "remix-i18n",
-      1578
+      1579
     ],
     [
       "@x12/hosts",
@@ -241,6 +241,10 @@
       866
     ],
     [
+      "@svelte-dev/auth",
+      850
+    ],
+    [
       "z-curve",
       827
     ],
@@ -257,10 +261,6 @@
       763
     ],
     [
-      "@svelte-dev/auth",
-      754
-    ],
-    [
       "@dwing/koa-joi-router",
       710
     ],
@@ -269,16 +269,16 @@
       698
     ],
     [
+      "@svelte-dev/auth-oauth2",
+      666
+    ],
+    [
       "sdk0",
       663
     ],
     [
       "fetch-pro",
       596
-    ],
-    [
-      "@svelte-dev/auth-oauth2",
-      591
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -290,7 +290,7 @@
     ],
     [
       "edd",
-      565
+      566
     ],
     [
       "hdd",
@@ -322,7 +322,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      431
+      439
     ],
     [
       "@x12/promise",
@@ -330,7 +330,11 @@
     ],
     [
       "random-target",
-      399
+      400
+    ],
+    [
+      "@svelte-dev/session",
+      360
     ],
     [
       "@x12/task-types",
@@ -353,16 +357,12 @@
       307
     ],
     [
-      "@svelte-dev/session",
-      284
-    ],
-    [
       "remix-sanity",
-      263
+      264
     ],
     [
       "@svelte-dev/auth-afdian",
-      233
+      242
     ],
     [
       "remix-auth-sso",
@@ -374,16 +374,24 @@
     ],
     [
       "@svelte-dev/auth-github",
-      179
+      186
     ],
     [
       "@v0/v0",
-      156
+      157
     ],
     [
       "@svelte-dev/eslint-config",
-      118
+      125
+    ],
+    [
+      "@svelte-dev/i18n",
+      0
+    ],
+    [
+      "@svelte-dev/auth-alipay",
+      0
     ]
   ],
-  "sum": 805745
+  "sum": 806283
 }
