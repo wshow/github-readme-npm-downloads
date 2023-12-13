@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      411482
+      412142
     ],
     [
       "gitbook-plugin-atoc",
-      148201
+      148204
     ],
     [
       "gitbook-plugin-donate",
@@ -14,19 +14,19 @@
     ],
     [
       "waliyun",
-      23746
+      23752
     ],
     [
       "@uua/icons",
-      7991
+      7992
     ],
     [
       "yunpian-sdk",
-      7481
+      7489
     ],
     [
       "leader.js.cool",
-      7334
+      7335
     ],
     [
       "koa-swagger-ui",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      5990
+      5992
     ],
     [
       "wqcloud",
@@ -46,7 +46,7 @@
     ],
     [
       "appkey",
-      4345
+      4346
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3629
+      3635
     ],
     [
       "wtoys",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2802
+      2803
     ],
     [
       "hyperapp.js.cool",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2204
+      2205
     ],
     [
       "gitbook-plugin-theme-material",
@@ -242,7 +242,7 @@
     ],
     [
       "@svelte-dev/auth",
-      850
+      862
     ],
     [
       "z-curve",
@@ -270,11 +270,11 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      666
+      677
     ],
     [
       "sdk0",
-      663
+      664
     ],
     [
       "fetch-pro",
@@ -317,11 +317,11 @@
       468
     ],
     [
-      "@x12/mongodb",
-      439
+      "@svelte-dev/auth-sso",
+      443
     ],
     [
-      "@svelte-dev/auth-sso",
+      "@x12/mongodb",
       439
     ],
     [
@@ -334,7 +334,7 @@
     ],
     [
       "@svelte-dev/session",
-      360
+      371
     ],
     [
       "@x12/task-types",
@@ -362,19 +362,19 @@
     ],
     [
       "@svelte-dev/auth-afdian",
-      242
+      252
     ],
     [
       "remix-auth-sso",
       229
     ],
     [
-      "passport-authing",
-      194
+      "@svelte-dev/auth-github",
+      196
     ],
     [
-      "@svelte-dev/auth-github",
-      186
+      "passport-authing",
+      194
     ],
     [
       "@v0/v0",
@@ -382,16 +382,16 @@
     ],
     [
       "@svelte-dev/eslint-config",
-      125
-    ],
-    [
-      "@svelte-dev/i18n",
-      0
+      133
     ],
     [
       "@svelte-dev/auth-alipay",
-      0
+      89
+    ],
+    [
+      "@svelte-dev/i18n",
+      51
     ]
   ],
-  "sum": 806283
+  "sum": 807180
 }
