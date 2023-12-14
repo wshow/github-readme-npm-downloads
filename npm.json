@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      412142
+      412763
     ],
     [
       "gitbook-plugin-atoc",
-      148204
+      148209
     ],
     [
       "gitbook-plugin-donate",
-      70705
+      70706
     ],
     [
       "waliyun",
-      23752
+      23754
     ],
     [
       "@uua/icons",
-      7992
+      7994
     ],
     [
       "yunpian-sdk",
-      7489
+      7490
     ],
     [
       "leader.js.cool",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6692
+      6693
     ],
     [
       "gitbook-plugin-wordcount",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4022
+      4029
     ],
     [
       "gitbook-plugin-autotheme",
-      3635
+      3644
     ],
     [
       "wtoys",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2803
+      2804
     ],
     [
       "hyperapp.js.cool",
-      2407
+      2408
     ],
     [
       "auto-deployer",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2154
+      2156
     ],
     [
       "hello-dolly",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1479
+      1481
     ],
     [
       "@xibang/node-common",
@@ -225,6 +225,10 @@
       919
     ],
     [
+      "@svelte-dev/auth",
+      907
+    ],
+    [
       "@willin/eslint-config",
       900
     ],
@@ -239,10 +243,6 @@
     [
       "rxdis",
       866
-    ],
-    [
-      "@svelte-dev/auth",
-      862
     ],
     [
       "z-curve",
@@ -261,6 +261,10 @@
       763
     ],
     [
+      "@svelte-dev/auth-oauth2",
+      720
+    ],
+    [
       "@dwing/koa-joi-router",
       710
     ],
@@ -269,16 +273,12 @@
       698
     ],
     [
-      "@svelte-dev/auth-oauth2",
-      677
-    ],
-    [
       "sdk0",
       664
     ],
     [
       "fetch-pro",
-      596
+      597
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -298,7 +298,7 @@
     ],
     [
       "afdian",
-      555
+      556
     ],
     [
       "@xibang/mysql",
@@ -318,7 +318,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      443
+      450
     ],
     [
       "@x12/mongodb",
@@ -329,12 +329,12 @@
       429
     ],
     [
-      "random-target",
-      400
+      "@svelte-dev/session",
+      422
     ],
     [
-      "@svelte-dev/session",
-      371
+      "random-target",
+      400
     ],
     [
       "@x12/task-types",
@@ -362,15 +362,15 @@
     ],
     [
       "@svelte-dev/auth-afdian",
-      252
+      257
     ],
     [
       "remix-auth-sso",
-      229
+      230
     ],
     [
       "@svelte-dev/auth-github",
-      196
+      200
     ],
     [
       "passport-authing",
@@ -382,16 +382,16 @@
     ],
     [
       "@svelte-dev/eslint-config",
-      133
-    ],
-    [
-      "@svelte-dev/auth-alipay",
-      89
+      137
     ],
     [
       "@svelte-dev/i18n",
-      51
+      95
+    ],
+    [
+      "@svelte-dev/auth-alipay",
+      95
     ]
   ],
-  "sum": 807180
+  "sum": 808047
 }
