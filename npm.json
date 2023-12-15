@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      412763
+      413362
     ],
     [
       "gitbook-plugin-atoc",
-      148209
+      148216
     ],
     [
       "gitbook-plugin-donate",
@@ -14,15 +14,15 @@
     ],
     [
       "waliyun",
-      23754
+      23757
     ],
     [
       "@uua/icons",
-      7994
+      7995
     ],
     [
       "yunpian-sdk",
-      7490
+      7492
     ],
     [
       "leader.js.cool",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4029
+      4037
     ],
     [
       "gitbook-plugin-autotheme",
-      3644
+      3648
     ],
     [
       "wtoys",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2804
+      2805
     ],
     [
       "hyperapp.js.cool",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2156
+      2157
     ],
     [
       "hello-dolly",
@@ -118,7 +118,7 @@
     ],
     [
       "@authing/remix",
-      1925
+      1926
     ],
     [
       "wno",
@@ -130,7 +130,7 @@
     ],
     [
       "@x12/tasker",
-      1583
+      1584
     ],
     [
       "@x12/di",
@@ -162,7 +162,7 @@
     ],
     [
       "remix-auth-afdian",
-      1214
+      1216
     ],
     [
       "mmonit",
@@ -201,6 +201,10 @@
       972
     ],
     [
+      "@svelte-dev/auth",
+      966
+    ],
+    [
       "nativescript-icam",
       961
     ],
@@ -225,10 +229,6 @@
       919
     ],
     [
-      "@svelte-dev/auth",
-      907
-    ],
-    [
       "@willin/eslint-config",
       900
     ],
@@ -250,7 +250,7 @@
     ],
     [
       "@authing/nextjs",
-      809
+      810
     ],
     [
       "vuepress-theme-asshole",
@@ -262,7 +262,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      720
+      728
     ],
     [
       "@dwing/koa-joi-router",
@@ -313,12 +313,16 @@
       500
     ],
     [
+      "@svelte-dev/session",
+      482
+    ],
+    [
       "whiteq",
       468
     ],
     [
       "@svelte-dev/auth-sso",
-      450
+      451
     ],
     [
       "@x12/mongodb",
@@ -327,10 +331,6 @@
     [
       "@x12/promise",
       429
-    ],
-    [
-      "@svelte-dev/session",
-      422
     ],
     [
       "random-target",
@@ -366,7 +366,11 @@
     ],
     [
       "remix-auth-sso",
-      230
+      232
+    ],
+    [
+      "@svelte-dev/i18n",
+      208
     ],
     [
       "@svelte-dev/auth-github",
@@ -374,7 +378,7 @@
     ],
     [
       "passport-authing",
-      194
+      195
     ],
     [
       "@v0/v0",
@@ -385,13 +389,9 @@
       137
     ],
     [
-      "@svelte-dev/i18n",
-      95
-    ],
-    [
       "@svelte-dev/auth-alipay",
-      95
+      101
     ]
   ],
-  "sum": 808047
+  "sum": 808928
 }
