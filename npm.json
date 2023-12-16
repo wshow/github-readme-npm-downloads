@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      413362
+      413952
     ],
     [
       "gitbook-plugin-atoc",
-      148216
+      148219
     ],
     [
       "gitbook-plugin-donate",
-      70706
+      70712
     ],
     [
       "waliyun",
-      23757
+      23761
     ],
     [
       "@uua/icons",
@@ -22,11 +22,11 @@
     ],
     [
       "yunpian-sdk",
-      7492
+      7521
     ],
     [
       "leader.js.cool",
-      7335
+      7336
     ],
     [
       "koa-swagger-ui",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4037
+      4053
     ],
     [
       "gitbook-plugin-autotheme",
-      3648
+      3655
     ],
     [
       "wtoys",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2805
+      2807
     ],
     [
       "hyperapp.js.cool",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2157
+      2158
     ],
     [
       "hello-dolly",
@@ -202,11 +202,11 @@
     ],
     [
       "@svelte-dev/auth",
-      966
+      971
     ],
     [
       "nativescript-icam",
-      961
+      962
     ],
     [
       "awth",
@@ -262,7 +262,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      728
+      739
     ],
     [
       "@dwing/koa-joi-router",
@@ -314,7 +314,7 @@
     ],
     [
       "@svelte-dev/session",
-      482
+      487
     ],
     [
       "whiteq",
@@ -370,7 +370,7 @@
     ],
     [
       "@svelte-dev/i18n",
-      208
+      216
     ],
     [
       "@svelte-dev/auth-github",
@@ -390,8 +390,12 @@
     ],
     [
       "@svelte-dev/auth-alipay",
-      101
+      103
+    ],
+    [
+      "@svelte-dev/pretty-code",
+      0
     ]
   ],
-  "sum": 808928
+  "sum": 809619
 }
