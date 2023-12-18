@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      414571
+      414791
     ],
     [
       "gitbook-plugin-atoc",
-      148222
+      148224
     ],
     [
       "gitbook-plugin-donate",
@@ -14,15 +14,15 @@
     ],
     [
       "waliyun",
-      23763
+      23766
     ],
     [
       "@uua/icons",
-      7995
+      7997
     ],
     [
       "yunpian-sdk",
-      7555
+      7558
     ],
     [
       "leader.js.cool",
@@ -138,7 +138,7 @@
     ],
     [
       "remix-i18n",
-      1579
+      1580
     ],
     [
       "@x12/hosts",
@@ -154,7 +154,7 @@
     ],
     [
       "wechaty-authing",
-      1363
+      1364
     ],
     [
       "mp-sdk",
@@ -198,7 +198,7 @@
     ],
     [
       "@svelte-dev/auth",
-      987
+      989
     ],
     [
       "coding-deploy",
@@ -314,7 +314,7 @@
     ],
     [
       "@svelte-dev/session",
-      495
+      497
     ],
     [
       "whiteq",
@@ -366,7 +366,7 @@
     ],
     [
       "@svelte-dev/i18n",
-      235
+      238
     ],
     [
       "remix-auth-sso",
@@ -394,8 +394,8 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      89
+      94
     ]
   ],
-  "sum": 810458
+  "sum": 810702
 }

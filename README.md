@@ -10,12 +10,12 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                         | Downloads  |
 | -------------------------------------------------------------------------------------------- | ---------- |
-| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                               | 414571     |
-| [gitbook-plugin-atoc](https://www.npmjs.com/package/gitbook-plugin-atoc)                     | 148222     |
+| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                               | 414791     |
+| [gitbook-plugin-atoc](https://www.npmjs.com/package/gitbook-plugin-atoc)                     | 148224     |
 | [gitbook-plugin-donate](https://www.npmjs.com/package/gitbook-plugin-donate)                 | 70714      |
-| [waliyun](https://www.npmjs.com/package/waliyun)                                             | 23763      |
-| [@uua/icons](https://www.npmjs.com/package/@uua/icons)                                       | 7995       |
-| [yunpian-sdk](https://www.npmjs.com/package/yunpian-sdk)                                     | 7555       |
+| [waliyun](https://www.npmjs.com/package/waliyun)                                             | 23766      |
+| [@uua/icons](https://www.npmjs.com/package/@uua/icons)                                       | 7997       |
+| [yunpian-sdk](https://www.npmjs.com/package/yunpian-sdk)                                     | 7558       |
 | [leader.js.cool](https://www.npmjs.com/package/leader.js.cool)                               | 7336       |
 | [koa-swagger-ui](https://www.npmjs.com/package/koa-swagger-ui)                               | 6693       |
 | [gitbook-plugin-wordcount](https://www.npmjs.com/package/gitbook-plugin-wordcount)           | 5992       |
@@ -44,11 +44,11 @@ All of my npm packages and their downloads
 | [v0-scf](https://www.npmjs.com/package/v0-scf)                                               | 1589       |
 | [@x12/tasker](https://www.npmjs.com/package/@x12/tasker)                                     | 1584       |
 | [@x12/di](https://www.npmjs.com/package/@x12/di)                                             | 1580       |
-| [remix-i18n](https://www.npmjs.com/package/remix-i18n)                                       | 1579       |
+| [remix-i18n](https://www.npmjs.com/package/remix-i18n)                                       | 1580       |
 | [@x12/hosts](https://www.npmjs.com/package/@x12/hosts)                                       | 1546       |
 | [wnm](https://www.npmjs.com/package/wnm)                                                     | 1481       |
 | [@xibang/node-common](https://www.npmjs.com/package/@xibang/node-common)                     | 1392       |
-| [wechaty-authing](https://www.npmjs.com/package/wechaty-authing)                             | 1363       |
+| [wechaty-authing](https://www.npmjs.com/package/wechaty-authing)                             | 1364       |
 | [mp-sdk](https://www.npmjs.com/package/mp-sdk)                                               | 1332       |
 | [remix-auth-afdian](https://www.npmjs.com/package/remix-auth-afdian)                         | 1216       |
 | [mmonit](https://www.npmjs.com/package/mmonit)                                               | 1196       |
@@ -59,7 +59,7 @@ All of my npm packages and their downloads
 | [hyperapp-i18n](https://www.npmjs.com/package/hyperapp-i18n)                                 | 1155       |
 | [beian-domain](https://www.npmjs.com/package/beian-domain)                                   | 1068       |
 | [h1de](https://www.npmjs.com/package/h1de)                                                   | 1038       |
-| [@svelte-dev/auth](https://www.npmjs.com/package/@svelte-dev/auth)                           | 987        |
+| [@svelte-dev/auth](https://www.npmjs.com/package/@svelte-dev/auth)                           | 989        |
 | [coding-deploy](https://www.npmjs.com/package/coding-deploy)                                 | 973        |
 | [nativescript-icam](https://www.npmjs.com/package/nativescript-icam)                         | 962        |
 | [awth](https://www.npmjs.com/package/awth)                                                   | 946        |
@@ -88,7 +88,7 @@ All of my npm packages and their downloads
 | [@xibang/mysql](https://www.npmjs.com/package/@xibang/mysql)                                 | 542        |
 | [@x12/common](https://www.npmjs.com/package/@x12/common)                                     | 502        |
 | [willin](https://www.npmjs.com/package/willin)                                               | 500        |
-| [@svelte-dev/session](https://www.npmjs.com/package/@svelte-dev/session)                     | 495        |
+| [@svelte-dev/session](https://www.npmjs.com/package/@svelte-dev/session)                     | 497        |
 | [whiteq](https://www.npmjs.com/package/whiteq)                                               | 468        |
 | [@svelte-dev/auth-sso](https://www.npmjs.com/package/@svelte-dev/auth-sso)                   | 451        |
 | [@x12/mongodb](https://www.npmjs.com/package/@x12/mongodb)                                   | 439        |
@@ -101,13 +101,13 @@ All of my npm packages and their downloads
 | [remote-cloudflare-kv](https://www.npmjs.com/package/remote-cloudflare-kv)                   | 307        |
 | [remix-sanity](https://www.npmjs.com/package/remix-sanity)                                   | 264        |
 | [@svelte-dev/auth-afdian](https://www.npmjs.com/package/@svelte-dev/auth-afdian)             | 257        |
-| [@svelte-dev/i18n](https://www.npmjs.com/package/@svelte-dev/i18n)                           | 235        |
+| [@svelte-dev/i18n](https://www.npmjs.com/package/@svelte-dev/i18n)                           | 238        |
 | [remix-auth-sso](https://www.npmjs.com/package/remix-auth-sso)                               | 232        |
 | [@svelte-dev/auth-github](https://www.npmjs.com/package/@svelte-dev/auth-github)             | 200        |
 | [passport-authing](https://www.npmjs.com/package/passport-authing)                           | 195        |
 | [@v0/v0](https://www.npmjs.com/package/@v0/v0)                                               | 157        |
 | [@svelte-dev/eslint-config](https://www.npmjs.com/package/@svelte-dev/eslint-config)         | 150        |
 | [@svelte-dev/auth-alipay](https://www.npmjs.com/package/@svelte-dev/auth-alipay)             | 103        |
-| [@svelte-dev/pretty-code](https://www.npmjs.com/package/@svelte-dev/pretty-code)             | 89         |
-| **Sum**                                                                                      | **810458** |
+| [@svelte-dev/pretty-code](https://www.npmjs.com/package/@svelte-dev/pretty-code)             | 94         |
+| **Sum**                                                                                      | **810702** |
 <!-- AUTO-GENERATED-CONTENT:END -->
