@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      415090
+      415780
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      23770
+      23773
     ],
     [
       "@uua/icons",
@@ -22,11 +22,11 @@
     ],
     [
       "yunpian-sdk",
-      7570
+      7623
     ],
     [
       "leader.js.cool",
-      7336
+      7337
     ],
     [
       "koa-swagger-ui",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3664
+      3666
     ],
     [
       "wtoys",
@@ -70,7 +70,7 @@
     ],
     [
       "tuling",
-      3354
+      3355
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2409
+      2411
     ],
     [
       "auto-deployer",
@@ -122,7 +122,7 @@
     ],
     [
       "wno",
-      1645
+      1646
     ],
     [
       "v0-scf",
@@ -198,7 +198,7 @@
     ],
     [
       "@svelte-dev/auth",
-      990
+      992
     ],
     [
       "coding-deploy",
@@ -242,7 +242,7 @@
     ],
     [
       "rxdis",
-      867
+      871
     ],
     [
       "z-curve",
@@ -262,7 +262,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      742
+      752
     ],
     [
       "@dwing/koa-joi-router",
@@ -294,7 +294,7 @@
     ],
     [
       "hdd",
-      562
+      563
     ],
     [
       "afdian",
@@ -314,7 +314,7 @@
     ],
     [
       "@svelte-dev/session",
-      498
+      500
     ],
     [
       "whiteq",
@@ -354,7 +354,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      307
+      308
     ],
     [
       "remix-sanity",
@@ -366,7 +366,7 @@
     ],
     [
       "@svelte-dev/i18n",
-      238
+      242
     ],
     [
       "remix-auth-sso",
@@ -378,7 +378,7 @@
     ],
     [
       "passport-authing",
-      195
+      196
     ],
     [
       "@v0/v0",
@@ -394,8 +394,8 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      98
+      104
     ]
   ],
-  "sum": 811051
+  "sum": 811835
 }
