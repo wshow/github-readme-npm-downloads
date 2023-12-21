@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      415780
+      416453
     ],
     [
       "gitbook-plugin-atoc",
-      148225
+      148229
     ],
     [
       "gitbook-plugin-donate",
-      70714
+      70716
     ],
     [
       "waliyun",
-      23773
+      23778
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7623
+      7654
     ],
     [
       "leader.js.cool",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4054
+      4055
     ],
     [
       "gitbook-plugin-autotheme",
-      3666
+      3679
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3482
+      3483
     ],
     [
       "tuling",
@@ -74,15 +74,15 @@
     ],
     [
       "vchart",
-      2807
+      2811
     ],
     [
       "hyperapp.js.cool",
-      2411
+      2412
     ],
     [
       "auto-deployer",
-      2378
+      2379
     ],
     [
       "wqcloud-video",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2205
+      2206
     ],
     [
       "gitbook-plugin-theme-material",
@@ -118,7 +118,7 @@
     ],
     [
       "@authing/remix",
-      1926
+      1927
     ],
     [
       "wno",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1589
+      1593
     ],
     [
       "@x12/tasker",
@@ -170,7 +170,7 @@
     ],
     [
       "lslint",
-      1189
+      1190
     ],
     [
       "@uua/core",
@@ -198,7 +198,7 @@
     ],
     [
       "@svelte-dev/auth",
-      992
+      1006
     ],
     [
       "coding-deploy",
@@ -218,7 +218,7 @@
     ],
     [
       "uua",
-      933
+      934
     ],
     [
       "wulian",
@@ -250,11 +250,11 @@
     ],
     [
       "@authing/nextjs",
-      811
+      812
     ],
     [
       "vuepress-theme-asshole",
-      767
+      768
     ],
     [
       "@uua/ip2c",
@@ -305,15 +305,15 @@
       542
     ],
     [
+      "@svelte-dev/session",
+      506
+    ],
+    [
       "@x12/common",
       502
     ],
     [
       "willin",
-      500
-    ],
-    [
-      "@svelte-dev/session",
       500
     ],
     [
@@ -330,7 +330,7 @@
     ],
     [
       "@x12/promise",
-      429
+      430
     ],
     [
       "random-target",
@@ -354,19 +354,19 @@
     ],
     [
       "remote-cloudflare-kv",
-      308
+      309
+    ],
+    [
+      "@svelte-dev/auth-afdian",
+      265
     ],
     [
       "remix-sanity",
       264
     ],
     [
-      "@svelte-dev/auth-afdian",
-      262
-    ],
-    [
       "@svelte-dev/i18n",
-      242
+      246
     ],
     [
       "remix-auth-sso",
@@ -397,5 +397,5 @@
       104
     ]
   ],
-  "sum": 811835
+  "sum": 812610
 }
