@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      417068
+      417613
     ],
     [
       "gitbook-plugin-atoc",
-      148233
+      148234
     ],
     [
       "gitbook-plugin-donate",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      23779
+      23781
     ],
     [
       "@uua/icons",
@@ -22,15 +22,15 @@
     ],
     [
       "yunpian-sdk",
-      7685
+      7716
     ],
     [
       "leader.js.cool",
-      7337
+      7338
     ],
     [
       "koa-swagger-ui",
-      6693
+      6694
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,11 +42,11 @@
     ],
     [
       "koa-api-logger",
-      4438
+      4439
     ],
     [
       "appkey",
-      4347
+      4349
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3685
+      3695
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3483
+      3484
     ],
     [
       "tuling",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2159
+      2162
     ],
     [
       "hello-dolly",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1483
+      1484
     ],
     [
       "@xibang/node-common",
@@ -182,11 +182,11 @@
     ],
     [
       "less.js.cool",
-      1156
+      1157
     ],
     [
       "hyperapp-i18n",
-      1155
+      1156
     ],
     [
       "beian-domain",
@@ -222,7 +222,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      920
+      921
     ],
     [
       "wulian",
@@ -246,7 +246,7 @@
     ],
     [
       "z-curve",
-      827
+      828
     ],
     [
       "@authing/nextjs",
@@ -290,7 +290,7 @@
     ],
     [
       "edd",
-      566
+      567
     ],
     [
       "hdd",
@@ -298,7 +298,7 @@
     ],
     [
       "afdian",
-      556
+      557
     ],
     [
       "@xibang/mysql",
@@ -397,5 +397,5 @@
       104
     ]
   ],
-  "sum": 813295
+  "sum": 813900
 }
