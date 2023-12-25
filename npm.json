@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      418227
+      418411
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      70720
+      70723
     ],
     [
       "waliyun",
-      23782
+      23783
     ],
     [
       "@uua/icons",
@@ -22,11 +22,11 @@
     ],
     [
       "yunpian-sdk",
-      7746
+      7749
     ],
     [
       "leader.js.cool",
-      7338
+      7339
     ],
     [
       "koa-swagger-ui",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3484
+      3485
     ],
     [
       "tuling",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2162
+      2164
     ],
     [
       "hello-dolly",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1598
+      1601
     ],
     [
       "@x12/tasker",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1485
+      1486
     ],
     [
       "@xibang/node-common",
@@ -198,7 +198,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1008
+      1009
     ],
     [
       "coding-deploy",
@@ -250,7 +250,7 @@
     ],
     [
       "@authing/nextjs",
-      812
+      819
     ],
     [
       "vuepress-theme-asshole",
@@ -262,7 +262,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      753
+      754
     ],
     [
       "@dwing/koa-joi-router",
@@ -306,7 +306,7 @@
     ],
     [
       "@svelte-dev/session",
-      508
+      509
     ],
     [
       "@x12/common",
@@ -322,7 +322,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      459
+      460
     ],
     [
       "@x12/mongodb",
@@ -366,7 +366,7 @@
     ],
     [
       "@svelte-dev/i18n",
-      247
+      248
     ],
     [
       "remix-auth-sso",
@@ -395,7 +395,11 @@
     [
       "@svelte-dev/auth-alipay",
       105
+    ],
+    [
+      "@hono-dev/zod-body-validator",
+      0
     ]
   ],
-  "sum": 814578
+  "sum": 814789
 }
