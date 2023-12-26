@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      418411
+      418632
     ],
     [
       "gitbook-plugin-atoc",
-      148240
+      148241
     ],
     [
       "gitbook-plugin-donate",
-      70723
+      70725
     ],
     [
       "waliyun",
-      23783
+      23784
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7749
+      7761
     ],
     [
       "leader.js.cool",
@@ -90,7 +90,7 @@
     ],
     [
       "wrescuetime",
-      2297
+      2298
     ],
     [
       "atl",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2164
+      2166
     ],
     [
       "hello-dolly",
@@ -170,7 +170,7 @@
     ],
     [
       "lslint",
-      1191
+      1192
     ],
     [
       "@uua/core",
@@ -198,7 +198,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1009
+      1021
     ],
     [
       "coding-deploy",
@@ -262,7 +262,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      754
+      763
     ],
     [
       "@dwing/koa-joi-router",
@@ -278,7 +278,7 @@
     ],
     [
       "fetch-pro",
-      597
+      598
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -298,7 +298,7 @@
     ],
     [
       "afdian",
-      557
+      558
     ],
     [
       "@xibang/mysql",
@@ -306,7 +306,7 @@
     ],
     [
       "@svelte-dev/session",
-      509
+      514
     ],
     [
       "@x12/common",
@@ -366,7 +366,7 @@
     ],
     [
       "@svelte-dev/i18n",
-      248
+      249
     ],
     [
       "remix-auth-sso",
@@ -386,11 +386,11 @@
     ],
     [
       "@svelte-dev/eslint-config",
-      153
+      157
     ],
     [
       "@svelte-dev/pretty-code",
-      108
+      110
     ],
     [
       "@svelte-dev/auth-alipay",
@@ -398,8 +398,8 @@
     ],
     [
       "@hono-dev/zod-body-validator",
-      0
+      103
     ]
   ],
-  "sum": 814789
+  "sum": 815168
 }
