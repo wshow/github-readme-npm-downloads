@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      418632
+      419284
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,15 +14,15 @@
     ],
     [
       "waliyun",
-      23784
+      23794
     ],
     [
       "@uua/icons",
-      7997
+      7998
     ],
     [
       "yunpian-sdk",
-      7761
+      7796
     ],
     [
       "leader.js.cool",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5860
+      5862
     ],
     [
       "koa-api-logger",
@@ -46,7 +46,7 @@
     ],
     [
       "appkey",
-      4349
+      4350
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3704
+      3713
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3485
+      3486
     ],
     [
       "tuling",
@@ -78,11 +78,11 @@
     ],
     [
       "hyperapp.js.cool",
-      2412
+      2416
     ],
     [
       "auto-deployer",
-      2379
+      2380
     ],
     [
       "wqcloud-video",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1601
+      1602
     ],
     [
       "@x12/tasker",
@@ -134,7 +134,7 @@
     ],
     [
       "remix-i18n",
-      1581
+      1583
     ],
     [
       "@x12/di",
@@ -166,7 +166,7 @@
     ],
     [
       "mmonit",
-      1196
+      1197
     ],
     [
       "lslint",
@@ -174,11 +174,11 @@
     ],
     [
       "@uua/core",
-      1169
+      1170
     ],
     [
       "@shiwangme/redis",
-      1168
+      1169
     ],
     [
       "less.js.cool",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      1038
+      1039
     ],
     [
       "@svelte-dev/auth",
@@ -206,7 +206,7 @@
     ],
     [
       "nativescript-icam",
-      962
+      963
     ],
     [
       "awth",
@@ -222,7 +222,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      921
+      928
     ],
     [
       "wulian",
@@ -230,7 +230,7 @@
     ],
     [
       "@willin/eslint-config",
-      900
+      901
     ],
     [
       "pipefn",
@@ -258,7 +258,7 @@
     ],
     [
       "@uua/ip2c",
-      763
+      764
     ],
     [
       "@svelte-dev/auth-oauth2",
@@ -294,7 +294,7 @@
     ],
     [
       "hdd",
-      563
+      564
     ],
     [
       "afdian",
@@ -342,7 +342,7 @@
     ],
     [
       "ggql",
-      324
+      325
     ],
     [
       "npm-badges",
@@ -389,17 +389,17 @@
       157
     ],
     [
+      "@hono-dev/zod-body-validator",
+      123
+    ],
+    [
       "@svelte-dev/pretty-code",
       110
     ],
     [
       "@svelte-dev/auth-alipay",
       105
-    ],
-    [
-      "@hono-dev/zod-body-validator",
-      103
     ]
   ],
-  "sum": 815168
+  "sum": 815923
 }
