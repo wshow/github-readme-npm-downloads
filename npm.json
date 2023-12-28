@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      419284
+      419908
     ],
     [
       "gitbook-plugin-atoc",
-      148241
+      148242
     ],
     [
       "gitbook-plugin-donate",
-      70725
+      70728
     ],
     [
       "waliyun",
-      23794
+      23796
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7796
+      7828
     ],
     [
       "leader.js.cool",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3713
+      3720
     ],
     [
       "wtoys",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2416
+      2418
     ],
     [
       "auto-deployer",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2166
+      2167
     ],
     [
       "hello-dolly",
@@ -129,12 +129,12 @@
       1602
     ],
     [
-      "@x12/tasker",
-      1584
+      "remix-i18n",
+      1587
     ],
     [
-      "remix-i18n",
-      1583
+      "@x12/tasker",
+      1584
     ],
     [
       "@x12/di",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1486
+      1487
     ],
     [
       "@xibang/node-common",
@@ -186,7 +186,7 @@
     ],
     [
       "hyperapp-i18n",
-      1156
+      1157
     ],
     [
       "beian-domain",
@@ -242,7 +242,7 @@
     ],
     [
       "rxdis",
-      871
+      872
     ],
     [
       "z-curve",
@@ -346,7 +346,7 @@
     ],
     [
       "npm-badges",
-      320
+      321
     ],
     [
       "@x12/rx-pool",
@@ -354,7 +354,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      309
+      310
     ],
     [
       "@svelte-dev/auth-afdian",
@@ -390,7 +390,7 @@
     ],
     [
       "@hono-dev/zod-body-validator",
-      123
+      129
     ],
     [
       "@svelte-dev/pretty-code",
@@ -401,5 +401,5 @@
       105
     ]
   ],
-  "sum": 815923
+  "sum": 816610
 }
