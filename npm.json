@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      419908
+      420544
     ],
     [
       "gitbook-plugin-atoc",
-      148242
+      148244
     ],
     [
       "gitbook-plugin-donate",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      23796
+      23799
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7828
+      7859
     ],
     [
       "leader.js.cool",
@@ -46,7 +46,7 @@
     ],
     [
       "appkey",
-      4350
+      4351
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3720
+      3730
     ],
     [
       "wtoys",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2812
+      2813
     ],
     [
       "hyperapp.js.cool",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2206
+      2207
     ],
     [
       "gitbook-plugin-theme-material",
@@ -130,7 +130,7 @@
     ],
     [
       "remix-i18n",
-      1587
+      1588
     ],
     [
       "@x12/tasker",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1392
+      1393
     ],
     [
       "wechaty-authing",
@@ -190,7 +190,7 @@
     ],
     [
       "beian-domain",
-      1068
+      1069
     ],
     [
       "h1de",
@@ -266,7 +266,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      713
+      714
     ],
     [
       "leancloud-sdk",
@@ -286,7 +286,7 @@
     ],
     [
       "@xibang/redis",
-      577
+      578
     ],
     [
       "edd",
@@ -302,7 +302,7 @@
     ],
     [
       "@xibang/mysql",
-      542
+      543
     ],
     [
       "@svelte-dev/session",
@@ -382,7 +382,7 @@
     ],
     [
       "@v0/v0",
-      158
+      159
     ],
     [
       "@svelte-dev/eslint-config",
@@ -390,7 +390,7 @@
     ],
     [
       "@hono-dev/zod-body-validator",
-      129
+      131
     ],
     [
       "@svelte-dev/pretty-code",
@@ -398,8 +398,24 @@
     ],
     [
       "@svelte-dev/auth-alipay",
-      105
+      107
+    ],
+    [
+      "@hono-dev/auth-github",
+      0
+    ],
+    [
+      "@hono-dev/auth-afdian",
+      0
+    ],
+    [
+      "@hono-dev/auth-alipay",
+      0
+    ],
+    [
+      "@hono-dev/powered-by",
+      0
     ]
   ],
-  "sum": 816610
+  "sum": 817306
 }
