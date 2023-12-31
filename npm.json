@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      420544
+      421229
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      23799
+      23802
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      7859
+      7895
     ],
     [
       "leader.js.cool",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6695
+      6696
     ],
     [
       "gitbook-plugin-wordcount",
@@ -46,7 +46,7 @@
     ],
     [
       "appkey",
-      4351
+      4352
     ],
     [
       "coding-sdk",
@@ -58,11 +58,11 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3730
+      3734
     ],
     [
       "wtoys",
-      3562
+      3563
     ],
     [
       "eslint-config-willin",
@@ -98,7 +98,7 @@
     ],
     [
       "hapi-auth-redis",
-      2232
+      2233
     ],
     [
       "nuxtpress",
@@ -130,7 +130,7 @@
     ],
     [
       "remix-i18n",
-      1588
+      1590
     ],
     [
       "@x12/tasker",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1487
+      1490
     ],
     [
       "@xibang/node-common",
@@ -158,7 +158,7 @@
     ],
     [
       "mp-sdk",
-      1332
+      1333
     ],
     [
       "remix-auth-afdian",
@@ -170,7 +170,7 @@
     ],
     [
       "lslint",
-      1192
+      1193
     ],
     [
       "@uua/core",
@@ -178,7 +178,7 @@
     ],
     [
       "@shiwangme/redis",
-      1169
+      1170
     ],
     [
       "less.js.cool",
@@ -242,7 +242,7 @@
     ],
     [
       "rxdis",
-      872
+      873
     ],
     [
       "z-curve",
@@ -257,12 +257,12 @@
       768
     ],
     [
-      "@uua/ip2c",
-      764
+      "@svelte-dev/auth-oauth2",
+      766
     ],
     [
-      "@svelte-dev/auth-oauth2",
-      763
+      "@uua/ip2c",
+      764
     ],
     [
       "@dwing/koa-joi-router",
@@ -270,7 +270,7 @@
     ],
     [
       "leancloud-sdk",
-      698
+      699
     ],
     [
       "sdk0",
@@ -310,7 +310,7 @@
     ],
     [
       "@x12/common",
-      502
+      504
     ],
     [
       "willin",
@@ -357,6 +357,10 @@
       310
     ],
     [
+      "remix-auth-sso",
+      290
+    ],
+    [
       "@svelte-dev/auth-afdian",
       266
     ],
@@ -367,10 +371,6 @@
     [
       "@svelte-dev/i18n",
       249
-    ],
-    [
-      "remix-auth-sso",
-      233
     ],
     [
       "@svelte-dev/auth-github",
@@ -390,7 +390,7 @@
     ],
     [
       "@hono-dev/zod-body-validator",
-      131
+      133
     ],
     [
       "@svelte-dev/pretty-code",
@@ -402,20 +402,28 @@
     ],
     [
       "@hono-dev/auth-github",
-      0
+      5
     ],
     [
       "@hono-dev/auth-afdian",
-      0
+      5
     ],
     [
       "@hono-dev/auth-alipay",
-      0
+      5
     ],
     [
       "@hono-dev/powered-by",
+      5
+    ],
+    [
+      "@hono-dev/zod-openapi",
+      0
+    ],
+    [
+      "@hono-dev/zod-openapi-decorators",
       0
     ]
   ],
-  "sum": 817306
+  "sum": 818132
 }
