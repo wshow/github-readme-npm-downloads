@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      421229
+      421520
     ],
     [
       "gitbook-plugin-atoc",
-      148244
+      148246
     ],
     [
       "gitbook-plugin-donate",
-      70728
+      70729
     ],
     [
       "waliyun",
-      23802
+      23804
     ],
     [
       "@uua/icons",
@@ -22,19 +22,19 @@
     ],
     [
       "yunpian-sdk",
-      7895
+      7898
     ],
     [
       "leader.js.cool",
-      7339
+      7340
     ],
     [
       "koa-swagger-ui",
-      6696
+      6697
     ],
     [
       "gitbook-plugin-wordcount",
-      5993
+      5997
     ],
     [
       "wqcloud",
@@ -42,23 +42,23 @@
     ],
     [
       "koa-api-logger",
-      4439
+      4442
     ],
     [
       "appkey",
-      4352
+      4356
     ],
     [
       "coding-sdk",
-      4217
+      4218
     ],
     [
       "mock-redis",
-      4059
+      4061
     ],
     [
       "gitbook-plugin-autotheme",
-      3734
+      3735
     ],
     [
       "wtoys",
@@ -66,15 +66,15 @@
     ],
     [
       "eslint-config-willin",
-      3486
+      3488
     ],
     [
       "tuling",
-      3355
+      3358
     ],
     [
       "vchart",
-      2813
+      2814
     ],
     [
       "hyperapp.js.cool",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2380
+      2381
     ],
     [
       "wqcloud-video",
@@ -94,27 +94,27 @@
     ],
     [
       "atl",
-      2249
+      2250
     ],
     [
       "hapi-auth-redis",
-      2233
+      2235
     ],
     [
       "nuxtpress",
-      2207
+      2208
     ],
     [
       "gitbook-plugin-theme-material",
-      2167
+      2169
     ],
     [
       "hello-dolly",
-      2032
+      2035
     ],
     [
       "coding-net",
-      1939
+      1940
     ],
     [
       "@authing/remix",
@@ -126,31 +126,31 @@
     ],
     [
       "v0-scf",
-      1602
+      1609
     ],
     [
       "remix-i18n",
-      1590
+      1591
     ],
     [
       "@x12/tasker",
-      1584
+      1585
     ],
     [
       "@x12/di",
-      1580
+      1581
     ],
     [
       "@x12/hosts",
-      1546
+      1550
     ],
     [
       "wnm",
-      1490
+      1492
     ],
     [
       "@xibang/node-common",
-      1393
+      1396
     ],
     [
       "wechaty-authing",
@@ -158,31 +158,31 @@
     ],
     [
       "mp-sdk",
-      1333
+      1336
     ],
     [
       "remix-auth-afdian",
-      1216
+      1217
     ],
     [
       "mmonit",
-      1197
+      1199
     ],
     [
       "lslint",
-      1193
+      1197
+    ],
+    [
+      "@shiwangme/redis",
+      1173
     ],
     [
       "@uua/core",
       1170
     ],
     [
-      "@shiwangme/redis",
-      1170
-    ],
-    [
       "less.js.cool",
-      1157
+      1162
     ],
     [
       "hyperapp-i18n",
@@ -190,31 +190,31 @@
     ],
     [
       "beian-domain",
-      1069
+      1071
     ],
     [
       "h1de",
-      1039
+      1043
     ],
     [
       "@svelte-dev/auth",
-      1021
+      1022
     ],
     [
       "coding-deploy",
-      973
+      974
     ],
     [
       "nativescript-icam",
-      963
+      971
     ],
     [
       "awth",
-      946
+      949
     ],
     [
       "@x12/env",
-      938
+      939
     ],
     [
       "uua",
@@ -222,7 +222,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      928
+      932
     ],
     [
       "wulian",
@@ -230,7 +230,7 @@
     ],
     [
       "@willin/eslint-config",
-      901
+      903
     ],
     [
       "pipefn",
@@ -238,7 +238,7 @@
     ],
     [
       "wdouban",
-      890
+      893
     ],
     [
       "rxdis",
@@ -258,7 +258,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      766
+      767
     ],
     [
       "@uua/ip2c",
@@ -266,11 +266,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      714
+      719
     ],
     [
       "leancloud-sdk",
-      699
+      702
     ],
     [
       "sdk0",
@@ -278,7 +278,7 @@
     ],
     [
       "fetch-pro",
-      598
+      599
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -286,19 +286,19 @@
     ],
     [
       "@xibang/redis",
-      578
+      580
     ],
     [
       "edd",
-      567
+      570
     ],
     [
       "hdd",
-      564
+      569
     ],
     [
       "afdian",
-      558
+      560
     ],
     [
       "@xibang/mysql",
@@ -306,11 +306,11 @@
     ],
     [
       "@svelte-dev/session",
-      514
+      522
     ],
     [
       "@x12/common",
-      504
+      505
     ],
     [
       "willin",
@@ -322,27 +322,27 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      460
+      461
     ],
     [
       "@x12/mongodb",
-      439
+      440
     ],
     [
       "@x12/promise",
-      430
+      433
     ],
     [
       "random-target",
-      400
+      403
     ],
     [
       "@x12/task-types",
-      335
+      336
     ],
     [
       "ggql",
-      325
+      327
     ],
     [
       "npm-badges",
@@ -350,7 +350,7 @@
     ],
     [
       "@x12/rx-pool",
-      316
+      317
     ],
     [
       "remote-cloudflare-kv",
@@ -358,23 +358,27 @@
     ],
     [
       "remix-auth-sso",
-      290
+      300
     ],
     [
       "@svelte-dev/auth-afdian",
-      266
+      269
     ],
     [
       "remix-sanity",
-      264
+      266
     ],
     [
       "@svelte-dev/i18n",
-      249
+      250
     ],
     [
       "@svelte-dev/auth-github",
-      204
+      205
+    ],
+    [
+      "@hono-dev/zod-body-validator",
+      200
     ],
     [
       "passport-authing",
@@ -386,44 +390,40 @@
     ],
     [
       "@svelte-dev/eslint-config",
-      157
-    ],
-    [
-      "@hono-dev/zod-body-validator",
-      133
+      158
     ],
     [
       "@svelte-dev/pretty-code",
-      110
+      111
     ],
     [
       "@svelte-dev/auth-alipay",
-      107
-    ],
-    [
-      "@hono-dev/auth-github",
-      5
-    ],
-    [
-      "@hono-dev/auth-afdian",
-      5
-    ],
-    [
-      "@hono-dev/auth-alipay",
-      5
+      108
     ],
     [
       "@hono-dev/powered-by",
-      5
+      60
     ],
     [
       "@hono-dev/zod-openapi",
-      0
+      52
     ],
     [
       "@hono-dev/zod-openapi-decorators",
-      0
+      51
+    ],
+    [
+      "@hono-dev/auth-github",
+      7
+    ],
+    [
+      "@hono-dev/auth-afdian",
+      7
+    ],
+    [
+      "@hono-dev/auth-alipay",
+      7
     ]
   ],
-  "sum": 818132
+  "sum": 818825
 }
