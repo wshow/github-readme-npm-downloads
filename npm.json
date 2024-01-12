@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      423741
+      424321
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      70732
+      70735
     ],
     [
       "waliyun",
-      23853
+      23858
     ],
     [
       "yunpian-sdk",
-      8015
+      8045
     ],
     [
       "@uua/icons",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5863
+      5864
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3741
+      3747
     ],
     [
       "wtoys",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2820
+      2821
     ],
     [
       "hyperapp.js.cool",
@@ -126,11 +126,11 @@
     ],
     [
       "v0-scf",
-      1613
+      1614
     ],
     [
       "remix-i18n",
-      1603
+      1604
     ],
     [
       "@x12/tasker",
@@ -162,7 +162,7 @@
     ],
     [
       "remix-auth-afdian",
-      1228
+      1289
     ],
     [
       "mmonit",
@@ -178,7 +178,7 @@
     ],
     [
       "@uua/core",
-      1171
+      1172
     ],
     [
       "less.js.cool",
@@ -242,7 +242,7 @@
     ],
     [
       "rxdis",
-      873
+      874
     ],
     [
       "z-curve",
@@ -297,12 +297,12 @@
       570
     ],
     [
-      "hdd",
-      569
+      "afdian",
+      570
     ],
     [
-      "afdian",
-      567
+      "hdd",
+      569
     ],
     [
       "@xibang/mysql",
@@ -337,6 +337,10 @@
       406
     ],
     [
+      "remix-auth-sso",
+      365
+    ],
+    [
       "@x12/task-types",
       337
     ],
@@ -355,10 +359,6 @@
     [
       "@x12/rx-pool",
       319
-    ],
-    [
-      "remix-auth-sso",
-      315
     ],
     [
       "remote-cloudflare-kv",
@@ -398,7 +398,7 @@
     ],
     [
       "@svelte-dev/auth-alipay",
-      113
+      114
     ],
     [
       "@hono-dev/powered-by",
@@ -414,16 +414,16 @@
     ],
     [
       "@hono-dev/auth-afdian",
-      10
+      11
     ],
     [
       "@hono-dev/auth-alipay",
-      10
+      11
     ],
     [
       "@hono-dev/auth-github",
-      9
+      10
     ]
   ],
-  "sum": 821912
+  "sum": 822660
 }
