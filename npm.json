@@ -2,31 +2,31 @@
   "stats": [
     [
       "hexo-wordcount",
-      426644
+      427845
     ],
     [
       "gitbook-plugin-atoc",
-      148265
+      148266
     ],
     [
       "gitbook-plugin-donate",
-      70743
+      70796
     ],
     [
       "waliyun",
-      23907
+      23912
     ],
     [
       "yunpian-sdk",
-      8155
+      8218
     ],
     [
       "@uua/icons",
-      8000
+      8004
     ],
     [
       "leader.js.cool",
-      7343
+      7344
     ],
     [
       "koa-swagger-ui",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4115
+      4118
     ],
     [
       "gitbook-plugin-autotheme",
-      3762
+      3778
     ],
     [
       "wtoys",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2827
+      2835
     ],
     [
       "hyperapp.js.cool",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2174
+      2175
     ],
     [
       "hello-dolly",
@@ -118,35 +118,35 @@
     ],
     [
       "@authing/remix",
-      1929
+      1930
     ],
     [
       "wno",
-      1648
+      1650
+    ],
+    [
+      "remix-i18n",
+      1631
     ],
     [
       "v0-scf",
       1614
     ],
     [
-      "remix-i18n",
-      1608
-    ],
-    [
       "@x12/tasker",
-      1586
+      1588
     ],
     [
       "@x12/di",
-      1582
+      1583
     ],
     [
       "@x12/hosts",
-      1552
+      1553
     ],
     [
       "wnm",
-      1496
+      1498
     ],
     [
       "@xibang/node-common",
@@ -162,27 +162,27 @@
     ],
     [
       "remix-auth-afdian",
-      1314
+      1317
+    ],
+    [
+      "lslint",
+      1200
     ],
     [
       "mmonit",
       1199
     ],
     [
-      "lslint",
-      1199
+      "@svelte-dev/auth",
+      1178
     ],
     [
       "@shiwangme/redis",
-      1176
+      1177
     ],
     [
       "@uua/core",
-      1173
-    ],
-    [
-      "@svelte-dev/auth",
-      1170
+      1174
     ],
     [
       "less.js.cool",
@@ -214,7 +214,7 @@
     ],
     [
       "@x12/env",
-      940
+      941
     ],
     [
       "uua",
@@ -230,11 +230,11 @@
     ],
     [
       "@willin/eslint-config",
-      906
+      907
     ],
     [
       "pipefn",
-      894
+      895
     ],
     [
       "wdouban",
@@ -242,19 +242,19 @@
     ],
     [
       "rxdis",
-      877
+      878
     ],
     [
       "z-curve",
-      830
+      831
     ],
     [
       "@authing/nextjs",
-      823
+      824
     ],
     [
       "@svelte-dev/auth-oauth2",
-      805
+      809
     ],
     [
       "vuepress-theme-asshole",
@@ -262,7 +262,7 @@
     ],
     [
       "@uua/ip2c",
-      769
+      770
     ],
     [
       "@dwing/koa-joi-router",
@@ -274,11 +274,11 @@
     ],
     [
       "sdk0",
-      670
+      671
     ],
     [
       "@svelte-dev/session",
-      634
+      640
     ],
     [
       "fetch-pro",
@@ -294,7 +294,7 @@
     ],
     [
       "afdian",
-      574
+      578
     ],
     [
       "edd",
@@ -306,18 +306,18 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      552
+      557
     ],
     [
       "@xibang/mysql",
       543
     ],
     [
-      "willin",
-      508
+      "@x12/common",
+      509
     ],
     [
-      "@x12/common",
+      "willin",
       508
     ],
     [
@@ -326,11 +326,11 @@
     ],
     [
       "@x12/mongodb",
-      441
+      442
     ],
     [
       "@x12/promise",
-      434
+      435
     ],
     [
       "random-target",
@@ -338,15 +338,15 @@
     ],
     [
       "remix-auth-sso",
-      377
+      386
     ],
     [
       "@svelte-dev/i18n",
-      348
+      351
     ],
     [
       "@x12/task-types",
-      338
+      339
     ],
     [
       "ggql",
@@ -358,7 +358,7 @@
     ],
     [
       "@x12/rx-pool",
-      320
+      321
     ],
     [
       "remote-cloudflare-kv",
@@ -366,7 +366,7 @@
     ],
     [
       "@svelte-dev/auth-afdian",
-      284
+      287
     ],
     [
       "remix-sanity",
@@ -374,11 +374,11 @@
     ],
     [
       "@hono-dev/zod-body-validator",
-      228
+      231
     ],
     [
       "@svelte-dev/auth-github",
-      219
+      222
     ],
     [
       "passport-authing",
@@ -386,44 +386,44 @@
     ],
     [
       "@svelte-dev/eslint-config",
-      173
+      175
     ],
     [
       "@v0/v0",
-      161
+      162
     ],
     [
       "@svelte-dev/pretty-code",
-      129
+      131
     ],
     [
       "@svelte-dev/auth-alipay",
-      116
+      118
     ],
     [
       "@hono-dev/powered-by",
-      80
+      82
     ],
     [
       "@hono-dev/zod-openapi",
-      63
+      64
     ],
     [
       "@hono-dev/zod-openapi-decorators",
-      63
+      64
     ],
     [
       "@hono-dev/auth-afdian",
-      14
+      15
     ],
     [
       "@hono-dev/auth-alipay",
-      14
+      15
     ],
     [
       "@hono-dev/auth-github",
-      13
+      14
     ]
   ],
-  "sum": 825488
+  "sum": 826957
 }
