@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      427845
+      428027
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,15 +14,15 @@
     ],
     [
       "waliyun",
-      23912
+      23917
     ],
     [
       "yunpian-sdk",
-      8218
+      8220
     ],
     [
       "@uua/icons",
-      8004
+      8005
     ],
     [
       "leader.js.cool",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6715
+      6716
     ],
     [
       "gitbook-plugin-wordcount",
@@ -54,7 +54,7 @@
     ],
     [
       "mock-redis",
-      4118
+      4119
     ],
     [
       "gitbook-plugin-autotheme",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3491
+      3492
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2835
+      2839
     ],
     [
       "hyperapp.js.cool",
@@ -118,7 +118,7 @@
     ],
     [
       "@authing/remix",
-      1930
+      1932
     ],
     [
       "wno",
@@ -126,11 +126,11 @@
     ],
     [
       "remix-i18n",
-      1631
+      1638
     ],
     [
       "v0-scf",
-      1614
+      1615
     ],
     [
       "@x12/tasker",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1498
+      1499
     ],
     [
       "@xibang/node-common",
@@ -166,11 +166,11 @@
     ],
     [
       "lslint",
-      1200
+      1201
     ],
     [
       "mmonit",
-      1199
+      1200
     ],
     [
       "@svelte-dev/auth",
@@ -218,7 +218,7 @@
     ],
     [
       "uua",
-      935
+      936
     ],
     [
       "markdown-toc-gitbook",
@@ -250,7 +250,7 @@
     ],
     [
       "@authing/nextjs",
-      824
+      826
     ],
     [
       "@svelte-dev/auth-oauth2",
@@ -258,7 +258,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      771
+      772
     ],
     [
       "@uua/ip2c",
@@ -294,7 +294,7 @@
     ],
     [
       "afdian",
-      578
+      579
     ],
     [
       "edd",
@@ -362,7 +362,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      310
+      311
     ],
     [
       "@svelte-dev/auth-afdian",
@@ -386,19 +386,19 @@
     ],
     [
       "@svelte-dev/eslint-config",
-      175
+      177
     ],
     [
       "@v0/v0",
-      162
+      163
     ],
     [
       "@svelte-dev/pretty-code",
-      131
+      132
     ],
     [
       "@svelte-dev/auth-alipay",
-      118
+      119
     ],
     [
       "@hono-dev/powered-by",
@@ -425,5 +425,5 @@
       14
     ]
   ],
-  "sum": 826957
+  "sum": 827178
 }
