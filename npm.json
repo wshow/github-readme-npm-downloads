@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      428266
+      429143
     ],
     [
       "gitbook-plugin-atoc",
-      148267
+      148268
     ],
     [
       "gitbook-plugin-donate",
-      70797
+      70811
     ],
     [
       "waliyun",
-      23921
+      23923
     ],
     [
       "yunpian-sdk",
-      8233
+      8266
     ],
     [
       "@uua/icons",
@@ -26,11 +26,11 @@
     ],
     [
       "leader.js.cool",
-      7344
+      7346
     ],
     [
       "koa-swagger-ui",
-      6717
+      6718
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,7 +42,7 @@
     ],
     [
       "koa-api-logger",
-      4443
+      4444
     ],
     [
       "appkey",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3779
+      3788
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3492
+      3493
     ],
     [
       "tuling",
@@ -126,7 +126,7 @@
     ],
     [
       "remix-i18n",
-      1640
+      1649
     ],
     [
       "v0-scf",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1501
+      1504
     ],
     [
       "@xibang/node-common",
@@ -162,7 +162,7 @@
     ],
     [
       "remix-auth-afdian",
-      1317
+      1318
     ],
     [
       "mmonit",
@@ -185,12 +185,12 @@
       1174
     ],
     [
-      "hyperapp-i18n",
+      "less.js.cool",
       1163
     ],
     [
-      "less.js.cool",
-      1162
+      "hyperapp-i18n",
+      1163
     ],
     [
       "beian-domain",
@@ -198,7 +198,7 @@
     ],
     [
       "h1de",
-      1046
+      1048
     ],
     [
       "coding-deploy",
@@ -218,11 +218,11 @@
     ],
     [
       "uua",
-      936
+      937
     ],
     [
       "markdown-toc-gitbook",
-      934
+      935
     ],
     [
       "wulian",
@@ -246,11 +246,11 @@
     ],
     [
       "z-curve",
-      831
+      832
     ],
     [
       "@authing/nextjs",
-      826
+      830
     ],
     [
       "@svelte-dev/auth-oauth2",
@@ -270,7 +270,7 @@
     ],
     [
       "leancloud-sdk",
-      705
+      706
     ],
     [
       "sdk0",
@@ -282,23 +282,23 @@
     ],
     [
       "fetch-pro",
-      600
+      601
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      583
+      584
+    ],
+    [
+      "afdian",
+      580
     ],
     [
       "@xibang/redis",
       580
     ],
     [
-      "afdian",
-      579
-    ],
-    [
       "edd",
-      570
+      571
     ],
     [
       "hdd",
@@ -306,7 +306,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      557
+      559
     ],
     [
       "@xibang/mysql",
@@ -322,11 +322,11 @@
     ],
     [
       "whiteq",
-      472
+      473
     ],
     [
       "@x12/mongodb",
-      442
+      444
     ],
     [
       "@x12/promise",
@@ -350,11 +350,11 @@
     ],
     [
       "ggql",
-      327
+      329
     ],
     [
       "npm-badges",
-      322
+      323
     ],
     [
       "@x12/rx-pool",
@@ -390,15 +390,15 @@
     ],
     [
       "@v0/v0",
-      163
+      164
     ],
     [
       "@svelte-dev/pretty-code",
-      134
+      136
     ],
     [
       "@svelte-dev/auth-alipay",
-      121
+      124
     ],
     [
       "@hono-dev/powered-by",
@@ -425,5 +425,5 @@
       15
     ]
   ],
-  "sum": 827477
+  "sum": 828460
 }
