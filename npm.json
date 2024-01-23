@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      432014
+      432232
     ],
     [
       "gitbook-plugin-atoc",
-      148307
+      148311
     ],
     [
       "gitbook-plugin-donate",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      23968
+      23971
     ],
     [
       "yunpian-sdk",
-      8408
+      8420
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      7357
+      7358
     ],
     [
       "koa-swagger-ui",
@@ -54,7 +54,7 @@
     ],
     [
       "mock-redis",
-      4151
+      4152
     ],
     [
       "gitbook-plugin-autotheme",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2849
+      2851
     ],
     [
       "hyperapp.js.cool",
@@ -118,7 +118,7 @@
     ],
     [
       "@authing/remix",
-      1944
+      1945
     ],
     [
       "remix-i18n",
@@ -150,7 +150,7 @@
     ],
     [
       "@xibang/node-common",
-      1406
+      1407
     ],
     [
       "wechaty-authing",
@@ -194,7 +194,7 @@
     ],
     [
       "beian-domain",
-      1074
+      1075
     ],
     [
       "h1de",
@@ -274,7 +274,7 @@
     ],
     [
       "sdk0",
-      675
+      676
     ],
     [
       "@svelte-dev/session",
@@ -294,7 +294,7 @@
     ],
     [
       "@xibang/redis",
-      582
+      583
     ],
     [
       "@svelte-dev/auth-sso",
@@ -310,7 +310,7 @@
     ],
     [
       "@xibang/mysql",
-      545
+      546
     ],
     [
       "@x12/common",
@@ -338,7 +338,7 @@
     ],
     [
       "remix-auth-sso",
-      406
+      407
     ],
     [
       "@svelte-dev/i18n",
@@ -374,7 +374,7 @@
     ],
     [
       "@hono-dev/zod-body-validator",
-      241
+      244
     ],
     [
       "@svelte-dev/auth-github",
@@ -386,11 +386,11 @@
     ],
     [
       "@svelte-dev/eslint-config",
-      184
+      186
     ],
     [
       "@v0/v0",
-      167
+      168
     ],
     [
       "@svelte-dev/pretty-code",
@@ -402,28 +402,28 @@
     ],
     [
       "@hono-dev/powered-by",
-      87
+      89
     ],
     [
       "@hono-dev/zod-openapi",
-      68
+      69
     ],
     [
       "@hono-dev/zod-openapi-decorators",
-      68
+      69
     ],
     [
       "@hono-dev/auth-afdian",
-      18
+      20
     ],
     [
       "@hono-dev/auth-alipay",
-      18
+      20
     ],
     [
       "@hono-dev/auth-github",
-      17
+      19
     ]
   ],
-  "sum": 832333
+  "sum": 832597
 }
