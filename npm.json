@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      432232
+      433155
     ],
     [
       "gitbook-plugin-atoc",
-      148311
+      148312
     ],
     [
       "gitbook-plugin-donate",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      23971
+      23997
     ],
     [
       "yunpian-sdk",
-      8420
+      8453
     ],
     [
       "@uua/icons",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5881
+      5882
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3826
+      3841
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3504
+      3505
     ],
     [
       "tuling",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2851
+      2853
     ],
     [
       "hyperapp.js.cool",
-      2427
+      2428
     ],
     [
       "auto-deployer",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2221
+      2222
     ],
     [
       "gitbook-plugin-theme-material",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1520
+      1521
     ],
     [
       "@xibang/node-common",
@@ -158,7 +158,7 @@
     ],
     [
       "remix-auth-afdian",
-      1362
+      1381
     ],
     [
       "mp-sdk",
@@ -166,7 +166,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1220
+      1223
     ],
     [
       "mmonit",
@@ -210,7 +210,7 @@
     ],
     [
       "awth",
-      952
+      954
     ],
     [
       "uua",
@@ -278,11 +278,11 @@
     ],
     [
       "@svelte-dev/session",
-      664
+      667
     ],
     [
       "fetch-pro",
-      607
+      608
     ],
     [
       "afdian",
@@ -298,7 +298,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      580
+      582
     ],
     [
       "edd",
@@ -333,12 +333,12 @@
       437
     ],
     [
-      "random-target",
-      411
+      "remix-auth-sso",
+      413
     ],
     [
-      "remix-auth-sso",
-      407
+      "random-target",
+      411
     ],
     [
       "@svelte-dev/i18n",
@@ -414,16 +414,16 @@
     ],
     [
       "@hono-dev/auth-afdian",
-      20
+      21
     ],
     [
       "@hono-dev/auth-alipay",
-      20
+      21
     ],
     [
       "@hono-dev/auth-github",
-      19
+      20
     ]
   ],
-  "sum": 832597
+  "sum": 833641
 }
