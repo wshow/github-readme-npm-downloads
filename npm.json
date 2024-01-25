@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      433155
+      433929
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      23997
+      24018
     ],
     [
       "yunpian-sdk",
-      8453
+      8473
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      7358
+      7359
     ],
     [
       "koa-swagger-ui",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4152
+      4158
     ],
     [
       "gitbook-plugin-autotheme",
-      3841
+      3858
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3505
+      3506
     ],
     [
       "tuling",
@@ -158,7 +158,7 @@
     ],
     [
       "remix-auth-afdian",
-      1381
+      1382
     ],
     [
       "mp-sdk",
@@ -166,14 +166,14 @@
     ],
     [
       "@svelte-dev/auth",
-      1223
-    ],
-    [
-      "mmonit",
-      1204
+      1224
     ],
     [
       "lslint",
+      1205
+    ],
+    [
+      "mmonit",
       1204
     ],
     [
@@ -202,7 +202,7 @@
     ],
     [
       "coding-deploy",
-      977
+      978
     ],
     [
       "nativescript-icam",
@@ -270,7 +270,7 @@
     ],
     [
       "leancloud-sdk",
-      710
+      711
     ],
     [
       "sdk0",
@@ -313,12 +313,12 @@
       546
     ],
     [
-      "@x12/common",
+      "willin",
       511
     ],
     [
-      "willin",
-      510
+      "@x12/common",
+      511
     ],
     [
       "whiteq",
@@ -342,7 +342,7 @@
     ],
     [
       "@svelte-dev/i18n",
-      368
+      370
     ],
     [
       "@x12/task-types",
@@ -362,7 +362,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      317
+      318
     ],
     [
       "@svelte-dev/auth-afdian",
@@ -398,11 +398,11 @@
     ],
     [
       "@svelte-dev/auth-alipay",
-      129
+      131
     ],
     [
       "@hono-dev/powered-by",
-      89
+      91
     ],
     [
       "@hono-dev/zod-openapi",
@@ -425,5 +425,5 @@
       20
     ]
   ],
-  "sum": 833641
+  "sum": 834494
 }
