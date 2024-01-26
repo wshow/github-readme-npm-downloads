@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      433929
+      434598
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      24018
+      24020
     ],
     [
       "yunpian-sdk",
-      8473
+      8474
     ],
     [
       "@uua/icons",
@@ -26,11 +26,11 @@
     ],
     [
       "leader.js.cool",
-      7359
+      7360
     ],
     [
       "koa-swagger-ui",
-      6735
+      6738
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5882
+      5892
     ],
     [
       "koa-api-logger",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4158
+      4159
     ],
     [
       "gitbook-plugin-autotheme",
-      3858
+      3870
     ],
     [
       "wtoys",
@@ -66,11 +66,11 @@
     ],
     [
       "eslint-config-willin",
-      3506
+      3513
     ],
     [
       "tuling",
-      3375
+      3376
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2428
+      2429
     ],
     [
       "auto-deployer",
@@ -130,7 +130,7 @@
     ],
     [
       "v0-scf",
-      1626
+      1631
     ],
     [
       "@x12/tasker",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1521
+      1529
     ],
     [
       "@xibang/node-common",
@@ -154,23 +154,23 @@
     ],
     [
       "wechaty-authing",
-      1399
+      1401
     ],
     [
       "remix-auth-afdian",
-      1382
+      1383
     ],
     [
       "mp-sdk",
-      1342
+      1343
     ],
     [
       "@svelte-dev/auth",
-      1224
+      1226
     ],
     [
       "lslint",
-      1205
+      1206
     ],
     [
       "mmonit",
@@ -198,7 +198,7 @@
     ],
     [
       "h1de",
-      1054
+      1055
     ],
     [
       "coding-deploy",
@@ -242,14 +242,14 @@
     ],
     [
       "rxdis",
-      883
-    ],
-    [
-      "z-curve",
-      835
+      888
     ],
     [
       "@svelte-dev/auth-oauth2",
+      839
+    ],
+    [
+      "z-curve",
       835
     ],
     [
@@ -258,7 +258,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      777
+      780
     ],
     [
       "@uua/ip2c",
@@ -278,7 +278,7 @@
     ],
     [
       "@svelte-dev/session",
-      667
+      668
     ],
     [
       "fetch-pro",
@@ -298,7 +298,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      582
+      583
     ],
     [
       "edd",
@@ -334,7 +334,7 @@
     ],
     [
       "remix-auth-sso",
-      413
+      414
     ],
     [
       "random-target",
@@ -362,7 +362,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      318
+      319
     ],
     [
       "@svelte-dev/auth-afdian",
@@ -374,11 +374,11 @@
     ],
     [
       "@hono-dev/zod-body-validator",
-      244
+      245
     ],
     [
       "@svelte-dev/auth-github",
-      235
+      236
     ],
     [
       "passport-authing",
@@ -390,11 +390,11 @@
     ],
     [
       "@v0/v0",
-      168
+      169
     ],
     [
       "@svelte-dev/pretty-code",
-      141
+      142
     ],
     [
       "@svelte-dev/auth-alipay",
@@ -402,15 +402,15 @@
     ],
     [
       "@hono-dev/powered-by",
-      91
+      92
     ],
     [
       "@hono-dev/zod-openapi",
-      69
+      70
     ],
     [
       "@hono-dev/zod-openapi-decorators",
-      69
+      70
     ],
     [
       "@hono-dev/auth-afdian",
@@ -425,5 +425,5 @@
       20
     ]
   ],
-  "sum": 834494
+  "sum": 835246
 }
