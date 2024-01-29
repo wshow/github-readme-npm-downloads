@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      435964
+      436213
     ],
     [
       "gitbook-plugin-atoc",
-      148327
+      148330
     ],
     [
       "gitbook-plugin-donate",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      24077
+      24078
     ],
     [
       "yunpian-sdk",
@@ -22,7 +22,7 @@
     ],
     [
       "@uua/icons",
-      8009
+      8010
     ],
     [
       "leader.js.cool",
@@ -54,7 +54,7 @@
     ],
     [
       "mock-redis",
-      4164
+      4167
     ],
     [
       "gitbook-plugin-autotheme",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3514
+      3515
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2855
+      2856
     ],
     [
       "hyperapp.js.cool",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2233
+      2234
     ],
     [
       "gitbook-plugin-theme-material",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1530
+      1536
     ],
     [
       "@xibang/node-common",
@@ -166,11 +166,11 @@
     ],
     [
       "@svelte-dev/auth",
-      1229
+      1239
     ],
     [
       "lslint",
-      1206
+      1207
     ],
     [
       "mmonit",
@@ -242,7 +242,7 @@
     ],
     [
       "rxdis",
-      888
+      889
     ],
     [
       "@svelte-dev/auth-oauth2",
@@ -266,7 +266,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      725
+      726
     ],
     [
       "leancloud-sdk",
@@ -274,23 +274,23 @@
     ],
     [
       "sdk0",
-      677
+      678
     ],
     [
       "@svelte-dev/session",
-      671
+      674
     ],
     [
       "fetch-pro",
       608
     ],
     [
-      "@svelte-dev/auth-sso",
+      "afdian",
       587
     ],
     [
-      "afdian",
-      586
+      "@svelte-dev/auth-sso",
+      587
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -346,7 +346,7 @@
     ],
     [
       "@x12/task-types",
-      341
+      342
     ],
     [
       "ggql",
@@ -358,7 +358,7 @@
     ],
     [
       "@x12/rx-pool",
-      323
+      324
     ],
     [
       "remote-cloudflare-kv",
@@ -382,7 +382,7 @@
     ],
     [
       "passport-authing",
-      202
+      203
     ],
     [
       "@svelte-dev/eslint-config",
@@ -402,7 +402,7 @@
     ],
     [
       "@hono-dev/powered-by",
-      92
+      93
     ],
     [
       "@hono-dev/zod-openapi",
@@ -425,5 +425,5 @@
       20
     ]
   ],
-  "sum": 836829
+  "sum": 837117
 }
