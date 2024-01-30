@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      436213
+      436453
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,15 +14,15 @@
     ],
     [
       "waliyun",
-      24078
+      24080
     ],
     [
       "yunpian-sdk",
-      8480
+      8481
     ],
     [
       "@uua/icons",
-      8010
+      8011
     ],
     [
       "leader.js.cool",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2430
+      2433
     ],
     [
       "auto-deployer",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1536
+      1537
     ],
     [
       "@xibang/node-common",
@@ -177,12 +177,12 @@
       1204
     ],
     [
-      "@shiwangme/redis",
+      "@uua/core",
       1184
     ],
     [
-      "@uua/core",
-      1183
+      "@shiwangme/redis",
+      1184
     ],
     [
       "less.js.cool",
@@ -210,7 +210,7 @@
     ],
     [
       "awth",
-      954
+      955
     ],
     [
       "uua",
@@ -233,12 +233,12 @@
       912
     ],
     [
-      "pipefn",
-      898
+      "wdouban",
+      901
     ],
     [
-      "wdouban",
-      898
+      "pipefn",
+      899
     ],
     [
       "rxdis",
@@ -282,7 +282,7 @@
     ],
     [
       "fetch-pro",
-      608
+      609
     ],
     [
       "afdian",
@@ -366,7 +366,7 @@
     ],
     [
       "@svelte-dev/auth-afdian",
-      300
+      301
     ],
     [
       "remix-sanity",
@@ -378,7 +378,7 @@
     ],
     [
       "@svelte-dev/auth-github",
-      236
+      237
     ],
     [
       "passport-authing",
@@ -386,7 +386,7 @@
     ],
     [
       "@svelte-dev/eslint-config",
-      186
+      187
     ],
     [
       "@v0/v0",
@@ -425,5 +425,5 @@
       20
     ]
   ],
-  "sum": 837117
+  "sum": 837375
 }
