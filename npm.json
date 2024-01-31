@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      436453
+      437136
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      70845
+      70846
     ],
     [
       "waliyun",
-      24080
+      24147
     ],
     [
       "yunpian-sdk",
@@ -22,7 +22,7 @@
     ],
     [
       "@uua/icons",
-      8011
+      8012
     ],
     [
       "leader.js.cool",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4167
+      4169
     ],
     [
       "gitbook-plugin-autotheme",
-      3878
+      3884
     ],
     [
       "wtoys",
@@ -90,7 +90,7 @@
     ],
     [
       "wrescuetime",
-      2308
+      2309
     ],
     [
       "atl",
@@ -122,7 +122,7 @@
     ],
     [
       "remix-i18n",
-      1668
+      1669
     ],
     [
       "wno",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1537
+      1539
     ],
     [
       "@xibang/node-common",
@@ -166,7 +166,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1239
+      1240
     ],
     [
       "lslint",
@@ -178,7 +178,7 @@
     ],
     [
       "@uua/core",
-      1184
+      1186
     ],
     [
       "@shiwangme/redis",
@@ -222,7 +222,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      936
+      939
     ],
     [
       "wulian",
@@ -262,11 +262,11 @@
     ],
     [
       "@uua/ip2c",
-      775
+      776
     ],
     [
       "@dwing/koa-joi-router",
-      726
+      727
     ],
     [
       "leancloud-sdk",
@@ -338,7 +338,7 @@
     ],
     [
       "random-target",
-      411
+      412
     ],
     [
       "@svelte-dev/i18n",
@@ -370,7 +370,7 @@
     ],
     [
       "remix-sanity",
-      269
+      270
     ],
     [
       "@hono-dev/zod-body-validator",
@@ -398,7 +398,7 @@
     ],
     [
       "@svelte-dev/auth-alipay",
-      131
+      132
     ],
     [
       "@hono-dev/powered-by",
@@ -425,5 +425,5 @@
       20
     ]
   ],
-  "sum": 837375
+  "sum": 838150
 }
