@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      437136
+      437766
     ],
     [
       "gitbook-plugin-atoc",
-      148330
+      148331
     ],
     [
       "gitbook-plugin-donate",
-      70846
+      70850
     ],
     [
       "waliyun",
-      24147
+      24238
     ],
     [
       "yunpian-sdk",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4169
+      4170
     ],
     [
       "gitbook-plugin-autotheme",
-      3884
+      3889
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3515
+      3517
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2856
+      2859
     ],
     [
       "hyperapp.js.cool",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2185
+      2186
     ],
     [
       "hello-dolly",
@@ -122,11 +122,11 @@
     ],
     [
       "remix-i18n",
-      1669
+      1670
     ],
     [
       "wno",
-      1658
+      1659
     ],
     [
       "v0-scf",
@@ -146,7 +146,7 @@
     ],
     [
       "wnm",
-      1539
+      1542
     ],
     [
       "@xibang/node-common",
@@ -158,7 +158,7 @@
     ],
     [
       "remix-auth-afdian",
-      1393
+      1394
     ],
     [
       "mp-sdk",
@@ -166,11 +166,11 @@
     ],
     [
       "@svelte-dev/auth",
-      1240
+      1242
     ],
     [
       "lslint",
-      1207
+      1208
     ],
     [
       "mmonit",
@@ -246,7 +246,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      841
+      843
     ],
     [
       "z-curve",
@@ -278,7 +278,7 @@
     ],
     [
       "@svelte-dev/session",
-      674
+      676
     ],
     [
       "fetch-pro",
@@ -302,11 +302,11 @@
     ],
     [
       "edd",
-      573
+      574
     ],
     [
       "hdd",
-      571
+      572
     ],
     [
       "@xibang/mysql",
@@ -334,7 +334,7 @@
     ],
     [
       "remix-auth-sso",
-      416
+      417
     ],
     [
       "random-target",
@@ -374,11 +374,11 @@
     ],
     [
       "@hono-dev/zod-body-validator",
-      245
+      248
     ],
     [
       "@svelte-dev/auth-github",
-      237
+      238
     ],
     [
       "passport-authing",
@@ -398,32 +398,32 @@
     ],
     [
       "@svelte-dev/auth-alipay",
-      132
+      133
     ],
     [
       "@hono-dev/powered-by",
-      93
+      95
     ],
     [
       "@hono-dev/zod-openapi",
-      70
+      71
     ],
     [
       "@hono-dev/zod-openapi-decorators",
-      70
+      71
     ],
     [
       "@hono-dev/auth-afdian",
-      21
+      22
     ],
     [
       "@hono-dev/auth-alipay",
-      21
+      22
     ],
     [
       "@hono-dev/auth-github",
-      20
+      21
     ]
   ],
-  "sum": 838150
+  "sum": 838916
 }
