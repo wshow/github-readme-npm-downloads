@@ -10,12 +10,12 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                               | Downloads  |
 | -------------------------------------------------------------------------------------------------- | ---------- |
-| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                                     | 437766     |
-| [gitbook-plugin-atoc](https://www.npmjs.com/package/gitbook-plugin-atoc)                           | 148331     |
-| [gitbook-plugin-donate](https://www.npmjs.com/package/gitbook-plugin-donate)                       | 70850      |
-| [waliyun](https://www.npmjs.com/package/waliyun)                                                   | 24238      |
-| [yunpian-sdk](https://www.npmjs.com/package/yunpian-sdk)                                           | 8481       |
-| [@uua/icons](https://www.npmjs.com/package/@uua/icons)                                             | 8012       |
+| [hexo-wordcount](https://www.npmjs.com/package/hexo-wordcount)                                     | 438271     |
+| [gitbook-plugin-atoc](https://www.npmjs.com/package/gitbook-plugin-atoc)                           | 148334     |
+| [gitbook-plugin-donate](https://www.npmjs.com/package/gitbook-plugin-donate)                       | 70854      |
+| [waliyun](https://www.npmjs.com/package/waliyun)                                                   | 24273      |
+| [yunpian-sdk](https://www.npmjs.com/package/yunpian-sdk)                                           | 8482       |
+| [@uua/icons](https://www.npmjs.com/package/@uua/icons)                                             | 8013       |
 | [leader.js.cool](https://www.npmjs.com/package/leader.js.cool)                                     | 7372       |
 | [koa-swagger-ui](https://www.npmjs.com/package/koa-swagger-ui)                                     | 6738       |
 | [gitbook-plugin-wordcount](https://www.npmjs.com/package/gitbook-plugin-wordcount)                 | 6001       |
@@ -23,24 +23,24 @@ All of my npm packages and their downloads
 | [koa-api-logger](https://www.npmjs.com/package/koa-api-logger)                                     | 4465       |
 | [appkey](https://www.npmjs.com/package/appkey)                                                     | 4371       |
 | [coding-sdk](https://www.npmjs.com/package/coding-sdk)                                             | 4230       |
-| [mock-redis](https://www.npmjs.com/package/mock-redis)                                             | 4170       |
-| [gitbook-plugin-autotheme](https://www.npmjs.com/package/gitbook-plugin-autotheme)                 | 3889       |
+| [mock-redis](https://www.npmjs.com/package/mock-redis)                                             | 4173       |
+| [gitbook-plugin-autotheme](https://www.npmjs.com/package/gitbook-plugin-autotheme)                 | 3891       |
 | [wtoys](https://www.npmjs.com/package/wtoys)                                                       | 3580       |
 | [eslint-config-willin](https://www.npmjs.com/package/eslint-config-willin)                         | 3517       |
 | [tuling](https://www.npmjs.com/package/tuling)                                                     | 3376       |
 | [vchart](https://www.npmjs.com/package/vchart)                                                     | 2859       |
-| [hyperapp.js.cool](https://www.npmjs.com/package/hyperapp.js.cool)                                 | 2433       |
+| [hyperapp.js.cool](https://www.npmjs.com/package/hyperapp.js.cool)                                 | 2434       |
 | [auto-deployer](https://www.npmjs.com/package/auto-deployer)                                       | 2387       |
 | [wqcloud-video](https://www.npmjs.com/package/wqcloud-video)                                       | 2322       |
 | [wrescuetime](https://www.npmjs.com/package/wrescuetime)                                           | 2309       |
 | [atl](https://www.npmjs.com/package/atl)                                                           | 2255       |
 | [hapi-auth-redis](https://www.npmjs.com/package/hapi-auth-redis)                                   | 2241       |
-| [nuxtpress](https://www.npmjs.com/package/nuxtpress)                                               | 2234       |
+| [nuxtpress](https://www.npmjs.com/package/nuxtpress)                                               | 2235       |
 | [gitbook-plugin-theme-material](https://www.npmjs.com/package/gitbook-plugin-theme-material)       | 2186       |
 | [hello-dolly](https://www.npmjs.com/package/hello-dolly)                                           | 2039       |
 | [coding-net](https://www.npmjs.com/package/coding-net)                                             | 1945       |
 | [@authing/remix](https://www.npmjs.com/package/@authing/remix)                                     | 1945       |
-| [remix-i18n](https://www.npmjs.com/package/remix-i18n)                                             | 1670       |
+| [remix-i18n](https://www.npmjs.com/package/remix-i18n)                                             | 1671       |
 | [wno](https://www.npmjs.com/package/wno)                                                           | 1659       |
 | [v0-scf](https://www.npmjs.com/package/v0-scf)                                                     | 1631       |
 | [@x12/tasker](https://www.npmjs.com/package/@x12/tasker)                                           | 1597       |
@@ -71,11 +71,11 @@ All of my npm packages and their downloads
 | [wdouban](https://www.npmjs.com/package/wdouban)                                                   | 901        |
 | [pipefn](https://www.npmjs.com/package/pipefn)                                                     | 899        |
 | [rxdis](https://www.npmjs.com/package/rxdis)                                                       | 889        |
-| [@svelte-dev/auth-oauth2](https://www.npmjs.com/package/@svelte-dev/auth-oauth2)                   | 843        |
+| [@svelte-dev/auth-oauth2](https://www.npmjs.com/package/@svelte-dev/auth-oauth2)                   | 844        |
 | [z-curve](https://www.npmjs.com/package/z-curve)                                                   | 836        |
 | [@authing/nextjs](https://www.npmjs.com/package/@authing/nextjs)                                   | 834        |
 | [vuepress-theme-asshole](https://www.npmjs.com/package/vuepress-theme-asshole)                     | 780        |
-| [@uua/ip2c](https://www.npmjs.com/package/@uua/ip2c)                                               | 776        |
+| [@uua/ip2c](https://www.npmjs.com/package/@uua/ip2c)                                               | 777        |
 | [@dwing/koa-joi-router](https://www.npmjs.com/package/@dwing/koa-joi-router)                       | 727        |
 | [leancloud-sdk](https://www.npmjs.com/package/leancloud-sdk)                                       | 713        |
 | [sdk0](https://www.npmjs.com/package/sdk0)                                                         | 678        |
@@ -100,7 +100,7 @@ All of my npm packages and their downloads
 | [ggql](https://www.npmjs.com/package/ggql)                                                         | 332        |
 | [npm-badges](https://www.npmjs.com/package/npm-badges)                                             | 325        |
 | [@x12/rx-pool](https://www.npmjs.com/package/@x12/rx-pool)                                         | 324        |
-| [remote-cloudflare-kv](https://www.npmjs.com/package/remote-cloudflare-kv)                         | 320        |
+| [remote-cloudflare-kv](https://www.npmjs.com/package/remote-cloudflare-kv)                         | 321        |
 | [@svelte-dev/auth-afdian](https://www.npmjs.com/package/@svelte-dev/auth-afdian)                   | 301        |
 | [remix-sanity](https://www.npmjs.com/package/remix-sanity)                                         | 270        |
 | [@hono-dev/zod-body-validator](https://www.npmjs.com/package/@hono-dev/zod-body-validator)         | 248        |
@@ -108,7 +108,7 @@ All of my npm packages and their downloads
 | [passport-authing](https://www.npmjs.com/package/passport-authing)                                 | 203        |
 | [@svelte-dev/eslint-config](https://www.npmjs.com/package/@svelte-dev/eslint-config)               | 187        |
 | [@v0/v0](https://www.npmjs.com/package/@v0/v0)                                                     | 169        |
-| [@svelte-dev/pretty-code](https://www.npmjs.com/package/@svelte-dev/pretty-code)                   | 145        |
+| [@svelte-dev/pretty-code](https://www.npmjs.com/package/@svelte-dev/pretty-code)                   | 147        |
 | [@svelte-dev/auth-alipay](https://www.npmjs.com/package/@svelte-dev/auth-alipay)                   | 133        |
 | [@hono-dev/powered-by](https://www.npmjs.com/package/@hono-dev/powered-by)                         | 95         |
 | [@hono-dev/zod-openapi](https://www.npmjs.com/package/@hono-dev/zod-openapi)                       | 71         |
@@ -116,5 +116,5 @@ All of my npm packages and their downloads
 | [@hono-dev/auth-afdian](https://www.npmjs.com/package/@hono-dev/auth-afdian)                       | 22         |
 | [@hono-dev/auth-alipay](https://www.npmjs.com/package/@hono-dev/auth-alipay)                       | 22         |
 | [@hono-dev/auth-github](https://www.npmjs.com/package/@hono-dev/auth-github)                       | 21         |
-| **Sum**                                                                                            | **838916** |
+| **Sum**                                                                                            | **839478** |
 <!-- AUTO-GENERATED-CONTENT:END -->

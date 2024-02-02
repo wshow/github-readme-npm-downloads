@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      437766
+      438271
     ],
     [
       "gitbook-plugin-atoc",
-      148331
+      148334
     ],
     [
       "gitbook-plugin-donate",
-      70850
+      70854
     ],
     [
       "waliyun",
-      24238
+      24273
     ],
     [
       "yunpian-sdk",
-      8481
+      8482
     ],
     [
       "@uua/icons",
-      8012
+      8013
     ],
     [
       "leader.js.cool",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4170
+      4173
     ],
     [
       "gitbook-plugin-autotheme",
-      3889
+      3891
     ],
     [
       "wtoys",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2433
+      2434
     ],
     [
       "auto-deployer",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2234
+      2235
     ],
     [
       "gitbook-plugin-theme-material",
@@ -122,7 +122,7 @@
     ],
     [
       "remix-i18n",
-      1670
+      1671
     ],
     [
       "wno",
@@ -246,7 +246,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      843
+      844
     ],
     [
       "z-curve",
@@ -262,7 +262,7 @@
     ],
     [
       "@uua/ip2c",
-      776
+      777
     ],
     [
       "@dwing/koa-joi-router",
@@ -362,7 +362,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      320
+      321
     ],
     [
       "@svelte-dev/auth-afdian",
@@ -394,7 +394,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      145
+      147
     ],
     [
       "@svelte-dev/auth-alipay",
@@ -425,5 +425,5 @@
       21
     ]
   ],
-  "sum": 838916
+  "sum": 839478
 }
