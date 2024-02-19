@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      444990
+      445685
     ],
     [
       "gitbook-plugin-atoc",
-      148409
+      148412
     ],
     [
       "gitbook-plugin-donate",
-      70971
+      70978
     ],
     [
       "waliyun",
-      24508
+      24512
     ],
     [
       "yunpian-sdk",
@@ -22,7 +22,7 @@
     ],
     [
       "@uua/icons",
-      8029
+      8030
     ],
     [
       "leader.js.cool",
@@ -54,7 +54,7 @@
     ],
     [
       "mock-redis",
-      4214
+      4217
     ],
     [
       "gitbook-plugin-autotheme",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3525
+      3527
     ],
     [
       "tuling",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2871
+      2873
     ],
     [
       "hyperapp.js.cool",
-      2440
+      2441
     ],
     [
       "auto-deployer",
@@ -130,7 +130,7 @@
     ],
     [
       "v0-scf",
-      1641
+      1643
     ],
     [
       "@x12/tasker",
@@ -166,15 +166,15 @@
     ],
     [
       "@svelte-dev/auth",
-      1287
+      1304
     ],
     [
       "lslint",
-      1209
+      1210
     ],
     [
       "mmonit",
-      1206
+      1207
     ],
     [
       "@uua/core",
@@ -210,7 +210,7 @@
     ],
     [
       "awth",
-      956
+      957
     ],
     [
       "uua",
@@ -242,7 +242,7 @@
     ],
     [
       "rxdis",
-      893
+      894
     ],
     [
       "@svelte-dev/auth-oauth2",
@@ -270,11 +270,11 @@
     ],
     [
       "leancloud-sdk",
-      713
+      714
     ],
     [
       "@svelte-dev/session",
-      688
+      695
     ],
     [
       "sdk0",
@@ -286,7 +286,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      597
+      605
     ],
     [
       "afdian",
@@ -306,7 +306,7 @@
     ],
     [
       "hdd",
-      573
+      574
     ],
     [
       "@xibang/mysql",
@@ -334,7 +334,7 @@
     ],
     [
       "remix-auth-sso",
-      430
+      436
     ],
     [
       "random-target",
@@ -342,7 +342,7 @@
     ],
     [
       "@svelte-dev/i18n",
-      376
+      381
     ],
     [
       "@x12/task-types",
@@ -374,7 +374,7 @@
     ],
     [
       "@hono-dev/zod-body-validator",
-      251
+      252
     ],
     [
       "@svelte-dev/auth-github",
@@ -414,16 +414,16 @@
     ],
     [
       "@hono-dev/auth-afdian",
-      24
+      25
     ],
     [
       "@hono-dev/auth-alipay",
-      24
+      25
     ],
     [
       "@hono-dev/auth-github",
-      23
+      24
     ]
   ],
-  "sum": 847108
+  "sum": 847881
 }
