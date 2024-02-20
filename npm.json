@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      445685
+      445936
     ],
     [
       "gitbook-plugin-atoc",
-      148412
+      148414
     ],
     [
       "gitbook-plugin-donate",
-      70978
+      70989
     ],
     [
       "waliyun",
-      24512
+      24516
     ],
     [
       "yunpian-sdk",
-      8494
+      8495
     ],
     [
       "@uua/icons",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4217
+      4219
     ],
     [
       "gitbook-plugin-autotheme",
-      3907
+      3909
     ],
     [
       "wtoys",
@@ -70,7 +70,7 @@
     ],
     [
       "tuling",
-      3377
+      3378
     ],
     [
       "vchart",
@@ -122,11 +122,11 @@
     ],
     [
       "remix-i18n",
-      1676
+      1677
     ],
     [
       "wno",
-      1663
+      1664
     ],
     [
       "v0-scf",
@@ -142,7 +142,7 @@
     ],
     [
       "wnm",
-      1558
+      1559
     ],
     [
       "@x12/hosts",
@@ -162,11 +162,11 @@
     ],
     [
       "mp-sdk",
-      1351
+      1352
     ],
     [
       "@svelte-dev/auth",
-      1304
+      1306
     ],
     [
       "lslint",
@@ -246,7 +246,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      866
+      867
     ],
     [
       "z-curve",
@@ -374,7 +374,7 @@
     ],
     [
       "@hono-dev/zod-body-validator",
-      252
+      253
     ],
     [
       "@svelte-dev/auth-github",
@@ -402,15 +402,15 @@
     ],
     [
       "@hono-dev/powered-by",
-      100
+      101
     ],
     [
       "@hono-dev/zod-openapi",
-      73
+      74
     ],
     [
       "@hono-dev/zod-openapi-decorators",
-      72
+      73
     ],
     [
       "@hono-dev/auth-afdian",
@@ -425,5 +425,5 @@
       24
     ]
   ],
-  "sum": 847881
+  "sum": 848166
 }
