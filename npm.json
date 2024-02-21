@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      445936
+      446516
     ],
     [
       "gitbook-plugin-atoc",
-      148414
+      148419
     ],
     [
       "gitbook-plugin-donate",
-      70989
+      70992
     ],
     [
       "waliyun",
-      24516
+      24519
     ],
     [
       "yunpian-sdk",
-      8495
+      8496
     ],
     [
       "@uua/icons",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5896
+      5898
     ],
     [
       "koa-api-logger",
@@ -46,19 +46,19 @@
     ],
     [
       "appkey",
-      4373
+      4374
     ],
     [
       "coding-sdk",
-      4231
+      4232
     ],
     [
       "mock-redis",
-      4219
+      4220
     ],
     [
       "gitbook-plugin-autotheme",
-      3909
+      3912
     ],
     [
       "wtoys",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2873
+      2876
     ],
     [
       "hyperapp.js.cool",
@@ -86,11 +86,11 @@
     ],
     [
       "wqcloud-video",
-      2322
+      2323
     ],
     [
       "wrescuetime",
-      2310
+      2311
     ],
     [
       "atl",
@@ -114,7 +114,7 @@
     ],
     [
       "@authing/remix",
-      1947
+      1959
     ],
     [
       "coding-net",
@@ -126,7 +126,7 @@
     ],
     [
       "wno",
-      1664
+      1665
     ],
     [
       "v0-scf",
@@ -134,19 +134,19 @@
     ],
     [
       "@x12/tasker",
-      1597
+      1598
     ],
     [
       "@x12/di",
-      1590
+      1591
     ],
     [
       "wnm",
-      1559
+      1560
     ],
     [
       "@x12/hosts",
-      1558
+      1559
     ],
     [
       "remix-auth-afdian",
@@ -166,7 +166,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1306
+      1307
     ],
     [
       "lslint",
@@ -218,7 +218,7 @@
     ],
     [
       "@x12/env",
-      943
+      944
     ],
     [
       "markdown-toc-gitbook",
@@ -226,7 +226,7 @@
     ],
     [
       "wulian",
-      927
+      928
     ],
     [
       "@willin/eslint-config",
@@ -274,7 +274,7 @@
     ],
     [
       "@svelte-dev/session",
-      695
+      696
     ],
     [
       "sdk0",
@@ -286,7 +286,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      605
+      606
     ],
     [
       "afdian",
@@ -313,11 +313,11 @@
       550
     ],
     [
-      "willin",
-      512
+      "@x12/common",
+      513
     ],
     [
-      "@x12/common",
+      "willin",
       512
     ],
     [
@@ -326,11 +326,11 @@
     ],
     [
       "@x12/mongodb",
-      445
+      446
     ],
     [
       "@x12/promise",
-      443
+      444
     ],
     [
       "remix-auth-sso",
@@ -342,11 +342,11 @@
     ],
     [
       "@svelte-dev/i18n",
-      381
+      382
     ],
     [
       "@x12/task-types",
-      343
+      344
     ],
     [
       "remote-cloudflare-kv",
@@ -357,12 +357,12 @@
       333
     ],
     [
-      "npm-badges",
+      "@x12/rx-pool",
       325
     ],
     [
-      "@x12/rx-pool",
-      324
+      "npm-badges",
+      325
     ],
     [
       "@svelte-dev/auth-afdian",
@@ -374,7 +374,7 @@
     ],
     [
       "@hono-dev/zod-body-validator",
-      253
+      255
     ],
     [
       "@svelte-dev/auth-github",
@@ -425,5 +425,5 @@
       24
     ]
   ],
-  "sum": 848166
+  "sum": 848801
 }
