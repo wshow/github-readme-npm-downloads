@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      446516
+      447209
     ],
     [
       "gitbook-plugin-atoc",
-      148419
+      148423
     ],
     [
       "gitbook-plugin-donate",
@@ -14,15 +14,15 @@
     ],
     [
       "waliyun",
-      24519
+      24521
     ],
     [
       "yunpian-sdk",
-      8496
+      8497
     ],
     [
       "@uua/icons",
-      8030
+      8032
     ],
     [
       "leader.js.cool",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4220
+      4221
     ],
     [
       "gitbook-plugin-autotheme",
-      3912
+      3919
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3527
+      3528
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2876
+      2878
     ],
     [
       "hyperapp.js.cool",
@@ -142,7 +142,7 @@
     ],
     [
       "wnm",
-      1560
+      1561
     ],
     [
       "@x12/hosts",
@@ -166,11 +166,11 @@
     ],
     [
       "@svelte-dev/auth",
-      1307
+      1308
     ],
     [
       "lslint",
-      1210
+      1211
     ],
     [
       "mmonit",
@@ -182,7 +182,7 @@
     ],
     [
       "@shiwangme/redis",
-      1185
+      1186
     ],
     [
       "less.js.cool",
@@ -246,7 +246,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      867
+      868
     ],
     [
       "z-curve",
@@ -302,7 +302,7 @@
     ],
     [
       "edd",
-      575
+      576
     ],
     [
       "hdd",
@@ -322,7 +322,7 @@
     ],
     [
       "whiteq",
-      480
+      482
     ],
     [
       "@x12/mongodb",
@@ -357,11 +357,11 @@
       333
     ],
     [
-      "@x12/rx-pool",
-      325
+      "npm-badges",
+      327
     ],
     [
-      "npm-badges",
+      "@x12/rx-pool",
       325
     ],
     [
@@ -378,7 +378,7 @@
     ],
     [
       "@svelte-dev/auth-github",
-      247
+      249
     ],
     [
       "passport-authing",
@@ -394,11 +394,11 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      154
+      155
     ],
     [
       "@svelte-dev/auth-alipay",
-      145
+      146
     ],
     [
       "@hono-dev/powered-by",
@@ -425,5 +425,5 @@
       24
     ]
   ],
-  "sum": 848801
+  "sum": 849528
 }
