@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      447209
+      447861
     ],
     [
       "gitbook-plugin-atoc",
-      148423
+      148424
     ],
     [
       "gitbook-plugin-donate",
-      70992
+      70994
     ],
     [
       "waliyun",
-      24521
+      24608
     ],
     [
       "yunpian-sdk",
-      8497
+      8498
     ],
     [
       "@uua/icons",
-      8032
+      8034
     ],
     [
       "leader.js.cool",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      6006
+      6007
     ],
     [
       "wqcloud",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4221
+      4224
     ],
     [
       "gitbook-plugin-autotheme",
-      3919
+      3931
     ],
     [
       "wtoys",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2878
+      2879
     ],
     [
       "hyperapp.js.cool",
@@ -102,15 +102,15 @@
     ],
     [
       "nuxtpress",
-      2236
+      2237
     ],
     [
       "gitbook-plugin-theme-material",
-      2194
+      2196
     ],
     [
       "hello-dolly",
-      2041
+      2042
     ],
     [
       "@authing/remix",
@@ -126,7 +126,7 @@
     ],
     [
       "wno",
-      1665
+      1666
     ],
     [
       "v0-scf",
@@ -142,7 +142,7 @@
     ],
     [
       "wnm",
-      1561
+      1563
     ],
     [
       "@x12/hosts",
@@ -185,16 +185,16 @@
       1186
     ],
     [
+      "hyperapp-i18n",
+      1169
+    ],
+    [
       "less.js.cool",
       1168
     ],
     [
-      "hyperapp-i18n",
-      1168
-    ],
-    [
       "beian-domain",
-      1076
+      1077
     ],
     [
       "h1de",
@@ -242,7 +242,7 @@
     ],
     [
       "rxdis",
-      894
+      896
     ],
     [
       "@svelte-dev/auth-oauth2",
@@ -258,7 +258,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      782
+      783
     ],
     [
       "@uua/ip2c",
@@ -278,7 +278,7 @@
     ],
     [
       "sdk0",
-      681
+      682
     ],
     [
       "fetch-pro",
@@ -290,7 +290,7 @@
     ],
     [
       "afdian",
-      587
+      588
     ],
     [
       "@xibang/redis",
@@ -382,7 +382,7 @@
     ],
     [
       "passport-authing",
-      203
+      204
     ],
     [
       "@svelte-dev/eslint-config",
@@ -402,7 +402,7 @@
     ],
     [
       "@hono-dev/powered-by",
-      101
+      103
     ],
     [
       "@hono-dev/zod-openapi",
@@ -414,16 +414,16 @@
     ],
     [
       "@hono-dev/auth-afdian",
+      26
+    ],
+    [
+      "@hono-dev/auth-github",
       25
     ],
     [
       "@hono-dev/auth-alipay",
       25
-    ],
-    [
-      "@hono-dev/auth-github",
-      24
     ]
   ],
-  "sum": 849528
+  "sum": 850309
 }
