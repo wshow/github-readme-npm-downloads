@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      447861
+      448397
     ],
     [
       "gitbook-plugin-atoc",
-      148424
+      148431
     ],
     [
       "gitbook-plugin-donate",
-      70994
+      70995
     ],
     [
       "waliyun",
-      24608
+      24626
     ],
     [
       "yunpian-sdk",
@@ -22,7 +22,7 @@
     ],
     [
       "@uua/icons",
-      8034
+      8035
     ],
     [
       "leader.js.cool",
@@ -34,11 +34,11 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      6007
+      6008
     ],
     [
       "wqcloud",
-      5898
+      5899
     ],
     [
       "koa-api-logger",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4224
+      4228
     ],
     [
       "gitbook-plugin-autotheme",
-      3931
+      3941
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3528
+      3530
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2879
+      2880
     ],
     [
       "hyperapp.js.cool",
@@ -98,15 +98,15 @@
     ],
     [
       "hapi-auth-redis",
-      2242
+      2243
     ],
     [
       "nuxtpress",
-      2237
+      2238
     ],
     [
       "gitbook-plugin-theme-material",
-      2196
+      2197
     ],
     [
       "hello-dolly",
@@ -122,7 +122,7 @@
     ],
     [
       "remix-i18n",
-      1677
+      1679
     ],
     [
       "wno",
@@ -130,7 +130,7 @@
     ],
     [
       "v0-scf",
-      1643
+      1644
     ],
     [
       "@x12/tasker",
@@ -238,7 +238,7 @@
     ],
     [
       "pipefn",
-      899
+      900
     ],
     [
       "rxdis",
@@ -342,7 +342,7 @@
     ],
     [
       "@svelte-dev/i18n",
-      382
+      383
     ],
     [
       "@x12/task-types",
@@ -366,11 +366,11 @@
     ],
     [
       "@svelte-dev/auth-afdian",
-      309
+      311
     ],
     [
       "remix-sanity",
-      271
+      272
     ],
     [
       "@hono-dev/zod-body-validator",
@@ -378,7 +378,7 @@
     ],
     [
       "@svelte-dev/auth-github",
-      249
+      250
     ],
     [
       "passport-authing",
@@ -386,7 +386,7 @@
     ],
     [
       "@svelte-dev/eslint-config",
-      195
+      196
     ],
     [
       "@v0/v0",
@@ -425,5 +425,5 @@
       25
     ]
   ],
-  "sum": 850309
+  "sum": 850904
 }
