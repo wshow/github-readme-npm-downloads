@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      448397
+      448987
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      70995
+      70999
     ],
     [
       "waliyun",
-      24626
+      24630
     ],
     [
       "yunpian-sdk",
@@ -22,7 +22,7 @@
     ],
     [
       "@uua/icons",
-      8035
+      8036
     ],
     [
       "leader.js.cool",
@@ -42,7 +42,7 @@
     ],
     [
       "koa-api-logger",
-      4466
+      4467
     ],
     [
       "appkey",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3941
+      3949
     ],
     [
       "wtoys",
@@ -90,11 +90,11 @@
     ],
     [
       "wrescuetime",
-      2311
+      2312
     ],
     [
       "atl",
-      2256
+      2257
     ],
     [
       "hapi-auth-redis",
@@ -118,11 +118,11 @@
     ],
     [
       "coding-net",
-      1946
+      1947
     ],
     [
       "remix-i18n",
-      1679
+      1680
     ],
     [
       "wno",
@@ -142,7 +142,7 @@
     ],
     [
       "wnm",
-      1563
+      1565
     ],
     [
       "@x12/hosts",
@@ -233,20 +233,20 @@
       913
     ],
     [
+      "pipefn",
+      902
+    ],
+    [
       "wdouban",
       902
     ],
     [
-      "pipefn",
-      900
-    ],
-    [
       "rxdis",
-      896
+      897
     ],
     [
       "@svelte-dev/auth-oauth2",
-      868
+      869
     ],
     [
       "z-curve",
@@ -278,7 +278,7 @@
     ],
     [
       "sdk0",
-      682
+      683
     ],
     [
       "fetch-pro",
@@ -338,7 +338,7 @@
     ],
     [
       "random-target",
-      412
+      413
     ],
     [
       "@svelte-dev/i18n",
@@ -370,7 +370,7 @@
     ],
     [
       "remix-sanity",
-      272
+      273
     ],
     [
       "@hono-dev/zod-body-validator",
@@ -378,7 +378,7 @@
     ],
     [
       "@svelte-dev/auth-github",
-      250
+      251
     ],
     [
       "passport-authing",
@@ -425,5 +425,5 @@
       25
     ]
   ],
-  "sum": 850904
+  "sum": 851526
 }
