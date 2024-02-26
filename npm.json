@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      448987
+      449191
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      70999
+      71000
     ],
     [
       "waliyun",
-      24630
+      24631
     ],
     [
       "yunpian-sdk",
-      8498
+      8499
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      7378
+      7379
     ],
     [
       "koa-swagger-ui",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5899
+      5900
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "coding-sdk",
-      4232
+      4233
     ],
     [
       "mock-redis",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3530
+      3531
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2880
+      2881
     ],
     [
       "hyperapp.js.cool",
@@ -126,7 +126,7 @@
     ],
     [
       "wno",
-      1666
+      1667
     ],
     [
       "v0-scf",
@@ -138,7 +138,7 @@
     ],
     [
       "@x12/di",
-      1591
+      1592
     ],
     [
       "wnm",
@@ -150,7 +150,7 @@
     ],
     [
       "remix-auth-afdian",
-      1419
+      1420
     ],
     [
       "@xibang/node-common",
@@ -166,11 +166,11 @@
     ],
     [
       "@svelte-dev/auth",
-      1308
+      1309
     ],
     [
       "lslint",
-      1211
+      1212
     ],
     [
       "mmonit",
@@ -194,15 +194,15 @@
     ],
     [
       "beian-domain",
-      1077
+      1078
     ],
     [
       "h1de",
-      1063
+      1064
     ],
     [
       "coding-deploy",
-      979
+      980
     ],
     [
       "nativescript-icam",
@@ -222,7 +222,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      941
+      942
     ],
     [
       "wulian",
@@ -234,7 +234,7 @@
     ],
     [
       "pipefn",
-      902
+      903
     ],
     [
       "wdouban",
@@ -258,7 +258,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      783
+      784
     ],
     [
       "@uua/ip2c",
@@ -314,15 +314,15 @@
     ],
     [
       "@x12/common",
-      513
+      514
     ],
     [
       "willin",
-      512
+      513
     ],
     [
       "whiteq",
-      482
+      483
     ],
     [
       "@x12/mongodb",
@@ -334,11 +334,11 @@
     ],
     [
       "remix-auth-sso",
-      436
+      437
     ],
     [
       "random-target",
-      413
+      414
     ],
     [
       "@svelte-dev/i18n",
@@ -382,7 +382,7 @@
     ],
     [
       "passport-authing",
-      204
+      205
     ],
     [
       "@svelte-dev/eslint-config",
@@ -398,7 +398,7 @@
     ],
     [
       "@svelte-dev/auth-alipay",
-      146
+      147
     ],
     [
       "@hono-dev/powered-by",
@@ -425,5 +425,5 @@
       25
     ]
   ],
-  "sum": 851526
+  "sum": 851756
 }
