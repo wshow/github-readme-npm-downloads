@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      449446
+      450003
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      71000
+      71009
     ],
     [
       "waliyun",
-      24632
+      24635
     ],
     [
       "yunpian-sdk",
-      8499
+      8500
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      7379
+      7380
     ],
     [
       "koa-swagger-ui",
@@ -46,7 +46,7 @@
     ],
     [
       "appkey",
-      4374
+      4375
     ],
     [
       "coding-sdk",
@@ -54,11 +54,11 @@
     ],
     [
       "mock-redis",
-      4228
+      4230
     ],
     [
       "gitbook-plugin-autotheme",
-      3949
+      3959
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3532
+      3533
     ],
     [
       "tuling",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2238
+      2239
     ],
     [
       "gitbook-plugin-theme-material",
@@ -126,11 +126,11 @@
     ],
     [
       "wno",
-      1667
+      1668
     ],
     [
       "v0-scf",
-      1645
+      1651
     ],
     [
       "@x12/tasker",
@@ -190,7 +190,7 @@
     ],
     [
       "less.js.cool",
-      1168
+      1169
     ],
     [
       "beian-domain",
@@ -214,7 +214,7 @@
     ],
     [
       "uua",
-      945
+      946
     ],
     [
       "@x12/env",
@@ -226,7 +226,7 @@
     ],
     [
       "wulian",
-      928
+      929
     ],
     [
       "@willin/eslint-config",
@@ -266,7 +266,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      731
+      732
     ],
     [
       "leancloud-sdk",
@@ -278,7 +278,7 @@
     ],
     [
       "sdk0",
-      686
+      688
     ],
     [
       "fetch-pro",
@@ -306,7 +306,7 @@
     ],
     [
       "hdd",
-      574
+      575
     ],
     [
       "@xibang/mysql",
@@ -350,7 +350,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      343
+      344
     ],
     [
       "ggql",
@@ -425,5 +425,5 @@
       25
     ]
   ],
-  "sum": 852034
+  "sum": 852635
 }
