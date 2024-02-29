@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      450003
+      450502
     ],
     [
       "gitbook-plugin-atoc",
-      148431
+      148434
     ],
     [
       "gitbook-plugin-donate",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      24635
+      24641
     ],
     [
       "yunpian-sdk",
-      8500
+      8501
     ],
     [
       "@uua/icons",
@@ -42,7 +42,7 @@
     ],
     [
       "koa-api-logger",
-      4467
+      4468
     ],
     [
       "appkey",
@@ -58,11 +58,11 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      3959
+      3975
     ],
     [
       "wtoys",
-      3581
+      3582
     ],
     [
       "eslint-config-willin",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2441
+      2442
     ],
     [
       "auto-deployer",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2239
+      2240
     ],
     [
       "gitbook-plugin-theme-material",
@@ -130,7 +130,7 @@
     ],
     [
       "v0-scf",
-      1651
+      1652
     ],
     [
       "@x12/tasker",
@@ -150,7 +150,7 @@
     ],
     [
       "remix-auth-afdian",
-      1420
+      1421
     ],
     [
       "@xibang/node-common",
@@ -222,7 +222,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      942
+      943
     ],
     [
       "wulian",
@@ -238,7 +238,7 @@
     ],
     [
       "wdouban",
-      902
+      903
     ],
     [
       "rxdis",
@@ -258,7 +258,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      785
+      786
     ],
     [
       "@uua/ip2c",
@@ -274,11 +274,11 @@
     ],
     [
       "@svelte-dev/session",
-      696
+      697
     ],
     [
       "sdk0",
-      688
+      691
     ],
     [
       "fetch-pro",
@@ -334,7 +334,7 @@
     ],
     [
       "remix-auth-sso",
-      437
+      438
     ],
     [
       "random-target",
@@ -354,11 +354,11 @@
     ],
     [
       "ggql",
-      333
+      334
     ],
     [
       "npm-badges",
-      327
+      328
     ],
     [
       "@x12/rx-pool",
@@ -370,7 +370,7 @@
     ],
     [
       "remix-sanity",
-      273
+      274
     ],
     [
       "@hono-dev/zod-body-validator",
@@ -425,5 +425,5 @@
       25
     ]
   ],
-  "sum": 852635
+  "sum": 853177
 }
