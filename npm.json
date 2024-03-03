@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      451542
+      452077
     ],
     [
       "gitbook-plugin-atoc",
-      148437
+      148439
     ],
     [
       "gitbook-plugin-donate",
-      71013
+      71014
     ],
     [
       "waliyun",
-      24653
+      24695
     ],
     [
       "yunpian-sdk",
@@ -22,11 +22,11 @@
     ],
     [
       "@uua/icons",
-      8039
+      8040
     ],
     [
       "leader.js.cool",
-      7380
+      7381
     ],
     [
       "koa-swagger-ui",
@@ -50,7 +50,7 @@
     ],
     [
       "mock-redis",
-      4235
+      4240
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4000
+      4009
     ],
     [
       "wtoys",
@@ -66,19 +66,19 @@
     ],
     [
       "eslint-config-willin",
-      3535
+      3536
     ],
     [
       "tuling",
-      3378
+      3380
     ],
     [
       "vchart",
-      2884
+      2888
     ],
     [
       "hyperapp.js.cool",
-      2443
+      2444
     ],
     [
       "auto-deployer",
@@ -122,11 +122,11 @@
     ],
     [
       "remix-i18n",
-      1681
+      1683
     ],
     [
       "wno",
-      1668
+      1669
     ],
     [
       "v0-scf",
@@ -138,7 +138,7 @@
     ],
     [
       "@x12/di",
-      1593
+      1594
     ],
     [
       "wnm",
@@ -230,11 +230,11 @@
     ],
     [
       "@willin/eslint-config",
-      916
+      917
     ],
     [
       "pipefn",
-      904
+      905
     ],
     [
       "wdouban",
@@ -254,7 +254,7 @@
     ],
     [
       "@authing/nextjs",
-      836
+      837
     ],
     [
       "vuepress-theme-asshole",
@@ -266,7 +266,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      735
+      736
     ],
     [
       "leancloud-sdk",
@@ -290,7 +290,7 @@
     ],
     [
       "afdian",
-      602
+      607
     ],
     [
       "@xibang/redis",
@@ -346,7 +346,7 @@
     ],
     [
       "@x12/task-types",
-      346
+      347
     ],
     [
       "remote-cloudflare-kv",
@@ -394,7 +394,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      156
+      157
     ],
     [
       "@svelte-dev/auth-alipay",
@@ -402,7 +402,7 @@
     ],
     [
       "@hono-dev/powered-by",
-      103
+      104
     ],
     [
       "@hono-dev/zod-openapi",
@@ -425,5 +425,5 @@
       27
     ]
   ],
-  "sum": 854391
+  "sum": 855011
 }
