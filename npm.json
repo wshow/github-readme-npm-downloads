@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      452077
+      452358
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      24695
+      24734
     ],
     [
       "yunpian-sdk",
@@ -22,7 +22,7 @@
     ],
     [
       "@uua/icons",
-      8040
+      8042
     ],
     [
       "leader.js.cool",
@@ -46,7 +46,7 @@
     ],
     [
       "appkey",
-      4376
+      4377
     ],
     [
       "mock-redis",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3536
+      3538
     ],
     [
       "tuling",
@@ -122,7 +122,7 @@
     ],
     [
       "remix-i18n",
-      1683
+      1684
     ],
     [
       "wno",
@@ -134,7 +134,7 @@
     ],
     [
       "@x12/tasker",
-      1601
+      1602
     ],
     [
       "@x12/di",
@@ -154,7 +154,7 @@
     ],
     [
       "wechaty-authing",
-      1416
+      1417
     ],
     [
       "@xibang/node-common",
@@ -162,11 +162,11 @@
     ],
     [
       "mp-sdk",
-      1353
+      1354
     ],
     [
       "@svelte-dev/auth",
-      1313
+      1314
     ],
     [
       "lslint",
@@ -178,7 +178,7 @@
     ],
     [
       "@uua/core",
-      1189
+      1190
     ],
     [
       "@shiwangme/redis",
@@ -186,7 +186,7 @@
     ],
     [
       "hyperapp-i18n",
-      1170
+      1171
     ],
     [
       "less.js.cool",
@@ -230,7 +230,7 @@
     ],
     [
       "@willin/eslint-config",
-      917
+      919
     ],
     [
       "pipefn",
@@ -246,11 +246,11 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      871
+      872
     ],
     [
       "z-curve",
-      837
+      838
     ],
     [
       "@authing/nextjs",
@@ -274,11 +274,11 @@
     ],
     [
       "sdk0",
-      702
+      703
     ],
     [
       "@svelte-dev/session",
-      698
+      700
     ],
     [
       "fetch-pro",
@@ -286,7 +286,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      608
+      609
     ],
     [
       "afdian",
@@ -302,7 +302,7 @@
     ],
     [
       "edd",
-      576
+      577
     ],
     [
       "hdd",
@@ -318,7 +318,7 @@
     ],
     [
       "willin",
-      513
+      514
     ],
     [
       "whiteq",
@@ -357,12 +357,12 @@
       334
     ],
     [
-      "npm-badges",
+      "@x12/rx-pool",
       328
     ],
     [
-      "@x12/rx-pool",
-      327
+      "npm-badges",
+      328
     ],
     [
       "@svelte-dev/auth-afdian",
@@ -370,7 +370,7 @@
     ],
     [
       "remix-sanity",
-      274
+      276
     ],
     [
       "@hono-dev/zod-body-validator",
@@ -394,7 +394,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      157
+      160
     ],
     [
       "@svelte-dev/auth-alipay",
@@ -425,5 +425,5 @@
       27
     ]
   ],
-  "sum": 855011
+  "sum": 855359
 }
