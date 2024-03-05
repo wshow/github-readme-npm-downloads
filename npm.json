@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      452358
+      452562
     ],
     [
       "gitbook-plugin-atoc",
-      148439
+      148440
     ],
     [
       "gitbook-plugin-donate",
@@ -14,19 +14,19 @@
     ],
     [
       "waliyun",
-      24734
+      24736
     ],
     [
       "yunpian-sdk",
-      8504
+      8505
     ],
     [
       "@uua/icons",
-      8042
+      8043
     ],
     [
       "leader.js.cool",
-      7381
+      7382
     ],
     [
       "koa-swagger-ui",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2888
+      2889
     ],
     [
       "hyperapp.js.cool",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2391
+      2392
     ],
     [
       "wqcloud-video",
@@ -94,11 +94,11 @@
     ],
     [
       "atl",
-      2258
+      2259
     ],
     [
       "hapi-auth-redis",
-      2243
+      2247
     ],
     [
       "nuxtpress",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2198
+      2199
     ],
     [
       "hello-dolly",
@@ -114,7 +114,7 @@
     ],
     [
       "@authing/remix",
-      1959
+      1960
     ],
     [
       "coding-net",
@@ -130,7 +130,7 @@
     ],
     [
       "v0-scf",
-      1653
+      1654
     ],
     [
       "@x12/tasker",
@@ -178,7 +178,7 @@
     ],
     [
       "@uua/core",
-      1190
+      1192
     ],
     [
       "@shiwangme/redis",
@@ -214,7 +214,7 @@
     ],
     [
       "uua",
-      946
+      947
     ],
     [
       "@x12/env",
@@ -254,19 +254,19 @@
     ],
     [
       "@authing/nextjs",
-      837
+      838
     ],
     [
       "vuepress-theme-asshole",
-      786
+      787
     ],
     [
       "@uua/ip2c",
-      779
+      780
     ],
     [
       "@dwing/koa-joi-router",
-      736
+      737
     ],
     [
       "leancloud-sdk",
@@ -274,11 +274,11 @@
     ],
     [
       "sdk0",
-      703
+      704
     ],
     [
       "@svelte-dev/session",
-      700
+      701
     ],
     [
       "fetch-pro",
@@ -298,7 +298,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      586
+      587
     ],
     [
       "edd",
@@ -314,7 +314,7 @@
     ],
     [
       "@x12/common",
-      515
+      516
     ],
     [
       "willin",
@@ -326,7 +326,7 @@
     ],
     [
       "@x12/mongodb",
-      448
+      449
     ],
     [
       "@x12/promise",
@@ -350,7 +350,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      344
+      345
     ],
     [
       "ggql",
@@ -373,12 +373,12 @@
       276
     ],
     [
-      "@hono-dev/zod-body-validator",
+      "@svelte-dev/auth-github",
       255
     ],
     [
-      "@svelte-dev/auth-github",
-      253
+      "@hono-dev/zod-body-validator",
+      255
     ],
     [
       "passport-authing",
@@ -425,5 +425,5 @@
       27
     ]
   ],
-  "sum": 855359
+  "sum": 855594
 }
