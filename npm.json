@@ -2,39 +2,39 @@
   "stats": [
     [
       "hexo-wordcount",
-      452562
+      453090
     ],
     [
       "gitbook-plugin-atoc",
-      148440
+      148442
     ],
     [
       "gitbook-plugin-donate",
-      71014
+      71017
     ],
     [
       "waliyun",
-      24736
+      24760
     ],
     [
       "yunpian-sdk",
-      8505
+      8510
     ],
     [
       "@uua/icons",
-      8043
+      8047
     ],
     [
       "leader.js.cool",
-      7382
+      7383
     ],
     [
       "koa-swagger-ui",
-      6756
+      6757
     ],
     [
       "gitbook-plugin-wordcount",
-      6008
+      6009
     ],
     [
       "wqcloud",
@@ -50,7 +50,7 @@
     ],
     [
       "mock-redis",
-      4240
+      4244
     ],
     [
       "coding-sdk",
@@ -58,19 +58,19 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4009
+      4023
     ],
     [
       "wtoys",
-      3582
+      3583
     ],
     [
       "eslint-config-willin",
-      3538
+      3539
     ],
     [
       "tuling",
-      3380
+      3388
     ],
     [
       "vchart",
@@ -98,7 +98,7 @@
     ],
     [
       "hapi-auth-redis",
-      2247
+      2248
     ],
     [
       "nuxtpress",
@@ -106,11 +106,11 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2199
+      2202
     ],
     [
       "hello-dolly",
-      2042
+      2043
     ],
     [
       "@authing/remix",
@@ -122,11 +122,11 @@
     ],
     [
       "remix-i18n",
-      1684
+      1686
     ],
     [
       "wno",
-      1669
+      1673
     ],
     [
       "v0-scf",
@@ -142,11 +142,11 @@
     ],
     [
       "wnm",
-      1567
+      1568
     ],
     [
       "@x12/hosts",
-      1560
+      1561
     ],
     [
       "remix-auth-afdian",
@@ -154,11 +154,11 @@
     ],
     [
       "wechaty-authing",
-      1417
+      1418
     ],
     [
       "@xibang/node-common",
-      1410
+      1411
     ],
     [
       "mp-sdk",
@@ -166,7 +166,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1314
+      1315
     ],
     [
       "lslint",
@@ -182,7 +182,7 @@
     ],
     [
       "@shiwangme/redis",
-      1186
+      1187
     ],
     [
       "hyperapp-i18n",
@@ -218,7 +218,7 @@
     ],
     [
       "@x12/env",
-      946
+      947
     ],
     [
       "markdown-toc-gitbook",
@@ -238,7 +238,7 @@
     ],
     [
       "wdouban",
-      903
+      904
     ],
     [
       "rxdis",
@@ -258,7 +258,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      787
+      789
     ],
     [
       "@uua/ip2c",
@@ -282,7 +282,7 @@
     ],
     [
       "fetch-pro",
-      611
+      616
     ],
     [
       "@svelte-dev/auth-sso",
@@ -294,7 +294,7 @@
     ],
     [
       "@xibang/redis",
-      588
+      589
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -318,11 +318,11 @@
     ],
     [
       "willin",
-      514
+      515
     ],
     [
       "whiteq",
-      487
+      490
     ],
     [
       "@x12/mongodb",
@@ -334,7 +334,7 @@
     ],
     [
       "remix-auth-sso",
-      438
+      439
     ],
     [
       "random-target",
@@ -425,5 +425,5 @@
       27
     ]
   ],
-  "sum": 855594
+  "sum": 856223
 }
