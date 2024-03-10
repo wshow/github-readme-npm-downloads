@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      454682
+      455192
     ],
     [
       "gitbook-plugin-atoc",
-      148444
+      148458
     ],
     [
       "gitbook-plugin-donate",
-      71031
+      71034
     ],
     [
       "waliyun",
-      24856
+      24872
     ],
     [
       "yunpian-sdk",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5907
+      5908
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "mock-redis",
-      4252
+      4256
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4070
+      4072
     ],
     [
       "wtoys",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2889
+      2891
     ],
     [
       "hyperapp.js.cool",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2393
+      2397
     ],
     [
       "wqcloud-video",
@@ -110,7 +110,7 @@
     ],
     [
       "hello-dolly",
-      2044
+      2047
     ],
     [
       "@authing/remix",
@@ -122,11 +122,11 @@
     ],
     [
       "remix-i18n",
-      1694
+      1701
     ],
     [
       "wno",
-      1673
+      1675
     ],
     [
       "v0-scf",
@@ -142,7 +142,7 @@
     ],
     [
       "wnm",
-      1578
+      1584
     ],
     [
       "@x12/hosts",
@@ -166,7 +166,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1321
+      1322
     ],
     [
       "lslint",
@@ -174,7 +174,7 @@
     ],
     [
       "mmonit",
-      1208
+      1209
     ],
     [
       "@uua/core",
@@ -194,7 +194,7 @@
     ],
     [
       "beian-domain",
-      1079
+      1080
     ],
     [
       "h1de",
@@ -222,7 +222,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      944
+      945
     ],
     [
       "wulian",
@@ -254,11 +254,11 @@
     ],
     [
       "@authing/nextjs",
-      838
+      839
     ],
     [
       "vuepress-theme-asshole",
-      790
+      791
     ],
     [
       "@uua/ip2c",
@@ -282,11 +282,11 @@
     ],
     [
       "fetch-pro",
-      616
+      617
     ],
     [
       "@svelte-dev/auth-sso",
-      609
+      610
     ],
     [
       "afdian",
@@ -394,7 +394,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      163
+      165
     ],
     [
       "@svelte-dev/auth-alipay",
@@ -425,5 +425,5 @@
       27
     ]
   ],
-  "sum": 858103
+  "sum": 858687
 }
