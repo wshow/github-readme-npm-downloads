@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      455192
+      455541
     ],
     [
       "gitbook-plugin-atoc",
-      148458
+      148459
     ],
     [
       "gitbook-plugin-donate",
-      71034
+      71047
     ],
     [
       "waliyun",
-      24872
+      24894
     ],
     [
       "yunpian-sdk",
@@ -22,7 +22,7 @@
     ],
     [
       "@uua/icons",
-      8050
+      8053
     ],
     [
       "leader.js.cool",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5908
+      5922
     ],
     [
       "koa-api-logger",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3547
+      3549
     ],
     [
       "tuling",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2444
+      2445
     ],
     [
       "auto-deployer",
@@ -86,11 +86,11 @@
     ],
     [
       "wqcloud-video",
-      2325
+      2332
     ],
     [
       "wrescuetime",
-      2313
+      2320
     ],
     [
       "atl",
@@ -130,7 +130,7 @@
     ],
     [
       "v0-scf",
-      1655
+      1656
     ],
     [
       "@x12/tasker",
@@ -150,7 +150,7 @@
     ],
     [
       "remix-auth-afdian",
-      1426
+      1427
     ],
     [
       "wechaty-authing",
@@ -174,15 +174,15 @@
     ],
     [
       "mmonit",
-      1209
+      1210
     ],
     [
       "@uua/core",
-      1192
+      1193
     ],
     [
       "@shiwangme/redis",
-      1188
+      1189
     ],
     [
       "hyperapp-i18n",
@@ -198,7 +198,7 @@
     ],
     [
       "h1de",
-      1069
+      1070
     ],
     [
       "coding-deploy",
@@ -206,7 +206,7 @@
     ],
     [
       "nativescript-icam",
-      974
+      975
     ],
     [
       "awth",
@@ -230,7 +230,7 @@
     ],
     [
       "@willin/eslint-config",
-      920
+      921
     ],
     [
       "rxdis",
@@ -262,7 +262,7 @@
     ],
     [
       "@uua/ip2c",
-      782
+      783
     ],
     [
       "@dwing/koa-joi-router",
@@ -274,7 +274,7 @@
     ],
     [
       "sdk0",
-      704
+      705
     ],
     [
       "@svelte-dev/session",
@@ -286,7 +286,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      610
+      611
     ],
     [
       "afdian",
@@ -306,7 +306,7 @@
     ],
     [
       "hdd",
-      576
+      577
     ],
     [
       "@xibang/mysql",
@@ -334,7 +334,7 @@
     ],
     [
       "remix-auth-sso",
-      443
+      444
     ],
     [
       "random-target",
@@ -342,7 +342,7 @@
     ],
     [
       "@svelte-dev/i18n",
-      383
+      384
     ],
     [
       "@x12/task-types",
@@ -354,14 +354,14 @@
     ],
     [
       "ggql",
-      334
-    ],
-    [
-      "@x12/rx-pool",
-      328
+      335
     ],
     [
       "npm-badges",
+      329
+    ],
+    [
+      "@x12/rx-pool",
       328
     ],
     [
@@ -386,19 +386,19 @@
     ],
     [
       "@svelte-dev/eslint-config",
-      196
+      197
+    ],
+    [
+      "@svelte-dev/pretty-code",
+      175
     ],
     [
       "@v0/v0",
       171
     ],
     [
-      "@svelte-dev/pretty-code",
-      165
-    ],
-    [
       "@svelte-dev/auth-alipay",
-      150
+      151
     ],
     [
       "@hono-dev/powered-by",
@@ -406,7 +406,7 @@
     ],
     [
       "@hono-dev/zod-openapi",
-      74
+      75
     ],
     [
       "@hono-dev/zod-openapi-decorators",
@@ -425,5 +425,5 @@
       27
     ]
   ],
-  "sum": 858687
+  "sum": 859135
 }
