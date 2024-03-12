@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      455541
+      455735
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      71047
+      71048
     ],
     [
       "waliyun",
-      24894
+      24935
     ],
     [
       "yunpian-sdk",
@@ -22,11 +22,11 @@
     ],
     [
       "@uua/icons",
-      8053
+      8054
     ],
     [
       "leader.js.cool",
-      7384
+      7385
     ],
     [
       "koa-swagger-ui",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3549
+      3550
     ],
     [
       "tuling",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2445
+      2446
     ],
     [
       "auto-deployer",
@@ -122,7 +122,7 @@
     ],
     [
       "remix-i18n",
-      1701
+      1703
     ],
     [
       "wno",
@@ -142,7 +142,7 @@
     ],
     [
       "wnm",
-      1584
+      1585
     ],
     [
       "@x12/hosts",
@@ -150,15 +150,15 @@
     ],
     [
       "remix-auth-afdian",
-      1427
+      1428
     ],
     [
       "wechaty-authing",
-      1418
+      1420
     ],
     [
       "@xibang/node-common",
-      1414
+      1415
     ],
     [
       "mp-sdk",
@@ -166,7 +166,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1322
+      1325
     ],
     [
       "lslint",
@@ -186,7 +186,7 @@
     ],
     [
       "hyperapp-i18n",
-      1172
+      1173
     ],
     [
       "less.js.cool",
@@ -246,7 +246,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      876
+      878
     ],
     [
       "z-curve",
@@ -262,7 +262,7 @@
     ],
     [
       "@uua/ip2c",
-      783
+      784
     ],
     [
       "@dwing/koa-joi-router",
@@ -286,7 +286,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      611
+      614
     ],
     [
       "afdian",
@@ -325,6 +325,10 @@
       490
     ],
     [
+      "remix-auth-sso",
+      449
+    ],
+    [
       "@x12/mongodb",
       449
     ],
@@ -333,16 +337,12 @@
       448
     ],
     [
-      "remix-auth-sso",
-      444
-    ],
-    [
       "random-target",
-      414
+      415
     ],
     [
       "@svelte-dev/i18n",
-      384
+      385
     ],
     [
       "@x12/task-types",
@@ -390,7 +390,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      175
+      179
     ],
     [
       "@v0/v0",
@@ -398,7 +398,7 @@
     ],
     [
       "@svelte-dev/auth-alipay",
-      151
+      152
     ],
     [
       "@hono-dev/powered-by",
@@ -425,5 +425,5 @@
       27
     ]
   ],
-  "sum": 859135
+  "sum": 859404
 }
