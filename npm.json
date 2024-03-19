@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      458750
+      458975
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      24994
+      24999
     ],
     [
       "yunpian-sdk",
-      8528
+      8529
     ],
     [
       "@uua/icons",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6760
+      6776
     ],
     [
       "gitbook-plugin-wordcount",
@@ -42,7 +42,7 @@
     ],
     [
       "koa-api-logger",
-      4469
+      4488
     ],
     [
       "appkey",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3552
+      3553
     ],
     [
       "tuling",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2896
+      2897
     ],
     [
       "hyperapp.js.cool",
-      2446
+      2447
     ],
     [
       "auto-deployer",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2240
+      2241
     ],
     [
       "gitbook-plugin-theme-material",
@@ -174,7 +174,7 @@
     ],
     [
       "mmonit",
-      1210
+      1212
     ],
     [
       "@uua/core",
@@ -246,7 +246,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      888
+      889
     ],
     [
       "z-curve",
@@ -266,7 +266,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      737
+      738
     ],
     [
       "leancloud-sdk",
@@ -290,7 +290,7 @@
     ],
     [
       "afdian",
-      610
+      611
     ],
     [
       "@xibang/redis",
@@ -334,7 +334,7 @@
     ],
     [
       "@x12/mongodb",
-      450
+      451
     ],
     [
       "random-target",
@@ -346,7 +346,7 @@
     ],
     [
       "@x12/task-types",
-      348
+      349
     ],
     [
       "remote-cloudflare-kv",
@@ -362,7 +362,7 @@
     ],
     [
       "@x12/rx-pool",
-      329
+      330
     ],
     [
       "@svelte-dev/auth-afdian",
@@ -382,11 +382,11 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      218
+      219
     ],
     [
       "passport-authing",
-      205
+      206
     ],
     [
       "@svelte-dev/eslint-config",
@@ -418,12 +418,12 @@
     ],
     [
       "@hono-dev/auth-github",
-      30
+      31
     ],
     [
       "@hono-dev/auth-alipay",
       30
     ]
   ],
-  "sum": 862864
+  "sum": 863145
 }
