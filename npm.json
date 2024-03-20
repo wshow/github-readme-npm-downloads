@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      458975
+      459514
     ],
     [
       "gitbook-plugin-atoc",
-      148468
+      148472
     ],
     [
       "gitbook-plugin-donate",
-      71057
+      71061
     ],
     [
       "waliyun",
-      24999
+      25002
     ],
     [
       "yunpian-sdk",
@@ -22,7 +22,7 @@
     ],
     [
       "@uua/icons",
-      8066
+      8067
     ],
     [
       "leader.js.cool",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6776
+      6779
     ],
     [
       "gitbook-plugin-wordcount",
@@ -50,7 +50,7 @@
     ],
     [
       "mock-redis",
-      4274
+      4277
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4087
+      4089
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3553
+      3554
     ],
     [
       "tuling",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2241
+      2242
     ],
     [
       "gitbook-plugin-theme-material",
@@ -166,7 +166,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1341
+      1344
     ],
     [
       "lslint",
@@ -213,12 +213,12 @@
       961
     ],
     [
-      "@x12/env",
+      "uua",
       949
     ],
     [
-      "uua",
-      948
+      "@x12/env",
+      949
     ],
     [
       "markdown-toc-gitbook",
@@ -234,11 +234,11 @@
     ],
     [
       "rxdis",
-      914
+      915
     ],
     [
       "pipefn",
-      905
+      907
     ],
     [
       "wdouban",
@@ -246,7 +246,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      889
+      891
     ],
     [
       "z-curve",
@@ -266,7 +266,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      738
+      739
     ],
     [
       "leancloud-sdk",
@@ -274,11 +274,11 @@
     ],
     [
       "@svelte-dev/session",
-      711
+      712
     ],
     [
       "sdk0",
-      705
+      706
     ],
     [
       "@svelte-dev/auth-sso",
@@ -290,7 +290,7 @@
     ],
     [
       "afdian",
-      611
+      612
     ],
     [
       "@xibang/redis",
@@ -342,7 +342,7 @@
     ],
     [
       "@svelte-dev/i18n",
-      392
+      393
     ],
     [
       "@x12/task-types",
@@ -366,23 +366,23 @@
     ],
     [
       "@svelte-dev/auth-afdian",
-      317
+      318
     ],
     [
       "remix-sanity",
       276
     ],
     [
-      "@hono-dev/zod-body-validator",
-      260
+      "@svelte-dev/auth-github",
+      261
     ],
     [
-      "@svelte-dev/auth-github",
-      259
+      "@hono-dev/zod-body-validator",
+      261
     ],
     [
       "@svelte-dev/pretty-code",
-      219
+      221
     ],
     [
       "passport-authing",
@@ -390,7 +390,7 @@
     ],
     [
       "@svelte-dev/eslint-config",
-      198
+      199
     ],
     [
       "@v0/v0",
@@ -398,7 +398,7 @@
     ],
     [
       "@svelte-dev/auth-alipay",
-      155
+      156
     ],
     [
       "@hono-dev/powered-by",
@@ -425,5 +425,5 @@
       30
     ]
   ],
-  "sum": 863145
+  "sum": 863728
 }
