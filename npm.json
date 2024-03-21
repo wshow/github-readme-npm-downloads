@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      459514
+      460068
     ],
     [
       "gitbook-plugin-atoc",
-      148472
+      148473
     ],
     [
       "gitbook-plugin-donate",
-      71061
+      71066
     ],
     [
       "waliyun",
-      25002
+      25063
     ],
     [
       "yunpian-sdk",
@@ -22,7 +22,7 @@
     ],
     [
       "@uua/icons",
-      8067
+      8068
     ],
     [
       "leader.js.cool",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6779
+      6780
     ],
     [
       "gitbook-plugin-wordcount",
@@ -50,7 +50,7 @@
     ],
     [
       "mock-redis",
-      4277
+      4285
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4089
+      4094
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3554
+      3556
     ],
     [
       "tuling",
@@ -122,7 +122,7 @@
     ],
     [
       "remix-i18n",
-      1730
+      1731
     ],
     [
       "wno",
@@ -170,7 +170,7 @@
     ],
     [
       "lslint",
-      1219
+      1224
     ],
     [
       "mmonit",
@@ -250,7 +250,7 @@
     ],
     [
       "z-curve",
-      839
+      840
     ],
     [
       "@authing/nextjs",
@@ -338,7 +338,7 @@
     ],
     [
       "random-target",
-      418
+      419
     ],
     [
       "@svelte-dev/i18n",
@@ -370,7 +370,7 @@
     ],
     [
       "remix-sanity",
-      276
+      277
     ],
     [
       "@svelte-dev/auth-github",
@@ -382,7 +382,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      221
+      226
     ],
     [
       "passport-authing",
@@ -425,5 +425,5 @@
       30
     ]
   ],
-  "sum": 863728
+  "sum": 864380
 }
