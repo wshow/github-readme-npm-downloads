@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      460068
+      460619
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      71066
+      71069
     ],
     [
       "waliyun",
-      25063
+      25067
     ],
     [
       "yunpian-sdk",
@@ -22,7 +22,7 @@
     ],
     [
       "@uua/icons",
-      8068
+      8069
     ],
     [
       "leader.js.cool",
@@ -50,7 +50,7 @@
     ],
     [
       "mock-redis",
-      4285
+      4310
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4094
+      4099
     ],
     [
       "wtoys",
@@ -150,7 +150,7 @@
     ],
     [
       "remix-auth-afdian",
-      1439
+      1441
     ],
     [
       "wechaty-authing",
@@ -166,7 +166,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1344
+      1345
     ],
     [
       "lslint",
@@ -198,7 +198,7 @@
     ],
     [
       "h1de",
-      1071
+      1076
     ],
     [
       "coding-deploy",
@@ -281,12 +281,12 @@
       706
     ],
     [
-      "@svelte-dev/auth-sso",
+      "fetch-pro",
       623
     ],
     [
-      "fetch-pro",
-      622
+      "@svelte-dev/auth-sso",
+      623
     ],
     [
       "afdian",
@@ -326,7 +326,7 @@
     ],
     [
       "remix-auth-sso",
-      460
+      461
     ],
     [
       "@x12/promise",
@@ -382,7 +382,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      226
+      228
     ],
     [
       "passport-authing",
@@ -398,7 +398,7 @@
     ],
     [
       "@svelte-dev/auth-alipay",
-      156
+      158
     ],
     [
       "@hono-dev/powered-by",
@@ -406,7 +406,7 @@
     ],
     [
       "@hono-dev/zod-openapi",
-      80
+      81
     ],
     [
       "@hono-dev/zod-openapi-decorators",
@@ -425,5 +425,5 @@
       30
     ]
   ],
-  "sum": 864380
+  "sum": 864984
 }
