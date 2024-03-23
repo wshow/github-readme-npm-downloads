@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      460619
+      461189
     ],
     [
       "gitbook-plugin-atoc",
-      148473
+      148477
     ],
     [
       "gitbook-plugin-donate",
-      71069
+      71070
     ],
     [
       "waliyun",
-      25067
+      25070
     ],
     [
       "yunpian-sdk",
@@ -22,7 +22,7 @@
     ],
     [
       "@uua/icons",
-      8069
+      8071
     ],
     [
       "leader.js.cool",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4099
+      4104
     ],
     [
       "wtoys",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2207
+      2208
     ],
     [
       "hello-dolly",
@@ -122,7 +122,7 @@
     ],
     [
       "remix-i18n",
-      1731
+      1732
     ],
     [
       "wno",
@@ -130,11 +130,11 @@
     ],
     [
       "v0-scf",
-      1657
+      1659
     ],
     [
       "@x12/tasker",
-      1603
+      1604
     ],
     [
       "@x12/di",
@@ -150,7 +150,7 @@
     ],
     [
       "remix-auth-afdian",
-      1441
+      1445
     ],
     [
       "wechaty-authing",
@@ -170,7 +170,7 @@
     ],
     [
       "lslint",
-      1224
+      1230
     ],
     [
       "mmonit",
@@ -234,7 +234,7 @@
     ],
     [
       "rxdis",
-      915
+      919
     ],
     [
       "pipefn",
@@ -246,7 +246,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      891
+      892
     ],
     [
       "z-curve",
@@ -278,7 +278,7 @@
     ],
     [
       "sdk0",
-      706
+      707
     ],
     [
       "fetch-pro",
@@ -298,7 +298,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      588
+      590
     ],
     [
       "edd",
@@ -326,7 +326,7 @@
     ],
     [
       "remix-auth-sso",
-      461
+      462
     ],
     [
       "@x12/promise",
@@ -345,16 +345,16 @@
       393
     ],
     [
+      "remote-cloudflare-kv",
+      350
+    ],
+    [
       "@x12/task-types",
       349
     ],
     [
-      "remote-cloudflare-kv",
-      348
-    ],
-    [
       "ggql",
-      337
+      338
     ],
     [
       "npm-badges",
@@ -382,7 +382,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      228
+      232
     ],
     [
       "passport-authing",
@@ -402,7 +402,7 @@
     ],
     [
       "@hono-dev/powered-by",
-      112
+      113
     ],
     [
       "@hono-dev/zod-openapi",
@@ -425,5 +425,5 @@
       30
     ]
   ],
-  "sum": 864984
+  "sum": 865601
 }
