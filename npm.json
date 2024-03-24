@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      461189
+      461802
     ],
     [
       "gitbook-plugin-atoc",
-      148477
+      148481
     ],
     [
       "gitbook-plugin-donate",
-      71070
+      71072
     ],
     [
       "waliyun",
-      25070
+      25077
     ],
     [
       "yunpian-sdk",
-      8529
+      8531
     ],
     [
       "@uua/icons",
-      8071
+      8072
     ],
     [
       "leader.js.cool",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      6010
+      6011
     ],
     [
       "wqcloud",
@@ -50,7 +50,7 @@
     ],
     [
       "mock-redis",
-      4310
+      4311
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4104
+      4111
     ],
     [
       "wtoys",
@@ -102,11 +102,11 @@
     ],
     [
       "nuxtpress",
-      2242
+      2243
     ],
     [
       "gitbook-plugin-theme-material",
-      2208
+      2209
     ],
     [
       "hello-dolly",
@@ -150,7 +150,7 @@
     ],
     [
       "remix-auth-afdian",
-      1445
+      1446
     ],
     [
       "wechaty-authing",
@@ -166,11 +166,11 @@
     ],
     [
       "@svelte-dev/auth",
-      1345
+      1346
     ],
     [
       "lslint",
-      1230
+      1249
     ],
     [
       "mmonit",
@@ -246,7 +246,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      892
+      895
     ],
     [
       "z-curve",
@@ -266,11 +266,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      739
+      740
     ],
     [
       "leancloud-sdk",
-      718
+      719
     ],
     [
       "@svelte-dev/session",
@@ -281,11 +281,11 @@
       707
     ],
     [
-      "fetch-pro",
-      623
+      "@svelte-dev/auth-sso",
+      626
     ],
     [
-      "@svelte-dev/auth-sso",
+      "fetch-pro",
       623
     ],
     [
@@ -294,7 +294,7 @@
     ],
     [
       "@xibang/redis",
-      591
+      592
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -302,7 +302,7 @@
     ],
     [
       "edd",
-      579
+      580
     ],
     [
       "hdd",
@@ -326,7 +326,7 @@
     ],
     [
       "remix-auth-sso",
-      462
+      463
     ],
     [
       "@x12/promise",
@@ -354,7 +354,7 @@
     ],
     [
       "ggql",
-      338
+      339
     ],
     [
       "npm-badges",
@@ -366,7 +366,7 @@
     ],
     [
       "@svelte-dev/auth-afdian",
-      318
+      319
     ],
     [
       "remix-sanity",
@@ -382,7 +382,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      232
+      235
     ],
     [
       "passport-authing",
@@ -425,5 +425,5 @@
       30
     ]
   ],
-  "sum": 865601
+  "sum": 866278
 }
