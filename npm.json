@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      461802
+      462073
     ],
     [
       "gitbook-plugin-atoc",
-      148481
+      148482
     ],
     [
       "gitbook-plugin-donate",
-      71072
+      71074
     ],
     [
       "waliyun",
-      25077
+      25110
     ],
     [
       "yunpian-sdk",
@@ -22,7 +22,7 @@
     ],
     [
       "@uua/icons",
-      8072
+      8073
     ],
     [
       "leader.js.cool",
@@ -94,7 +94,7 @@
     ],
     [
       "atl",
-      2264
+      2266
     ],
     [
       "hapi-auth-redis",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2209
+      2210
     ],
     [
       "hello-dolly",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1954
+      1955
     ],
     [
       "remix-i18n",
@@ -162,11 +162,11 @@
     ],
     [
       "mp-sdk",
-      1355
+      1356
     ],
     [
       "@svelte-dev/auth",
-      1346
+      1350
     ],
     [
       "lslint",
@@ -178,7 +178,7 @@
     ],
     [
       "@uua/core",
-      1199
+      1200
     ],
     [
       "@shiwangme/redis",
@@ -214,7 +214,7 @@
     ],
     [
       "uua",
-      949
+      950
     ],
     [
       "@x12/env",
@@ -246,7 +246,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      895
+      896
     ],
     [
       "z-curve",
@@ -274,7 +274,7 @@
     ],
     [
       "@svelte-dev/session",
-      712
+      713
     ],
     [
       "sdk0",
@@ -290,7 +290,7 @@
     ],
     [
       "afdian",
-      612
+      613
     ],
     [
       "@xibang/redis",
@@ -330,7 +330,7 @@
     ],
     [
       "@x12/promise",
-      453
+      459
     ],
     [
       "@x12/mongodb",
@@ -342,7 +342,7 @@
     ],
     [
       "@svelte-dev/i18n",
-      393
+      394
     ],
     [
       "remote-cloudflare-kv",
@@ -382,7 +382,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      235
+      237
     ],
     [
       "passport-authing",
@@ -425,5 +425,5 @@
       30
     ]
   ],
-  "sum": 866278
+  "sum": 866609
 }
