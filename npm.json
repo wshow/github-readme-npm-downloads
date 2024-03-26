@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      462073
+      462316
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      25110
+      25113
     ],
     [
       "yunpian-sdk",
@@ -22,11 +22,11 @@
     ],
     [
       "@uua/icons",
-      8073
+      8079
     ],
     [
       "leader.js.cool",
-      7387
+      7388
     ],
     [
       "koa-swagger-ui",
@@ -46,7 +46,7 @@
     ],
     [
       "appkey",
-      4378
+      4379
     ],
     [
       "mock-redis",
@@ -54,7 +54,7 @@
     ],
     [
       "coding-sdk",
-      4246
+      4247
     ],
     [
       "gitbook-plugin-autotheme",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3556
+      3558
     ],
     [
       "tuling",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2398
+      2399
     ],
     [
       "wqcloud-video",
@@ -94,7 +94,7 @@
     ],
     [
       "atl",
-      2266
+      2268
     ],
     [
       "hapi-auth-redis",
@@ -118,7 +118,7 @@
     ],
     [
       "coding-net",
-      1955
+      1956
     ],
     [
       "remix-i18n",
@@ -142,7 +142,7 @@
     ],
     [
       "wnm",
-      1591
+      1592
     ],
     [
       "@x12/hosts",
@@ -154,7 +154,7 @@
     ],
     [
       "wechaty-authing",
-      1420
+      1424
     ],
     [
       "@xibang/node-common",
@@ -166,7 +166,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1350
+      1352
     ],
     [
       "lslint",
@@ -178,7 +178,7 @@
     ],
     [
       "@uua/core",
-      1200
+      1201
     ],
     [
       "@shiwangme/redis",
@@ -202,7 +202,7 @@
     ],
     [
       "coding-deploy",
-      985
+      986
     ],
     [
       "nativescript-icam",
@@ -210,7 +210,7 @@
     ],
     [
       "awth",
-      961
+      962
     ],
     [
       "uua",
@@ -234,7 +234,7 @@
     ],
     [
       "rxdis",
-      919
+      920
     ],
     [
       "pipefn",
@@ -246,7 +246,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      896
+      897
     ],
     [
       "z-curve",
@@ -266,7 +266,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      740
+      741
     ],
     [
       "leancloud-sdk",
@@ -278,7 +278,7 @@
     ],
     [
       "sdk0",
-      707
+      708
     ],
     [
       "@svelte-dev/auth-sso",
@@ -286,19 +286,19 @@
     ],
     [
       "fetch-pro",
-      623
+      624
     ],
     [
       "afdian",
       613
     ],
     [
-      "@xibang/redis",
+      "@dwing/azure-iot-device-mqtt",
       592
     ],
     [
-      "@dwing/azure-iot-device-mqtt",
-      590
+      "@xibang/redis",
+      592
     ],
     [
       "edd",
@@ -306,7 +306,7 @@
     ],
     [
       "hdd",
-      577
+      578
     ],
     [
       "@xibang/mysql",
@@ -330,7 +330,7 @@
     ],
     [
       "@x12/promise",
-      459
+      460
     ],
     [
       "@x12/mongodb",
@@ -382,7 +382,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      237
+      242
     ],
     [
       "passport-authing",
@@ -425,5 +425,5 @@
       30
     ]
   ],
-  "sum": 866609
+  "sum": 866894
 }
