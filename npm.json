@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      462316
+      462967
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      71074
+      71075
     ],
     [
       "waliyun",
-      25113
+      25121
     ],
     [
       "yunpian-sdk",
@@ -22,7 +22,7 @@
     ],
     [
       "@uua/icons",
-      8079
+      8082
     ],
     [
       "leader.js.cool",
@@ -34,11 +34,11 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      6011
+      6014
     ],
     [
       "wqcloud",
-      5925
+      5928
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "mock-redis",
-      4311
+      4319
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4111
+      4114
     ],
     [
       "wtoys",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2897
+      2900
     ],
     [
       "hyperapp.js.cool",
@@ -90,7 +90,7 @@
     ],
     [
       "wrescuetime",
-      2321
+      2322
     ],
     [
       "atl",
@@ -98,7 +98,7 @@
     ],
     [
       "hapi-auth-redis",
-      2248
+      2249
     ],
     [
       "nuxtpress",
@@ -110,11 +110,11 @@
     ],
     [
       "hello-dolly",
-      2047
+      2048
     ],
     [
       "@authing/remix",
-      1960
+      1961
     ],
     [
       "coding-net",
@@ -122,7 +122,7 @@
     ],
     [
       "remix-i18n",
-      1732
+      1733
     ],
     [
       "wno",
@@ -166,7 +166,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1352
+      1353
     ],
     [
       "lslint",
@@ -198,7 +198,7 @@
     ],
     [
       "h1de",
-      1076
+      1077
     ],
     [
       "coding-deploy",
@@ -246,7 +246,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      897
+      898
     ],
     [
       "z-curve",
@@ -254,7 +254,7 @@
     ],
     [
       "@authing/nextjs",
-      839
+      840
     ],
     [
       "vuepress-theme-asshole",
@@ -306,7 +306,7 @@
     ],
     [
       "hdd",
-      578
+      579
     ],
     [
       "@xibang/mysql",
@@ -346,7 +346,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      350
+      351
     ],
     [
       "@x12/task-types",
@@ -382,7 +382,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      242
+      244
     ],
     [
       "passport-authing",
@@ -425,5 +425,5 @@
       30
     ]
   ],
-  "sum": 866894
+  "sum": 867590
 }
