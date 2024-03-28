@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      462967
+      463402
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      71075
+      71076
     ],
     [
       "waliyun",
-      25121
+      25164
     ],
     [
       "yunpian-sdk",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5928
+      5929
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "mock-redis",
-      4319
+      4340
     ],
     [
       "coding-sdk",
@@ -58,11 +58,11 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4114
+      4120
     ],
     [
       "wtoys",
-      3594
+      3595
     ],
     [
       "eslint-config-willin",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2900
+      2901
     ],
     [
       "hyperapp.js.cool",
-      2447
+      2448
     ],
     [
       "auto-deployer",
@@ -126,7 +126,7 @@
     ],
     [
       "wno",
-      1676
+      1677
     ],
     [
       "v0-scf",
@@ -186,7 +186,7 @@
     ],
     [
       "hyperapp-i18n",
-      1174
+      1175
     ],
     [
       "less.js.cool",
@@ -282,7 +282,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      626
+      627
     ],
     [
       "fetch-pro",
@@ -330,7 +330,7 @@
     ],
     [
       "@x12/promise",
-      460
+      463
     ],
     [
       "@x12/mongodb",
@@ -382,7 +382,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      244
+      246
     ],
     [
       "passport-authing",
@@ -402,7 +402,7 @@
     ],
     [
       "@hono-dev/powered-by",
-      113
+      114
     ],
     [
       "@hono-dev/zod-openapi",
@@ -425,5 +425,5 @@
       30
     ]
   ],
-  "sum": 867590
+  "sum": 868109
 }
