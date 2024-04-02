@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      465550
+      465802
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      71087
+      71088
     ],
     [
       "waliyun",
-      25195
+      25197
     ],
     [
       "yunpian-sdk",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      7390
+      7391
     ],
     [
       "koa-swagger-ui",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      6016
+      6017
     ],
     [
       "wqcloud",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3559
+      3560
     ],
     [
       "tuling",
@@ -122,7 +122,7 @@
     ],
     [
       "remix-i18n",
-      1757
+      1758
     ],
     [
       "wno",
@@ -150,11 +150,11 @@
     ],
     [
       "remix-auth-afdian",
-      1448
+      1449
     ],
     [
       "wechaty-authing",
-      1425
+      1426
     ],
     [
       "@xibang/node-common",
@@ -170,7 +170,7 @@
     ],
     [
       "lslint",
-      1250
+      1251
     ],
     [
       "mmonit",
@@ -198,7 +198,7 @@
     ],
     [
       "h1de",
-      1077
+      1079
     ],
     [
       "coding-deploy",
@@ -206,11 +206,11 @@
     ],
     [
       "nativescript-icam",
-      976
+      977
     ],
     [
       "awth",
-      962
+      963
     ],
     [
       "uua",
@@ -326,7 +326,7 @@
     ],
     [
       "remix-auth-sso",
-      466
+      467
     ],
     [
       "@x12/promise",
@@ -346,7 +346,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      352
+      353
     ],
     [
       "@x12/task-types",
@@ -354,7 +354,7 @@
     ],
     [
       "ggql",
-      339
+      340
     ],
     [
       "npm-badges",
@@ -370,7 +370,7 @@
     ],
     [
       "remix-sanity",
-      277
+      280
     ],
     [
       "@svelte-dev/auth-github",
@@ -386,7 +386,7 @@
     ],
     [
       "passport-authing",
-      206
+      207
     ],
     [
       "@svelte-dev/eslint-config",
@@ -398,11 +398,11 @@
     ],
     [
       "@svelte-dev/auth-alipay",
-      160
+      161
     ],
     [
       "@hono-dev/powered-by",
-      117
+      118
     ],
     [
       "@hono-dev/zod-openapi",
@@ -425,5 +425,5 @@
       30
     ]
   ],
-  "sum": 870651
+  "sum": 870926
 }
