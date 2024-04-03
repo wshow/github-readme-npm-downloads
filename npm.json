@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      465802
+      466431
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,19 +10,19 @@
     ],
     [
       "gitbook-plugin-donate",
-      71088
+      71094
     ],
     [
       "waliyun",
-      25197
+      25236
     ],
     [
       "yunpian-sdk",
-      8532
+      8533
     ],
     [
       "@uua/icons",
-      8272
+      8273
     ],
     [
       "leader.js.cool",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6782
+      6783
     ],
     [
       "gitbook-plugin-wordcount",
@@ -50,7 +50,7 @@
     ],
     [
       "mock-redis",
-      4343
+      4344
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4134
+      4139
     ],
     [
       "wtoys",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2906
+      2908
     ],
     [
       "hyperapp.js.cool",
-      2448
+      2449
     ],
     [
       "auto-deployer",
@@ -150,7 +150,7 @@
     ],
     [
       "remix-auth-afdian",
-      1449
+      1450
     ],
     [
       "wechaty-authing",
@@ -166,15 +166,15 @@
     ],
     [
       "@svelte-dev/auth",
-      1354
+      1357
     ],
     [
       "lslint",
-      1251
+      1252
     ],
     [
       "mmonit",
-      1212
+      1213
     ],
     [
       "@uua/core",
@@ -222,7 +222,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      947
+      948
     ],
     [
       "wulian",
@@ -230,7 +230,7 @@
     ],
     [
       "rxdis",
-      923
+      924
     ],
     [
       "@willin/eslint-config",
@@ -290,7 +290,7 @@
     ],
     [
       "afdian",
-      615
+      616
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -326,7 +326,7 @@
     ],
     [
       "remix-auth-sso",
-      467
+      468
     ],
     [
       "@x12/promise",
@@ -346,7 +346,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      353
+      354
     ],
     [
       "@x12/task-types",
@@ -366,7 +366,7 @@
     ],
     [
       "@svelte-dev/auth-afdian",
-      323
+      324
     ],
     [
       "remix-sanity",
@@ -382,7 +382,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      256
+      260
     ],
     [
       "passport-authing",
@@ -425,5 +425,5 @@
       30
     ]
   ],
-  "sum": 870926
+  "sum": 871628
 }
