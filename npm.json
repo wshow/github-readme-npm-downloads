@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      467185
+      467898
     ],
     [
       "gitbook-plugin-atoc",
-      148490
+      148494
     ],
     [
       "gitbook-plugin-donate",
@@ -14,15 +14,15 @@
     ],
     [
       "waliyun",
-      25253
+      25273
     ],
     [
       "yunpian-sdk",
-      8534
+      8535
     ],
     [
       "@uua/icons",
-      8275
+      8276
     ],
     [
       "leader.js.cool",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5932
+      5933
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "mock-redis",
-      4348
+      4349
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4146
+      4158
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3560
+      3561
     ],
     [
       "tuling",
@@ -86,11 +86,11 @@
     ],
     [
       "wqcloud-video",
-      2333
+      2334
     ],
     [
       "wrescuetime",
-      2328
+      2329
     ],
     [
       "atl",
@@ -122,7 +122,7 @@
     ],
     [
       "remix-i18n",
-      1758
+      1759
     ],
     [
       "wno",
@@ -150,7 +150,7 @@
     ],
     [
       "remix-auth-afdian",
-      1466
+      1468
     ],
     [
       "wechaty-authing",
@@ -162,7 +162,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1360
+      1361
     ],
     [
       "mp-sdk",
@@ -170,19 +170,19 @@
     ],
     [
       "lslint",
-      1270
+      1279
     ],
     [
       "mmonit",
-      1214
+      1215
     ],
     [
       "@uua/core",
-      1203
+      1204
     ],
     [
       "@shiwangme/redis",
-      1190
+      1191
     ],
     [
       "hyperapp-i18n",
@@ -198,7 +198,7 @@
     ],
     [
       "h1de",
-      1079
+      1081
     ],
     [
       "coding-deploy",
@@ -206,7 +206,7 @@
     ],
     [
       "nativescript-icam",
-      977
+      979
     ],
     [
       "awth",
@@ -234,7 +234,7 @@
     ],
     [
       "@willin/eslint-config",
-      922
+      923
     ],
     [
       "pipefn",
@@ -262,7 +262,7 @@
     ],
     [
       "@uua/ip2c",
-      789
+      790
     ],
     [
       "@dwing/koa-joi-router",
@@ -282,7 +282,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      630
+      632
     ],
     [
       "fetch-pro",
@@ -306,7 +306,7 @@
     ],
     [
       "hdd",
-      579
+      580
     ],
     [
       "@xibang/mysql",
@@ -326,7 +326,7 @@
     ],
     [
       "remix-auth-sso",
-      468
+      469
     ],
     [
       "@x12/promise",
@@ -354,7 +354,7 @@
     ],
     [
       "ggql",
-      341
+      342
     ],
     [
       "npm-badges",
@@ -382,7 +382,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      260
+      263
     ],
     [
       "passport-authing",
@@ -406,7 +406,7 @@
     ],
     [
       "@hono-dev/zod-openapi",
-      82
+      84
     ],
     [
       "@hono-dev/zod-openapi-decorators",
@@ -425,5 +425,5 @@
       30
     ]
   ],
-  "sum": 872482
+  "sum": 873270
 }
