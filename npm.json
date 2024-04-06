@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      467898
+      468542
     ],
     [
       "gitbook-plugin-atoc",
-      148494
+      148498
     ],
     [
       "gitbook-plugin-donate",
@@ -14,15 +14,15 @@
     ],
     [
       "waliyun",
-      25273
+      25274
     ],
     [
       "yunpian-sdk",
-      8535
+      8536
     ],
     [
       "@uua/icons",
-      8276
+      8277
     ],
     [
       "leader.js.cool",
@@ -50,7 +50,7 @@
     ],
     [
       "mock-redis",
-      4349
+      4353
     ],
     [
       "coding-sdk",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3596
+      3597
     ],
     [
       "eslint-config-willin",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2909
+      2911
     ],
     [
       "hyperapp.js.cool",
-      2449
+      2450
     ],
     [
       "auto-deployer",
@@ -110,7 +110,7 @@
     ],
     [
       "hello-dolly",
-      2049
+      2050
     ],
     [
       "@authing/remix",
@@ -122,7 +122,7 @@
     ],
     [
       "remix-i18n",
-      1759
+      1762
     ],
     [
       "wno",
@@ -142,7 +142,7 @@
     ],
     [
       "wnm",
-      1594
+      1595
     ],
     [
       "@x12/hosts",
@@ -150,7 +150,7 @@
     ],
     [
       "remix-auth-afdian",
-      1468
+      1469
     ],
     [
       "wechaty-authing",
@@ -170,7 +170,7 @@
     ],
     [
       "lslint",
-      1279
+      1280
     ],
     [
       "mmonit",
@@ -186,7 +186,7 @@
     ],
     [
       "hyperapp-i18n",
-      1175
+      1176
     ],
     [
       "less.js.cool",
@@ -198,7 +198,7 @@
     ],
     [
       "h1de",
-      1081
+      1082
     ],
     [
       "coding-deploy",
@@ -226,7 +226,7 @@
     ],
     [
       "wulian",
-      931
+      932
     ],
     [
       "rxdis",
@@ -246,7 +246,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      901
+      902
     ],
     [
       "z-curve",
@@ -266,7 +266,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      742
+      743
     ],
     [
       "leancloud-sdk",
@@ -282,7 +282,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      632
+      633
     ],
     [
       "fetch-pro",
@@ -294,7 +294,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      594
+      595
     ],
     [
       "@xibang/redis",
@@ -354,7 +354,7 @@
     ],
     [
       "ggql",
-      342
+      343
     ],
     [
       "npm-badges",
@@ -373,16 +373,16 @@
       280
     ],
     [
+      "@svelte-dev/pretty-code",
+      268
+    ],
+    [
       "@svelte-dev/auth-github",
       265
     ],
     [
       "@hono-dev/zod-body-validator",
       264
-    ],
-    [
-      "@svelte-dev/pretty-code",
-      263
     ],
     [
       "passport-authing",
@@ -402,7 +402,7 @@
     ],
     [
       "@hono-dev/powered-by",
-      118
+      119
     ],
     [
       "@hono-dev/zod-openapi",
@@ -425,5 +425,5 @@
       30
     ]
   ],
-  "sum": 873270
+  "sum": 873950
 }
