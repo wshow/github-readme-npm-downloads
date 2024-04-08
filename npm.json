@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      469185
+      469372
     ],
     [
       "gitbook-plugin-atoc",
-      148499
+      148500
     ],
     [
       "gitbook-plugin-donate",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      25277
+      25280
     ],
     [
       "yunpian-sdk",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      6029
+      6030
     ],
     [
       "wqcloud",
@@ -50,7 +50,7 @@
     ],
     [
       "mock-redis",
-      4353
+      4354
     ],
     [
       "coding-sdk",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2212
+      2214
     ],
     [
       "hello-dolly",
@@ -122,15 +122,15 @@
     ],
     [
       "remix-i18n",
-      1764
+      1765
     ],
     [
       "wno",
-      1680
+      1681
     ],
     [
       "v0-scf",
-      1662
+      1663
     ],
     [
       "@x12/tasker",
@@ -150,7 +150,7 @@
     ],
     [
       "remix-auth-afdian",
-      1470
+      1471
     ],
     [
       "wechaty-authing",
@@ -162,7 +162,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1363
+      1365
     ],
     [
       "mp-sdk",
@@ -206,7 +206,7 @@
     ],
     [
       "nativescript-icam",
-      979
+      981
     ],
     [
       "awth",
@@ -214,7 +214,7 @@
     ],
     [
       "uua",
-      952
+      953
     ],
     [
       "@x12/env",
@@ -226,11 +226,11 @@
     ],
     [
       "wulian",
-      932
+      935
     ],
     [
       "rxdis",
-      925
+      926
     ],
     [
       "@willin/eslint-config",
@@ -274,7 +274,7 @@
     ],
     [
       "@svelte-dev/session",
-      714
+      717
     ],
     [
       "sdk0",
@@ -282,7 +282,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      633
+      634
     ],
     [
       "fetch-pro",
@@ -290,7 +290,7 @@
     ],
     [
       "afdian",
-      617
+      619
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -326,11 +326,11 @@
     ],
     [
       "remix-auth-sso",
-      470
+      471
     ],
     [
       "@x12/promise",
-      464
+      465
     ],
     [
       "@x12/mongodb",
@@ -342,11 +342,11 @@
     ],
     [
       "@svelte-dev/i18n",
-      400
+      402
     ],
     [
       "remote-cloudflare-kv",
-      354
+      355
     ],
     [
       "@x12/task-types",
@@ -354,7 +354,7 @@
     ],
     [
       "ggql",
-      343
+      344
     ],
     [
       "npm-badges",
@@ -370,11 +370,11 @@
     ],
     [
       "remix-sanity",
-      280
+      281
     ],
     [
       "@svelte-dev/pretty-code",
-      270
+      277
     ],
     [
       "@hono-dev/zod-body-validator",
@@ -386,7 +386,7 @@
     ],
     [
       "passport-authing",
-      207
+      208
     ],
     [
       "@svelte-dev/eslint-config",
@@ -414,16 +414,16 @@
     ],
     [
       "@hono-dev/auth-afdian",
-      33
+      34
     ],
     [
       "@hono-dev/auth-github",
-      31
+      32
     ],
     [
       "@hono-dev/auth-alipay",
-      30
+      31
     ]
   ],
-  "sum": 874657
+  "sum": 874889
 }
