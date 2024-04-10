@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      469609
+      470271
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      25291
+      25298
     ],
     [
       "yunpian-sdk",
-      8541
+      8543
     ],
     [
       "@uua/icons",
@@ -34,7 +34,7 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      6031
+      6032
     ],
     [
       "wqcloud",
@@ -50,7 +50,7 @@
     ],
     [
       "mock-redis",
-      4354
+      4357
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4167
+      4175
     ],
     [
       "wtoys",
@@ -70,11 +70,11 @@
     ],
     [
       "tuling",
-      3391
+      3392
     ],
     [
       "vchart",
-      2912
+      2913
     ],
     [
       "hyperapp.js.cool",
@@ -118,11 +118,11 @@
     ],
     [
       "coding-net",
-      1957
+      1959
     ],
     [
       "remix-i18n",
-      1765
+      1768
     ],
     [
       "wno",
@@ -130,7 +130,7 @@
     ],
     [
       "v0-scf",
-      1663
+      1669
     ],
     [
       "@x12/tasker",
@@ -150,7 +150,7 @@
     ],
     [
       "remix-auth-afdian",
-      1471
+      1475
     ],
     [
       "wechaty-authing",
@@ -162,15 +162,15 @@
     ],
     [
       "@svelte-dev/auth",
-      1367
+      1370
     ],
     [
       "mp-sdk",
-      1359
+      1360
     ],
     [
       "lslint",
-      1282
+      1290
     ],
     [
       "mmonit",
@@ -258,7 +258,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      792
+      793
     ],
     [
       "@uua/ip2c",
@@ -278,19 +278,19 @@
     ],
     [
       "sdk0",
-      710
+      715
     ],
     [
       "@svelte-dev/auth-sso",
+      636
+    ],
+    [
+      "afdian",
       635
     ],
     [
       "fetch-pro",
       626
-    ],
-    [
-      "afdian",
-      619
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -326,11 +326,11 @@
     ],
     [
       "remix-auth-sso",
-      471
+      472
     ],
     [
       "@x12/promise",
-      466
+      467
     ],
     [
       "@x12/mongodb",
@@ -338,7 +338,7 @@
     ],
     [
       "random-target",
-      419
+      420
     ],
     [
       "@svelte-dev/i18n",
@@ -366,11 +366,11 @@
     ],
     [
       "@svelte-dev/auth-afdian",
-      325
+      326
     ],
     [
       "@svelte-dev/pretty-code",
-      293
+      298
     ],
     [
       "remix-sanity",
@@ -378,7 +378,7 @@
     ],
     [
       "@hono-dev/zod-body-validator",
-      266
+      267
     ],
     [
       "@svelte-dev/auth-github",
@@ -398,32 +398,32 @@
     ],
     [
       "@svelte-dev/auth-alipay",
-      161
+      162
     ],
     [
       "@hono-dev/powered-by",
-      120
+      121
     ],
     [
       "@hono-dev/zod-openapi",
-      84
+      86
     ],
     [
       "@hono-dev/zod-openapi-decorators",
-      78
+      79
     ],
     [
       "@hono-dev/auth-afdian",
-      34
+      35
     ],
     [
       "@hono-dev/auth-github",
-      32
+      33
     ],
     [
       "@hono-dev/auth-alipay",
-      31
+      32
     ]
   ],
-  "sum": 875203
+  "sum": 875956
 }
