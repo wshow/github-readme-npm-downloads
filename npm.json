@@ -2,31 +2,31 @@
   "stats": [
     [
       "hexo-wordcount",
-      470271
+      471067
     ],
     [
       "gitbook-plugin-atoc",
-      148501
+      148503
     ],
     [
       "gitbook-plugin-donate",
-      71122
+      71123
     ],
     [
       "waliyun",
-      25298
+      25300
     ],
     [
       "yunpian-sdk",
-      8543
+      8544
     ],
     [
       "@uua/icons",
-      8277
+      8278
     ],
     [
       "leader.js.cool",
-      7391
+      7392
     ],
     [
       "koa-swagger-ui",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5935
+      5937
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4175
+      4186
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3564
+      3565
     ],
     [
       "tuling",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2450
+      2452
     ],
     [
       "auto-deployer",
@@ -86,11 +86,11 @@
     ],
     [
       "wqcloud-video",
-      2334
+      2335
     ],
     [
       "wrescuetime",
-      2330
+      2331
     ],
     [
       "atl",
@@ -98,7 +98,7 @@
     ],
     [
       "hapi-auth-redis",
-      2253
+      2254
     ],
     [
       "nuxtpress",
@@ -118,15 +118,15 @@
     ],
     [
       "coding-net",
-      1959
+      1960
     ],
     [
       "remix-i18n",
-      1768
+      1773
     ],
     [
       "wno",
-      1681
+      1686
     ],
     [
       "v0-scf",
@@ -134,23 +134,23 @@
     ],
     [
       "@x12/tasker",
-      1605
+      1606
     ],
     [
       "@x12/di",
-      1597
+      1598
     ],
     [
       "wnm",
-      1595
+      1596
     ],
     [
       "@x12/hosts",
-      1564
+      1565
     ],
     [
       "remix-auth-afdian",
-      1475
+      1491
     ],
     [
       "wechaty-authing",
@@ -162,15 +162,15 @@
     ],
     [
       "@svelte-dev/auth",
-      1370
+      1372
     ],
     [
       "mp-sdk",
-      1360
+      1361
     ],
     [
       "lslint",
-      1290
+      1298
     ],
     [
       "mmonit",
@@ -190,7 +190,7 @@
     ],
     [
       "less.js.cool",
-      1172
+      1173
     ],
     [
       "beian-domain",
@@ -198,7 +198,7 @@
     ],
     [
       "h1de",
-      1082
+      1084
     ],
     [
       "coding-deploy",
@@ -214,11 +214,11 @@
     ],
     [
       "uua",
-      953
+      954
     ],
     [
       "@x12/env",
-      950
+      951
     ],
     [
       "markdown-toc-gitbook",
@@ -226,15 +226,15 @@
     ],
     [
       "wulian",
-      935
+      936
     ],
     [
       "rxdis",
-      929
+      930
     ],
     [
       "@willin/eslint-config",
-      924
+      925
     ],
     [
       "pipefn",
@@ -246,7 +246,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      902
+      903
     ],
     [
       "z-curve",
@@ -270,11 +270,11 @@
     ],
     [
       "leancloud-sdk",
-      721
+      722
     ],
     [
       "@svelte-dev/session",
-      717
+      719
     ],
     [
       "sdk0",
@@ -282,7 +282,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      636
+      637
     ],
     [
       "afdian",
@@ -314,7 +314,7 @@
     ],
     [
       "@x12/common",
-      519
+      520
     ],
     [
       "willin",
@@ -326,15 +326,15 @@
     ],
     [
       "remix-auth-sso",
-      472
+      473
     ],
     [
       "@x12/promise",
-      467
+      468
     ],
     [
       "@x12/mongodb",
-      452
+      453
     ],
     [
       "random-target",
@@ -342,27 +342,27 @@
     ],
     [
       "@svelte-dev/i18n",
-      402
+      403
     ],
     [
       "remote-cloudflare-kv",
-      355
+      356
     ],
     [
       "@x12/task-types",
-      350
+      351
     ],
     [
       "ggql",
-      344
+      345
     ],
     [
       "npm-badges",
-      332
+      333
     ],
     [
       "@x12/rx-pool",
-      331
+      332
     ],
     [
       "@svelte-dev/auth-afdian",
@@ -370,7 +370,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      298
+      314
     ],
     [
       "remix-sanity",
@@ -402,7 +402,7 @@
     ],
     [
       "@hono-dev/powered-by",
-      121
+      122
     ],
     [
       "@hono-dev/zod-openapi",
@@ -425,5 +425,5 @@
       32
     ]
   ],
-  "sum": 875956
+  "sum": 876861
 }
