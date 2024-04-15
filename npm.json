@@ -2,31 +2,31 @@
   "stats": [
     [
       "hexo-wordcount",
-      473011
+      473535
     ],
     [
       "gitbook-plugin-atoc",
-      148508
+      148509
     ],
     [
       "gitbook-plugin-donate",
-      71124
+      71127
     ],
     [
       "waliyun",
-      25392
+      25400
     ],
     [
       "yunpian-sdk",
-      8545
+      8550
     ],
     [
       "@uua/icons",
-      8279
+      8280
     ],
     [
       "leader.js.cool",
-      7395
+      7401
     ],
     [
       "koa-swagger-ui",
@@ -54,7 +54,7 @@
     ],
     [
       "coding-sdk",
-      4254
+      4258
     ],
     [
       "gitbook-plugin-autotheme",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2453
+      2454
     ],
     [
       "auto-deployer",
@@ -86,7 +86,7 @@
     ],
     [
       "wqcloud-video",
-      2335
+      2338
     ],
     [
       "wrescuetime",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2245
+      2246
     ],
     [
       "gitbook-plugin-theme-material",
@@ -122,15 +122,15 @@
     ],
     [
       "remix-i18n",
-      1799
+      1800
     ],
     [
       "wno",
-      1687
+      1688
     ],
     [
       "v0-scf",
-      1674
+      1676
     ],
     [
       "@x12/tasker",
@@ -150,11 +150,11 @@
     ],
     [
       "remix-auth-afdian",
-      1492
+      1493
     ],
     [
       "wechaty-authing",
-      1426
+      1429
     ],
     [
       "@xibang/node-common",
@@ -162,7 +162,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1377
+      1384
     ],
     [
       "mp-sdk",
@@ -170,7 +170,7 @@
     ],
     [
       "lslint",
-      1323
+      1325
     ],
     [
       "mmonit",
@@ -182,11 +182,11 @@
     ],
     [
       "@shiwangme/redis",
-      1192
+      1193
     ],
     [
       "hyperapp-i18n",
-      1178
+      1179
     ],
     [
       "less.js.cool",
@@ -222,7 +222,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      948
+      949
     ],
     [
       "wulian",
@@ -230,19 +230,19 @@
     ],
     [
       "rxdis",
-      930
+      931
     ],
     [
       "@willin/eslint-config",
       925
     ],
     [
-      "pipefn",
-      911
+      "@svelte-dev/auth-oauth2",
+      912
     ],
     [
-      "@svelte-dev/auth-oauth2",
-      908
+      "pipefn",
+      911
     ],
     [
       "wdouban",
@@ -258,7 +258,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      793
+      794
     ],
     [
       "@uua/ip2c",
@@ -274,19 +274,19 @@
     ],
     [
       "@svelte-dev/session",
-      719
+      721
     ],
     [
       "sdk0",
       715
     ],
     [
-      "@svelte-dev/auth-sso",
-      638
+      "afdian",
+      641
     ],
     [
-      "afdian",
-      637
+      "@svelte-dev/auth-sso",
+      640
     ],
     [
       "fetch-pro",
@@ -294,11 +294,11 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      595
+      596
     ],
     [
       "@xibang/redis",
-      594
+      595
     ],
     [
       "hdd",
@@ -322,11 +322,11 @@
     ],
     [
       "whiteq",
-      494
+      495
     ],
     [
       "remix-auth-sso",
-      475
+      476
     ],
     [
       "@x12/promise",
@@ -338,11 +338,15 @@
     ],
     [
       "random-target",
-      420
+      423
     ],
     [
       "@svelte-dev/i18n",
       403
+    ],
+    [
+      "@svelte-dev/pretty-code",
+      359
     ],
     [
       "remote-cloudflare-kv",
@@ -357,12 +361,8 @@
       345
     ],
     [
-      "@svelte-dev/pretty-code",
-      340
-    ],
-    [
       "npm-badges",
-      334
+      335
     ],
     [
       "@x12/rx-pool",
@@ -374,7 +374,7 @@
     ],
     [
       "remix-sanity",
-      281
+      282
     ],
     [
       "@hono-dev/zod-body-validator",
@@ -398,7 +398,7 @@
     ],
     [
       "@svelte-dev/auth-alipay",
-      162
+      165
     ],
     [
       "@hono-dev/powered-by",
@@ -406,7 +406,7 @@
     ],
     [
       "@hono-dev/zod-openapi",
-      87
+      88
     ],
     [
       "@hono-dev/zod-openapi-decorators",
@@ -422,8 +422,8 @@
     ],
     [
       "@hono-dev/auth-alipay",
-      32
+      33
     ]
   ],
-  "sum": 879076
+  "sum": 879700
 }
