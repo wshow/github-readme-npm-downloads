@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      473535
+      474215
     ],
     [
       "gitbook-plugin-atoc",
-      148509
+      148512
     ],
     [
       "gitbook-plugin-donate",
@@ -14,15 +14,15 @@
     ],
     [
       "waliyun",
-      25400
+      25448
     ],
     [
       "yunpian-sdk",
-      8550
+      8551
     ],
     [
       "@uua/icons",
-      8280
+      8281
     ],
     [
       "leader.js.cool",
@@ -46,19 +46,19 @@
     ],
     [
       "appkey",
-      4380
+      4381
     ],
     [
       "mock-redis",
-      4359
+      4360
     ],
     [
       "coding-sdk",
-      4258
+      4259
     ],
     [
       "gitbook-plugin-autotheme",
-      4204
+      4207
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3568
+      3569
     ],
     [
       "tuling",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2454
+      2456
     ],
     [
       "auto-deployer",
@@ -86,7 +86,7 @@
     ],
     [
       "wqcloud-video",
-      2338
+      2340
     ],
     [
       "wrescuetime",
@@ -122,7 +122,7 @@
     ],
     [
       "remix-i18n",
-      1800
+      1805
     ],
     [
       "wno",
@@ -130,7 +130,7 @@
     ],
     [
       "v0-scf",
-      1676
+      1681
     ],
     [
       "@x12/tasker",
@@ -154,7 +154,7 @@
     ],
     [
       "wechaty-authing",
-      1429
+      1433
     ],
     [
       "@xibang/node-common",
@@ -162,7 +162,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1384
+      1385
     ],
     [
       "mp-sdk",
@@ -170,7 +170,7 @@
     ],
     [
       "lslint",
-      1325
+      1328
     ],
     [
       "mmonit",
@@ -178,7 +178,7 @@
     ],
     [
       "@uua/core",
-      1205
+      1206
     ],
     [
       "@shiwangme/redis",
@@ -238,7 +238,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      912
+      913
     ],
     [
       "pipefn",
@@ -262,7 +262,7 @@
     ],
     [
       "@uua/ip2c",
-      791
+      792
     ],
     [
       "@dwing/koa-joi-router",
@@ -326,7 +326,7 @@
     ],
     [
       "remix-auth-sso",
-      476
+      477
     ],
     [
       "@x12/promise",
@@ -346,7 +346,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      359
+      365
     ],
     [
       "remote-cloudflare-kv",
@@ -425,5 +425,5 @@
       33
     ]
   ],
-  "sum": 879700
+  "sum": 880472
 }
