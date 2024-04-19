@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      474927
+      475741
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,23 +10,23 @@
     ],
     [
       "gitbook-plugin-donate",
-      71128
+      71129
     ],
     [
       "waliyun",
-      25449
+      25454
     ],
     [
       "yunpian-sdk",
-      8555
+      8556
     ],
     [
       "@uua/icons",
-      8306
+      8339
     ],
     [
       "leader.js.cool",
-      7401
+      7403
     ],
     [
       "koa-swagger-ui",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5939
+      5941
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "mock-redis",
-      4361
+      4362
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4216
+      4220
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3569
+      3570
     ],
     [
       "tuling",
@@ -122,15 +122,15 @@
     ],
     [
       "remix-i18n",
-      1807
+      1810
+    ],
+    [
+      "v0-scf",
+      1690
     ],
     [
       "wno",
       1688
-    ],
-    [
-      "v0-scf",
-      1681
     ],
     [
       "@x12/tasker",
@@ -170,7 +170,7 @@
     ],
     [
       "lslint",
-      1330
+      1331
     ],
     [
       "mmonit",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      1086
+      1088
     ],
     [
       "beian-domain",
@@ -210,7 +210,7 @@
     ],
     [
       "awth",
-      964
+      965
     ],
     [
       "uua",
@@ -238,7 +238,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      913
+      914
     ],
     [
       "pipefn",
@@ -258,7 +258,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      794
+      795
     ],
     [
       "@uua/ip2c",
@@ -278,11 +278,11 @@
     ],
     [
       "sdk0",
-      715
+      716
     ],
     [
       "afdian",
-      641
+      644
     ],
     [
       "@svelte-dev/auth-sso",
@@ -346,7 +346,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      366
+      369
     ],
     [
       "remote-cloudflare-kv",
@@ -377,12 +377,12 @@
       282
     ],
     [
-      "@hono-dev/zod-body-validator",
+      "@svelte-dev/auth-github",
       267
     ],
     [
-      "@svelte-dev/auth-github",
-      266
+      "@hono-dev/zod-body-validator",
+      267
     ],
     [
       "passport-authing",
@@ -398,7 +398,7 @@
     ],
     [
       "@svelte-dev/auth-alipay",
-      165
+      166
     ],
     [
       "@hono-dev/powered-by",
@@ -425,5 +425,5 @@
       33
     ]
   ],
-  "sum": 881251
+  "sum": 882142
 }
