@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      475741
+      476586
     ],
     [
       "gitbook-plugin-atoc",
-      148516
+      148518
     ],
     [
       "gitbook-plugin-donate",
-      71129
+      71134
     ],
     [
       "waliyun",
-      25454
+      25456
     ],
     [
       "yunpian-sdk",
-      8556
+      8557
     ],
     [
       "@uua/icons",
-      8339
+      8407
     ],
     [
       "leader.js.cool",
@@ -46,19 +46,19 @@
     ],
     [
       "appkey",
-      4382
+      4383
     ],
     [
       "mock-redis",
-      4362
+      4363
     ],
     [
       "coding-sdk",
-      4259
+      4260
     ],
     [
       "gitbook-plugin-autotheme",
-      4220
+      4227
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3570
+      3572
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2916
+      2917
     ],
     [
       "hyperapp.js.cool",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2400
+      2401
     ],
     [
       "wqcloud-video",
@@ -94,7 +94,7 @@
     ],
     [
       "atl",
-      2271
+      2272
     ],
     [
       "hapi-auth-redis",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2246
+      2247
     ],
     [
       "gitbook-plugin-theme-material",
@@ -113,16 +113,16 @@
       2051
     ],
     [
+      "coding-net",
+      1962
+    ],
+    [
       "@authing/remix",
       1962
     ],
     [
-      "coding-net",
-      1961
-    ],
-    [
       "remix-i18n",
-      1810
+      1813
     ],
     [
       "v0-scf",
@@ -162,15 +162,15 @@
     ],
     [
       "@svelte-dev/auth",
-      1386
+      1387
     ],
     [
       "mp-sdk",
-      1361
+      1362
     ],
     [
       "lslint",
-      1331
+      1334
     ],
     [
       "mmonit",
@@ -186,7 +186,7 @@
     ],
     [
       "hyperapp-i18n",
-      1179
+      1180
     ],
     [
       "less.js.cool",
@@ -202,7 +202,7 @@
     ],
     [
       "coding-deploy",
-      987
+      988
     ],
     [
       "nativescript-icam",
@@ -210,7 +210,7 @@
     ],
     [
       "awth",
-      965
+      966
     ],
     [
       "uua",
@@ -222,7 +222,7 @@
     ],
     [
       "markdown-toc-gitbook",
-      949
+      950
     ],
     [
       "wulian",
@@ -230,7 +230,7 @@
     ],
     [
       "rxdis",
-      933
+      934
     ],
     [
       "@willin/eslint-config",
@@ -258,7 +258,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      795
+      796
     ],
     [
       "@uua/ip2c",
@@ -266,7 +266,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      744
+      745
     ],
     [
       "leancloud-sdk",
@@ -278,7 +278,7 @@
     ],
     [
       "sdk0",
-      716
+      717
     ],
     [
       "afdian",
@@ -294,7 +294,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      597
+      598
     ],
     [
       "@xibang/redis",
@@ -346,11 +346,11 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      369
+      372
     ],
     [
       "remote-cloudflare-kv",
-      358
+      359
     ],
     [
       "@x12/task-types",
@@ -425,5 +425,5 @@
       33
     ]
   ],
-  "sum": 882142
+  "sum": 883103
 }
