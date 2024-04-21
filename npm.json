@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      476586
+      477232
     ],
     [
       "gitbook-plugin-atoc",
-      148518
+      148519
     ],
     [
       "gitbook-plugin-donate",
@@ -14,15 +14,15 @@
     ],
     [
       "waliyun",
-      25456
+      25463
     ],
     [
       "yunpian-sdk",
-      8557
+      8559
     ],
     [
       "@uua/icons",
-      8407
+      8541
     ],
     [
       "leader.js.cool",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5941
+      5942
     ],
     [
       "koa-api-logger",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4227
+      4236
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3572
+      3577
     ],
     [
       "tuling",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2456
+      2457
     ],
     [
       "auto-deployer",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2247
+      2248
     ],
     [
       "gitbook-plugin-theme-material",
@@ -122,7 +122,7 @@
     ],
     [
       "remix-i18n",
-      1813
+      1822
     ],
     [
       "v0-scf",
@@ -158,11 +158,11 @@
     ],
     [
       "@xibang/node-common",
-      1419
+      1420
     ],
     [
       "@svelte-dev/auth",
-      1387
+      1389
     ],
     [
       "mp-sdk",
@@ -170,7 +170,7 @@
     ],
     [
       "lslint",
-      1334
+      1335
     ],
     [
       "mmonit",
@@ -182,7 +182,7 @@
     ],
     [
       "@shiwangme/redis",
-      1193
+      1194
     ],
     [
       "hyperapp-i18n",
@@ -238,7 +238,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      914
+      915
     ],
     [
       "pipefn",
@@ -270,11 +270,11 @@
     ],
     [
       "leancloud-sdk",
-      722
+      723
     ],
     [
       "@svelte-dev/session",
-      721
+      722
     ],
     [
       "sdk0",
@@ -282,7 +282,7 @@
     ],
     [
       "afdian",
-      644
+      658
     ],
     [
       "@svelte-dev/auth-sso",
@@ -294,18 +294,18 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      598
+      600
     ],
     [
       "@xibang/redis",
       595
     ],
     [
-      "hdd",
-      582
+      "edd",
+      583
     ],
     [
-      "edd",
+      "hdd",
       582
     ],
     [
@@ -322,7 +322,7 @@
     ],
     [
       "whiteq",
-      495
+      496
     ],
     [
       "remix-auth-sso",
@@ -342,11 +342,11 @@
     ],
     [
       "@svelte-dev/i18n",
-      404
+      405
     ],
     [
       "@svelte-dev/pretty-code",
-      372
+      376
     ],
     [
       "remote-cloudflare-kv",
@@ -425,5 +425,5 @@
       33
     ]
   ],
-  "sum": 883103
+  "sum": 883950
 }
