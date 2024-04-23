@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      477477
+      477781
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      71135
+      71136
     ],
     [
       "waliyun",
-      25485
+      25488
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      8559
+      8560
     ],
     [
       "leader.js.cool",
@@ -78,11 +78,11 @@
     ],
     [
       "hyperapp.js.cool",
-      2457
+      2458
     ],
     [
       "auto-deployer",
-      2403
+      2404
     ],
     [
       "wqcloud-video",
@@ -162,7 +162,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1390
+      1392
     ],
     [
       "mp-sdk",
@@ -190,7 +190,7 @@
     ],
     [
       "less.js.cool",
-      1173
+      1174
     ],
     [
       "h1de",
@@ -225,12 +225,12 @@
       950
     ],
     [
-      "wulian",
-      936
+      "rxdis",
+      944
     ],
     [
-      "rxdis",
-      934
+      "wulian",
+      936
     ],
     [
       "@willin/eslint-config",
@@ -266,7 +266,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      745
+      746
     ],
     [
       "leancloud-sdk",
@@ -290,7 +290,7 @@
     ],
     [
       "fetch-pro",
-      627
+      630
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -346,7 +346,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      396
+      398
     ],
     [
       "remote-cloudflare-kv",
@@ -386,7 +386,7 @@
     ],
     [
       "passport-authing",
-      210
+      211
     ],
     [
       "@svelte-dev/eslint-config",
@@ -425,5 +425,5 @@
       34
     ]
   ],
-  "sum": 884402
+  "sum": 884733
 }
