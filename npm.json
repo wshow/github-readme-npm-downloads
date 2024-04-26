@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      478922
+      479509
     ],
     [
       "gitbook-plugin-atoc",
-      148521
+      148522
     ],
     [
       "gitbook-plugin-donate",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      25499
+      25517
     ],
     [
       "@uua/icons",
-      8730
+      8830
     ],
     [
       "yunpian-sdk",
@@ -26,11 +26,11 @@
     ],
     [
       "leader.js.cool",
-      7403
+      7405
     ],
     [
       "koa-swagger-ui",
-      6787
+      6788
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5942
+      5945
     ],
     [
       "koa-api-logger",
-      4491
+      4492
     ],
     [
       "appkey",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4244
+      4246
     ],
     [
       "wtoys",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2918
+      2921
     ],
     [
       "hyperapp.js.cool",
@@ -122,11 +122,11 @@
     ],
     [
       "remix-i18n",
-      1832
+      1836
     ],
     [
       "v0-scf",
-      1696
+      1697
     ],
     [
       "wno",
@@ -190,7 +190,7 @@
     ],
     [
       "less.js.cool",
-      1174
+      1175
     ],
     [
       "h1de",
@@ -214,15 +214,15 @@
     ],
     [
       "uua",
-      957
+      960
+    ],
+    [
+      "markdown-toc-gitbook",
+      952
     ],
     [
       "@x12/env",
       951
-    ],
-    [
-      "markdown-toc-gitbook",
-      950
     ],
     [
       "rxdis",
@@ -249,12 +249,12 @@
       908
     ],
     [
-      "z-curve",
-      842
+      "@authing/nextjs",
+      844
     ],
     [
-      "@authing/nextjs",
-      842
+      "z-curve",
+      843
     ],
     [
       "vuepress-theme-asshole",
@@ -282,7 +282,7 @@
     ],
     [
       "afdian",
-      661
+      662
     ],
     [
       "@svelte-dev/auth-sso",
@@ -302,7 +302,7 @@
     ],
     [
       "edd",
-      583
+      584
     ],
     [
       "hdd",
@@ -390,7 +390,7 @@
     ],
     [
       "@svelte-dev/eslint-config",
-      203
+      204
     ],
     [
       "@v0/v0",
@@ -425,5 +425,5 @@
       34
     ]
   ],
-  "sum": 886023
+  "sum": 886758
 }
