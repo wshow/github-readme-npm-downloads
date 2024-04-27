@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      479509
+      480079
     ],
     [
       "gitbook-plugin-atoc",
-      148522
+      148523
     ],
     [
       "gitbook-plugin-donate",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      25517
+      25519
     ],
     [
       "@uua/icons",
-      8830
+      9011
     ],
     [
       "yunpian-sdk",
@@ -26,11 +26,11 @@
     ],
     [
       "leader.js.cool",
-      7405
+      7407
     ],
     [
       "koa-swagger-ui",
-      6788
+      6789
     ],
     [
       "gitbook-plugin-wordcount",
@@ -50,7 +50,7 @@
     ],
     [
       "mock-redis",
-      4369
+      4370
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4246
+      4248
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3579
+      3580
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2921
+      2923
     ],
     [
       "hyperapp.js.cool",
@@ -102,7 +102,7 @@
     ],
     [
       "nuxtpress",
-      2248
+      2249
     ],
     [
       "gitbook-plugin-theme-material",
@@ -122,7 +122,7 @@
     ],
     [
       "remix-i18n",
-      1836
+      1841
     ],
     [
       "v0-scf",
@@ -130,7 +130,7 @@
     ],
     [
       "wno",
-      1688
+      1689
     ],
     [
       "@x12/tasker",
@@ -166,11 +166,11 @@
     ],
     [
       "mp-sdk",
-      1366
+      1367
     ],
     [
       "lslint",
-      1339
+      1343
     ],
     [
       "mmonit",
@@ -178,7 +178,7 @@
     ],
     [
       "@uua/core",
-      1206
+      1208
     ],
     [
       "@shiwangme/redis",
@@ -270,7 +270,7 @@
     ],
     [
       "@svelte-dev/session",
-      724
+      725
     ],
     [
       "leancloud-sdk",
@@ -341,12 +341,12 @@
       423
     ],
     [
-      "@svelte-dev/i18n",
-      406
+      "@svelte-dev/pretty-code",
+      411
     ],
     [
-      "@svelte-dev/pretty-code",
-      404
+      "@svelte-dev/i18n",
+      406
     ],
     [
       "remote-cloudflare-kv",
@@ -402,7 +402,7 @@
     ],
     [
       "@hono-dev/powered-by",
-      123
+      124
     ],
     [
       "@hono-dev/zod-openapi",
@@ -425,5 +425,5 @@
       34
     ]
   ],
-  "sum": 886758
+  "sum": 887544
 }
