@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      480079
+      480616
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      71139
+      71140
     ],
     [
       "waliyun",
-      25519
+      25534
     ],
     [
       "@uua/icons",
-      9011
+      9207
     ],
     [
       "yunpian-sdk",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      7407
+      7410
     ],
     [
       "koa-swagger-ui",
@@ -46,19 +46,19 @@
     ],
     [
       "appkey",
-      4384
+      4385
     ],
     [
       "mock-redis",
-      4370
+      4384
     ],
     [
       "coding-sdk",
-      4260
+      4263
     ],
     [
       "gitbook-plugin-autotheme",
-      4248
+      4249
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3580
+      3583
     ],
     [
       "tuling",
@@ -78,11 +78,11 @@
     ],
     [
       "hyperapp.js.cool",
-      2460
+      2462
     ],
     [
       "auto-deployer",
-      2404
+      2407
     ],
     [
       "wqcloud-video",
@@ -113,16 +113,16 @@
       2052
     ],
     [
+      "coding-net",
+      1963
+    ],
+    [
       "@authing/remix",
       1963
     ],
     [
-      "coding-net",
-      1962
-    ],
-    [
       "remix-i18n",
-      1841
+      1844
     ],
     [
       "v0-scf",
@@ -130,7 +130,7 @@
     ],
     [
       "wno",
-      1689
+      1693
     ],
     [
       "@x12/tasker",
@@ -178,7 +178,7 @@
     ],
     [
       "@uua/core",
-      1208
+      1210
     ],
     [
       "@shiwangme/redis",
@@ -202,7 +202,7 @@
     ],
     [
       "coding-deploy",
-      988
+      990
     ],
     [
       "nativescript-icam",
@@ -214,7 +214,7 @@
     ],
     [
       "uua",
-      960
+      961
     ],
     [
       "markdown-toc-gitbook",
@@ -286,7 +286,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      642
+      643
     ],
     [
       "fetch-pro",
@@ -342,7 +342,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      411
+      414
     ],
     [
       "@svelte-dev/i18n",
@@ -402,7 +402,7 @@
     ],
     [
       "@hono-dev/powered-by",
-      124
+      125
     ],
     [
       "@hono-dev/zod-openapi",
@@ -425,5 +425,5 @@
       34
     ]
   ],
-  "sum": 887544
+  "sum": 888341
 }
