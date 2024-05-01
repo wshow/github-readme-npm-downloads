@@ -2,55 +2,55 @@
   "stats": [
     [
       "hexo-wordcount",
-      481086
+      481714
     ],
     [
       "gitbook-plugin-atoc",
-      148524
+      148534
     ],
     [
       "gitbook-plugin-donate",
-      71141
+      71146
     ],
     [
       "waliyun",
-      25541
+      25549
     ],
     [
       "@uua/icons",
-      9370
+      9474
     ],
     [
       "yunpian-sdk",
-      8569
+      8581
     ],
     [
       "leader.js.cool",
-      7414
+      7425
     ],
     [
       "koa-swagger-ui",
-      6790
+      6802
     ],
     [
       "gitbook-plugin-wordcount",
-      6036
+      6037
     ],
     [
       "wqcloud",
-      5954
+      5956
     ],
     [
       "koa-api-logger",
-      4492
+      4499
+    ],
+    [
+      "mock-redis",
+      4390
     ],
     [
       "appkey",
       4389
-    ],
-    [
-      "mock-redis",
-      4385
     ],
     [
       "coding-sdk",
@@ -58,19 +58,19 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4252
+      4255
     ],
     [
       "wtoys",
-      3608
+      3609
     ],
     [
       "eslint-config-willin",
-      3587
+      3593
     ],
     [
       "tuling",
-      3397
+      3402
     ],
     [
       "vchart",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2464
+      2466
     ],
     [
       "auto-deployer",
@@ -90,7 +90,7 @@
     ],
     [
       "wrescuetime",
-      2336
+      2337
     ],
     [
       "atl",
@@ -98,19 +98,19 @@
     ],
     [
       "hapi-auth-redis",
-      2256
+      2259
     ],
     [
       "nuxtpress",
-      2249
+      2250
     ],
     [
       "gitbook-plugin-theme-material",
-      2218
+      2222
     ],
     [
       "hello-dolly",
-      2052
+      2055
     ],
     [
       "coding-net",
@@ -122,27 +122,27 @@
     ],
     [
       "remix-i18n",
-      1845
+      1846
     ],
     [
       "v0-scf",
-      1701
+      1704
     ],
     [
       "wno",
-      1693
+      1695
     ],
     [
       "@x12/tasker",
-      1613
+      1614
+    ],
+    [
+      "wnm",
+      1605
     ],
     [
       "@x12/di",
       1604
-    ],
-    [
-      "wnm",
-      1602
     ],
     [
       "@x12/hosts",
@@ -162,11 +162,11 @@
     ],
     [
       "@svelte-dev/auth",
-      1395
+      1397
     ],
     [
       "mp-sdk",
-      1371
+      1373
     ],
     [
       "lslint",
@@ -186,7 +186,7 @@
     ],
     [
       "hyperapp-i18n",
-      1180
+      1182
     ],
     [
       "less.js.cool",
@@ -194,7 +194,7 @@
     ],
     [
       "h1de",
-      1090
+      1091
     ],
     [
       "beian-domain",
@@ -202,19 +202,19 @@
     ],
     [
       "coding-deploy",
-      991
+      992
     ],
     [
       "nativescript-icam",
       983
     ],
     [
-      "awth",
-      968
+      "uua",
+      970
     ],
     [
-      "uua",
-      967
+      "awth",
+      968
     ],
     [
       "@x12/env",
@@ -226,7 +226,7 @@
     ],
     [
       "rxdis",
-      946
+      947
     ],
     [
       "wulian",
@@ -246,7 +246,7 @@
     ],
     [
       "wdouban",
-      909
+      911
     ],
     [
       "z-curve",
@@ -258,7 +258,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      799
+      800
     ],
     [
       "@uua/ip2c",
@@ -269,16 +269,16 @@
       748
     ],
     [
+      "leancloud-sdk",
+      725
+    ],
+    [
       "@svelte-dev/session",
       725
     ],
     [
-      "leancloud-sdk",
-      723
-    ],
-    [
       "sdk0",
-      718
+      719
     ],
     [
       "afdian",
@@ -306,7 +306,7 @@
     ],
     [
       "hdd",
-      583
+      584
     ],
     [
       "@xibang/mysql",
@@ -338,7 +338,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      424
+      433
     ],
     [
       "random-target",
@@ -358,7 +358,7 @@
     ],
     [
       "ggql",
-      346
+      348
     ],
     [
       "npm-badges",
@@ -398,7 +398,7 @@
     ],
     [
       "@svelte-dev/auth-alipay",
-      169
+      170
     ],
     [
       "@hono-dev/powered-by",
@@ -414,16 +414,16 @@
     ],
     [
       "@hono-dev/auth-afdian",
-      36
+      37
     ],
     [
       "@hono-dev/auth-alipay",
-      35
+      36
     ],
     [
       "@hono-dev/auth-github",
-      34
+      35
     ]
   ],
-  "sum": 889175
+  "sum": 890053
 }
