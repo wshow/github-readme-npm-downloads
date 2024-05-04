@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      482921
+      483481
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,27 +10,27 @@
     ],
     [
       "gitbook-plugin-donate",
-      71151
+      71152
     ],
     [
       "waliyun",
-      25593
+      25594
     ],
     [
       "@uua/icons",
-      9546
+      9561
     ],
     [
       "yunpian-sdk",
-      8582
+      8585
     ],
     [
       "leader.js.cool",
-      7436
+      7437
     ],
     [
       "koa-swagger-ui",
-      6807
+      6808
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5963
+      5964
     ],
     [
       "koa-api-logger",
@@ -46,7 +46,7 @@
     ],
     [
       "mock-redis",
-      4404
+      4418
     ],
     [
       "appkey",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2933
+      2934
     ],
     [
       "hyperapp.js.cool",
-      2468
+      2469
     ],
     [
       "auto-deployer",
@@ -114,15 +114,15 @@
     ],
     [
       "@authing/remix",
-      1967
+      1973
     ],
     [
       "coding-net",
-      1965
+      1966
     ],
     [
       "remix-i18n",
-      1862
+      1865
     ],
     [
       "v0-scf",
@@ -154,7 +154,7 @@
     ],
     [
       "wechaty-authing",
-      1447
+      1450
     ],
     [
       "@xibang/node-common",
@@ -166,11 +166,11 @@
     ],
     [
       "mp-sdk",
-      1377
+      1378
     ],
     [
       "lslint",
-      1345
+      1346
     ],
     [
       "mmonit",
@@ -234,7 +234,7 @@
     ],
     [
       "@willin/eslint-config",
-      928
+      929
     ],
     [
       "@svelte-dev/auth-oauth2",
@@ -250,11 +250,11 @@
     ],
     [
       "z-curve",
-      845
+      847
     ],
     [
       "@authing/nextjs",
-      845
+      847
     ],
     [
       "vuepress-theme-asshole",
@@ -266,15 +266,15 @@
     ],
     [
       "@dwing/koa-joi-router",
-      749
+      750
+    ],
+    [
+      "leancloud-sdk",
+      727
     ],
     [
       "@svelte-dev/session",
       726
-    ],
-    [
-      "leancloud-sdk",
-      725
     ],
     [
       "sdk0",
@@ -282,7 +282,7 @@
     ],
     [
       "afdian",
-      665
+      666
     ],
     [
       "@svelte-dev/auth-sso",
@@ -290,7 +290,7 @@
     ],
     [
       "fetch-pro",
-      633
+      637
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -338,11 +338,11 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      438
+      443
     ],
     [
       "random-target",
-      425
+      426
     ],
     [
       "@svelte-dev/i18n",
@@ -378,7 +378,7 @@
     ],
     [
       "@hono-dev/zod-body-validator",
-      270
+      274
     ],
     [
       "@svelte-dev/auth-github",
@@ -386,7 +386,7 @@
     ],
     [
       "passport-authing",
-      211
+      212
     ],
     [
       "@svelte-dev/eslint-config",
@@ -406,11 +406,11 @@
     ],
     [
       "@hono-dev/zod-openapi",
-      89
+      93
     ],
     [
       "@hono-dev/zod-openapi-decorators",
-      80
+      84
     ],
     [
       "@hono-dev/auth-afdian",
@@ -425,5 +425,5 @@
       36
     ]
   ],
-  "sum": 891590
+  "sum": 892236
 }
