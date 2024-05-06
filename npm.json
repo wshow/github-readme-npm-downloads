@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      484022
+      484340
     ],
     [
       "gitbook-plugin-atoc",
-      148541
+      148542
     ],
     [
       "gitbook-plugin-donate",
@@ -14,15 +14,15 @@
     ],
     [
       "waliyun",
-      25610
+      25611
     ],
     [
       "@uua/icons",
-      9585
+      9604
     ],
     [
       "yunpian-sdk",
-      8585
+      8586
     ],
     [
       "leader.js.cool",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5964
+      5965
     ],
     [
       "koa-api-logger",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3594
+      3595
     ],
     [
       "tuling",
@@ -78,19 +78,19 @@
     ],
     [
       "hyperapp.js.cool",
-      2469
+      2470
     ],
     [
       "auto-deployer",
-      2408
+      2411
     ],
     [
       "wqcloud-video",
-      2349
+      2350
     ],
     [
       "wrescuetime",
-      2338
+      2339
     ],
     [
       "atl",
@@ -130,11 +130,11 @@
     ],
     [
       "wno",
-      1697
+      1698
     ],
     [
       "@x12/tasker",
-      1614
+      1615
     ],
     [
       "wnm",
@@ -142,11 +142,11 @@
     ],
     [
       "@x12/di",
-      1604
+      1605
     ],
     [
       "@x12/hosts",
-      1568
+      1569
     ],
     [
       "remix-auth-afdian",
@@ -162,7 +162,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1399
+      1401
     ],
     [
       "mp-sdk",
@@ -214,15 +214,15 @@
     ],
     [
       "awth",
-      968
+      969
+    ],
+    [
+      "@x12/env",
+      953
     ],
     [
       "markdown-toc-gitbook",
       953
-    ],
-    [
-      "@x12/env",
-      952
     ],
     [
       "rxdis",
@@ -230,7 +230,7 @@
     ],
     [
       "wulian",
-      938
+      939
     ],
     [
       "@willin/eslint-config",
@@ -274,11 +274,11 @@
     ],
     [
       "@svelte-dev/session",
-      726
+      727
     ],
     [
       "sdk0",
-      721
+      726
     ],
     [
       "afdian",
@@ -286,7 +286,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      644
+      646
     ],
     [
       "fetch-pro",
@@ -314,7 +314,7 @@
     ],
     [
       "@x12/common",
-      522
+      523
     ],
     [
       "willin",
@@ -330,15 +330,15 @@
     ],
     [
       "@x12/promise",
-      470
+      471
     ],
     [
       "@svelte-dev/pretty-code",
-      457
+      462
     ],
     [
       "@x12/mongodb",
-      455
+      456
     ],
     [
       "random-target",
@@ -346,15 +346,15 @@
     ],
     [
       "@svelte-dev/i18n",
-      408
+      409
     ],
     [
       "remote-cloudflare-kv",
-      365
+      366
     ],
     [
       "@x12/task-types",
-      353
+      354
     ],
     [
       "ggql",
@@ -366,7 +366,7 @@
     ],
     [
       "@x12/rx-pool",
-      334
+      335
     ],
     [
       "@svelte-dev/auth-afdian",
@@ -398,7 +398,7 @@
     ],
     [
       "@svelte-dev/auth-alipay",
-      171
+      172
     ],
     [
       "@hono-dev/powered-by",
@@ -414,7 +414,7 @@
     ],
     [
       "@hono-dev/auth-afdian",
-      38
+      39
     ],
     [
       "@hono-dev/auth-alipay",
@@ -425,5 +425,5 @@
       36
     ]
   ],
-  "sum": 892895
+  "sum": 893274
 }
