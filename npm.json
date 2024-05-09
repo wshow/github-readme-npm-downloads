@@ -2,31 +2,31 @@
   "stats": [
     [
       "hexo-wordcount",
-      485136
+      485679
     ],
     [
       "gitbook-plugin-atoc",
-      148543
+      148544
     ],
     [
       "gitbook-plugin-donate",
-      71170
+      71172
     ],
     [
       "waliyun",
-      25634
+      25635
     ],
     [
       "@uua/icons",
-      9677
+      9694
     ],
     [
       "yunpian-sdk",
-      8595
+      8596
     ],
     [
       "leader.js.cool",
-      7438
+      7440
     ],
     [
       "koa-swagger-ui",
@@ -46,11 +46,11 @@
     ],
     [
       "mock-redis",
-      4448
+      4449
     ],
     [
       "appkey",
-      4392
+      4393
     ],
     [
       "coding-sdk",
@@ -58,7 +58,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4261
+      4268
     ],
     [
       "wtoys",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2411
+      2412
     ],
     [
       "wqcloud-video",
@@ -98,7 +98,7 @@
     ],
     [
       "nuxtpress",
-      2264
+      2270
     ],
     [
       "hapi-auth-redis",
@@ -122,11 +122,11 @@
     ],
     [
       "remix-i18n",
-      1874
+      1876
     ],
     [
       "v0-scf",
-      1708
+      1709
     ],
     [
       "wno",
@@ -138,7 +138,7 @@
     ],
     [
       "wnm",
-      1609
+      1610
     ],
     [
       "@x12/di",
@@ -170,7 +170,7 @@
     ],
     [
       "lslint",
-      1347
+      1350
     ],
     [
       "mmonit",
@@ -242,7 +242,7 @@
     ],
     [
       "pipefn",
-      913
+      914
     ],
     [
       "wdouban",
@@ -265,12 +265,12 @@
       799
     ],
     [
-      "@dwing/koa-joi-router",
-      750
+      "sdk0",
+      752
     ],
     [
-      "sdk0",
-      747
+      "@dwing/koa-joi-router",
+      750
     ],
     [
       "@svelte-dev/session",
@@ -329,12 +329,12 @@
       487
     ],
     [
-      "@x12/promise",
-      471
+      "@svelte-dev/pretty-code",
+      473
     ],
     [
-      "@svelte-dev/pretty-code",
-      470
+      "@x12/promise",
+      471
     ],
     [
       "@x12/mongodb",
@@ -370,7 +370,7 @@
     ],
     [
       "@svelte-dev/auth-afdian",
-      332
+      333
     ],
     [
       "remix-sanity",
@@ -382,7 +382,7 @@
     ],
     [
       "@svelte-dev/auth-github",
-      272
+      273
     ],
     [
       "passport-authing",
@@ -390,7 +390,7 @@
     ],
     [
       "@svelte-dev/eslint-config",
-      206
+      207
     ],
     [
       "@v0/v0",
@@ -425,5 +425,5 @@
       37
     ]
   ],
-  "sum": 894334
+  "sum": 894936
 }
