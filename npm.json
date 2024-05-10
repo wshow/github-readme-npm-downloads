@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      485679
+      486243
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,15 +10,15 @@
     ],
     [
       "gitbook-plugin-donate",
-      71172
+      71174
     ],
     [
       "waliyun",
-      25635
+      25636
     ],
     [
       "@uua/icons",
-      9694
+      9711
     ],
     [
       "yunpian-sdk",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      7440
+      7441
     ],
     [
       "koa-swagger-ui",
@@ -46,19 +46,19 @@
     ],
     [
       "mock-redis",
-      4449
+      4457
     ],
     [
       "appkey",
       4393
     ],
     [
-      "coding-sdk",
-      4270
+      "gitbook-plugin-autotheme",
+      4272
     ],
     [
-      "gitbook-plugin-autotheme",
-      4268
+      "coding-sdk",
+      4270
     ],
     [
       "wtoys",
@@ -122,7 +122,7 @@
     ],
     [
       "remix-i18n",
-      1876
+      1884
     ],
     [
       "v0-scf",
@@ -150,7 +150,7 @@
     ],
     [
       "remix-auth-afdian",
-      1507
+      1511
     ],
     [
       "wechaty-authing",
@@ -162,7 +162,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1418
+      1420
     ],
     [
       "mp-sdk",
@@ -170,7 +170,7 @@
     ],
     [
       "lslint",
-      1350
+      1351
     ],
     [
       "mmonit",
@@ -190,7 +190,7 @@
     ],
     [
       "less.js.cool",
-      1177
+      1178
     ],
     [
       "h1de",
@@ -226,7 +226,7 @@
     ],
     [
       "rxdis",
-      947
+      948
     ],
     [
       "wulian",
@@ -274,7 +274,7 @@
     ],
     [
       "@svelte-dev/session",
-      734
+      735
     ],
     [
       "leancloud-sdk",
@@ -326,11 +326,11 @@
     ],
     [
       "remix-auth-sso",
-      487
+      488
     ],
     [
       "@svelte-dev/pretty-code",
-      473
+      478
     ],
     [
       "@x12/promise",
@@ -342,7 +342,7 @@
     ],
     [
       "random-target",
-      427
+      428
     ],
     [
       "@svelte-dev/i18n",
@@ -374,7 +374,7 @@
     ],
     [
       "remix-sanity",
-      286
+      287
     ],
     [
       "@hono-dev/zod-body-validator",
@@ -425,5 +425,5 @@
       37
     ]
   ],
-  "sum": 894936
+  "sum": 895559
 }
