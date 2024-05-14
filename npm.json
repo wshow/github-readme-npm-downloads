@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      487673
+      487908
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      71179
+      71181
     ],
     [
       "waliyun",
-      25647
+      25654
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      8605
+      8614
     ],
     [
       "leader.js.cool",
@@ -42,7 +42,7 @@
     ],
     [
       "koa-api-logger",
-      4512
+      4515
     ],
     [
       "mock-redis",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2225
+      2231
     ],
     [
       "hello-dolly",
@@ -150,15 +150,15 @@
     ],
     [
       "remix-auth-afdian",
-      1517
+      1520
+    ],
+    [
+      "@svelte-dev/auth",
+      1453
     ],
     [
       "wechaty-authing",
       1452
-    ],
-    [
-      "@svelte-dev/auth",
-      1450
     ],
     [
       "@xibang/node-common",
@@ -246,11 +246,11 @@
     ],
     [
       "wdouban",
-      913
+      914
     ],
     [
       "@authing/nextjs",
-      850
+      851
     ],
     [
       "z-curve",
@@ -274,7 +274,7 @@
     ],
     [
       "@svelte-dev/session",
-      742
+      743
     ],
     [
       "leancloud-sdk",
@@ -282,7 +282,7 @@
     ],
     [
       "afdian",
-      669
+      670
     ],
     [
       "@svelte-dev/auth-sso",
@@ -318,7 +318,7 @@
     ],
     [
       "willin",
-      520
+      521
     ],
     [
       "whiteq",
@@ -378,7 +378,7 @@
     ],
     [
       "@hono-dev/zod-body-validator",
-      281
+      285
     ],
     [
       "@svelte-dev/auth-github",
@@ -386,7 +386,7 @@
     ],
     [
       "passport-authing",
-      215
+      223
     ],
     [
       "@svelte-dev/eslint-config",
@@ -406,11 +406,11 @@
     ],
     [
       "@hono-dev/zod-openapi",
-      99
+      103
     ],
     [
       "@hono-dev/zod-openapi-decorators",
-      90
+      94
     ],
     [
       "@hono-dev/auth-afdian",
@@ -425,5 +425,5 @@
       40
     ]
   ],
-  "sum": 897365
+  "sum": 897658
 }
