@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      488470
+      489059
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,11 +10,11 @@
     ],
     [
       "gitbook-plugin-donate",
-      71181
+      71182
     ],
     [
       "waliyun",
-      25656
+      25690
     ],
     [
       "@uua/icons",
@@ -26,7 +26,7 @@
     ],
     [
       "leader.js.cool",
-      7442
+      7443
     ],
     [
       "koa-swagger-ui",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5970
+      5971
     ],
     [
       "koa-api-logger",
@@ -46,7 +46,7 @@
     ],
     [
       "mock-redis",
-      4470
+      4474
     ],
     [
       "appkey",
@@ -54,7 +54,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4297
+      4315
     ],
     [
       "coding-sdk",
@@ -122,11 +122,11 @@
     ],
     [
       "remix-i18n",
-      1958
+      1962
     ],
     [
       "v0-scf",
-      1717
+      1718
     ],
     [
       "wno",
@@ -138,7 +138,7 @@
     ],
     [
       "wnm",
-      1612
+      1613
     ],
     [
       "@x12/di",
@@ -154,7 +154,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1455
+      1457
     ],
     [
       "wechaty-authing",
@@ -186,7 +186,7 @@
     ],
     [
       "hyperapp-i18n",
-      1185
+      1186
     ],
     [
       "less.js.cool",
@@ -234,7 +234,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      933
+      934
     ],
     [
       "@willin/eslint-config",
@@ -266,7 +266,7 @@
     ],
     [
       "sdk0",
-      772
+      773
     ],
     [
       "@dwing/koa-joi-router",
@@ -274,7 +274,7 @@
     ],
     [
       "@svelte-dev/session",
-      743
+      744
     ],
     [
       "leancloud-sdk",
@@ -322,7 +322,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      511
+      513
     ],
     [
       "whiteq",
@@ -342,7 +342,7 @@
     ],
     [
       "random-target",
-      429
+      431
     ],
     [
       "@svelte-dev/i18n",
@@ -425,5 +425,5 @@
       41
     ]
   ],
-  "sum": 898327
+  "sum": 898991
 }
