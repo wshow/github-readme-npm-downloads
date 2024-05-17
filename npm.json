@@ -2,27 +2,27 @@
   "stats": [
     [
       "hexo-wordcount",
-      489059
+      489676
     ],
     [
       "gitbook-plugin-atoc",
-      148547
+      148549
     ],
     [
       "gitbook-plugin-donate",
-      71182
+      71184
     ],
     [
       "waliyun",
-      25690
+      25697
     ],
     [
       "@uua/icons",
-      9720
+      9778
     ],
     [
       "yunpian-sdk",
-      8614
+      8615
     ],
     [
       "leader.js.cool",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      5971
+      5976
     ],
     [
       "koa-api-logger",
@@ -46,7 +46,7 @@
     ],
     [
       "mock-redis",
-      4474
+      4498
     ],
     [
       "appkey",
@@ -54,7 +54,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4315
+      4329
     ],
     [
       "coding-sdk",
@@ -113,16 +113,16 @@
       2057
     ],
     [
+      "remix-i18n",
+      1992
+    ],
+    [
       "@authing/remix",
       1977
     ],
     [
       "coding-net",
       1968
-    ],
-    [
-      "remix-i18n",
-      1962
     ],
     [
       "v0-scf",
@@ -174,7 +174,7 @@
     ],
     [
       "@uua/core",
-      1222
+      1223
     ],
     [
       "mmonit",
@@ -238,7 +238,7 @@
     ],
     [
       "@willin/eslint-config",
-      930
+      931
     ],
     [
       "pipefn",
@@ -262,7 +262,7 @@
     ],
     [
       "@uua/ip2c",
-      800
+      801
     ],
     [
       "sdk0",
@@ -270,7 +270,7 @@
     ],
     [
       "@dwing/koa-joi-router",
-      754
+      755
     ],
     [
       "@svelte-dev/session",
@@ -322,7 +322,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      513
+      516
     ],
     [
       "whiteq",
@@ -342,7 +342,7 @@
     ],
     [
       "random-target",
-      431
+      432
     ],
     [
       "@svelte-dev/i18n",
@@ -393,12 +393,12 @@
       208
     ],
     [
-      "@v0/v0",
+      "@svelte-dev/auth-alipay",
       179
     ],
     [
-      "@svelte-dev/auth-alipay",
-      178
+      "@v0/v0",
+      179
     ],
     [
       "@hono-dev/powered-by",
@@ -425,5 +425,5 @@
       41
     ]
   ],
-  "sum": 898991
+  "sum": 899760
 }
