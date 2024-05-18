@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      489676
+      490242
     ],
     [
       "gitbook-plugin-atoc",
-      148549
+      148551
     ],
     [
       "gitbook-plugin-donate",
@@ -14,23 +14,23 @@
     ],
     [
       "waliyun",
-      25697
+      25700
     ],
     [
       "@uua/icons",
-      9778
+      9809
     ],
     [
       "yunpian-sdk",
-      8615
+      8616
     ],
     [
       "leader.js.cool",
-      7443
+      7444
     ],
     [
       "koa-swagger-ui",
-      6810
+      6811
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,15 +38,15 @@
     ],
     [
       "wqcloud",
-      5976
+      5977
+    ],
+    [
+      "mock-redis",
+      4533
     ],
     [
       "koa-api-logger",
       4530
-    ],
-    [
-      "mock-redis",
-      4498
     ],
     [
       "appkey",
@@ -54,7 +54,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4329
+      4339
     ],
     [
       "coding-sdk",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3602
+      3603
     ],
     [
       "tuling",
@@ -78,7 +78,7 @@
     ],
     [
       "hyperapp.js.cool",
-      2475
+      2476
     ],
     [
       "auto-deployer",
@@ -114,7 +114,7 @@
     ],
     [
       "remix-i18n",
-      1992
+      2020
     ],
     [
       "@authing/remix",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1718
+      1719
     ],
     [
       "wno",
@@ -138,7 +138,7 @@
     ],
     [
       "wnm",
-      1613
+      1615
     ],
     [
       "@x12/di",
@@ -150,7 +150,7 @@
     ],
     [
       "remix-auth-afdian",
-      1523
+      1524
     ],
     [
       "@svelte-dev/auth",
@@ -170,7 +170,7 @@
     ],
     [
       "lslint",
-      1353
+      1355
     ],
     [
       "@uua/core",
@@ -282,11 +282,11 @@
     ],
     [
       "afdian",
-      688
+      689
     ],
     [
       "@svelte-dev/auth-sso",
-      654
+      655
     ],
     [
       "fetch-pro",
@@ -317,12 +317,12 @@
       524
     ],
     [
-      "willin",
-      521
+      "@svelte-dev/pretty-code",
+      523
     ],
     [
-      "@svelte-dev/pretty-code",
-      516
+      "willin",
+      521
     ],
     [
       "whiteq",
@@ -370,15 +370,15 @@
     ],
     [
       "@svelte-dev/auth-afdian",
-      336
+      337
+    ],
+    [
+      "@hono-dev/zod-body-validator",
+      290
     ],
     [
       "remix-sanity",
       288
-    ],
-    [
-      "@hono-dev/zod-body-validator",
-      287
     ],
     [
       "@svelte-dev/auth-github",
@@ -406,15 +406,15 @@
     ],
     [
       "@hono-dev/zod-openapi",
-      105
+      108
     ],
     [
       "@hono-dev/zod-openapi-decorators",
-      97
+      100
     ],
     [
       "@hono-dev/auth-afdian",
-      44
+      45
     ],
     [
       "@hono-dev/auth-alipay",
@@ -425,5 +425,5 @@
       41
     ]
   ],
-  "sum": 899760
+  "sum": 900467
 }
