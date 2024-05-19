@@ -2,11 +2,11 @@
   "stats": [
     [
       "hexo-wordcount",
-      490242
+      490797
     ],
     [
       "gitbook-plugin-atoc",
-      148551
+      148552
     ],
     [
       "gitbook-plugin-donate",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      25700
+      25701
     ],
     [
       "@uua/icons",
@@ -22,11 +22,11 @@
     ],
     [
       "yunpian-sdk",
-      8616
+      8618
     ],
     [
       "leader.js.cool",
-      7444
+      7447
     ],
     [
       "koa-swagger-ui",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      5977
+      5978
     ],
     [
       "mock-redis",
-      4533
+      4549
     ],
     [
       "koa-api-logger",
@@ -54,7 +54,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4339
+      4347
     ],
     [
       "coding-sdk",
@@ -62,7 +62,7 @@
     ],
     [
       "wtoys",
-      3615
+      3624
     ],
     [
       "eslint-config-willin",
@@ -74,11 +74,11 @@
     ],
     [
       "vchart",
-      2945
+      2947
     ],
     [
       "hyperapp.js.cool",
-      2476
+      2477
     ],
     [
       "auto-deployer",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2231
+      2234
     ],
     [
       "hello-dolly",
@@ -114,11 +114,11 @@
     ],
     [
       "remix-i18n",
-      2020
+      2025
     ],
     [
       "@authing/remix",
-      1977
+      1978
     ],
     [
       "coding-net",
@@ -126,19 +126,19 @@
     ],
     [
       "v0-scf",
-      1719
+      1720
     ],
     [
       "wno",
       1699
     ],
     [
-      "@x12/tasker",
-      1616
+      "wnm",
+      1617
     ],
     [
-      "wnm",
-      1615
+      "@x12/tasker",
+      1616
     ],
     [
       "@x12/di",
@@ -154,7 +154,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1457
+      1459
     ],
     [
       "wechaty-authing",
@@ -178,7 +178,7 @@
     ],
     [
       "mmonit",
-      1222
+      1223
     ],
     [
       "@shiwangme/redis",
@@ -210,7 +210,7 @@
     ],
     [
       "uua",
-      975
+      976
     ],
     [
       "awth",
@@ -250,7 +250,7 @@
     ],
     [
       "@authing/nextjs",
-      851
+      852
     ],
     [
       "z-curve",
@@ -258,7 +258,7 @@
     ],
     [
       "vuepress-theme-asshole",
-      804
+      805
     ],
     [
       "@uua/ip2c",
@@ -266,7 +266,7 @@
     ],
     [
       "sdk0",
-      773
+      774
     ],
     [
       "@dwing/koa-joi-router",
@@ -282,11 +282,11 @@
     ],
     [
       "afdian",
-      689
+      690
     ],
     [
       "@svelte-dev/auth-sso",
-      655
+      656
     ],
     [
       "fetch-pro",
@@ -313,12 +313,12 @@
       560
     ],
     [
-      "@x12/common",
-      524
+      "@svelte-dev/pretty-code",
+      535
     ],
     [
-      "@svelte-dev/pretty-code",
-      523
+      "@x12/common",
+      524
     ],
     [
       "willin",
@@ -350,7 +350,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      368
+      369
     ],
     [
       "@x12/task-types",
@@ -378,7 +378,7 @@
     ],
     [
       "remix-sanity",
-      288
+      289
     ],
     [
       "@svelte-dev/auth-github",
@@ -425,5 +425,5 @@
       41
     ]
   ],
-  "sum": 900467
+  "sum": 901101
 }
