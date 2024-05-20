@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      490797
+      490989
     ],
     [
       "gitbook-plugin-atoc",
-      148552
+      148553
     ],
     [
       "gitbook-plugin-donate",
-      71184
+      71185
     ],
     [
       "waliyun",
-      25701
+      25702
     ],
     [
       "@uua/icons",
-      9809
+      9812
     ],
     [
       "yunpian-sdk",
@@ -34,15 +34,15 @@
     ],
     [
       "gitbook-plugin-wordcount",
-      6038
+      6039
     ],
     [
       "wqcloud",
-      5978
+      5986
     ],
     [
       "mock-redis",
-      4549
+      4551
     ],
     [
       "koa-api-logger",
@@ -54,7 +54,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4347
+      4348
     ],
     [
       "coding-sdk",
@@ -62,11 +62,11 @@
     ],
     [
       "wtoys",
-      3624
+      3625
     ],
     [
       "eslint-config-willin",
-      3603
+      3604
     ],
     [
       "tuling",
@@ -102,19 +102,19 @@
     ],
     [
       "hapi-auth-redis",
-      2266
+      2268
     ],
     [
       "gitbook-plugin-theme-material",
-      2234
+      2236
     ],
     [
       "hello-dolly",
-      2057
+      2058
     ],
     [
       "remix-i18n",
-      2025
+      2027
     ],
     [
       "@authing/remix",
@@ -134,7 +134,7 @@
     ],
     [
       "wnm",
-      1617
+      1619
     ],
     [
       "@x12/tasker",
@@ -154,11 +154,11 @@
     ],
     [
       "@svelte-dev/auth",
-      1459
+      1462
     ],
     [
       "wechaty-authing",
-      1452
+      1453
     ],
     [
       "@xibang/node-common",
@@ -226,7 +226,7 @@
     ],
     [
       "rxdis",
-      951
+      952
     ],
     [
       "wulian",
@@ -234,7 +234,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      934
+      935
     ],
     [
       "@willin/eslint-config",
@@ -246,7 +246,7 @@
     ],
     [
       "wdouban",
-      914
+      915
     ],
     [
       "@authing/nextjs",
@@ -314,7 +314,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      535
+      538
     ],
     [
       "@x12/common",
@@ -322,11 +322,11 @@
     ],
     [
       "willin",
-      521
+      522
     ],
     [
       "whiteq",
-      503
+      504
     ],
     [
       "remix-auth-sso",
@@ -350,7 +350,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      369
+      371
     ],
     [
       "@x12/task-types",
@@ -425,5 +425,5 @@
       41
     ]
   ],
-  "sum": 901101
+  "sum": 901336
 }
