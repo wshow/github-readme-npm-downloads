@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      490989
+      491173
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      25702
+      25704
     ],
     [
       "@uua/icons",
-      9812
+      9850
     ],
     [
       "yunpian-sdk",
@@ -26,11 +26,11 @@
     ],
     [
       "leader.js.cool",
-      7447
+      7448
     ],
     [
       "koa-swagger-ui",
-      6811
+      6812
     ],
     [
       "gitbook-plugin-wordcount",
@@ -46,7 +46,7 @@
     ],
     [
       "koa-api-logger",
-      4530
+      4531
     ],
     [
       "appkey",
@@ -134,7 +134,7 @@
     ],
     [
       "wnm",
-      1619
+      1621
     ],
     [
       "@x12/tasker",
@@ -154,7 +154,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1462
+      1464
     ],
     [
       "wechaty-authing",
@@ -190,7 +190,7 @@
     ],
     [
       "less.js.cool",
-      1179
+      1180
     ],
     [
       "h1de",
@@ -217,16 +217,16 @@
       971
     ],
     [
+      "markdown-toc-gitbook",
+      955
+    ],
+    [
       "@x12/env",
       954
     ],
     [
-      "markdown-toc-gitbook",
-      954
-    ],
-    [
       "rxdis",
-      952
+      953
     ],
     [
       "wulian",
@@ -254,7 +254,7 @@
     ],
     [
       "z-curve",
-      848
+      849
     ],
     [
       "vuepress-theme-asshole",
@@ -274,7 +274,7 @@
     ],
     [
       "@svelte-dev/session",
-      744
+      746
     ],
     [
       "leancloud-sdk",
@@ -302,7 +302,7 @@
     ],
     [
       "edd",
-      587
+      588
     ],
     [
       "hdd",
@@ -374,7 +374,7 @@
     ],
     [
       "@hono-dev/zod-body-validator",
-      290
+      292
     ],
     [
       "remix-sanity",
@@ -406,11 +406,11 @@
     ],
     [
       "@hono-dev/zod-openapi",
-      108
+      110
     ],
     [
       "@hono-dev/zod-openapi-decorators",
-      100
+      102
     ],
     [
       "@hono-dev/auth-afdian",
@@ -425,5 +425,5 @@
       41
     ]
   ],
-  "sum": 901336
+  "sum": 901580
 }
