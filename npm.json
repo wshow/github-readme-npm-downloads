@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      491173
+      491723
     ],
     [
       "gitbook-plugin-atoc",
-      148553
+      148558
     ],
     [
       "gitbook-plugin-donate",
-      71185
+      71186
     ],
     [
       "waliyun",
-      25704
+      25708
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      8618
+      8620
     ],
     [
       "leader.js.cool",
@@ -42,7 +42,7 @@
     ],
     [
       "mock-redis",
-      4551
+      4558
     ],
     [
       "koa-api-logger",
@@ -54,7 +54,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4348
+      4363
     ],
     [
       "coding-sdk",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3604
+      3605
     ],
     [
       "tuling",
@@ -98,7 +98,7 @@
     ],
     [
       "nuxtpress",
-      2274
+      2275
     ],
     [
       "hapi-auth-redis",
@@ -114,7 +114,7 @@
     ],
     [
       "remix-i18n",
-      2027
+      2033
     ],
     [
       "@authing/remix",
@@ -138,11 +138,11 @@
     ],
     [
       "@x12/tasker",
-      1616
+      1617
     ],
     [
       "@x12/di",
-      1606
+      1607
     ],
     [
       "@x12/hosts",
@@ -150,11 +150,11 @@
     ],
     [
       "remix-auth-afdian",
-      1524
+      1525
     ],
     [
       "@svelte-dev/auth",
-      1464
+      1467
     ],
     [
       "wechaty-authing",
@@ -186,7 +186,7 @@
     ],
     [
       "hyperapp-i18n",
-      1186
+      1187
     ],
     [
       "less.js.cool",
@@ -206,7 +206,7 @@
     ],
     [
       "nativescript-icam",
-      988
+      989
     ],
     [
       "uua",
@@ -221,12 +221,12 @@
       955
     ],
     [
-      "@x12/env",
+      "rxdis",
       954
     ],
     [
-      "rxdis",
-      953
+      "@x12/env",
+      954
     ],
     [
       "wulian",
@@ -294,7 +294,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      604
+      607
     ],
     [
       "@xibang/redis",
@@ -314,7 +314,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      538
+      547
     ],
     [
       "@x12/common",
@@ -374,7 +374,7 @@
     ],
     [
       "@hono-dev/zod-body-validator",
-      292
+      293
     ],
     [
       "remix-sanity",
@@ -406,11 +406,11 @@
     ],
     [
       "@hono-dev/zod-openapi",
-      110
+      111
     ],
     [
       "@hono-dev/zod-openapi-decorators",
-      102
+      103
     ],
     [
       "@hono-dev/auth-afdian",
@@ -425,5 +425,5 @@
       41
     ]
   ],
-  "sum": 901580
+  "sum": 902196
 }
