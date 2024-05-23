@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      491723
+      492301
     ],
     [
       "gitbook-plugin-atoc",
-      148558
+      148564
     ],
     [
       "gitbook-plugin-donate",
-      71186
+      71187
     ],
     [
       "waliyun",
-      25708
+      25768
     ],
     [
       "@uua/icons",
-      9850
+      9945
     ],
     [
       "yunpian-sdk",
@@ -30,7 +30,7 @@
     ],
     [
       "koa-swagger-ui",
-      6812
+      6813
     ],
     [
       "gitbook-plugin-wordcount",
@@ -38,27 +38,27 @@
     ],
     [
       "wqcloud",
-      5986
+      5987
     ],
     [
       "mock-redis",
-      4558
+      4584
     ],
     [
       "koa-api-logger",
-      4531
+      4532
     ],
     [
       "appkey",
-      4398
+      4399
     ],
     [
       "gitbook-plugin-autotheme",
-      4363
+      4369
     ],
     [
       "coding-sdk",
-      4273
+      4274
     ],
     [
       "wtoys",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3605
+      3607
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2947
+      2949
     ],
     [
       "hyperapp.js.cool",
@@ -106,7 +106,7 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2236
+      2237
     ],
     [
       "hello-dolly",
@@ -114,7 +114,7 @@
     ],
     [
       "remix-i18n",
-      2033
+      2039
     ],
     [
       "@authing/remix",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1720
+      1722
     ],
     [
       "wno",
@@ -154,7 +154,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1467
+      1469
     ],
     [
       "wechaty-authing",
@@ -217,12 +217,12 @@
       971
     ],
     [
-      "markdown-toc-gitbook",
+      "rxdis",
       955
     ],
     [
-      "rxdis",
-      954
+      "markdown-toc-gitbook",
+      955
     ],
     [
       "@x12/env",
@@ -282,11 +282,11 @@
     ],
     [
       "afdian",
-      690
+      691
     ],
     [
       "@svelte-dev/auth-sso",
-      656
+      657
     ],
     [
       "fetch-pro",
@@ -314,7 +314,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      547
+      549
     ],
     [
       "@x12/common",
@@ -330,7 +330,7 @@
     ],
     [
       "remix-auth-sso",
-      491
+      492
     ],
     [
       "@x12/promise",
@@ -350,7 +350,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      371
+      372
     ],
     [
       "@x12/task-types",
@@ -374,7 +374,7 @@
     ],
     [
       "@hono-dev/zod-body-validator",
-      293
+      295
     ],
     [
       "remix-sanity",
@@ -406,11 +406,11 @@
     ],
     [
       "@hono-dev/zod-openapi",
-      111
+      113
     ],
     [
       "@hono-dev/zod-openapi-decorators",
-      103
+      105
     ],
     [
       "@hono-dev/auth-afdian",
@@ -425,5 +425,5 @@
       41
     ]
   ],
-  "sum": 902196
+  "sum": 903001
 }
