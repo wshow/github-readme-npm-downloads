@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      494473
+      495010
     ],
     [
       "gitbook-plugin-atoc",
-      148576
+      148584
     ],
     [
       "gitbook-plugin-donate",
-      71187
+      71189
     ],
     [
       "waliyun",
-      25800
+      25801
     ],
     [
       "@uua/icons",
@@ -42,7 +42,7 @@
     ],
     [
       "mock-redis",
-      4610
+      4612
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4403
+      4409
     ],
     [
       "appkey",
@@ -114,11 +114,11 @@
     ],
     [
       "remix-i18n",
-      2049
+      2055
     ],
     [
       "@authing/remix",
-      1978
+      1979
     ],
     [
       "coding-net",
@@ -130,11 +130,11 @@
     ],
     [
       "wno",
-      1701
+      1702
     ],
     [
       "wnm",
-      1622
+      1623
     ],
     [
       "@x12/tasker",
@@ -170,11 +170,11 @@
     ],
     [
       "lslint",
-      1362
+      1363
     ],
     [
       "@uua/core",
-      1225
+      1226
     ],
     [
       "mmonit",
@@ -186,7 +186,7 @@
     ],
     [
       "hyperapp-i18n",
-      1189
+      1190
     ],
     [
       "less.js.cool",
@@ -250,7 +250,7 @@
     ],
     [
       "@authing/nextjs",
-      853
+      854
     ],
     [
       "z-curve",
@@ -278,7 +278,7 @@
     ],
     [
       "leancloud-sdk",
-      729
+      730
     ],
     [
       "afdian",
@@ -314,7 +314,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      557
+      560
     ],
     [
       "@x12/common",
@@ -322,7 +322,7 @@
     ],
     [
       "willin",
-      522
+      523
     ],
     [
       "whiteq",
@@ -362,14 +362,14 @@
     ],
     [
       "npm-badges",
-      340
-    ],
-    [
-      "@x12/rx-pool",
-      337
+      341
     ],
     [
       "@svelte-dev/auth-afdian",
+      341
+    ],
+    [
+      "@x12/rx-pool",
       337
     ],
     [
@@ -382,7 +382,7 @@
     ],
     [
       "@svelte-dev/auth-github",
-      274
+      277
     ],
     [
       "passport-authing",
@@ -390,7 +390,7 @@
     ],
     [
       "@svelte-dev/eslint-config",
-      210
+      212
     ],
     [
       "@svelte-dev/auth-alipay",
@@ -425,5 +425,5 @@
       42
     ]
   ],
-  "sum": 905757
+  "sum": 906341
 }
