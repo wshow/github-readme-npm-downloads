@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      497494
+      497712
     ],
     [
       "gitbook-plugin-atoc",
-      148600
+      148601
     ],
     [
       "gitbook-plugin-donate",
-      71197
+      71198
     ],
     [
       "waliyun",
-      25828
+      25832
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      8626
+      8633
     ],
     [
       "leader.js.cool",
@@ -138,7 +138,7 @@
     ],
     [
       "@x12/tasker",
-      1622
+      1623
     ],
     [
       "@x12/di",
@@ -154,7 +154,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1474
+      1478
     ],
     [
       "wechaty-authing",
@@ -242,7 +242,7 @@
     ],
     [
       "pipefn",
-      918
+      919
     ],
     [
       "wdouban",
@@ -270,11 +270,11 @@
     ],
     [
       "@dwing/koa-joi-router",
-      756
+      757
     ],
     [
       "@svelte-dev/session",
-      749
+      750
     ],
     [
       "leancloud-sdk",
@@ -310,7 +310,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      571
+      578
     ],
     [
       "@xibang/mysql",
@@ -350,7 +350,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      377
+      378
     ],
     [
       "@x12/task-types",
@@ -366,7 +366,7 @@
     ],
     [
       "@svelte-dev/auth-afdian",
-      341
+      342
     ],
     [
       "@x12/rx-pool",
@@ -374,7 +374,7 @@
     ],
     [
       "@hono-dev/zod-body-validator",
-      306
+      324
     ],
     [
       "remix-sanity",
@@ -382,7 +382,7 @@
     ],
     [
       "@svelte-dev/auth-github",
-      278
+      279
     ],
     [
       "passport-authing",
@@ -390,7 +390,7 @@
     ],
     [
       "@svelte-dev/eslint-config",
-      214
+      215
     ],
     [
       "@svelte-dev/auth-alipay",
@@ -401,16 +401,16 @@
       180
     ],
     [
-      "@hono-dev/powered-by",
-      132
-    ],
-    [
       "@hono-dev/zod-openapi",
-      123
+      141
     ],
     [
       "@hono-dev/zod-openapi-decorators",
-      115
+      133
+    ],
+    [
+      "@hono-dev/powered-by",
+      132
     ],
     [
       "@hono-dev/auth-afdian",
@@ -425,5 +425,5 @@
       42
     ]
   ],
-  "sum": 909172
+  "sum": 909476
 }
