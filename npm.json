@@ -2,19 +2,19 @@
   "stats": [
     [
       "hexo-wordcount",
-      497712
+      497995
     ],
     [
       "gitbook-plugin-atoc",
-      148601
+      148603
     ],
     [
       "gitbook-plugin-donate",
-      71198
+      71201
     ],
     [
       "waliyun",
-      25832
+      25836
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      8633
+      8634
     ],
     [
       "leader.js.cool",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3614
+      3616
     ],
     [
       "tuling",
@@ -106,11 +106,11 @@
     ],
     [
       "gitbook-plugin-theme-material",
-      2238
+      2239
     ],
     [
       "remix-i18n",
-      2075
+      2076
     ],
     [
       "hello-dolly",
@@ -138,7 +138,7 @@
     ],
     [
       "@x12/tasker",
-      1623
+      1624
     ],
     [
       "@x12/di",
@@ -154,7 +154,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1478
+      1481
     ],
     [
       "wechaty-authing",
@@ -162,7 +162,7 @@
     ],
     [
       "@xibang/node-common",
-      1429
+      1430
     ],
     [
       "mp-sdk",
@@ -182,7 +182,7 @@
     ],
     [
       "@shiwangme/redis",
-      1203
+      1204
     ],
     [
       "hyperapp-i18n",
@@ -218,7 +218,7 @@
     ],
     [
       "rxdis",
-      961
+      962
     ],
     [
       "markdown-toc-gitbook",
@@ -286,7 +286,7 @@
     ],
     [
       "@svelte-dev/auth-sso",
-      658
+      659
     ],
     [
       "fetch-pro",
@@ -310,7 +310,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      578
+      583
     ],
     [
       "@xibang/mysql",
@@ -342,7 +342,7 @@
     ],
     [
       "random-target",
-      434
+      435
     ],
     [
       "@svelte-dev/i18n",
@@ -378,7 +378,7 @@
     ],
     [
       "remix-sanity",
-      291
+      292
     ],
     [
       "@svelte-dev/auth-github",
@@ -425,5 +425,5 @@
       42
     ]
   ],
-  "sum": 909476
+  "sum": 909788
 }
