@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      498617
+      499222
     ],
     [
       "gitbook-plugin-atoc",
@@ -10,19 +10,19 @@
     ],
     [
       "gitbook-plugin-donate",
-      71203
+      71205
     ],
     [
       "waliyun",
-      25837
+      25878
     ],
     [
       "@uua/icons",
-      10291
+      10292
     ],
     [
       "yunpian-sdk",
-      8635
+      8639
     ],
     [
       "leader.js.cool",
@@ -38,11 +38,11 @@
     ],
     [
       "wqcloud",
-      6003
+      6004
     ],
     [
       "mock-redis",
-      4647
+      4659
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4464
+      4479
     ],
     [
       "appkey",
@@ -62,19 +62,19 @@
     ],
     [
       "wtoys",
-      3628
+      3629
     ],
     [
       "eslint-config-willin",
-      3617
+      3621
     ],
     [
       "tuling",
-      3421
+      3422
     ],
     [
       "vchart",
-      2957
+      2958
     ],
     [
       "hyperapp.js.cool",
@@ -86,11 +86,11 @@
     ],
     [
       "wqcloud-video",
-      2357
+      2358
     ],
     [
       "wrescuetime",
-      2344
+      2345
     ],
     [
       "atl",
@@ -98,7 +98,7 @@
     ],
     [
       "nuxtpress",
-      2278
+      2279
     ],
     [
       "hapi-auth-redis",
@@ -110,7 +110,7 @@
     ],
     [
       "remix-i18n",
-      2079
+      2082
     ],
     [
       "hello-dolly",
@@ -126,19 +126,19 @@
     ],
     [
       "v0-scf",
-      1729
+      1730
     ],
     [
       "wno",
-      1705
+      1706
     ],
     [
       "wnm",
-      1626
+      1627
     ],
     [
       "@x12/tasker",
-      1625
+      1626
     ],
     [
       "@x12/di",
@@ -150,15 +150,15 @@
     ],
     [
       "remix-auth-afdian",
-      1528
+      1529
     ],
     [
       "@svelte-dev/auth",
-      1484
+      1488
     ],
     [
       "wechaty-authing",
-      1457
+      1458
     ],
     [
       "@xibang/node-common",
@@ -166,7 +166,7 @@
     ],
     [
       "mp-sdk",
-      1384
+      1385
     ],
     [
       "lslint",
@@ -186,7 +186,7 @@
     ],
     [
       "hyperapp-i18n",
-      1192
+      1193
     ],
     [
       "less.js.cool",
@@ -206,11 +206,11 @@
     ],
     [
       "nativescript-icam",
-      991
+      992
     ],
     [
       "uua",
-      979
+      980
     ],
     [
       "awth",
@@ -218,7 +218,7 @@
     ],
     [
       "rxdis",
-      962
+      963
     ],
     [
       "markdown-toc-gitbook",
@@ -230,11 +230,11 @@
     ],
     [
       "wulian",
-      943
+      944
     ],
     [
       "@svelte-dev/auth-oauth2",
-      939
+      940
     ],
     [
       "@willin/eslint-config",
@@ -242,11 +242,11 @@
     ],
     [
       "pipefn",
-      919
+      920
     ],
     [
       "wdouban",
-      918
+      919
     ],
     [
       "@authing/nextjs",
@@ -254,11 +254,11 @@
     ],
     [
       "z-curve",
-      851
+      852
     ],
     [
       "vuepress-theme-asshole",
-      808
+      809
     ],
     [
       "@uua/ip2c",
@@ -266,11 +266,11 @@
     ],
     [
       "sdk0",
-      781
+      782
     ],
     [
       "@dwing/koa-joi-router",
-      759
+      760
     ],
     [
       "@svelte-dev/session",
@@ -305,11 +305,11 @@
       591
     ],
     [
-      "hdd",
-      589
+      "@svelte-dev/pretty-code",
+      591
     ],
     [
-      "@svelte-dev/pretty-code",
+      "hdd",
       589
     ],
     [
@@ -322,15 +322,15 @@
     ],
     [
       "willin",
-      524
+      525
     ],
     [
       "whiteq",
-      507
+      508
     ],
     [
       "remix-auth-sso",
-      493
+      494
     ],
     [
       "@x12/promise",
@@ -342,7 +342,7 @@
     ],
     [
       "random-target",
-      435
+      436
     ],
     [
       "@svelte-dev/i18n",
@@ -350,7 +350,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      378
+      380
     ],
     [
       "@x12/task-types",
@@ -362,7 +362,7 @@
     ],
     [
       "npm-badges",
-      343
+      344
     ],
     [
       "@svelte-dev/auth-afdian",
@@ -378,7 +378,7 @@
     ],
     [
       "remix-sanity",
-      292
+      293
     ],
     [
       "@svelte-dev/auth-github",
@@ -386,7 +386,7 @@
     ],
     [
       "passport-authing",
-      225
+      226
     ],
     [
       "@svelte-dev/eslint-config",
@@ -425,5 +425,5 @@
       43
     ]
   ],
-  "sum": 910531
+  "sum": 911259
 }
