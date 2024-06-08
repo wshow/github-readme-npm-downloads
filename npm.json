@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      499852
+      500514
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      25881
+      25890
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      8640
+      8651
     ],
     [
       "leader.js.cool",
@@ -42,7 +42,7 @@
     ],
     [
       "mock-redis",
-      4669
+      4685
     ],
     [
       "koa-api-logger",
@@ -50,7 +50,7 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4486
+      4494
     ],
     [
       "appkey",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3621
+      3624
     ],
     [
       "tuling",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2958
+      2959
     ],
     [
       "hyperapp.js.cool",
@@ -110,7 +110,7 @@
     ],
     [
       "remix-i18n",
-      2083
+      2095
     ],
     [
       "hello-dolly",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1730
+      1731
     ],
     [
       "wno",
@@ -154,7 +154,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1490
+      1493
     ],
     [
       "wechaty-authing",
@@ -218,7 +218,7 @@
     ],
     [
       "rxdis",
-      963
+      965
     ],
     [
       "markdown-toc-gitbook",
@@ -234,7 +234,7 @@
     ],
     [
       "@svelte-dev/auth-oauth2",
-      940
+      941
     ],
     [
       "@willin/eslint-config",
@@ -274,7 +274,7 @@
     ],
     [
       "@svelte-dev/session",
-      752
+      753
     ],
     [
       "leancloud-sdk",
@@ -302,7 +302,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      595
+      601
     ],
     [
       "edd",
@@ -350,7 +350,7 @@
     ],
     [
       "remote-cloudflare-kv",
-      380
+      381
     ],
     [
       "@x12/task-types",
@@ -425,5 +425,5 @@
       43
     ]
   ],
-  "sum": 911920
+  "sum": 912657
 }
