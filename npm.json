@@ -2,23 +2,23 @@
   "stats": [
     [
       "hexo-wordcount",
-      500514
+      501112
     ],
     [
       "gitbook-plugin-atoc",
-      148605
+      148607
     ],
     [
       "gitbook-plugin-donate",
-      71206
+      71207
     ],
     [
       "waliyun",
-      25890
+      25892
     ],
     [
       "@uua/icons",
-      10292
+      10302
     ],
     [
       "yunpian-sdk",
@@ -50,15 +50,15 @@
     ],
     [
       "gitbook-plugin-autotheme",
-      4494
+      4499
     ],
     [
       "appkey",
-      4401
+      4403
     ],
     [
       "coding-sdk",
-      4276
+      4277
     ],
     [
       "wtoys",
@@ -74,7 +74,7 @@
     ],
     [
       "vchart",
-      2959
+      2960
     ],
     [
       "hyperapp.js.cool",
@@ -82,7 +82,7 @@
     ],
     [
       "auto-deployer",
-      2417
+      2418
     ],
     [
       "wqcloud-video",
@@ -94,7 +94,7 @@
     ],
     [
       "atl",
-      2289
+      2290
     ],
     [
       "nuxtpress",
@@ -110,7 +110,7 @@
     ],
     [
       "remix-i18n",
-      2095
+      2102
     ],
     [
       "hello-dolly",
@@ -122,7 +122,7 @@
     ],
     [
       "coding-net",
-      1971
+      1972
     ],
     [
       "v0-scf",
@@ -133,12 +133,12 @@
       1706
     ],
     [
-      "wnm",
-      1627
+      "@x12/tasker",
+      1628
     ],
     [
-      "@x12/tasker",
-      1626
+      "wnm",
+      1627
     ],
     [
       "@x12/di",
@@ -158,7 +158,7 @@
     ],
     [
       "wechaty-authing",
-      1458
+      1460
     ],
     [
       "@xibang/node-common",
@@ -202,7 +202,7 @@
     ],
     [
       "coding-deploy",
-      997
+      998
     ],
     [
       "nativescript-icam",
@@ -214,11 +214,11 @@
     ],
     [
       "awth",
-      973
+      974
     ],
     [
       "rxdis",
-      965
+      966
     ],
     [
       "markdown-toc-gitbook",
@@ -266,11 +266,11 @@
     ],
     [
       "sdk0",
-      782
+      784
     ],
     [
       "@dwing/koa-joi-router",
-      760
+      761
     ],
     [
       "@svelte-dev/session",
@@ -294,7 +294,7 @@
     ],
     [
       "@dwing/azure-iot-device-mqtt",
-      608
+      609
     ],
     [
       "@xibang/redis",
@@ -302,7 +302,7 @@
     ],
     [
       "@svelte-dev/pretty-code",
-      601
+      602
     ],
     [
       "edd",
@@ -330,7 +330,7 @@
     ],
     [
       "remix-auth-sso",
-      494
+      495
     ],
     [
       "@x12/promise",
@@ -390,7 +390,7 @@
     ],
     [
       "@svelte-dev/eslint-config",
-      216
+      217
     ],
     [
       "@svelte-dev/auth-alipay",
@@ -425,5 +425,5 @@
       43
     ]
   ],
-  "sum": 912657
+  "sum": 913303
 }
