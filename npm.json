@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      501112
+      501368
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,7 +14,7 @@
     ],
     [
       "waliyun",
-      25892
+      25894
     ],
     [
       "@uua/icons",
@@ -22,7 +22,7 @@
     ],
     [
       "yunpian-sdk",
-      8651
+      8652
     ],
     [
       "leader.js.cool",
@@ -66,7 +66,7 @@
     ],
     [
       "eslint-config-willin",
-      3624
+      3626
     ],
     [
       "tuling",
@@ -150,7 +150,7 @@
     ],
     [
       "remix-auth-afdian",
-      1529
+      1531
     ],
     [
       "@svelte-dev/auth",
@@ -285,12 +285,16 @@
       695
     ],
     [
+      "fetch-pro",
+      662
+    ],
+    [
       "@svelte-dev/auth-sso",
       660
     ],
     [
-      "fetch-pro",
-      643
+      "@svelte-dev/pretty-code",
+      609
     ],
     [
       "@dwing/azure-iot-device-mqtt",
@@ -299,10 +303,6 @@
     [
       "@xibang/redis",
       603
-    ],
-    [
-      "@svelte-dev/pretty-code",
-      602
     ],
     [
       "edd",
@@ -318,7 +318,7 @@
     ],
     [
       "@x12/common",
-      527
+      528
     ],
     [
       "willin",
@@ -378,7 +378,7 @@
     ],
     [
       "remix-sanity",
-      293
+      295
     ],
     [
       "@svelte-dev/auth-github",
@@ -425,5 +425,5 @@
       43
     ]
   ],
-  "sum": 913303
+  "sum": 913595
 }
