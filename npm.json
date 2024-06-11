@@ -2,7 +2,7 @@
   "stats": [
     [
       "hexo-wordcount",
-      501368
+      501653
     ],
     [
       "gitbook-plugin-atoc",
@@ -14,11 +14,11 @@
     ],
     [
       "waliyun",
-      25894
+      25901
     ],
     [
       "@uua/icons",
-      10302
+      10303
     ],
     [
       "yunpian-sdk",
@@ -38,7 +38,7 @@
     ],
     [
       "wqcloud",
-      6004
+      6007
     ],
     [
       "mock-redis",
@@ -126,7 +126,7 @@
     ],
     [
       "v0-scf",
-      1731
+      1732
     ],
     [
       "wno",
@@ -146,7 +146,7 @@
     ],
     [
       "@x12/hosts",
-      1573
+      1574
     ],
     [
       "remix-auth-afdian",
@@ -154,7 +154,7 @@
     ],
     [
       "@svelte-dev/auth",
-      1493
+      1494
     ],
     [
       "wechaty-authing",
@@ -218,7 +218,7 @@
     ],
     [
       "rxdis",
-      966
+      967
     ],
     [
       "markdown-toc-gitbook",
@@ -286,7 +286,7 @@
     ],
     [
       "fetch-pro",
-      662
+      668
     ],
     [
       "@svelte-dev/auth-sso",
@@ -425,5 +425,5 @@
       43
     ]
   ],
-  "sum": 913595
+  "sum": 913901
 }
